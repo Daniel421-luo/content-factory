@@ -1,5 +1,8 @@
 name: 🎬 抖音链接处理
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
     inputs:

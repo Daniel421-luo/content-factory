@@ -1,5 +1,8 @@
 name: ✍️ 每周内容改写
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 2 * * 6'   # UTC 02:00 周六 = 北京时间 10:00 周六
