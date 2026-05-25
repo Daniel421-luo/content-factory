@@ -30,7 +30,7 @@ jobs:
             echo "source=https://aihot.virxact.com/" >> $GITHUB_OUTPUT
           else
             echo "type=finance" >> $GITHUB_OUTPUT
-            echo "source=https://www.cls.cn/api/sw?app=CailianpressWeb&os=web&sv=8.4.6" >> $GITHUB_OUTPUT
+            echo "source=https://www.cls.cn/telegraph" >> $GITHUB_OUTPUT
           fi
 
       - name: 采集 & DeepSeek炼油 & 存储
@@ -44,6 +44,7 @@ jobs:
         run: |
           git config user.name "AI日报机器人"
           git config user.email "bot@content-factory.local"
-          git add 日报/ 抖音素材库/00-索引.md
+          mkdir -p 日报/
+          git add 日报/ 抖音素材库/00-索引.md 2>/dev/null || true
           git diff --staged --quiet || git commit -m "🤖 自动日报 $(TZ='Asia/Shanghai' date +%Y-%m-%d) [${{ steps.slot.outputs.type }}]"
           git push

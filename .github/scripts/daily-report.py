@@ -9,19 +9,31 @@ source_url = os.environ.get("SOURCE_URL", "")
 
 # ── 1. 采集 ──────────────────────────────────────────
 def fetch_source(url):
-    """抓取网页内容，返回纯文本"""
-    try:
-        resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
-        resp.raise_for_status()
-        # 简单去除 HTML 标签
-        import re
-        text = re.sub(r'<[^>]+>', '\n', resp.text)
-        text = re.sub(r'\n{3,}', '\n\n', text)
-        text = re.sub(r'[ \t]{3,}', '  ', text)
-        return text[:15000]  # 限制长度
-    except Exception as e:
-        print(f"采集失败: {e}", file=sys.stderr)
-        return ""
+    """抓取网页内容，返回纯文本。先尝试 GET，失败则用 POST + JSON"""
+    import re
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        "Accept": "text/html,application/json,*/*",
+        "Accept-Language": "zh-CN,zh;q=0.9",
+    }
+    for method in ["GET", "POST"]:
+        try:
+            if method == "GET":
+                resp = requests.get(url, headers=headers, timeout=30)
+            else:
+                resp = requests.post(url, headers=headers, timeout=30)
+            if resp.status_code == 405:
+                continue  # 方法不允许，试下一个
+            resp.raise_for_status()
+            text = re.sub(r'<[^>]+>', '\n', resp.text)
+            text = re.sub(r'\n{3,}', '\n\n', text)
+            text = re.sub(r'[ \t]{3,}', '  ', text)
+            return text[:15000]
+        except Exception as e:
+            last_err = e
+            continue
+    print(f"采集失败: {last_err}", file=sys.stderr)
+    return ""
 
 raw = fetch_source(source_url)
 if not raw:
