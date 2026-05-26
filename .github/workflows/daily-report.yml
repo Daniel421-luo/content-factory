@@ -62,4 +62,5 @@ jobs:
           mkdir -p 日报/
           git add 日报/ 内容发布/ 2>/dev/null || true
           git diff --staged --quiet || git commit -m "🤖 自动日报 $(TZ='Asia/Shanghai' date +%Y-%m-%d) [${{ steps.slot.outputs.type }}]"
+          git pull --rebase origin main --no-edit
           git push
