@@ -1,13 +1,13 @@
-name: 📰 日报自动生成
+name: 📰 三报自动生成
 
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: '0 0 * * *'    # UTC 00:00 = 北京 08:00 → 🤖 AI 日报
-    - cron: '0 8 * * *'    # UTC 08:00 = 北京 16:00 → 📈 美股简报
-    - cron: '0 12 * * *'   # UTC 12:00 = 北京 20:00 → 🌍 全球市场收评
+    - cron: '0 0 * * *'    # UTC 00:00 → 北京 08:00 → 🤖 AI Daily (TechCrunch+MIT+VentureBeat+Wired+Ars+ZDNet+Verge)
+    - cron: '0 8 * * *'    # UTC 08:00 → 北京 16:00 → 📈 Wall Street Brief (CNBC+MarketWatch+WSJ+BBC)
+    - cron: '0 12 * * *'   # UTC 12:00 → 北京 20:00 → 🌍 Global Brief (AP+ABC+BBC+CNN+Guardian+CNBC)
   workflow_dispatch:
     inputs:
       report_type:

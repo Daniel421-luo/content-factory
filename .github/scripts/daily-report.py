@@ -1,256 +1,276 @@
-"""P11 日报自动生成 — 三报架构。
-每天 3 个时段，从多个国际权威 RSS 源采集，DeepSeek 提炼合成。
+"""P11 日报引擎 v3 — 全国际主流数据源，三报架构。
 
-架构:
-  08:00 BJT → 🤖 AI 日报 (TechCrunch + MIT Tech Review + VentureBeat + AIHOT)
-  16:00 BJT → 📈 美股简报 (CNBC + MarketWatch + Eastmoney A股收盘)
-  20:00 BJT → 🌍 全球市场收评 (CNBC + MarketWatch + 东方财富夜报)
+每天 3 个时段，每报 5-8 个 RSS/Atom 源，DeepSeek 跨源合成。
+所有源均为国际主流媒体（BBC/Reuters/CNBC/AP/TechCrunch 等）。
+GitHub Actions runner 在美国机房，全源可达。
+
+三报:
+  08:00 BJT → 🤖 AI Daily (科技 RSS × 7)
+  16:00 BJT → 📈 Wall Street Brief (财经 RSS × 6)
+  20:00 BJT → 🌍 Global Brief (世界新闻 RSS × 8)
 """
 import os, sys, json, re
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree as ET
 from urllib.request import urlopen, Request
 
-# ── 配置 ──────────────────────────────────────────────
 TZ = timezone(timedelta(hours=8))
 TODAY = datetime.now(TZ).strftime("%Y-%m-%d")
 NOW = datetime.now(TZ).strftime("%Y-%m-%d %H:%M")
-
 REPORT_TYPE = os.environ.get("REPORT_TYPE", "ai")
+DEEPSEEK_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
-UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+      "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
 
-# 三报数据源配置
+# ── 数据源配置 ──────────────────────────────────────────
+# 每个源: (url, name, format)
+# format: "rss" | "atom"
+# 标记 [GA] = 仅 GitHub Actions 可达（被墙但美国机房能通）
+
 SOURCES = {
     "ai": {
-        "title_template": "🤖 AI 日报 | {date}",
-        "source_name": "TechCrunch / MIT Tech Review / VentureBeat / AIHOT",
-        "rss": [
-            ("https://techcrunch.com/feed/", "TechCrunch"),
-            ("https://www.technologyreview.com/feed/", "MIT Tech Review"),
-            ("https://venturebeat.com/category/ai/feed/", "VentureBeat"),
+        "title": "🤖 AI Daily",
+        "source_label": "TechCrunch / MIT Tech Review / VentureBeat / Wired / Ars Technica / ZDNet / The Verge",
+        "feeds": [
+            ("https://techcrunch.com/feed/",                     "TechCrunch",     "rss"),
+            ("https://www.technologyreview.com/feed/",           "MIT Tech Review", "rss"),
+            ("https://venturebeat.com/category/ai/feed/",        "VentureBeat",     "rss"),
+            ("https://www.wired.com/feed/rss",                   "Wired",           "rss"),
+            ("https://feeds.arstechnica.com/arstechnica/index",  "Ars Technica",    "rss"),
+            ("https://www.zdnet.com/news/rss.xml",               "ZDNet",           "rss"),
+            ("https://www.theverge.com/rss/index.xml",           "The Verge",       "atom"),
         ],
-        "html": [
-            ("https://aihot.virxact.com/", "AIHOT"),  # 中文 AI 聚合
+        "sections": [
+            "Product Launches & Updates",
+            "Industry Moves & Funding",
+            "Research & Papers",
+            "Opinion & Deep Dives",
         ],
-        "sections": ["产品发布与更新", "行业动态与融资", "研究与论文突破", "观点与深度分析"],
+        "system_prompt": """You are the editor-in-chief of an AI industry daily brief.
+Synthesize today's most important AI developments from multiple international tech sources.
+
+Output STRICT JSON:
+{
+  "title": "🤖 AI Daily | YYYY-MM-DD",
+  "headline": "One-line summary of today's biggest AI story",
+  "sections": {
+    "Product Launches & Updates": [
+      {"title": "...", "summary": "1-2 punchy sentences", "url": "", "source": ""}
+    ],
+    "Industry Moves & Funding": [...],
+    "Research & Papers": [...],
+    "Opinion & Deep Dives": [...]
+  }
+}
+
+Rules:
+- Cross-source dedup: same event reported by multiple sources = keep ONE, label the most authoritative source
+- Max 5 items per section, quality over quantity
+- summary: punchy, like telling a friend "here's what happened in AI today"
+- Skip pure PR/marketing fluff
+- Empty sections → empty array""",
     },
+
     "us_market": {
-        "title_template": "📈 美股简报 | {date}",
-        "source_name": "CNBC / MarketWatch / 东方财富",
-        "rss": [
-            ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "CNBC"),
-            ("https://feeds.marketwatch.com/marketwatch/topstories", "MarketWatch"),
+        "title": "📈 Wall Street Brief",
+        "source_label": "CNBC / MarketWatch / WSJ / Reuters / BBC Business",
+        "feeds": [
+            ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "CNBC",         "rss"),
+            ("https://www.cnbc.com/id/100727362/device/rss/rss.html",                             "CNBC World",   "rss"),
+            ("https://feeds.marketwatch.com/marketwatch/topstories",                              "MarketWatch",  "rss"),
+            ("https://feeds.marketwatch.com/marketwatch/marketpulse",                              "MW Pulse",     "rss"),
+            ("https://feeds.a.dj.com/rss/RSSMarketsMain.xml",                                     "WSJ Markets",  "rss"),
+            ("https://feeds.bbci.co.uk/news/business/rss.xml",                                    "BBC Business", "rss"),  # [GA]
         ],
-        "html": [
-            ("https://finance.eastmoney.com/a/czqyw.html", "东方财富"),
+        "sections": [
+            "Pre-Market Signals",
+            "Sector Rotation",
+            "Earnings & Key Stocks",
+            "Macro & Policy",
+            "Risk Radar",
         ],
-        "sections": ["盘前风向", "板块轮动", "关键个股与财报", "A股收盘回顾", "风险提示"],
+        "system_prompt": """You are a US equity markets analyst preparing a pre-market brief.
+Synthesize today's key market-moving information from multiple financial news sources.
+
+Output STRICT JSON:
+{
+  "title": "📈 Wall Street Brief | YYYY-MM-DD",
+  "headline": "One-line summary of today's market narrative",
+  "sections": {
+    "Pre-Market Signals": [
+      {"title": "...", "summary": "1-2 sentences with key numbers", "url": "", "source": ""}
+    ],
+    "Sector Rotation": [...],
+    "Earnings & Key Stocks": [...],
+    "Macro & Policy": [...],
+    "Risk Radar": [...]
+  }
+}
+
+Rules:
+- Max 4 items per section
+- NEVER fabricate numbers. If a source gives a specific price/percentage, cite it exactly
+- Always attribute to source (CNBC/MarketWatch/WSJ/etc.)
+- "Risk Radar": only list events that could genuinely move markets today/tomorrow
+- Pre-Market: include futures direction if available""",
+
     },
+
     "global": {
-        "title_template": "🌍 全球市场收评 | {date}",
-        "source_name": "CNBC / MarketWatch / 东方财富",
-        "rss": [
-            ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "CNBC"),
-            ("https://feeds.marketwatch.com/marketwatch/topstories", "MarketWatch"),
+        "title": "🌍 Global Brief",
+        "source_label": "AP News / ABC News / BBC World / Reuters / CNN / Guardian / CNBC",
+        "feeds": [
+            ("https://www.apnews.com/apf-topnews",                           "AP News",       "rss"),
+            ("https://abcnews.go.com/abcnews/topstories",                    "ABC News",      "rss"),
+            ("https://feeds.bbci.co.uk/news/world/rss.xml",                  "BBC World",     "rss"),  # [GA]
+            ("http://rss.cnn.com/rss/cnn_topstories.rss",                    "CNN",           "rss"),  # [GA]
+            ("http://rss.cnn.com/rss/edition_world.rss",                     "CNN World",     "rss"),  # [GA]
+            ("https://www.theguardian.com/world/rss",                        "Guardian",      "rss"),  # [GA]
+            ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "CNBC", "rss"),
+            ("https://www.cnbc.com/id/100727362/device/rss/rss.html",        "CNBC World",    "rss"),
         ],
-        "html": [
-            ("https://finance.eastmoney.com/a/czqyw.html", "东方财富"),
+        "sections": [
+            "Top Stories",
+            "Geopolitics",
+            "Markets & Economy",
+            "Technology & Science",
+            "What to Watch Tomorrow",
         ],
-        "sections": ["美股收盘", "欧洲与亚太", "大宗商品与外汇", "宏观与政策", "次日关注"],
+        "system_prompt": """You are a global news editor preparing an evening world brief.
+Synthesize today's most important international developments from multiple global news agencies.
+
+Output STRICT JSON:
+{
+  "title": "🌍 Global Brief | YYYY-MM-DD",
+  "headline": "One-line summary of today's dominant global story",
+  "sections": {
+    "Top Stories": [
+      {"title": "...", "summary": "1-2 punchy sentences", "url": "", "source": ""}
+    ],
+    "Geopolitics": [...],
+    "Markets & Economy": [...],
+    "Technology & Science": [...],
+    "What to Watch Tomorrow": [...]
+  }
+}
+
+Rules:
+- Max 4 items per section
+- Cross-source dedup: same event from multiple agencies → one entry, most authoritative source
+- Top Stories: lead with the 3-4 stories that dominated global headlines today
+- What to Watch: next 24-48h key events (economic data, elections, summits, earnings)
+- Always attribute to source (AP/Reuters/BBC/CNN/etc.)
+- Never fabricate details""",
     },
 }
 
-cfg = SOURCES.get(REPORT_TYPE, SOURCES["ai"])
-DEEPSEEK_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
-# ── 1. 多源采集 ────────────────────────────────────────
-def fetch_rss(url, name):
-    """抓取 RSS feed，返回条目列表"""
-    try:
-        req = Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml,application/xml"})
-        with urlopen(req, timeout=20) as resp:
-            raw = resp.read().decode("utf-8", errors="replace")
-        root = ET.fromstring(raw)
-        items = []
-        for item in root.findall(".//item")[:10]:  # 每个源最多取 10 条
-            title = item.find("title")
-            desc = item.find("description")
-            link = item.find("link")
-            pubdate = item.find("pubDate")
-            items.append({
-                "title": title.text.strip() if title is not None and title.text else "",
-                "summary": _clean_html(desc.text[:300]) if desc is not None and desc.text else "",
-                "url": link.text.strip() if link is not None and link.text else "",
-                "date": pubdate.text.strip() if pubdate is not None and pubdate.text else "",
-                "source": name,
-            })
-        print(f"  ✅ {name}: {len(items)} 条")
-        return items
-    except Exception as e:
-        print(f"  ⚠️ {name}: {e}", file=sys.stderr)
-        return []
-
-
-def fetch_html(url, name):
-    """抓取 HTML 页面，提取纯文本"""
+# ── RSS/Atom 解析 ─────────────────────────────────────
+def fetch_feed(url, name, fmt="rss"):
+    """抓取 RSS 或 Atom feed，返回条目列表。失败返回空列表不中断。"""
     try:
         req = Request(url, headers={
             "User-Agent": UA,
-            "Accept": "text/html,application/xhtml+xml",
-            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Accept": "application/rss+xml,application/atom+xml,application/xml,text/xml",
         })
         with urlopen(req, timeout=20) as resp:
             raw = resp.read().decode("utf-8", errors="replace")
-        text = re.sub(r'<script[^>]*>.*?</script>', '', raw, flags=re.DOTALL | re.IGNORECASE)
-        text = re.sub(r'<style[^>]*>.*?</style>', '', text, flags=re.DOTALL | re.IGNORECASE)
-        text = re.sub(r'<[^>]+>', '\n', text)
-        text = re.sub(r'\n{3,}', '\n\n', text)
-        text = re.sub(r'[ \t]{3,}', '  ', text)
-        lines = [l.strip() for l in text.split('\n') if l.strip() and len(l.strip()) > 20]
-        result = '\n'.join(lines[:80])
-        print(f"  ✅ {name}: {len(result)} chars")
-        return result[:6000]
+
+        root = ET.fromstring(raw)
+
+        # Atom 格式
+        ns = {"atom": "http://www.w3.org/2005/Atom"}
+        is_atom = root.tag == "{http://www.w3.org/2005/Atom}feed" or fmt == "atom"
+
+        if is_atom:
+            entries = root.findall("atom:entry", ns)
+            if not entries:
+                entries = root.findall("{http://www.w3.org/2005/Atom}entry")
+        else:
+            entries = root.findall(".//item")
+
+        items = []
+        for entry in entries[:8]:
+            if is_atom:
+                title = entry.find("atom:title", ns) or entry.find("{http://www.w3.org/2005/Atom}title")
+                summary = entry.find("atom:summary", ns) or entry.find("{http://www.w3.org/2005/Atom}summary")
+                link = entry.find("atom:link", ns) or entry.find("{http://www.w3.org/2005/Atom}link")
+            else:
+                title = entry.find("title")
+                summary = entry.find("description")
+                link = entry.find("link")
+
+            title_text = title.text.strip() if title is not None and title.text else ""
+            if not title_text:
+                continue
+
+            summary_text = ""
+            if summary is not None:
+                raw_s = summary.text or ""
+                summary_text = re.sub(r'<[^>]+>', '', raw_s).strip()[:300]
+
+            link_text = ""
+            if link is not None:
+                href = link.get("href") or link.text or ""
+                link_text = href.strip()
+
+            items.append({
+                "title": title_text,
+                "summary": summary_text,
+                "url": link_text,
+                "source": name,
+            })
+
+        print(f"  ✅ {name}: {len(items)} items")
+        return items
+
     except Exception as e:
-        print(f"  ⚠️ {name}: {e}", file=sys.stderr)
-        return ""
+        print(f"  ⚠️ {name}: {type(e).__name__} — skipped", file=sys.stderr)
+        return []
 
 
-def _clean_html(text):
-    return re.sub(r'<[^>]+>', '', text or "").strip()
-
-
-def collect_all():
-    """从所有源采集并合并"""
+# ── 多源聚合 ──────────────────────────────────────────
+def collect_all(cfg):
+    """从所有源采集并聚合为纯文本"""
     all_items = []
-    html_texts = []
-
-    for url, name in cfg.get("rss", []):
-        items = fetch_rss(url, name)
+    for url, name, fmt in cfg["feeds"]:
+        items = fetch_feed(url, name, fmt)
         all_items.extend(items)
 
-    for url, name in cfg.get("html", []):
-        text = fetch_html(url, name)
-        if text:
-            html_texts.append(f"【来源：{name}】\n{text}")
+    if not all_items:
+        return ""
 
-    # 构建发给 DeepSeek 的文本
-    parts = []
+    lines = [f"=== {len(all_items)} Headlines from {len(cfg['feeds'])} Sources ==="]
+    for item in all_items:
+        lines.append(f"\n[{item['source']}] {item['title']}")
+        if item["summary"]:
+            lines.append(f"  {item['summary']}")
+        if item["url"]:
+            lines.append(f"  🔗 {item['url']}")
 
-    # RSS 条目列表
-    if all_items:
-        rss_text = "\n\n".join(
-            f"[{item['source']}] {item['title']}\n  {item['summary']}\n  {item['url']}"
-            for item in all_items
-        )
-        parts.append(f"=== RSS 快讯 ({len(all_items)} 条) ===\n\n{rss_text}")
-
-    # HTML 页面内容
-    if html_texts:
-        parts.append("\n\n=== 网页全文 ===\n\n" + "\n\n---\n\n".join(html_texts))
-
-    combined = "\n".join(parts)
-    print(f"\n📦 总采集: {len(all_items)} 条 RSS + {len([t for t in html_texts if t])} 个网页, {len(combined)} chars")
-    return combined[:18000]  # DeepSeek context limit 安全边界
+    result = "\n".join(lines)
+    print(f"  📦 Total: {len(all_items)} items, {len(result)} chars")
+    return result[:16000]
 
 
-# ── 2. DeepSeek 炼油 ───────────────────────────────────
-SYSTEM_PROMPTS = {
-    "ai": """你是 AI 科技日报主编。从多源 RSS 和网页中提炼当日 AI 行业最重要的 8-16 条动态。
-
-输出格式（严格 JSON）：
-{
-  "title": "🤖 AI 日报 | {date}",
-  "headline": "一句话总结今日 AI 圈最重要的事",
-  "sections": {
-    "产品发布与更新": [
-      {"title": "...", "summary": "1-2句话（简洁尖锐）", "url": "原文链接", "source": "TechCrunch/MIT Tech Review/..."}
-    ],
-    "行业动态与融资": [...],
-    "研究与论文突破": [...],
-    "观点与深度分析": [...]
-  }
-}
-
-规则：
-- 跨源去重：同一事件被多个源报道只保留一次，标注最权威的来源
-- 每个分区最多 5 条，宁缺毋滥
-- 只收录有实质信息的条目，跳过纯营销/PR 稿
-- summary 要像跟朋友说话："今天 AI 圈发生了什么"
-- 没有的板块返回空数组""",
-
-    "us_market": """你是美股研究员。从多源财经 RSS 和 A 股收盘数据中提炼当日最重要的市场动态。
-
-输出格式（严格 JSON）：
-{
-  "title": "📈 美股简报 | {date}",
-  "headline": "一句话总结今日市场核心矛盾",
-  "sections": {
-    "盘前风向": [
-      {"title": "...", "summary": "1-2句话", "url": "", "source": ""}
-    ],
-    "板块轮动": [
-      {"title": "...", "summary": "...", "url": "", "source": ""}
-    ],
-    "关键个股与财报": [...],
-    "A股收盘回顾": [...],
-    "风险提示": [...]
-  }
-}
-
-规则：
-- 每个分区最多 4 条
-- 数据要准确，不编造任何数字
-- 明确标注每条信息的来源（CNBC/MarketWatch/东方财富）
-- "风险提示"板块只列真正可能影响市场的事件""",
-
-    "global": """你是全球宏观研究员。从多源财经 RSS 提炼当日全球市场收盘动态。
-
-输出格式（严格 JSON）：
-{
-  "title": "🌍 全球市场收评 | {date}",
-  "headline": "一句话总结今日全球市场主线",
-  "sections": {
-    "美股收盘": [
-      {"title": "...", "summary": "点明涨跌幅+驱动因素", "url": "", "source": ""}
-    ],
-    "欧洲与亚太": [...],
-    "大宗商品与外汇": [...],
-    "宏观与政策": [...],
-    "次日关注": [...]
-  }
-}
-
-规则：
-- 每个分区最多 4 条
-- 美股收盘必须包含 S&P 500 涨跌幅
-- 大宗商品包含 Brent/WTI 原油、黄金、铜
-- "次日关注"列出下一个交易日最重要的 3-5 个事件
-- 只收录当日最新动态"""
-}
-
-
-def refine(content):
-    """DeepSeek API 调用"""
+# ── DeepSeek 炼油 ─────────────────────────────────────
+def refine(content, cfg):
     import requests as req
-
     if not DEEPSEEK_KEY:
-        print("❌ DEEPSEEK_API_KEY 未设置", file=sys.stderr)
+        print("❌ DEEPSEEK_API_KEY not set", file=sys.stderr)
         sys.exit(1)
 
-    system_prompt = SYSTEM_PROMPTS.get(REPORT_TYPE, SYSTEM_PROMPTS["ai"]).replace("{date}", TODAY)
+    system = cfg["system_prompt"].replace("YYYY-MM-DD", TODAY)
 
     resp = req.post(
         "https://api.deepseek.com/v1/chat/completions",
-        headers={
-            "Authorization": f"Bearer {DEEPSEEK_KEY}",
-            "Content-Type": "application/json",
-        },
+        headers={"Authorization": f"Bearer {DEEPSEEK_KEY}", "Content-Type": "application/json"},
         json={
             "model": "deepseek-chat",
             "messages": [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": f"以下是 {TODAY} 从多个信息源采集的原始内容，请提炼为日报：\n\n{content}"},
+                {"role": "system", "content": system},
+                {"role": "user", "content": f"Raw feeds for {TODAY}. Synthesize into a daily brief:\n\n{content}"},
             ],
             "temperature": 0.3,
             "response_format": {"type": "json_object"},
@@ -261,98 +281,87 @@ def refine(content):
     return json.loads(resp.json()["choices"][0]["message"]["content"])
 
 
-# ── 3. 生成 Markdown ──────────────────────────────────
-def build_markdown(data, report_type):
+# ── Markdown 生成 ─────────────────────────────────────
+def build_markdown(data, cfg):
     lines = [
         "---",
         f"type: daily-report",
-        f"report_type: {report_type}",
+        f"report: {REPORT_TYPE}",
         f"date: \"{TODAY}\"",
-        f"tags: [{report_type}, 日报, 自动生成, 多源RSS]",
-        f"sources: \"{cfg['source_name']}\"",
+        f"tags: [{REPORT_TYPE}, daily-brief, auto-generated, multi-source]",
+        f"sources: \"{cfg['source_label']}\"",
         "---",
         "",
-        f"# {data.get('title', cfg['title_template'].format(date=TODAY))}",
+        f"# {data.get('title', cfg['title'] + ' | ' + TODAY)}",
         "",
     ]
-
     if data.get("headline"):
         lines.append(f"> {data['headline']}")
         lines.append("")
 
-    lines.append(f"> 📡 来源：{cfg['source_name']} · 自动采集+DeepSeek 提炼")
-    lines.append(f"> ⏰ 生成时间：{NOW} (北京时间)")
+    lines.append(f"> 📡 {cfg['source_label']}")
+    lines.append(f"> ⏰ Generated {NOW} (UTC+8) · Auto-collected + DeepSeek synthesis")
     lines.append("")
 
-    sections = data.get("sections", {})
-    for section_name, entries in sections.items():
+    for section_name, entries in data.get("sections", {}).items():
         if not entries:
             continue
         lines.append(f"## {section_name}")
         lines.append("")
-        for entry in entries:
-            title = entry.get("title", "")
-            url = entry.get("url", "")
-            summary = entry.get("summary", "")
-            src = entry.get("source", "")
-
+        for e in entries:
+            title = e.get("title", "")
+            url = e.get("url", "")
+            summary = e.get("summary", "")
+            src = e.get("source", "")
             if url:
                 lines.append(f"### [{title}]({url})")
             else:
                 lines.append(f"### {title}")
-
-            meta = []
             if src:
-                meta.append(f"📍 {src}")
-            if meta:
-                lines.append(f"> {' · '.join(meta)}")
+                lines.append(f"> 📍 {src}")
             lines.append("")
             lines.append(summary)
             lines.append("")
-            lines.append("")
-
     lines.append("---")
-    lines.append("")
-    lines.append(f"🤖 由 [AI 情报工厂](https://github.com/Daniel421-luo/content-factory) 自动生成 · {len(data.get('sections', {}))} 个板块")
+    lines.append(f"*Auto-generated by [AI Content Factory](https://github.com/Daniel421-luo/content-factory) · {len(data.get('sections', {}))} sections*")
     return "\n".join(lines)
 
 
-# ── 4. 保存 ──────────────────────────────────────────
-def save(md, data, report_type):
-    prefix_map = {"ai": "AI日报", "us_market": "美股简报", "global": "全球市场"}
-    prefix = prefix_map.get(report_type, "日报")
+# ── 保存 ──────────────────────────────────────────────
+def save(md, data):
+    prefix_map = {"ai": "AI日报", "us_market": "美股简报", "global": "全球简报"}
+    prefix = prefix_map.get(REPORT_TYPE, "日报")
     out_dir = "日报"
     os.makedirs(out_dir, exist_ok=True)
-
-    filepath = os.path.join(out_dir, f"{prefix}-{TODAY}.md")
-    with open(filepath, "w", encoding="utf-8") as f:
+    fp = os.path.join(out_dir, f"{prefix}-{TODAY}.md")
+    with open(fp, "w", encoding="utf-8") as f:
         f.write(md)
-    print(f"✅ {prefix} Markdown: {filepath}")
-
-    jsonpath = os.path.join(out_dir, f"{prefix}-{TODAY}.json")
-    with open(jsonpath, "w", encoding="utf-8") as f:
+    print(f"  ✅ {fp}")
+    jp = os.path.join(out_dir, f"{prefix}-{TODAY}.json")
+    with open(jp, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"✅ {prefix} JSON: {jsonpath}")
+    print(f"  ✅ {jp}")
 
 
 # ── main ──────────────────────────────────────────────
 if __name__ == "__main__":
-    print(f"🔄 P11 日报引擎启动 · {REPORT_TYPE} · {NOW}")
-    print(f"📡 数据源: {cfg['source_name']}")
+    cfg = SOURCES.get(REPORT_TYPE, SOURCES["ai"])
+    print(f"🔄 P11 v3 · {cfg['title']} · {NOW}")
+    print(f"📡 {len(cfg['feeds'])} sources: {cfg['source_label']}")
+    print()
 
-    print("\n── 1. 多源采集 ──")
-    content = collect_all()
-    if not content or len(content) < 200:
-        print("❌ 采集内容不足，退出")
+    content = collect_all(cfg)
+    if not content or len(content) < 300:
+        print("❌ Insufficient content collected. Exiting.")
         sys.exit(0)
 
-    print("\n── 2. DeepSeek 炼油 ──")
-    data = refine(content)
+    print(f"\n🧠 Refining via DeepSeek ({len(content)} chars → structured JSON)...")
+    data = refine(content, cfg)
 
-    print("\n── 3. 生成 Markdown ──")
-    md = build_markdown(data, REPORT_TYPE)
+    print(f"\n📝 Generating Markdown...")
+    md = build_markdown(data, cfg)
 
-    print("\n── 4. 保存 ──")
-    save(md, data, REPORT_TYPE)
+    print(f"\n💾 Saving...")
+    save(md, data)
 
-    print(f"\n🎉 {cfg['title_template'].format(date=TODAY)} 生成完成")
+    print(f"\n🎉 {cfg['title']} complete — {sum(1 for v in data.get('sections', {}).values() if v)} sections")
