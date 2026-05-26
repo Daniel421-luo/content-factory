@@ -119,9 +119,9 @@ Rules:
 
     "global": {
         "title": "🌍 Global Brief",
-        "source_label": "AP News / ABC News / BBC World / Reuters / CNN / Guardian / CNBC",
+        "source_label": "NPR / ABC News / BBC World / CNN / Guardian / CNBC",
         "feeds": [
-            ("https://www.apnews.com/apf-topnews",                           "AP News",       "rss"),
+            ("https://feeds.npr.org/1001/rss.xml",                           "NPR",           "rss"),
             ("https://abcnews.go.com/abcnews/topstories",                    "ABC News",      "rss"),
             ("https://feeds.bbci.co.uk/news/world/rss.xml",                  "BBC World",     "rss"),  # [GA]
             ("http://rss.cnn.com/rss/cnn_topstories.rss",                    "CNN",           "rss"),  # [GA]
