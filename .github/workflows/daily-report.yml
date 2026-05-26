@@ -33,7 +33,7 @@ jobs:
             echo "source=https://aihot.virxact.com/" >> $GITHUB_OUTPUT
           else
             echo "type=finance" >> $GITHUB_OUTPUT
-            echo "source=https://www.cls.cn/telegraph" >> $GITHUB_OUTPUT
+            echo "source=https://finance.eastmoney.com/a/czqyw.html" >> $GITHUB_OUTPUT
           fi
 
       - name: 采集 & DeepSeek炼油 & 存储
