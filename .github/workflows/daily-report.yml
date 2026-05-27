@@ -5,9 +5,14 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 0 * * *'    # UTC 00:00 → 北京 08:00 → 🤖 AI Daily (TechCrunch+MIT+VentureBeat+Wired+Ars+ZDNet+Verge)
-    - cron: '0 8 * * *'    # UTC 08:00 → 北京 16:00 → 📈 Wall Street Brief (CNBC+MarketWatch+WSJ+BBC)
-    - cron: '0 12 * * *'   # UTC 12:00 → 北京 20:00 → 🌍 Global Brief (AP+ABC+BBC+CNN+Guardian+CNBC)
+    # 主 cron（3 个时段）+ 冗余 cron（防 GitHub 漏跑）
+    - cron: '0 0 * * *'     # UTC 00:00 → 北京 08:00 → 🤖 AI Daily
+    - cron: '0 4 * * *'     # UTC 04:00 → 北京 12:00 → 🔄 补报检查（AI 没跑则补）
+    - cron: '0 8 * * *'     # UTC 08:00 → 北京 16:00 → 📈 Wall Street Brief（主力）
+    - cron: '30 8 * * 1-5'  # UTC 08:30 → 北京 16:30 → 📈 冗余（仅交易日，防 08:00 漏跑）
+    - cron: '0 9 * * 1-5'   # UTC 09:00 → 北京 17:00 → 📈 二次冗余
+    - cron: '0 12 * * *'    # UTC 12:00 → 北京 20:00 → 🌍 Global Brief + 补报检查
+    - cron: '0 13 * * *'    # UTC 13:00 → 北京 21:00 → 🔄 最终补报（兜底）
   workflow_dispatch:
     inputs:
       report_type:
@@ -34,28 +39,55 @@ jobs:
       - name: 安装依赖
         run: pip install requests
 
-      - name: 判断时段并生成日报
+      - name: 判断时段 + 补报检查
         id: slot
         run: |
           HOUR=$(TZ='Asia/Shanghai' date +%H)
+          TODAY=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
+
+          # 检查今天已生成的报告
+          AI_EXISTS=$([ -f "日报/AI日报-${TODAY}.md" ] && echo 1 || echo 0)
+          US_EXISTS=$([ -f "日报/美股简报-${TODAY}.md" ] && echo 1 || echo 0)
+          GLOBAL_EXISTS=$([ -f "日报/全球简报-${TODAY}.md" ] && echo 1 || echo 0)
+
+          echo "📊 已有报告: AI=$AI_EXISTS US=$US_EXISTS GLOBAL=$GLOBAL_EXISTS (北京时间 ${HOUR}:00)"
+
           if [ "${{ inputs.report_type }}" != "" ]; then
             # 手动触发 — 使用传入的类型
-            echo "type=${{ inputs.report_type }}" >> $GITHUB_OUTPUT
+            TYPE="${{ inputs.report_type }}"
+          elif [ "$HOUR" -ge 8 ] && [ "$AI_EXISTS" -eq 0 ]; then
+            TYPE="ai"                                    # 🔄 补报：AI 8点该跑没跑
+          elif [ "$HOUR" -ge 16 ] && [ "$US_EXISTS" -eq 0 ]; then
+            TYPE="us_market"                             # 🔄 补报：美股简报 16 点该跑没跑
+          elif [ "$HOUR" -ge 20 ] && [ "$GLOBAL_EXISTS" -eq 0 ]; then
+            TYPE="global"                                # 🔄 补报：全球简报 20 点该跑没跑
           elif [ "$HOUR" -lt 12 ]; then
-            echo "type=ai" >> $GITHUB_OUTPUT          # 上午 = AI 日报
+            TYPE="ai"
           elif [ "$HOUR" -lt 18 ]; then
-            echo "type=us_market" >> $GITHUB_OUTPUT    # 下午 = 美股简报
+            TYPE="us_market"
           else
-            echo "type=global" >> $GITHUB_OUTPUT       # 晚间 = 全球市场
+            TYPE="global"
           fi
 
+          # 如果该类型今天已有报告，跳过
+          case "$TYPE" in
+            ai)         [ "$AI_EXISTS" -eq 1 ] && echo "⏭️ AI 日报今天已有，跳过" && TYPE="skip" ;;
+            us_market)  [ "$US_EXISTS" -eq 1 ] && echo "⏭️ 美股简报今天已有，跳过" && TYPE="skip" ;;
+            global)     [ "$GLOBAL_EXISTS" -eq 1 ] && echo "⏭️ 全球简报今天已有，跳过" && TYPE="skip" ;;
+          esac
+
+          echo "type=${TYPE}" >> $GITHUB_OUTPUT
+          echo "🎯 本趟任务: ${TYPE}"
+
       - name: 采集 & DeepSeek炼油 & 存储
+        if: steps.slot.outputs.type != 'skip'
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           REPORT_TYPE: ${{ steps.slot.outputs.type }}
         run: python .github/scripts/daily-report.py
 
       - name: Git 提交
+        if: steps.slot.outputs.type != 'skip'
         run: |
           git config user.name "AI日报机器人"
           git config user.email "bot@content-factory.local"
@@ -64,3 +96,12 @@ jobs:
           git diff --staged --quiet || git commit -m "🤖 自动日报 $(TZ='Asia/Shanghai' date +%Y-%m-%d) [${{ steps.slot.outputs.type }}]"
           git pull --rebase origin main --no-edit
           git push
+
+      - name: 汇总状态
+        if: always()
+        run: |
+          TODAY=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
+          echo "📊 今日报告状态 ($TODAY):"
+          [ -f "日报/AI日报-${TODAY}.md" ]     && echo "  ✅ AI 日报"     || echo "  ❌ AI 日报 缺失"
+          [ -f "日报/美股简报-${TODAY}.md" ]   && echo "  ✅ 美股简报"    || echo "  ❌ 美股简报 缺失"
+          [ -f "日报/全球简报-${TODAY}.md" ]  && echo "  ✅ 全球简报"    || echo "  ❌ 全球简报 缺失"

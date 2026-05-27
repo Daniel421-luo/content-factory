@@ -74,7 +74,7 @@ Rules:
 
     "us_market": {
         "title": "📈 Wall Street Brief",
-        "source_label": "CNBC / MarketWatch / WSJ / Reuters / BBC Business",
+        "source_label": "CNBC / MarketWatch / WSJ / Reuters / BBC Business / Seeking Alpha",
         "feeds": [
             ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "CNBC",         "rss"),
             ("https://www.cnbc.com/id/100727362/device/rss/rss.html",                             "CNBC World",   "rss"),
@@ -82,11 +82,13 @@ Rules:
             ("https://feeds.marketwatch.com/marketwatch/marketpulse",                              "MW Pulse",     "rss"),
             ("https://feeds.a.dj.com/rss/RSSMarketsMain.xml",                                     "WSJ Markets",  "rss"),
             ("https://feeds.bbci.co.uk/news/business/rss.xml",                                    "BBC Business", "rss"),  # [GA]
+            ("https://seekingalpha.com/feed.xml",                                                 "Seeking Alpha","rss"),  # 个股催化剂（评级/目标价/事件）
         ],
         "sections": [
             "Pre-Market Signals",
             "Sector Rotation",
             "Earnings & Key Stocks",
+            "半导体观察 Semiconductor Watch",
             "Macro & Policy",
             "Risk Radar",
         ],
@@ -103,6 +105,7 @@ Output STRICT JSON:
     ],
     "Sector Rotation": [...],
     "Earnings & Key Stocks": [...],
+    "半导体观察 Semiconductor Watch": [...],
     "Macro & Policy": [...],
     "Risk Radar": [...]
   }
@@ -113,7 +116,8 @@ Rules:
 - NEVER fabricate numbers. If a source gives a specific price/percentage, cite it exactly
 - Always attribute to source (CNBC/MarketWatch/WSJ/etc.)
 - "Risk Radar": only list events that could genuinely move markets today/tomorrow
-- Pre-Market: include futures direction if available""",
+- Pre-Market: include futures direction if available
+- "半导体观察 Semiconductor Watch": MUST scan for news about these tickers — MU (Micron), NVDA, AMD, INTC, SOXX, DRAM, AVGO, TSM. Include analyst upgrades/downgrades, price target changes, product launches, supply chain news, and unusual price movements. If there's a significant mover (>5%), ALWAYS include it with the percentage and catalyst. This section is the highest priority for our readers.""",
 
     },
 
