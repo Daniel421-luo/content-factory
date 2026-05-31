@@ -86,6 +86,55 @@ jobs:
           REPORT_TYPE: ${{ steps.slot.outputs.type }}
         run: python .github/scripts/daily-report.py
 
+      - name: 📱 Bark 推送 (直推 iPhone)
+        if: steps.slot.outputs.type != 'skip'
+        env:
+          BARK_KEY: ${{ secrets.BARK_KEY }}
+        run: |
+          TODAY=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
+          case "${{ steps.slot.outputs.type }}" in
+            ai)         PREFIX="AI日报";   EMOJI="🤖" ;;
+            us_market)  PREFIX="美股简报"; EMOJI="📈" ;;
+            global)     PREFIX="全球简报"; EMOJI="🌍" ;;
+          esac
+          FILE="日报/${PREFIX}-${TODAY}.md"
+          HEADLINE=$(grep '^>' "$FILE" | grep -v '📡' | grep -v '⏰' | head -1 | sed 's/^> //' | head -c 200)
+          curl -s -o /dev/null -w "%{http_code}" "https://api.day.app/${BARK_KEY}/${EMOJI}%20${PREFIX}/${HEADLINE}?group=%E6%97%A5%E6%8A%A5"
+          echo ""
+          echo "✅ Bark 已推送: ${EMOJI} ${PREFIX}"
+
+      - name: 💬 飞书消息推送 (直推手机)
+        if: steps.slot.outputs.type != 'skip'
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_OPEN_ID: ${{ secrets.FEISHU_OPEN_ID }}
+        run: |
+          TODAY=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
+          case "${{ steps.slot.outputs.type }}" in
+            ai)         PREFIX="AI日报";   EMOJI="🤖" ;;
+            us_market)  PREFIX="美股简报"; EMOJI="📈" ;;
+            global)     PREFIX="全球简报"; EMOJI="🌍" ;;
+          esac
+          FILE="日报/${PREFIX}-${TODAY}.md"
+          HEADLINE=$(grep '^>' "$FILE" | grep -v '📡' | grep -v '⏰' | head -1 | sed 's/^> //' | head -c 200)
+          html_url="https://github.com/Daniel421-luo/content-factory/blob/main/${FILE// /%20}"
+          python3 - "$EMOJI" "$PREFIX" "$HEADLINE" "$TODAY" "$html_url" << 'PYEOF'
+          import json, os, requests, sys
+          _, emoji, prefix, headline, today, html_url = sys.argv
+          r = requests.post("https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal",
+              json={"app_id": os.environ["FEISHU_APP_ID"], "app_secret": os.environ["FEISHU_APP_SECRET"]}, timeout=10)
+          token = r.json()["tenant_access_token"]
+          msg = f"{emoji} {prefix} | {today}\n{headline}\n\n🔗 {html_url}"
+          r = requests.post("https://open.feishu.cn/open-apis/im/v1/messages",
+              params={"receive_id_type": "open_id"},
+              headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+              json={"receive_id": os.environ["FEISHU_OPEN_ID"], "msg_type": "text",
+                    "content": json.dumps({"text": msg})}, timeout=10)
+          data = r.json()
+          print("✅ 飞书已推送" if data.get("code") == 0 else f"❌ 飞书失败: {data}")
+          PYEOF
+
       - name: Git 提交
         if: steps.slot.outputs.type != 'skip'
         run: |
