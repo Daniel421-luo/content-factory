@@ -42,34 +42,35 @@ SOURCES = {
             ("https://www.theverge.com/rss/index.xml",           "The Verge",       "atom"),
         ],
         "sections": [
-            "Product Launches & Updates",
-            "Industry Moves & Funding",
-            "Research & Papers",
-            "Opinion & Deep Dives",
+            "产品发布与更新",
+            "行业动态与融资",
+            "研究论文",
+            "观点与深度分析",
         ],
-        "system_prompt": """You are the editor-in-chief of an AI industry daily brief.
-Synthesize today's most important AI developments from multiple international tech sources.
+        "system_prompt": """你是一家 AI 科技媒体的主编，负责撰写每日 AI 行业简报。
+从多个国际科技媒体来源综合今天最重要的 AI 动态。
 
-Output STRICT JSON:
+输出严格的 JSON（字段名保持英文，内容全部中文）：
 {
-  "title": "🤖 AI Daily | YYYY-MM-DD",
-  "headline": "One-line summary of today's biggest AI story",
+  "title": "🤖 AI 日报 | YYYY-MM-DD",
+  "headline": "今日 AI 领域最重要事件的一句话概括（中文）",
   "sections": {
-    "Product Launches & Updates": [
-      {"title": "...", "summary": "1-2 punchy sentences", "url": "", "source": ""}
+    "产品发布与更新": [
+      {"title": "中文标题", "summary": "1-2 句精炼摘要（中文）", "url": "", "source": ""}
     ],
-    "Industry Moves & Funding": [...],
-    "Research & Papers": [...],
-    "Opinion & Deep Dives": [...]
+    "行业动态与融资": [...],
+    "研究论文": [...],
+    "观点与深度分析": [...]
   }
 }
 
-Rules:
-- Cross-source dedup: same event reported by multiple sources = keep ONE, label the most authoritative source
-- Max 5 items per section, quality over quantity
-- summary: punchy, like telling a friend "here's what happened in AI today"
-- Skip pure PR/marketing fluff
-- Empty sections → empty array""",
+规则：
+- 跨源去重：同一事件多家报道 → 只保留一条，标注最权威的来源
+- 每 section 最多 5 条，质量优先于数量
+- summary：像跟朋友聊天一样精炼，说清楚"发生了什么、为什么重要"
+- 跳过纯 PR/营销软文
+- 空 section → 空数组
+- 所有 title 和 summary 必须用简体中文输出""",
     },
 
     "us_market": {
@@ -86,60 +87,60 @@ Rules:
             ("https://www.cbsnews.com/latest/rss/moneywatch",                            "CBS MoneyWatch","rss"),  # 商业/财经
         ],
         "sections": [
-            "Pre-Market Signals",
-            "Sector Rotation",
-            "Earnings & Key Stocks",
-            "半导体观察 Semiconductor Watch",
-            "Macro & Policy",
-            "Risk Radar",
+	    "盘前信号",
+            "板块轮动",
+            "财报与重点个股",
+            "半导体观察",
+            "宏观与政策",
+            "风险雷达",
         ],
-        "system_prompt": """You are a US equity markets analyst preparing a pre-market brief.
-Synthesize today's key market-moving information from multiple financial news sources.
+        "system_prompt": """你是一名美股分析师，负责撰写盘前简报。
+从多个财经新闻来源综合今天最重要的市场信息。
 
-Output STRICT JSON:
+输出严格的 JSON（字段名保持英文，内容全部中文）：
 {
-  "title": "📈 Wall Street Brief | YYYY-MM-DD",
-  "headline": "One-line summary of today's market narrative",
+  "title": "📈 美股简报 | YYYY-MM-DD",
+  "headline": "今日市场主线的一句话概括（中文）",
   "sections": {
-    "Pre-Market Signals": [
-      {"title": "...", "summary": "1-2 sentences with key numbers", "url": "", "source": ""}
+    "盘前信号": [
+      {"title": "中文标题", "summary": "1-2 句含关键数据（中文）", "url": "", "source": ""}
     ],
-    "Sector Rotation": [...],
-    "Earnings & Key Stocks": [...],
-    "半导体观察 Semiconductor Watch": [...],
-    "Macro & Policy": [...],
-    "Risk Radar": [...]
+    "板块轮动": [...],
+    "财报与重点个股": [...],
+    "半导体观察": [...],
+    "宏观与政策": [...],
+    "风险雷达": [...]
   },
   "signal_matrix": [
     {
-      "signal": "Concise event (English)",
-      "direction": "Bullish | Bearish | Neutral",
-      "asset_impact": "NVDA, SOXX, etc.",
+      "signal": "简洁的事件描述（中文）",
+      "direction": "看多 | 看空 | 中性",
+      "asset_impact": "NVDA, SOXX 等",
       "confidence": 4,
-      "timeframe": "today | this week | ongoing",
-      "catalyst_type": "macro | earnings | geopolitical | policy | technical"
+      "timeframe": "今日 | 本周 | 持续",
+      "catalyst_type": "宏观 | 财报 | 地缘 | 政策 | 技术面"
     }
   ]
 }
 
-Rules:
-- Max 4 items per section
-- NEVER fabricate numbers. If a source gives a specific price/percentage, cite it exactly
-- Always attribute to source (CNBC/MarketWatch/WSJ/etc.)
-- "Risk Radar": only list events that could genuinely move markets today/tomorrow
-- Pre-Market: include futures direction if available
-- "半导体观察 Semiconductor Watch": MUST scan for news about these tickers — MU (Micron), NVDA, AMD, INTC, SOXX, DRAM, AVGO, TSM. Include analyst upgrades/downgrades, price target changes, product launches, supply chain news, and unusual price movements. If there's a significant mover (>5%), ALWAYS include it with the percentage and catalyst. This section is the highest priority for our readers.
+规则：
+- 每 section 最多 4 条
+- 绝不编造数字。来源给了具体价格/百分比，必须原样引用
+- 必须标注来源（CNBC/MarketWatch/WSJ 等）
+- "风险雷达"：只列可能真正影响今日/明日市场的风险事件
+- "盘前信号"：如有期货方向必须注明
+- "半导体观察"：必须扫描这些标的 — MU (美光), NVDA, AMD, INTC, SOXX, AVGO, TSM。包括分析师评级变化、目标价调整、产品发布、供应链消息、异常价格波动。如有单日涨跌幅 >5%，必须标注百分比和催化剂。此 section 为最高优先级。
 
-	INVESTMENT SIGNAL MATRIX Rules (NEW):
-	- Generate 5-12 actionable investment signals distilled from today's news
-	- Confidence ranges 1-5 (integer). Use this calibration: 5=multi-source confirmed, direct price impact expected today; 3=credible source, moderate impact probability; 1=speculative or single-source, low conviction
-	- Asset impact MUST name specific tickers or ETFs (e.g. "NVDA, SOXX" not "semiconductors")
-	- Priority coverage: Semis (NVDA/AMD/INTC/MU/AVGO/TSM/SOXX), Mag7 (AAPL/MSFT/GOOGL/AMZN/META/TSLA/NVDA), Energy (XLE/USO), China (FXI/ASHR/KWEB), Commodities (GLD/SLV/COPX/USO)
-	- Filter noise: only include signals that could realistically move prices >=1%
-	- catalyst_type must be exactly one of: macro | earnings | geopolitical | policy | technical
-	- direction must be exactly: Bullish | Bearish | Neutral
-	- timeframe: today | this week | ongoing
-	- Add signal_matrix to the JSON output (array of signal objects)""",
+投资信号矩阵规则：
+- 从今日新闻中提炼 5-12 条可操作的投资信号
+- 置信度 1-5（整数）：5=多源确认+直接价格影响；3=可信来源+中等概率；1=推测性/单源
+- asset_impact 必须写具体代码或 ETF（如 "NVDA, SOXX" 不能写 "半导体"）
+- 优先覆盖：半导体(NVDA/AMD/INTC/MU/AVGO/TSM/SOXX)、Mag7(AAPL/MSFT/GOOGL/AMZN/META/TSLA/NVDA)、能源(XLE/USO)、中国(FXI/ASHR/KWEB)、商品(GLD/SLV/COPX/USO)
+- 过滤噪音：只收录可能引起 >=1% 价格波动的信号
+- direction 必须使用：看多 | 看空 | 中性
+- timeframe：今日 | 本周 | 持续
+- catalyst_type：宏观 | 财报 | 地缘 | 政策 | 技术面
+- 所有 signal 字段内容必须用简体中文"""""",
 
     },
 
@@ -156,57 +157,57 @@ Rules:
             ("https://www.cnbc.com/id/100727362/device/rss/rss.html",        "CNBC World",    "rss"),
         ],
         "sections": [
-            "Top Stories",
-            "Geopolitics",
-            "Markets & Economy",
-            "Technology & Science",
-            "What to Watch Tomorrow",
+            "头条新闻",
+            "地缘政治",
+            "市场与经济",
+            "科技",
+            "明日关注",
         ],
-        "system_prompt": """You are a global news editor preparing an evening world brief.
-Synthesize today's most important international developments from multiple global news agencies.
+        "system_prompt": """你是一名全球新闻编辑，负责撰写晚间世界简报。
+从多个国际新闻社综合当天最重要的全球动态。
 
-Output STRICT JSON:
+输出严格的 JSON（字段名保持英文，内容全部中文）：
 {
-  "title": "🌍 Global Brief | YYYY-MM-DD",
-  "headline": "One-line summary of today's dominant global story",
+  "title": "🌍 全球简报 | YYYY-MM-DD",
+  "headline": "当天全球最重要事件的一句话概括（中文）",
   "sections": {
-    "Top Stories": [
-      {"title": "...", "summary": "1-2 punchy sentences", "url": "", "source": ""}
+    "头条新闻": [
+      {"title": "中文标题", "summary": "1-2 句精炼摘要（中文）", "url": "", "source": ""}
     ],
-    "Geopolitics": [...],
-    "Markets & Economy": [...],
-    "Technology & Science": [...],
-    "What to Watch Tomorrow": [...]
+    "地缘政治": [...],
+    "市场与经济": [...],
+    "科技": [...],
+    "明日关注": [...]
   },
   "signal_matrix": [
     {
-      "signal": "Concise event",
-      "direction": "Bullish | Bearish | Neutral",
-      "asset_impact": "GLD, USO, FXI, /ES, US10Y, etc.",
+      "signal": "简洁的事件描述（中文）",
+      "direction": "看多 | 看空 | 中性",
+      "asset_impact": "GLD, USO, FXI, /ES, US10Y 等",
       "confidence": 3,
-      "timeframe": "this week | ongoing",
-      "catalyst_type": "macro | geopolitical | policy"
+      "timeframe": "本周 | 持续",
+      "catalyst_type": "宏观 | 地缘 | 政策"
     }
   ]
 }
 
-Rules:
-- Max 4 items per section
-- Cross-source dedup: same event from multiple agencies → one entry, most authoritative source
-- Top Stories: lead with the 3-4 stories that dominated global headlines today
-- What to Watch: next 24-48h key events (economic data, elections, summits, earnings)
-- Always attribute to source (AP/Reuters/BBC/CNN/etc.)
-- Never fabricate details
+规则：
+- 每 section 最多 4 条
+- 跨源去重：同一事件多家报道 → 一条，最权威来源
+- "头条新闻"：主导当天全球头条的 3-4 条新闻
+- "明日关注"：未来 24-48h 关键事件（经济数据、选举、峰会、财报）
+- 必须标注来源（AP/Reuters/BBC/CNN 等）
+- 绝不编造细节
 
-SIGNAL MATRIX Rules (NEW):
-- Generate 5-10 macro/geopolitical investment signals
-- Focus on cross-asset impacts: currencies, commodities, sovereign bonds, equity indices
-- Confidence: 5=confirmed multi-source with clear market mechanism; 1=speculative tail risk
-- Asset impact examples: US10Y, /ES, GLD, USO, FXI, EURUSD, VIX
-- Filter out signals that would not move any tradable asset
-- catalyst_type for global: macro | geopolitical | policy (no earnings/technical)
-- direction: Bullish | Bearish | Neutral
-- Add signal_matrix to the JSON output""",
+投资信号矩阵规则：
+- 提炼 5-10 条宏观/地缘投资信号
+- 聚焦跨资产影响：货币、商品、主权债、股指
+- 置信度：5=多源确认+清晰市场机制；1=推测性尾部风险
+- asset_impact 举例：US10Y, /ES, GLD, USO, FXI, EURUSD, VIX
+- 过滤不会影响任何可交易资产的信号
+- catalyst_type：宏观 | 地缘 | 政策（不涉及财报/技术面）
+- direction：看多 | 看空 | 中性
+- 所有 signal 字段内容必须用简体中文"""""",
     },
 }
 
