@@ -1,0 +1,162 @@
+{
+  "title": "📈 美股简报 | 2026-05-31",
+  "headline": "油价暴跌推动美股创纪录新高，但消费者压力信号浮现；美光超买，软银宣布法国AI巨额投资",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "油价暴跌推动美股创纪录新高",
+        "summary": "布伦特原油5月下跌19%，创2020年以来最大月度跌幅，提振股市升至新高。",
+        "url": "https://www.wsj.com/finance/stocks/oil-declines-lift-stocks-to-fresh-records-243d065e?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "消费者压力信号浮现",
+        "summary": "多项经济指标显示美国消费者可能正在失去动力，包括信用卡拖欠率上升和储蓄率下降。",
+        "url": "https://www.cbsnews.com/news/credit-card-delinquencies-savings-rate-us-economy/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "欧洲国防股降温",
+        "summary": "分析师认为2026年该板块将进入整合期，国防预算激增的兴奋被公司特定因素取代。",
+        "url": "https://www.cnbc.com/2026/05/30/defense-stocks-consolidation-rheinmetall-saab-renk.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "数据中心建设带动蓝领就业",
+        "summary": "美国数据中心建设热潮推动建筑和技术岗位需求增长，但经济学家预计永久性岗位较少。",
+        "url": "https://www.cbsnews.com/news/ai-data-center-jobs-construction-technician/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Universal拒绝Bill Ackman收购要约",
+        "summary": "音乐巨头Universal称Pershing Square的报价根本低估了公司价值。",
+        "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "肺癌新药降低死亡风险34%",
+        "summary": "Akeso和Summit Therapeutics的试验性肺癌药物在后期试验中将死亡风险降低34%。",
+        "url": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光成为超买最严重的股票之一",
+        "summary": "本周美光科技等股票上涨至新高，但技术指标显示超买。",
+        "url": "https://www.cnbc.com/2026/05/30/micron-is-one-of-the-most-overbought-stocks-after-this-weeks-rally-to-new-highs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "软银计划在法国投资750亿欧元建设AI数据中心",
+        "summary": "软银计划在法国开发和运营5GW的AI数据中心容量，初始3.1GW设施位于法国北部。",
+        "url": "https://www.cnbc.com/2026/05/31/softbank-to-build-up-ai-data-centers-in-france-with-major-investment.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "伊朗战争结束或开启美国不平等新时代",
+        "summary": "分析指出股市繁荣而消费者承担高能源价格成本，停火后不平等问题可能加剧。",
+        "url": "https://www.cnbc.com/2026/05/30/iran-war-inequality-affordability-ceasefire-analysis.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "霍尔木兹海峡石油出口可能无法恢复至战前水平",
+        "summary": "伊朗对霍尔木兹海峡的封锁严重挑战了航行自由，引发对未来石油出口的疑问。",
+        "url": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Shangri-La对话聚焦防务支出、中国与乌克兰教训",
+        "summary": "5月29日至31日在新加坡举行的峰会汇集了世界领导人、防务官员和高管。",
+        "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "霍尔木兹海峡石油供应风险",
+        "summary": "伊朗战争后石油出口可能无法恢复，持续影响能源价格和通胀。",
+        "url": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "消费者支出放缓风险",
+        "summary": "多项信号显示美国消费者可能失去动力，若消费放缓将影响经济增长。",
+        "url": "https://www.cbsnews.com/news/credit-card-delinquencies-savings-rate-us-economy/",
+        "source": "CBS MoneyWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "油价暴跌19%创2020年来最大月跌幅",
+      "direction": "看多",
+      "asset_impact": "SPY, QQQ, XLE",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美光超买，本周上涨至新高",
+      "direction": "看空",
+      "asset_impact": "MU",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "软银宣布750亿欧元法国AI数据中心投资",
+      "direction": "看多",
+      "asset_impact": "NVDA, AMD, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Universal拒绝Bill Ackman收购要约",
+      "direction": "中性",
+      "asset_impact": "UMG",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "肺癌新药降低死亡风险34%",
+      "direction": "看多",
+      "asset_impact": "AKSO, SMMT",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "欧洲国防股进入整合期",
+      "direction": "看空",
+      "asset_impact": "RHM, SAAB, RENK",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "消费者压力信号浮现，可能失去动力",
+      "direction": "看空",
+      "asset_impact": "SPY, XLY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "霍尔木兹海峡石油出口可能无法恢复",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
