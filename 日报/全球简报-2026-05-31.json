@@ -1,0 +1,192 @@
+{
+  "title": "🌍 全球简报 | 2026-05-31",
+  "headline": "哥伦比亚总统大选投票，左翼与右翼对决；特朗普与伊朗谈判未达成最终协议；刚果（金）埃博拉疫情死亡率高达30%-50%，WHO负责人到访；巴黎因PSG欧冠夺冠爆发骚乱，45人被捕。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "哥伦比亚总统大选投票，左右翼候选人角逐",
+        "summary": "哥伦比亚举行总统选举，左翼现任总统古斯塔沃·佩特罗寻求连任，右翼反卡特尔强硬派挑战，选举结果将重塑与美国的关系。",
+        "url": "https://www.bbc.com/news/articles/c2027g423glo",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普结束与伊朗谈判，未宣布最终决定",
+        "summary": "美国总统特朗普在Truth Social上表示与伊朗的会议未达成最终协议，谈判仍在进行中，此前伊朗封锁霍尔木兹海峡导致油价飙升。",
+        "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "刚果（金）埃博拉疫情严峻，WHO负责人到访",
+        "summary": "世界卫生组织称埃博拉疫情死亡率为30%-50%，总干事谭德塞呼吁武装团体停火以便防控，美国在肯尼亚为美国人建立隔离中心。",
+        "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+        "source": "Guardian"
+      },
+      {
+        "title": "PSG欧冠夺冠引发巴黎骚乱，45人被捕",
+        "summary": "巴黎圣日耳曼点球战胜阿森纳夺得欧冠冠军后，巴黎多地发生暴力事件，警方逮捕45人，法国全国数百人被捕。",
+        "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "日本防卫大臣批评中国军力，否认军国主义",
+        "summary": "日本防卫大臣小泉进次郎在香格里拉对话会上发表强硬言论，批评中国拥有“庞大武库”，并否认日本重回军国主义。",
+        "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
+        "source": "BBC"
+      },
+      {
+        "title": "墨西哥参议院通过宪法修正案，允许以“外国干涉”为由取消选举结果",
+        "summary": "墨西哥参议院通过一项宪法修正案，将“外国干涉”列为取消选举结果的依据，反对派批评此举赋予执政党推翻民意的权力。",
+        "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
+        "source": "Guardian"
+      },
+      {
+        "title": "巴西总统卢拉回应美国将黑帮列为恐怖组织：巴西不是“小国”",
+        "summary": "美国将巴西两大犯罪集团列为恐怖组织，巴西总统卢拉表示不会受此对待，此前美国国务卿卢比奥会见了卢拉的极右翼挑战者。",
+        "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
+        "source": "Guardian"
+      },
+      {
+        "title": "肯尼亚女子学校宿舍火灾致16名学生死亡",
+        "summary": "肯尼亚纳库鲁郡一所女子学校宿舍凌晨发生火灾，至少16名学生遇难，家长焦急等待消息。",
+        "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "霍尔木兹海峡石油出口可能无法恢复至战前水平",
+        "summary": "分析人士指出，伊朗战争期间霍尔木兹海峡的封锁对航行自由造成严重挑战，未来石油出口量可能难以回到战前水平。",
+        "url": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "分析：伊朗战争结束可能只是美国不平等新时代的开始",
+        "summary": "股市飙升，但消费者承受高能源价格成本，伊朗战争结束后的经济影响可能加剧美国国内不平等。",
+        "url": "https://www.cnbc.com/2026/05/30/iran-war-inequality-affordability-ceasefire-analysis.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX IPO前夜，散户涌入太空ETF",
+        "summary": "随着SpaceX即将IPO，散户投资者大量买入太空主题ETF，其中NASA ETF两个月内吸引26亿美元资金。",
+        "url": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美光科技本周大涨后成为超买最严重的股票之一",
+        "summary": "美光科技和戴尔科技等股票本周受到投资者追捧，美光已进入超买区域。",
+        "url": "https://www.cnbc.com/2026/05/30/micron-is-one-of-the-most-overbought-stocks-after-this-weeks",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "开源AI模型能力强大且无安全限制，引发担忧",
+        "summary": "开源权重AI模型越来越容易获取，具备先进能力且无安全护栏，AI安全专家对此表示担忧。",
+        "url": "https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-open-weight-models-risks",
+        "source": "NPR"
+      },
+      {
+        "title": "秘密拍摄的UFO纪录片发布，政府同步解密外星档案",
+        "summary": "一部关于UFO调查员杰里米·科贝尔的秘密纪录片上映，同时联邦政府向公众解密UAP文件。",
+        "url": "https://www.foxnews.com/us/secretly-filmed-ufo-doc-reveals-insider-video-officials-release-new-alien-records-something-imminent",
+        "source": "Fox News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "哥伦比亚总统大选结果揭晓",
+        "summary": "哥伦比亚总统选举投票结束，初步结果预计将于周一公布，将决定该国未来与美国的关系及禁毒政策方向。",
+        "url": "https://www.bbc.com/news/articles/c2027g423glo",
+        "source": "BBC"
+      },
+      {
+        "title": "美国250周年庆典活动：特朗普将在国家广场发表讲话",
+        "summary": "多位艺术家退出后，特朗普仍计划在华盛顿国家广场主持250周年庆典，预计引发政治争议。",
+        "url": "https://abcnews.com/Politics/growing-number-artists-pull-250th-anniversary-celebration-national/story?id=133417043",
+        "source": "ABC News"
+      },
+      {
+        "title": "洛杉矶市长选举决选投票",
+        "summary": "洛杉矶市长选举进入决选阶段，现任市长凯伦·巴斯与挑战者斯宾塞·普拉特等人进行最后角逐。",
+        "url": "https://www.foxnews.com/politics/karen-bass-appears-liken-spencer-pratt-trump-amid-tightening-la-mayoral-race",
+        "source": "Fox News"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "特朗普与伊朗谈判未达成最终协议，霍尔木兹海峡石油出口前景不确定",
+      "direction": "看多",
+      "asset_impact": "USO, /CL, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "哥伦比亚总统大选投票，右翼候选人若胜选可能强化与美国禁毒合作",
+      "direction": "中性",
+      "asset_impact": "FXI, EEM",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "刚果（金）埃博拉疫情死亡率高企，WHO呼吁停火，疫情可能扩散",
+      "direction": "看空",
+      "asset_impact": "EEM, IEMG",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "日本防卫大臣在香格里拉对话会上批评中国军力，中日关系紧张",
+      "direction": "看空",
+      "asset_impact": "FXI, /ES, VIX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "墨西哥通过宪法修正案允许以外国干涉为由取消选举结果，政治风险上升",
+      "direction": "看空",
+      "asset_impact": "EWW, MXN",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国将巴西黑帮列为恐怖组织，巴西总统强硬回应，双边关系紧张",
+      "direction": "看空",
+      "asset_impact": "EWZ, BRL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "SpaceX IPO预期推动散户涌入太空ETF，市场情绪高涨",
+      "direction": "看多",
+      "asset_impact": "NASA, ARKX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美光科技等半导体股超买，短期回调风险增加",
+      "direction": "看空",
+      "asset_impact": "MU, SMH",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "巴黎因PSG夺冠发生骚乱，法国社会不稳定因素显现",
+      "direction": "中性",
+      "asset_impact": "EWQ, CAC40",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
