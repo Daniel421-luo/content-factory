@@ -31,7 +31,7 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
 SOURCES = {
     "ai": {
         "title": "🤖 AI Daily",
-        "source_label": "TechCrunch / MIT Tech Review / VentureBeat / Wired / Ars Technica / ZDNet / The Verge",
+        "source_label": "AIHOT (中文168信源) / TechCrunch / MIT Tech Review / VentureBeat / Wired / Ars Technica / ZDNet / The Verge",
         "feeds": [
             ("https://techcrunch.com/feed/",                     "TechCrunch",     "rss"),
             ("https://www.technologyreview.com/feed/",           "MIT Tech Review", "rss"),
@@ -83,6 +83,7 @@ Rules:
             ("https://feeds.a.dj.com/rss/RSSMarketsMain.xml",                                     "WSJ Markets",  "rss"),
             ("https://feeds.bbci.co.uk/news/business/rss.xml",                                    "BBC Business", "rss"),  # [GA]
             ("https://seekingalpha.com/feed.xml",                                                 "Seeking Alpha","rss"),  # 个股催化剂（评级/目标价/事件）
+            ("https://www.cbsnews.com/latest/rss/moneywatch",                            "CBS MoneyWatch","rss"),  # 商业/财经
         ],
         "sections": [
             "Pre-Market Signals",
@@ -123,13 +124,12 @@ Rules:
 
     "global": {
         "title": "🌍 Global Brief",
-        "source_label": "NPR / ABC News / BBC World / CNN / Guardian / CNBC",
+        "source_label": "NPR / ABC News / BBC World / Fox News / Guardian / CNBC",
         "feeds": [
             ("https://feeds.npr.org/1001/rss.xml",                           "NPR",           "rss"),
             ("https://abcnews.go.com/abcnews/topstories",                    "ABC News",      "rss"),
             ("https://feeds.bbci.co.uk/news/world/rss.xml",                  "BBC World",     "rss"),  # [GA]
-            ("http://rss.cnn.com/rss/cnn_topstories.rss",                    "CNN",           "rss"),  # [GA]
-            ("http://rss.cnn.com/rss/edition_world.rss",                     "CNN World",     "rss"),  # [GA]
+            ("https://moxie.foxnews.com/google-publisher/latest.xml",        "Fox News",      "rss"),  # [GA]
             ("https://www.theguardian.com/world/rss",                        "Guardian",      "rss"),  # [GA]
             ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "CNBC", "rss"),
             ("https://www.cnbc.com/id/100727362/device/rss/rss.html",        "CNBC World",    "rss"),
@@ -234,13 +234,64 @@ def fetch_feed(url, name, fmt="rss"):
         return []
 
 
+# ── AIHOT API 抓取 ─────────────────────────────────────
+def fetch_aihot():
+    """从 AIHOT API 抓取中文AI新闻（168信源，数字生命卡兹克维护）。
+    返回与 fetch_feed() 相同格式的 items 列表。"""
+    try:
+        req = Request("https://aihot.virxact.com/api/public/daily", headers={
+            "User-Agent": UA,
+            "Accept": "application/json",
+        })
+        with urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode("utf-8", errors="replace"))
+
+        items = []
+        sections = data.get("sections", [])
+        for section in sections:
+            section_label = section.get("label", "")
+            for entry in section.get("items", [])[:3]:  # Top 3 per section
+                title = entry.get("title", "")
+                summary_zh = entry.get("summaryZh", entry.get("summary", ""))
+                url = entry.get("sourceUrl", entry.get("url", ""))
+                if not title:
+                    continue
+                items.append({
+                    "title": title,
+                    "summary": (summary_zh or "")[:200],
+                    "url": url,
+                    "source": f"AIHOT/{section_label}",
+                })
+
+        print(f"  ✅ AIHOT: {len(items)} items from {len(sections)} sections")
+        return items
+
+    except Exception as e:
+        print(f"  ⚠️ AIHOT: {type(e).__name__} — skipped", file=sys.stderr)
+        return []
+
+
 # ── 多源聚合 ──────────────────────────────────────────
 def collect_all(cfg):
     """从所有源采集并聚合为纯文本"""
     all_items = []
+    feed_counts = {}  # {name: count} for health check
     for url, name, fmt in cfg["feeds"]:
         items = fetch_feed(url, name, fmt)
         all_items.extend(items)
+        feed_counts[name] = len(items)
+
+    # Feed health summary
+    zero_feeds = [n for n, c in feed_counts.items() if c == 0]
+    active_feeds = [n for n, c in feed_counts.items() if c > 0]
+    print(f"  📊 Feed health: {len(active_feeds)}/{len(cfg['feeds'])} active")
+    if zero_feeds:
+        print(f"  ⚠️  Empty feeds: {', '.join(zero_feeds)}")
+
+    # AIHOT 中文源（仅 AI 日报）
+    if REPORT_TYPE == "ai":
+        aihot_items = fetch_aihot()
+        all_items.extend(aihot_items)
 
     if not all_items:
         return ""
