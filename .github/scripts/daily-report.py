@@ -1,4 +1,4 @@
-"""P11 日报引擎 v3 — 全国际主流数据源，三报架构。
+"""P11 日报引擎 v4 — 全国际主流数据源，三报架构。
 
 每天 3 个时段，每报 5-8 个 RSS/Atom 源，DeepSeek 跨源合成。
 所有源均为国际主流媒体（BBC/Reuters/CNBC/AP/TechCrunch 等）。
@@ -8,15 +8,24 @@ GitHub Actions runner 在美国机房，全源可达。
   08:00 BJT → 🤖 AI Daily (科技 RSS × 7)
   16:00 BJT → 📈 Wall Street Brief (财经 RSS × 6)
   20:00 BJT → 🌍 Global Brief (世界新闻 RSS × 8)
+
+v4 更新:
+  - pubDate 解析 + 24h 新鲜度过滤（杜绝过期内容）
+  - 跨 section 去重规则（同一事件只出现在最相关的 section）
+  - 强化反幻觉规则（绝不编造数字/价格变动/百分比）
+  - WSJ Markets 源从 feeds.a.dj.com 迁移到 feeds.content.dowjones.io
 """
 import os, sys, json, re
 from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from xml.etree import ElementTree as ET
 from urllib.request import urlopen, Request
 
 TZ = timezone(timedelta(hours=8))
 TODAY = datetime.now(TZ).strftime("%Y-%m-%d")
 NOW = datetime.now(TZ).strftime("%Y-%m-%d %H:%M")
+NOW_UTC = datetime.now(timezone.utc)
+CUTOFF = NOW_UTC - timedelta(hours=48)  # 48h: handles weekends + timezone skew
 REPORT_TYPE = os.environ.get("REPORT_TYPE", "ai")
 DEEPSEEK_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
@@ -64,7 +73,18 @@ SOURCES = {
   }
 }
 
-规则：
+铁律（违反任何一条均为不合格输出）：
+
+【反幻觉铁律】
+- 绝不编造任何数字：融资金额、估值、增长率、百分比。若来源未提供，不写具体数字
+- 每条的 url 字段必须来自原始 feeds 中真实存在的链接。不要编造 URL
+- 不确定的信息 → 省略，不要猜测
+
+【跨 section 去重铁律】
+- 同一事件绝不能在多个 section 中出现
+- 生成完所有 section 后，逐条交叉检查 URL 是否重复 → 删除重复，只保留最相关的一条
+
+常规规则：
 - 跨源去重：同一事件多家报道 → 只保留一条，标注最权威的来源
 - 每 section 最多 5 条，质量优先于数量
 - summary：像跟朋友聊天一样精炼，说清楚"发生了什么、为什么重要"
@@ -80,8 +100,7 @@ SOURCES = {
             ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "CNBC",         "rss"),
             ("https://www.cnbc.com/id/100727362/device/rss/rss.html",                             "CNBC World",   "rss"),
             ("https://feeds.marketwatch.com/marketwatch/topstories",                              "MarketWatch",  "rss"),
-            ("https://feeds.marketwatch.com/marketwatch/marketpulse",                              "MW Pulse",     "rss"),
-            ("https://feeds.a.dj.com/rss/RSSMarketsMain.xml",                                     "WSJ Markets",  "rss"),
+            ("https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",                        "WSJ Markets",  "rss"),
             ("https://feeds.bbci.co.uk/news/business/rss.xml",                                    "BBC Business", "rss"),  # [GA]
             ("https://seekingalpha.com/feed.xml",                                                 "Seeking Alpha","rss"),  # 个股催化剂（评级/目标价/事件）
             ("https://www.cbsnews.com/latest/rss/moneywatch",                            "CBS MoneyWatch","rss"),  # 商业/财经
@@ -123,10 +142,32 @@ SOURCES = {
   ]
 }
 
-规则：
+铁律（违反任何一条均为不合格输出）：
+
+【反幻觉铁律】—— 最高优先级
+- 绝不编造任何数字：价格、百分比、涨跌幅、市值、交易量。若来源未提供具体数字，写"大幅波动"而非"暴跌16%"
+- 每条的 url 字段必须来自原始 feeds 中真实存在的链接。不要编造 URL
+- 若来源只说"英伟达下跌"，你不能写成"英伟达暴跌16%"
+- 摘要中提到的任何事实必须在来源文章中能找到对应。不确定的信息 → 省略
+- 如果一条新闻的信息不足以支撑一条独立的摘要，跳过它
+
+【跨 section 去重铁律】—— 第二优先级
+- 同一事件绝不能在多个 section 中出现。如果一条新闻同时符合"半导体观察"和"财报与重点个股"，只放在最相关的 section
+- 生成完所有 section 后，必须逐条交叉检查：是否有同一 URL 出现在多个 section？有 → 删除重复，只保留最相关的一条
+- 同一标的的不同角度（如 MU 超买 vs MU 财报）可以分属不同 section，但必须是不同事件
+
+【时效性铁律】
+- 只使用最近 24 小时的新闻。如果 feeds 中出现旧闻（如 2025 年的文章），忽略它们
+- 优先采用今天或昨天的新闻。较旧的文章仅在无新内容时作为背景，但必须标注日期
+- 如果某个 section 今天确实没有相关新闻，留空数组（[]），不要用旧闻填充
+
+【来源铁律】
+- 每条必须标注来源（CNBC/MarketWatch/WSJ 等）
+- 优先使用最权威来源（WSJ > CNBC > MarketWatch > Seeking Alpha 对于市场分析）
+- summary 中的关键数据点必须有明确来源支撑
+
+常规规则：
 - 每 section 最多 4 条
-- 绝不编造数字。来源给了具体价格/百分比，必须原样引用
-- 必须标注来源（CNBC/MarketWatch/WSJ 等）
 - "风险雷达"：只列可能真正影响今日/明日市场的风险事件
 - "盘前信号"：如有期货方向必须注明
 - "半导体观察"：必须扫描这些标的 — MU (美光), NVDA, AMD, INTC, SOXX, AVGO, TSM。包括分析师评级变化、目标价调整、产品发布、供应链消息、异常价格波动。如有单日涨跌幅 >5%，必须标注百分比和催化剂。此 section 为最高优先级。
@@ -140,7 +181,8 @@ SOURCES = {
 - direction 必须使用：看多 | 看空 | 中性
 - timeframe：今日 | 本周 | 持续
 - catalyst_type：宏观 | 财报 | 地缘 | 政策 | 技术面
-- 所有 signal 字段内容必须用简体中文""",
+- 所有 signal 字段内容必须用简体中文
+- 信号矩阵中的信号也必须遵守反幻觉铁律：不编造数字""",
 
     },
 
@@ -191,7 +233,17 @@ SOURCES = {
   ]
 }
 
-规则：
+铁律（违反任何一条均为不合格输出）：
+
+【反幻觉铁律】—— 最高优先级
+- 绝不编造任何数字、统计、伤亡人数、经济损失金额。不确定 → 省略
+- 每条的 url 字段必须来自原始 feeds 中真实存在的链接。不要编造 URL
+
+【跨 section 去重铁律】
+- 同一事件绝不能在多个 section 中出现
+- 生成完所有 section 后，逐条交叉检查 URL 是否重复 → 删除重复，只保留最相关的一条
+
+常规规则：
 - 每 section 最多 4 条
 - 跨源去重：同一事件多家报道 → 一条，最权威来源
 - "头条新闻"：主导当天全球头条的 3-4 条新闻
@@ -213,8 +265,37 @@ SOURCES = {
 
 
 # ── RSS/Atom 解析 ─────────────────────────────────────
+def _parse_pubdate(entry, is_atom, ns):
+    """Extract and parse pubDate from RSS or Atom entry. Returns datetime or None."""
+    candidates = []
+    if is_atom:
+        for tag in ["atom:published", "atom:updated"]:
+            el = entry.find(tag, ns)
+            if el is not None and el.text:
+                candidates.append(el.text)
+        for tag in ["{http://www.w3.org/2005/Atom}published", "{http://www.w3.org/2005/Atom}updated"]:
+            el = entry.find(tag)
+            if el is not None and el.text:
+                candidates.append(el.text)
+    else:
+        pub = entry.find("pubDate")
+        if pub is not None and pub.text:
+            candidates.append(pub.text)
+        # Some feeds use dc:date
+        dc = entry.find("{http://purl.org/dc/elements/1.1/}date")
+        if dc is not None and dc.text:
+            candidates.append(dc.text)
+
+    for raw in candidates:
+        try:
+            return parsedate_to_datetime(raw.strip())
+        except (ValueError, TypeError):
+            continue
+    return None
+
+
 def fetch_feed(url, name, fmt="rss"):
-    """抓取 RSS 或 Atom feed，返回条目列表。失败返回空列表不中断。"""
+    """抓取 RSS 或 Atom feed，返回条目列表。过滤 24h 以前的内容。失败返回空列表不中断。"""
     try:
         req = Request(url, headers={
             "User-Agent": UA,
@@ -237,7 +318,14 @@ def fetch_feed(url, name, fmt="rss"):
             entries = root.findall(".//item")
 
         items = []
-        for entry in entries[:8]:
+        stale = 0
+        for entry in entries[:12]:  # sample more entries to account for stale filtering
+            # ── Date freshness check ──
+            pub_dt = _parse_pubdate(entry, is_atom, ns)
+            if pub_dt is not None and pub_dt < CUTOFF:
+                stale += 1
+                continue
+
             if is_atom:
                 title = entry.find("atom:title", ns) or entry.find("{http://www.w3.org/2005/Atom}title")
                 summary = entry.find("atom:summary", ns) or entry.find("{http://www.w3.org/2005/Atom}summary")
@@ -266,9 +354,12 @@ def fetch_feed(url, name, fmt="rss"):
                 "summary": summary_text,
                 "url": link_text,
                 "source": name,
+                "pub_date": pub_dt.isoformat() if pub_dt else None,
             })
+            if len(items) >= 8:
+                break
 
-        print(f"  ✅ {name}: {len(items)} items")
+        print(f"  ✅ {name}: {len(items)} items (filtered {stale} stale)")
         return items
 
     except Exception as e:
@@ -367,7 +458,12 @@ def refine(content, cfg):
             "model": "deepseek-chat",
             "messages": [
                 {"role": "system", "content": system},
-                {"role": "user", "content": f"Raw feeds for {TODAY}. Synthesize into a daily brief:\n\n{content}"},
+                {"role": "user", "content": (
+                    f"今天日期：{TODAY}（北京时间）。只使用最近 24-30 小时的新闻。\n"
+                    f"下面的 feeds 中可能混有旧闻（几天甚至几周前的），请自行判断时效性并过滤。\n"
+                    f"如果某条 feed 内容的日期明显早于 {TODAY}，忽略它。\n\n"
+                    f"Raw feeds:\n\n{content}"
+                )},
             ],
             "temperature": 0.3,
             "response_format": {"type": "json_object"},
@@ -463,7 +559,7 @@ def save(md, data):
 # ── main ──────────────────────────────────────────────
 if __name__ == "__main__":
     cfg = SOURCES.get(REPORT_TYPE, SOURCES["ai"])
-    print(f"🔄 P11 v3 · {cfg['title']} · {NOW}")
+    print(f"🔄 P11 v4 · {cfg['title']} · {NOW}")
     print(f"📡 {len(cfg['feeds'])} sources: {cfg['source_label']}")
     print()
 
