@@ -1,0 +1,38 @@
+name: 🔭 周刊策展
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 1 * * 6'   # UTC 01:00 周六 = 北京时间 09:00 周六
+  workflow_dispatch:
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 读本周日报 → DeepSeek 策展 → 生成视界 HTML + MD
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python .github/scripts/weekly-digest.py
+
+      - name: Git 提交
+        run: |
+          git config user.name "周刊策展机器人"
+          git config user.email "bot@content-factory.local"
+          git add 日报/周刊-*.html 日报/周刊-*.md 日报/周刊-*.json
+          git diff --staged --quiet || git commit -m "🔭 周刊策展 $(TZ='Asia/Shanghai' date +%Y-%m-%d)"
+          git pull --rebase origin main --no-edit
+          git push
