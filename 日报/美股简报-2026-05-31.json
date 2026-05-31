@@ -1,0 +1,140 @@
+{
+  "title": "📈 美股简报 | 2026-05-31",
+  "headline": "油价暴跌提振美股创纪录新高，伊朗停火谈判未果，美光超买引关注",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货走高，油价暴跌提振市场",
+        "summary": "布伦特原油5月下跌19%，创2020年以来最大月度跌幅，推动美股主要指数创历史新高。",
+        "url": "https://www.wsj.com/finance/stocks/oil-declines-lift-stocks-to-fresh-records-243d065e",
+        "source": "WSJ"
+      },
+      {
+        "title": "伊朗停火谈判未达成最终协议",
+        "summary": "特朗普与伊朗会谈后未宣布最终决定，霍尔木兹海峡石油出口前景仍不确定。",
+        "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "油价暴跌利好运输与消费板块",
+        "summary": "布伦特原油5月暴跌19%，航空、航运及消费品板块受益于成本下降。",
+        "url": "https://www.wsj.com/finance/stocks/oil-declines-lift-stocks-to-fresh-records-243d065e",
+        "source": "WSJ"
+      },
+      {
+        "title": "数据中心建设热潮带动蓝领就业",
+        "summary": "AI数据中心建设推动建筑和技工岗位需求激增，但经济学家预计长期就业有限。",
+        "url": "https://www.cbsnews.com/news/ai-data-center-jobs-construction-technician/",
+        "source": "CBS"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "迪士尼广告业务加速增长",
+        "summary": "迪士尼已开始销售2027年超级碗、奥斯卡和格莱美广告，全球广告总裁Rita Ferro主导。",
+        "url": "https://www.cnbc.com/2026/05/31/disney-advertising-rita-ferro.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "环球音乐拒绝比尔·阿克曼收购要约",
+        "summary": "环球音乐集团称Pershing Square的报价根本低估了公司价值。",
+        "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo",
+        "source": "BBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光科技超买信号出现",
+        "summary": "美光本周上涨至新高后，技术指标显示超买，投资者需警惕回调风险。",
+        "url": "https://www.cnbc.com/2026/05/30/micron-is-one-of-the-most-overbought-stocks-after-this-weeks-rally-to-new-highs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "ASML遭分析师下调评级",
+        "summary": "Seeking Alpha分析师认为ASML虽是最佳半导体公司之一，但当前估值已不再具有吸引力。",
+        "url": "https://seekingalpha.com/article/4910407-asml-best-semiconductor-stock-maybe-investment-not-anymore-downgrade",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "伊朗战争真实成本远超官方数字",
+        "summary": "五角大楼称冲突花费290亿美元，但实际成本更高且推高通胀。",
+        "url": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "美国消费者经济压力信号增多",
+        "summary": "信用卡违约率上升、储蓄率下降等5个信号显示消费者可能失去动力。",
+        "url": "https://www.cbsnews.com/news/credit-card-delinquencies-savings-rate-us-economy/",
+        "source": "CBS"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗停火谈判不确定性",
+        "summary": "特朗普未宣布最终决定，霍尔木兹海峡石油出口恢复前景不明，可能引发油价波动。",
+        "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美股盈利增长或预示熊市临近",
+        "summary": "历史数据显示，标普500盈利两位数增长往往出现在牛市末期，市场可能面临回调。",
+        "url": "https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "布伦特原油5月暴跌19%，创2020年以来最大月度跌幅",
+      "direction": "看多",
+      "asset_impact": "SPY, XLE, USO",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美光科技超买，本周上涨至新高后技术指标警示回调",
+      "direction": "看空",
+      "asset_impact": "MU, SOXX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "ASML遭分析师下调评级，认为估值不再有吸引力",
+      "direction": "看空",
+      "asset_impact": "ASML, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伊朗停火谈判未达成最终协议，霍尔木兹海峡石油出口前景不确定",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国消费者经济压力信号增多，信用卡违约率上升",
+      "direction": "看空",
+      "asset_impact": "XLY, SPY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "数据中心建设热潮带动蓝领就业，但长期就业有限",
+      "direction": "看多",
+      "asset_impact": "AMZN, MSFT, GOOGL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
