@@ -92,7 +92,7 @@ jobs:
           git config user.name "AI日报机器人"
           git config user.email "bot@content-factory.local"
           mkdir -p 日报/
-          git add -A 日报/ 内容发布/
+          git add -A 日报/
           git commit -m "🤖 自动日报 $(TZ='Asia/Shanghai' date +%Y-%m-%d) [${{ steps.slot.outputs.type }}]" || echo "⏭️ Nothing to commit"
           git pull --rebase origin main --no-edit
           git push
