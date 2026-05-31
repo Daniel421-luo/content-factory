@@ -109,7 +109,17 @@ Output STRICT JSON:
     "半导体观察 Semiconductor Watch": [...],
     "Macro & Policy": [...],
     "Risk Radar": [...]
-  }
+  },
+  "signal_matrix": [
+    {
+      "signal": "Concise event (English)",
+      "direction": "Bullish | Bearish | Neutral",
+      "asset_impact": "NVDA, SOXX, etc.",
+      "confidence": 4,
+      "timeframe": "today | this week | ongoing",
+      "catalyst_type": "macro | earnings | geopolitical | policy | technical"
+    }
+  ]
 }
 
 Rules:
@@ -118,7 +128,18 @@ Rules:
 - Always attribute to source (CNBC/MarketWatch/WSJ/etc.)
 - "Risk Radar": only list events that could genuinely move markets today/tomorrow
 - Pre-Market: include futures direction if available
-- "半导体观察 Semiconductor Watch": MUST scan for news about these tickers — MU (Micron), NVDA, AMD, INTC, SOXX, DRAM, AVGO, TSM. Include analyst upgrades/downgrades, price target changes, product launches, supply chain news, and unusual price movements. If there's a significant mover (>5%), ALWAYS include it with the percentage and catalyst. This section is the highest priority for our readers.""",
+- "半导体观察 Semiconductor Watch": MUST scan for news about these tickers — MU (Micron), NVDA, AMD, INTC, SOXX, DRAM, AVGO, TSM. Include analyst upgrades/downgrades, price target changes, product launches, supply chain news, and unusual price movements. If there's a significant mover (>5%), ALWAYS include it with the percentage and catalyst. This section is the highest priority for our readers.
+
+	INVESTMENT SIGNAL MATRIX Rules (NEW):
+	- Generate 5-12 actionable investment signals distilled from today's news
+	- Confidence ranges 1-5 (integer). Use this calibration: 5=multi-source confirmed, direct price impact expected today; 3=credible source, moderate impact probability; 1=speculative or single-source, low conviction
+	- Asset impact MUST name specific tickers or ETFs (e.g. "NVDA, SOXX" not "semiconductors")
+	- Priority coverage: Semis (NVDA/AMD/INTC/MU/AVGO/TSM/SOXX), Mag7 (AAPL/MSFT/GOOGL/AMZN/META/TSLA/NVDA), Energy (XLE/USO), China (FXI/ASHR/KWEB), Commodities (GLD/SLV/COPX/USO)
+	- Filter noise: only include signals that could realistically move prices >=1%
+	- catalyst_type must be exactly one of: macro | earnings | geopolitical | policy | technical
+	- direction must be exactly: Bullish | Bearish | Neutral
+	- timeframe: today | this week | ongoing
+	- Add signal_matrix to the JSON output (array of signal objects)""",
 
     },
 
@@ -156,7 +177,17 @@ Output STRICT JSON:
     "Markets & Economy": [...],
     "Technology & Science": [...],
     "What to Watch Tomorrow": [...]
-  }
+  },
+  "signal_matrix": [
+    {
+      "signal": "Concise event",
+      "direction": "Bullish | Bearish | Neutral",
+      "asset_impact": "GLD, USO, FXI, /ES, US10Y, etc.",
+      "confidence": 3,
+      "timeframe": "this week | ongoing",
+      "catalyst_type": "macro | geopolitical | policy"
+    }
+  ]
 }
 
 Rules:
@@ -165,7 +196,17 @@ Rules:
 - Top Stories: lead with the 3-4 stories that dominated global headlines today
 - What to Watch: next 24-48h key events (economic data, elections, summits, earnings)
 - Always attribute to source (AP/Reuters/BBC/CNN/etc.)
-- Never fabricate details""",
+- Never fabricate details
+
+SIGNAL MATRIX Rules (NEW):
+- Generate 5-10 macro/geopolitical investment signals
+- Focus on cross-asset impacts: currencies, commodities, sovereign bonds, equity indices
+- Confidence: 5=confirmed multi-source with clear market mechanism; 1=speculative tail risk
+- Asset impact examples: US10Y, /ES, GLD, USO, FXI, EURUSD, VIX
+- Filter out signals that would not move any tradable asset
+- catalyst_type for global: macro | geopolitical | policy (no earnings/technical)
+- direction: Bullish | Bearish | Neutral
+- Add signal_matrix to the JSON output""",
     },
 }
 
@@ -377,6 +418,26 @@ def build_markdown(data, cfg):
             lines.append("")
             lines.append(summary)
             lines.append("")
+
+    # Investment Signal Matrix (NEW — only for us_market + global)
+    signals = data.get("signal_matrix", [])
+    if signals:
+        lines.append("## 📊 Investment Signal Matrix")
+        lines.append("")
+        lines.append("| Signal | Direction | Asset Impact | Confidence | Timeframe |")
+        lines.append("|--------|-----------|-------------|------------|-----------|")
+        for s in signals:
+            sig = s.get("signal", "")
+            direction = s.get("direction", "")
+            asset = s.get("asset_impact", "")
+            conf = s.get("confidence", 3)
+            tf = s.get("timeframe", "")
+            stars = "★" * conf + "☆" * (5 - conf)
+            lines.append(f"| {sig} | {direction} | {asset} | {stars} | {tf} |")
+        lines.append("")
+        lines.append(f"> *{len(signals)} signals distilled from today's news. Confidence: ★★★★★ = confirmed multi-source. Use as discussion starters, not trade orders.*")
+        lines.append("")
+
     lines.append("---")
     lines.append(f"*Auto-generated by [AI Content Factory](https://github.com/Daniel421-luo/content-factory) · {len(data.get('sections', {}))} sections*")
     return "\n".join(lines)
