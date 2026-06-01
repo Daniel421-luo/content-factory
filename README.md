@@ -1,54 +1,144 @@
-# 🏭 AI 情报内容工厂 (P11 v4 — Unified Pipeline)
+# 🏭 AI Content Factory
 
-> **状态**: ✅ 统一管道已建成 (2026-05-31)
-> 全自动采集 → DeepSeek 炼油 → Obsidian 入库 → Bark/飞书推送到手机
+> 全自动多源新闻采集 → AI 合成 → Obsidian 入库 → 手机推送
 
-## 三条日报
+定时从 20+ 国际 RSS/Atom 源采集新闻，用 **DeepSeek** 跨源合成三份中文日报，自动推送到你的 Obsidian Vault 和 iPhone。
 
-| 时间 | 报告 | 来源 | 特性 |
-|------|------|------|------|
-| 08:00 BJT | 🤖 AI 日报 | 英文科技 RSS × 7 + AIHOT 中文 168 信源 | AI/科技新闻 |
-| 16:00 BJT | 📈 美股简报 | CNBC/WSJ/MarketWatch/Seeking Alpha/CBS | 📊 含投资信号矩阵 |
-| 20:00 BJT | 🌍 全球简报 | NPR/ABC/BBC/Fox/Guardian/CNBC | 📊 含投资信号矩阵 |
+## ✨ 每天自动产出
 
-## 已合并的旧管道
+| 时间 (UTC+8) | 日报 | 来源 | 特性 |
+|:--:|------|------|------|
+| 08:00 | 🤖 **AI 日报** | TechCrunch / MIT Tech Review / VentureBeat / Wired / Ars Technica / ZDNet / The Verge / AIHOT (168 中文源) | AI/科技行业动态 |
+| 16:00 | 📈 **美股简报** | CNBC / MarketWatch / WSJ / Reuters / BBC Business / Seeking Alpha / CBS | 含投资信号矩阵 |
+| 20:00 | 🌍 **全球简报** | NPR / ABC / BBC World / Fox News / Guardian / CNBC | 含投资信号矩阵 |
 
-- ~~Intel Pipeline (Python, local)~~ → 已归档至 `content-factory/.github/scripts/`
-- ~~News Aggregator (Claude Code manual)~~ → 投资信号矩阵已集成到 GHA 日报
-- ~~AIHOT standalone script~~ → AIHOT API 已集成到 AI 日报 RSS 采集
+## 🚀 快速开始
 
-## 架构
+### 1. Fork 这个仓库
+
+点击右上角 Fork → 创建你自己的副本。
+
+### 2. 配置 Secrets
+
+在 Settings → Secrets and variables → Actions → **New repository secret** 中添加：
+
+| Secret | 必需 | 说明 |
+|--------|:----:|------|
+| `DEEPSEEK_API_KEY` | ✅ 必需 | [DeepSeek API Key](https://platform.deepseek.com/api_keys)（充值 ¥10 可用数月） |
+| `BARK_KEY` | 可选 | [Bark](https://apps.apple.com/app/bark-customed-notifications/id1403753865) iOS 推送 Key |
+| `FEISHU_APP_ID` | 可选 | 飞书应用 App ID（需配合下面两个） |
+| `FEISHU_APP_SECRET` | 可选 | 飞书应用密钥 |
+| `FEISHU_OPEN_ID` | 可选 | 你的飞书用户 Open ID |
+
+> 💡 至少配置 `DEEPSEEK_API_KEY` 就能跑。Bark 和飞书推送是锦上添花。
+
+### 3. 启用 GitHub Actions
+
+1. 进入仓库 Actions 标签页
+2. 点击 "I understand my workflows, go ahead and enable them"
+3. 手动触发一次测试：
 
 ```
-GitHub Actions (US 机房, 突破被墙)
-  │
-  ├── 7个 RSS/Atom 源 (TechCrunch, MIT Tech Review, VentureBeat, etc.)
-  ├── AIHOT API (中文 AI 168 信源, 卡兹克维护)
-  ├── 9个财经/国际源 (CNBC, WSJ, MarketWatch, BBC, NPR, etc.)
-  │
-  ▼ DeepSeek API 合成 → JSON → Markdown + 投资信号矩阵
-  │
-  ▼ Git Push → GitHub Repo
-  │
-Mac (LaunchAgent 08:15 + 20:15)
-  │
-  ├── git pull → Obsidian Vault (日报/ 目录)
-  ├── Bark → iPhone 推送通知
-  └── 飞书 → 聊天消息通知
-  │
-每晚 21:00：
-  └── send-daily-digest.py → 三报汇总 → 飞书每日卡片
+Actions → 📰 三报自动生成 → Run workflow → 选一个类型运行
 ```
 
-## 新增功能 (v4)
+### 4. (可选) 同步到 Obsidian
 
-- 📊 **投资信号矩阵**: 美股简报 + 全球简报含信号表格（方向/资产/置信度/时间框架）
-- 📱 **手机推送**: 日报生成后自动通过 Bark 推送 iPhone + 飞书消息通知
-- 🇨🇳 **AIHOT 中文源**: AI 日报整合卡兹克 168 信源中文 AI 新闻
-- 🩺 **Feed 健康监控**: 每个源的抓取状态自动日志记录
+如果你用 Obsidian 管理知识库，可以将生成的日报自动拉取到本地：
 
-## 推送设置
+```bash
+# 1. Clone 你的 fork 到本地
+git clone https://github.com/YOUR_USERNAME/content-factory.git
 
-1. **Bark** (iOS): App Store 安装 → 复制 Key → 存入 `~/.config/bark/key`
-2. **飞书**: 已配置 larksuite/cli 后自动工作
-3. **每日汇总**: `python3 ~/bin/send-daily-digest.py --send`
+# 2. 设置环境变量（写入 ~/.zshrc 或 ~/.bash_profile）
+export VAULT_PATH="$HOME/path/to/your-obsidian-vault/03-拓展项目"
+
+# 3. 运行同步
+bash sync-to-vault.sh
+```
+
+配合 macOS LaunchAgent 或 cron 定时 `git pull && bash sync-to-vault.sh`，日报就自动出现在 Obsidian 了。
+
+## 🛠 自定义你的日报
+
+### 换个 AI 模型
+
+默认用 `deepseek-chat`（便宜好用）。想换的话编辑 `.github/scripts/daily-report.py`：
+
+```python
+"model": "deepseek-chat",  # 改成 "gpt-4o-mini" 或其他
+```
+
+同时需要把 `DEEPSEEK_API_KEY` secret 换成对应服务商的 Key，并修改 API endpoint。
+
+### 增删 RSS 源
+
+编辑 `.github/scripts/daily-report.py` 第 40-263 行的 `SOURCES` 字典：
+
+```python
+"ai": {
+    "feeds": [
+        ("https://your-feed-url/rss", "Source Name", "rss"),  # RSS
+        ("https://your-atom-feed",     "Atom Source",  "atom"),  # Atom
+    ],
+    ...
+}
+```
+
+### 修改推送渠道
+
+- **Bark** (iOS): 脚本第 89-104 行，GitHub Actions 里自动推送
+- **飞书**: 脚本第 106-136 行，推送到飞书消息
+- **其他渠道**: 在 workflow 中加一个 step，用 curl/webhook 对接钉钉/微信/Telegram
+
+## 🧱 架构
+
+```
+GitHub Actions (美国机房, 无 GFW 限制)
+  │
+  ├── 18 个 RSS/Atom 源 + AIHOT API
+  ├── DeepSeek API 跨源合成
+  │
+  ▼ JSON → Markdown → Git Push
+  │
+你的 Mac
+  ├── git pull → Obsidian Vault
+  ├── Bark → iPhone 推送
+  └── 飞书 → 消息通知
+```
+
+## 📂 文件结构
+
+```
+content-factory/
+├── .github/
+│   ├── workflows/daily-report.yml    # GitHub Actions 调度
+│   ├── workflows/douyin-process.yml  # 抖音素材提炼（辅助）
+│   └── scripts/daily-report.py       # 核心引擎
+├── agent-configs/                    # Claude Code 智能体配置
+├── 日报/                             # 生成的三份日报（自动提交）
+├── sync-to-vault.sh                  # 同步到 Obsidian 脚本
+└── README.md
+```
+
+## ❓ FAQ
+
+**Q: 为什么用 GitHub Actions 而不是本地跑？**
+A: 美国机房能访问 BBC、Reuters 等被 GFW 污染的源。而且不用 24h 开机。
+
+**Q: 每月成本多少？**
+A: DeepSeek API 约 ¥2-5/月（每天 3 次调用）。GitHub Actions 免费额度完全够用。
+
+**Q: 能加中文源吗？**
+A: AI 日报已经集成了 AIHOT（168 个中文 AI 源）。加其他中文 RSS 只需在 `SOURCES` 里加一行。
+
+**Q: 怎么确保 AI 不编造假新闻？**
+A: 系统内置反幻觉规则：要求 AI 必须引用原文 URL、不编造数字、不确定的信息直接跳过。每个 section 有去重机制防止同一事件被多次报道。
+
+## 📄 License
+
+MIT — 随意 fork、修改、商用。保留原作者署名即可。
+
+---
+
+*Created by [Daniel Luo](https://github.com/Daniel421-luo) · Powered by DeepSeek & GitHub Actions*

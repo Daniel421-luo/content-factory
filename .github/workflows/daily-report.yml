@@ -118,7 +118,7 @@ jobs:
           esac
           FILE="日报/${PREFIX}-${TODAY}.md"
           HEADLINE=$(grep '^>' "$FILE" | grep -v '📡' | grep -v '⏰' | head -1 | sed 's/^> //' | head -c 200)
-          html_url="https://github.com/Daniel421-luo/content-factory/blob/main/${FILE// /%20}"
+          html_url="${{ github.server_url }}/${{ github.repository }}/blob/main/${FILE// /%20}"
           python3 - "$EMOJI" "$PREFIX" "$HEADLINE" "$TODAY" "$html_url" << 'PYEOF'
           import json, os, requests, sys
           _, emoji, prefix, headline, today, html_url = sys.argv

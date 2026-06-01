@@ -1,9 +1,9 @@
 """P11 周报引擎 — 读本周日报 → DeepSeek 策展 → 输出 视界HTML + MD。
 
 周六 09:00 BJT 运行。读过去 7 天的 AI日报/美股简报/全球简报，
-DeepSeek 精选 top 10 条目，按 Daniel 的关注领域分类，输出：
+DeepSeek 精选 top 10 条目，按关注领域分类，输出：
   1. 周刊-YYYY-MM-DD.html — 视界级精美页面（可直接浏览器打开或 Obsidian 内嵌）
-  2. 周刊-YYYY-MM-DD.md   — Obsidian 可编辑版本（含 Daniel 看法槽位）
+  2. 周刊-YYYY-MM-DD.md   — Obsidian 可编辑版本（含「我的看法」槽位）
 """
 import os, sys, json, glob
 from datetime import datetime, timezone, timedelta
@@ -158,7 +158,7 @@ def build_html(data):
                         </div>
                     </div>
                     <div class="card-take">
-                        <div class="take-label">💭 Daniel 的看法</div>
+                        <div class="take-label">💭 我的看法</div>
                         <div class="take-placeholder">在此写下你的判断...</div>
                     </div>
                 </div>"""
@@ -517,8 +517,8 @@ def build_html(data):
     {sections_html}
 
     <footer class="footer">
-        <p>由 <a href="https://github.com/Daniel421-luo/content-factory">AI Content Factory</a> 自动策展 · 每周六上午生成</p>
-        <p style="margin-top:4px">在 Obsidian 中打开同名 .md 文件可编辑「Daniel 的看法」</p>
+        <p>由 AI Content Factory 自动策展 · 每周六上午生成</p>
+        <p style="margin-top:4px">在 Obsidian 中打开同名 .md 文件可编辑「我的看法」</p>
     </footer>
 
 </div>
@@ -576,11 +576,12 @@ def build_markdown(data):
             lines.append(f"- 🎯 **行动：** {action}")
             lines.append(f"- 📍 {source}")
             lines.append("")
-            lines.append(f"💭 **Daniel 的看法：** _（在此写下你的判断）_")
+            lines.append(f"💭 **我的看法：** _（在此写下你的判断）_")
             lines.append("")
 
     lines.append("---")
-    lines.append(f"*由 [AI Content Factory](https://github.com/Daniel421-luo/content-factory) 自动策展 · 每周六上午生成*")
+    repo_url = os.environ.get("GITHUB_SERVER_URL", "https://github.com") + "/" + os.environ.get("GITHUB_REPOSITORY", "your/content-factory")
+    lines.append(f"*由 [AI Content Factory]({repo_url}) 自动策展 · 每周六上午生成*")
     return "\n".join(lines)
 
 # ── 保存 ──────────────────────────────────────────────
