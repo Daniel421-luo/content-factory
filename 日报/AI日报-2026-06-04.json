@@ -1,0 +1,86 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-04",
+  "headline": "特朗普签署新AI行政令，Alphabet创纪录850亿美元融资为AI业务注资，Google发布轻量级Gemma 4 12B模型。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google 发布 Gemma 4 12B 模型，16GB 内存笔记本即可运行",
+        "summary": "Google 推出 Gemma 4 12B 开源模型，采用新编码方案和 token 预测，性能超越同级，任何 16GB 内存的笔记本都能本地运行。",
+        "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Google Dreambeans：用 AI 把你的生活数据变成卡通故事",
+        "summary": "Google 推出名为 Dreambeans 的 AI 工具，能从你的 Google 账户数据中生成 AI 插画风格的“故事”，堪称最怪名字的 AI 产品。",
+        "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia 确认 RTX Spark 后继芯片 N2X 和 N3X 已在规划中",
+        "summary": "Nvidia CEO 黄仁勋在 Computex 上透露，RTX Spark 只是开始，未来还将推出 N2X 和 N3X 芯片，目标是打造《星际迷航》级别的计算机。",
+        "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
+        "source": "The Verge"
+      },
+      {
+        "title": "Uber 今年将部署 500 辆数据采集车，为自动驾驶铺路",
+        "summary": "Uber 改装了 500 辆 Ioniq 5，配备传感器用于采集道路数据，支持其新成立的 AV Labs 自动驾驶部门。",
+        "url": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Alphabet 创纪录 850 亿美元融资，为 Google AI 业务注入强心剂",
+        "summary": "Alphabet 完成史上最大规模 850 亿美元股票发行，投资者对 AI 相关融资热情高涨，被视为 AI 行业的积极信号。",
+        "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lovable 与 Google Cloud 签署多年协议，使用量将扩大 5 倍",
+        "summary": "AI 初创公司 Lovable 与 Google Cloud 达成多年扩展合作，将云服务使用量提升 5 倍，并扩大对 Anthropic Claude 的访问权限。",
+        "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 和 Anthropic 联名致信，呼吁立法防止 AI 制造生物武器",
+        "summary": "多家顶级 AI 实验室和科学家联合致信立法者，要求加强对合成 DNA 序列的追踪，防止 AI 被用于开发生物武器。",
+        "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+        "source": "Wired"
+      },
+      {
+        "title": "特朗普签署新 AI 行政令，但安全团队已被 DOGE 裁撤",
+        "summary": "特朗普签署新 AI 行政令，要求测试 AI 模型安全性，但批评者指出负责安全审查的团队此前已被政府效率部门（DOGE）裁撤，行政令可能流于形式。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Google 被英国监管机构要求为 AI 搜索结果添加更清晰链接",
+        "summary": "英国监管机构裁定 Google 必须修改 AI Overviews，提供更清晰的来源链接，并允许英国出版商选择退出 AI 摘要。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "研究显示 Waymo 无人出租车近一半里程为空驶，并未缓解交通",
+        "summary": "最新数据表明，Waymo 的自动驾驶出租车有近一半的行驶里程没有乘客，与网约车一样未能减少交通拥堵。",
+        "url": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "AI 越强大，越暴露其空洞承诺",
+        "summary": "The Verge 评论员体验 Google 新 AI 代理 Spark 后指出，AI 虽然能力惊人，但缺乏真正的理解和情感，其“智能”背后是空洞的承诺。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+        "source": "The Verge"
+      },
+      {
+        "title": "虚拟电厂如何为数据中心供电？Google 签署新协议",
+        "summary": "Google 与 Voltus 签署协议，支持美国最大电网的虚拟电厂项目，通过激励用户减少用电来为数据中心提供绿色能源。",
+        "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+        "source": "MIT Technology Review"
+      }
+    ]
+  }
+}
