@@ -77,6 +77,19 @@ jobs:
           esac
 
           echo "type=${TYPE}" >> $GITHUB_OUTPUT
+
+          # 计算时间上下文
+          ET_TODAY=$(TZ='America/New_York' date +%m/%d)
+          ET_YESTERDAY=$(TZ='America/New_York' date -d 'yesterday' +%m/%d)
+          BJT_NOW=$(TZ='Asia/Shanghai' date +%m/%d\ %H:%M)
+          case "$TYPE" in
+            ai)         TIME_CONTEXT="📅 截至 ${BJT_NOW} 北京时间" ;;
+            us_market)  TIME_CONTEXT="📅 截至美股 ${ET_YESTERDAY} 收盘 · ${ET_TODAY} 盘前更新" ;;
+            global)     TIME_CONTEXT="📅 截至 ${BJT_NOW} 北京时间" ;;
+            skip)       TIME_CONTEXT="" ;;
+          esac
+          echo "time_context=${TIME_CONTEXT}" >> $GITHUB_OUTPUT
+
           echo "🎯 本趟任务: ${TYPE}"
 
       - name: 采集 & DeepSeek炼油 & 存储
@@ -90,6 +103,7 @@ jobs:
         if: steps.slot.outputs.type != 'skip'
         env:
           BARK_KEY: ${{ secrets.BARK_KEY }}
+          TIME_CONTEXT: ${{ steps.slot.outputs.time_context }}
         run: |
           TODAY=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
           case "${{ steps.slot.outputs.type }}" in
@@ -109,6 +123,7 @@ jobs:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_OPEN_ID: ${{ secrets.FEISHU_OPEN_ID }}
+          TIME_CONTEXT: ${{ steps.slot.outputs.time_context }}
         run: |
           TODAY=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
           case "${{ steps.slot.outputs.type }}" in

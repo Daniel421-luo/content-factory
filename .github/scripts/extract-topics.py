@@ -1,20 +1,31 @@
 #!/usr/bin/env python3
 """Extract topics from Content Factory daily report for push notifications.
 
-Usage: python extract-topics.py <report.md> <mode>
+Usage:
+  python extract-topics.py <report.md> <mode>
   mode: bark   → compact for push notification body
         feishu → full topic list for IM message
+
+Also reads TIME_CONTEXT env var for an optional time-context header line.
 """
 
-import sys, re
+import os, sys, re
 
 filepath = sys.argv[1]
 mode = sys.argv[2]
+time_context = os.environ.get("TIME_CONTEXT", "")
 
 with open(filepath) as f:
     content = f.read()
 
 lines = content.split("\n")
+
+# Extract frontmatter date
+fm_date = ""
+for line in lines:
+    if line.startswith("date:"):
+        fm_date = line.split('"')[1] if '"' in line else line.split(":")[1].strip()
+        break
 
 # Extract headlines: only > lines before the first ## section
 headlines = []
@@ -43,9 +54,13 @@ for line in lines:
 if current_section:
     sections.append(current_section)
 
+# ── Time context line ──
+tc_line = time_context
+
 if mode == "bark":
-    # Compact: headlines + section counts
     parts = []
+    if tc_line:
+        parts.append(tc_line)
     if headlines:
         parts.append(" › ".join(headlines[:2]))
     section_parts = []
@@ -57,6 +72,9 @@ if mode == "bark":
 
 elif mode == "feishu":
     output = []
+    if tc_line:
+        output.append(tc_line)
+        output.append("")
     if headlines:
         for h in headlines[:2]:
             output.append(f"> {h}")
