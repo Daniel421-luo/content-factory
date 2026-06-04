@@ -1,0 +1,174 @@
+{
+  "title": "📈 美股简报 | 2026-06-04",
+  "headline": "中东紧张局势升级引发避险情绪，美股期货走低，油价上涨；博通财报后股价大跌，SpaceX IPO定价135美元",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货下跌，中东冲突升级",
+        "summary": "受伊朗与美国紧张局势影响，美股期货盘前走低，道指期货跌超200点，标普500和纳指期货均下跌。油价上涨，布伦特原油突破80美元。",
+        "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-iran-war-worries-halt-stock-rally.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "亚洲市场普遍下跌",
+        "summary": "亚太股市开盘走低，日经225、恒生指数、沪深300等主要指数下跌，市场担忧中东冲突推高通胀。",
+        "url": "https://www.cnbc.com/2026/06/04/asia-markets-today-asx-nikkei-kospi-hang-seng-csi-300-sensex-oil.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块受油价上涨提振",
+        "summary": "中东紧张局势推动油价走高，能源股有望受益，XLE ETF盘前上涨。",
+        "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-iran-war-worries-halt-stock-rally.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科技股承压，半导体领跌",
+        "summary": "博通财报不及预期导致股价大跌，拖累整个半导体板块，SOXX盘前下跌。",
+        "url": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "博通财报不及预期，股价大跌",
+        "summary": "博通公布第二财季营收低于预期，软件销售疲软，AI芯片全年预测未上调，股价盘前大幅下跌。",
+        "url": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "CrowdStrike财报后股价下跌",
+        "summary": "尽管营收和利润超预期，但投资者对网络安全板块盈利前景担忧，股价盘前下跌。",
+        "url": "https://www.marketwatch.com/story/crowdstrikes-stock-falls-as-investors-find-more-reason-to-pan-cybersecurity-earnings-d1b5f619",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "SpaceX IPO定价135美元，估值1.77万亿美元",
+        "summary": "SpaceX计划以每股135美元发行股票，筹集约750亿美元，估值达1.77万亿美元，成为美国第七大公司。",
+        "url": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Alphabet 800亿美元股票发售获高盛支持",
+        "summary": "Alphabet进行800亿美元股票发售，高盛担任联合账簿管理人，称此举处于'前所未有'的领域。",
+        "url": "https://www.cnbc.com/2026/06/03/alphabet-stock-sale-goldman-international-gutman.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "博通财报后暴跌，AI芯片增长未超预期",
+        "summary": "博通第二财季营收不及预期，软件销售疲软，AI芯片全年预测未上调，股价盘前大跌。",
+        "url": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Marvell Technology参加BofA技术大会",
+        "summary": "Marvell在BofA全球技术大会上发表演讲，但未披露具体内容。",
+        "url": "https://seekingalpha.com/article/4911751-marvell-technology-inc-mrvl-presents-at-bank-of-america-2026-global-technology-conference",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "中东紧张局势升级，油价上涨",
+        "summary": "以色列总理内塔尼亚胡表示美以准备在必要时再次打击伊朗，市场避险情绪升温，油价上涨。",
+        "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-iran-war-worries-halt-stock-rally.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国宣布新关税，涉及强迫劳动问题",
+        "summary": "美国宣布针对强迫劳动问题的新关税，此前最高法院在2月推翻了特朗普的许多关税。",
+        "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo",
+        "source": "BBC"
+      },
+      {
+        "title": "比特币长期持有者开始抛售，价格创新低",
+        "summary": "过去两天，比特币高信念持有者抛售约24亿美元，比特币价格连续第四天下跌。",
+        "url": "https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东冲突升级风险",
+        "summary": "以色列和美国准备再次打击伊朗，可能进一步推高油价并引发市场动荡。",
+        "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-iran-war-worries-halt-stock-rally.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "做空者欺诈定罪引发市场操纵担忧",
+        "summary": "一名做空者被定罪，华尔街担心检察官将做空策略等同于市场操纵，可能影响做空活动。",
+        "url": "https://www.wsj.com/finance/stocks/a-short-sellers-fraud-conviction-is-spooking-wall-street-3ad6fbe6",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "中东紧张局势升级，油价上涨",
+      "direction": "看多",
+      "asset_impact": "XLE, USO, CVX, XOM",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "博通财报不及预期，AI芯片预测未上调",
+      "direction": "看空",
+      "asset_impact": "AVGO, SOXX, NVDA, AMD",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "CrowdStrike财报后股价下跌，网络安全板块承压",
+      "direction": "看空",
+      "asset_impact": "CRWD, PANW, CYBR",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SpaceX IPO定价135美元，估值1.77万亿美元",
+      "direction": "中性",
+      "asset_impact": "SPCE, BA, LMT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Alphabet 800亿美元股票发售",
+      "direction": "看空",
+      "asset_impact": "GOOGL, GOOG",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "比特币长期持有者抛售，价格创新低",
+      "direction": "看空",
+      "asset_impact": "BTC, BITO, MSTR, COIN",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美国宣布新关税，涉及强迫劳动",
+      "direction": "看空",
+      "asset_impact": "FXI, ASHR, KWEB",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "做空者欺诈定罪引发市场操纵担忧",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ, IWM",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
