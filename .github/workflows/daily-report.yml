@@ -98,8 +98,8 @@ jobs:
             global)     PREFIX="全球简报"; EMOJI="🌍" ;;
           esac
           FILE="日报/${PREFIX}-${TODAY}.md"
-          HEADLINE=$(grep '^>' "$FILE" | grep -v '📡' | grep -v '⏰' | head -1 | sed 's/^> //' | head -c 200 | python3 -c "import sys,urllib.parse; print(urllib.parse.quote(sys.stdin.read()))")
-          curl -s -o /dev/null -w "%{http_code}" "https://api.day.app/${BARK_KEY}/${EMOJI}%20${PREFIX}/${HEADLINE}?group=%E6%97%A5%E6%8A%A5" || true
+          BODY=$(python3 .github/scripts/extract-topics.py "$FILE" bark | python3 -c "import sys,urllib.parse; print(urllib.parse.quote(sys.stdin.read()))")
+          curl -s -o /dev/null -w "%{http_code}" "https://api.day.app/${BARK_KEY}/${EMOJI}%20${PREFIX}/${BODY}?group=%E6%97%A5%E6%8A%A5" || true
           echo ""
           echo "✅ Bark 已推送: ${EMOJI} ${PREFIX}"
 
@@ -117,15 +117,14 @@ jobs:
             global)     PREFIX="全球简报"; EMOJI="🌍" ;;
           esac
           FILE="日报/${PREFIX}-${TODAY}.md"
-          HEADLINE=$(grep '^>' "$FILE" | grep -v '📡' | grep -v '⏰' | head -1 | sed 's/^> //' | head -c 200)
-          html_url="${{ github.server_url }}/${{ github.repository }}/blob/main/${FILE// /%20}"
-          python3 - "$EMOJI" "$PREFIX" "$HEADLINE" "$TODAY" "$html_url" << 'PYEOF'
+          TOPICS=$(python3 .github/scripts/extract-topics.py "$FILE" feishu)
+          python3 - "$EMOJI" "$PREFIX" "$TODAY" "$TOPICS" << 'PYEOF'
           import json, os, requests, sys
-          _, emoji, prefix, headline, today, html_url = sys.argv
+          _, emoji, prefix, today, topics = sys.argv
           r = requests.post("https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal",
               json={"app_id": os.environ["FEISHU_APP_ID"], "app_secret": os.environ["FEISHU_APP_SECRET"]}, timeout=10)
           token = r.json()["tenant_access_token"]
-          msg = f"{emoji} {prefix} | {today}\n{headline}\n\n🔗 {html_url}"
+          msg = f"{emoji} {prefix} | {today}\n\n{topics}"
           r = requests.post("https://open.feishu.cn/open-apis/im/v1/messages",
               params={"receive_id_type": "open_id"},
               headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
