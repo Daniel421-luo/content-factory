@@ -1,0 +1,97 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-05",
+  "headline": "TSMC 坦言难以满足 AI 芯片需求；Ramp 以 440 亿美元估值融资 7.5 亿美元；Jeff Bezos 投资 5 亿美元探索大脑核心算法。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Meta 面向 WhatsApp Business 的 AI 智能体现已全球上线",
+        "summary": "Meta 为 WhatsApp Business 打造的 AI 智能体面向全球商家开放，将按模型 token 使用量向企业收费。",
+        "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Grok Imagine 1.5 预览版发布",
+        "summary": "SpaceXAI 发布 Grok Imagine 1.5 预览版，即日起可在 API 中体验。",
+        "url": "https://x.com/cb_doge/status/2062242490745594085",
+        "source": "X"
+      },
+      {
+        "title": "MiniMax M3 1M token 解码加速 15.6 倍",
+        "summary": "MiniMax 宣布其 M3 模型在 1M token 长度下解码速度提升 15.6 倍，由 FireworksAI 提供推理支持。",
+        "url": "https://x.com/MiniMax_AI/status/2062316914618388758",
+        "source": "X"
+      },
+      {
+        "title": "Miso One 开源语音模型发布：8B 参数、110ms 延迟、一次语音克隆",
+        "summary": "Miso One 是一个 8B 参数的开源 TTS 模型，支持一次语音克隆，推理延迟仅 110ms，模型权重已开源。",
+        "url": "https://x.com/kimmonismus/status/2062210845308780639",
+        "source": "X"
+      },
+      {
+        "title": "NousResearch 发布 Hermes Agent 桌面应用公测版",
+        "summary": "NousResearch 推出 Hermes Agent 桌面应用公测版，可供用户使用。",
+        "url": "https://x.com/SiliconFlowAI/status/2062042813852995899",
+        "source": "X"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Ramp 以 440 亿美元估值融资 7.5 亿美元",
+        "summary": "企业支出管理平台 Ramp 完成 7.5 亿美元融资，估值达 440 亿美元，投资者对其 AI 故事兴趣浓厚。",
+        "url": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jeff Bezos 投资 5 亿美元探索大脑核心算法",
+        "summary": "Flourish 获得 5 亿美元融资，估值 25 亿美元，旨在通过研究真实神经元来重塑 AI。",
+        "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+        "source": "Wired"
+      },
+      {
+        "title": "TSMC 坦言难以满足 AI 芯片需求",
+        "summary": "台积电 CEO 表示客户需求过高，公司产能有限，即使在美国建厂也难以完全满足。",
+        "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+        "source": "The Verge"
+      },
+      {
+        "title": "Google 被要求在英国 AI 搜索中提供更清晰链接并允许出版商退出",
+        "summary": "英国监管机构命令 Google 修改 AI Overviews，要求提供更清晰的来源链接，并允许出版商选择退出。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Waymo 将退役机器人出租车电池用于电网储能",
+        "summary": "Waymo 与 B2U Storage Solutions 达成协议，将退役电池组用于加州和德州的储能项目。",
+        "url": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "法院如何应对 AI 生成的诉讼文书洪流",
+        "summary": "美国联邦法官每天处理大量由 AI 生成的法律文件，这些文件质量参差不齐，给司法系统带来新挑战。",
+        "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "虚拟电厂如何为数据中心提供能源",
+        "summary": "Google 签署新协议，通过虚拟电厂（VPP）为数据中心供电，用户可通过减少用电获得补偿。",
+        "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "让我们过滤 AI 垃圾内容，你们这些懦夫",
+        "summary": "文章呼吁 YouTube、Instagram、TikTok 等平台提供过滤 AI 生成内容的选项，让用户自主选择。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+        "source": "The Verge"
+      },
+      {
+        "title": "量子计算迎来公开市场时刻",
+        "summary": "量子计算初创公司 Quantinuum 尽管亏损，但投资者仍争相投资，量子计算概念股受追捧。",
+        "url": "https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
