@@ -98,8 +98,8 @@ jobs:
             global)     PREFIX="全球简报"; EMOJI="🌍" ;;
           esac
           FILE="日报/${PREFIX}-${TODAY}.md"
-          HEADLINE=$(grep '^>' "$FILE" | grep -v '📡' | grep -v '⏰' | head -1 | sed 's/^> //' | head -c 200)
-          curl -s -o /dev/null -w "%{http_code}" "https://api.day.app/${BARK_KEY}/${EMOJI}%20${PREFIX}/${HEADLINE}?group=%E6%97%A5%E6%8A%A5"
+          HEADLINE=$(grep '^>' "$FILE" | grep -v '📡' | grep -v '⏰' | head -1 | sed 's/^> //' | head -c 200 | python3 -c "import sys,urllib.parse; print(urllib.parse.quote(sys.stdin.read()))")
+          curl -s -o /dev/null -w "%{http_code}" "https://api.day.app/${BARK_KEY}/${EMOJI}%20${PREFIX}/${HEADLINE}?group=%E6%97%A5%E6%8A%A5" || true
           echo ""
           echo "✅ Bark 已推送: ${EMOJI} ${PREFIX}"
 
