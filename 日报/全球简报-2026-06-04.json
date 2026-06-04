@@ -1,0 +1,192 @@
+{
+  "title": "🌍 全球简报 | 2026-06-04",
+  "headline": "美国众议院通过战争权力决议限制对伊朗动武，中东紧张局势升级；乌克兰无人机袭击圣彼得堡；SpaceX IPO估值1.77万亿美元",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国众议院通过战争权力决议，限制特朗普对伊朗动武",
+        "summary": "众议院以215-208票通过决议，要求特朗普停止对伊朗的敌对行动，这是罕见的跨党派反战行动，但决议主要具有象征意义。",
+        "url": "https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote",
+        "source": "NPR"
+      },
+      {
+        "title": "伊朗无人机袭击科威特机场致1死数十伤",
+        "summary": "伊朗称袭击是对美国此前打击伊朗油轮和岛屿的报复，中东紧张局势进一步升级。",
+        "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
+        "source": "BBC"
+      },
+      {
+        "title": "乌克兰无人机袭击圣彼得堡，普京经济论坛开幕",
+        "summary": "多架远程无人机击中圣彼得堡附近的石油储存设施，正值普京即将出席年度经济论坛之际。",
+        "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
+        "source": "BBC"
+      },
+      {
+        "title": "SpaceX目标IPO定价135美元，估值达1.77万亿美元",
+        "summary": "若成功，SpaceX将成为美国第七大上市公司，市值超过特斯拉。",
+        "url": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "以色列与黎巴嫩同意在真主党停止攻击后实施停火",
+        "summary": "美国国务院表示，双方拒绝任何国家或非国家行为体将黎巴嫩未来作为人质的行为。",
+        "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普确认称内塔尼亚胡“疯狂”，但称关系仍好",
+        "summary": "特朗普承认在激烈通话中辱骂以色列总理，并警告其不要轰炸贝鲁特。",
+        "url": "https://www.npr.org/2026/06/03/g-s1-125631/trump-confirms-calling-netanyahu-crazy-says-they-still-get-along",
+        "source": "NPR"
+      },
+      {
+        "title": "德国指责俄罗斯导致其联合国安理会席位竞选“惨败”",
+        "summary": "德国议员称俄罗斯因德国支持乌克兰而煽动反对情绪。",
+        "url": "https://www.bbc.com/news/articles/cgmp3pg71edo",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普称伊朗同意不拥有核武器，但“可能改变主意”",
+        "summary": "特朗普在接受纽约邮报采访时发表上述言论。",
+        "url": "https://www.cnbc.com/2026/06/03/trump-iran-war-nuclear-weapon.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "亚太市场因中东紧张局势低开",
+        "summary": "伊朗与美国冲突升级引发通胀担忧，亚洲股市普遍下跌。",
+        "url": "https://www.cnbc.com/2026/06/04/asia-markets-today-asx-nikkei-kospi-hang-seng-csi-300-sensex-oil.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普政府提议对巴西征收25%关税",
+        "summary": "美国声称巴西存在“不合理”贸易行为，尽管美国对巴西享有贸易顺差。",
+        "url": "https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs",
+        "source": "Guardian"
+      },
+      {
+        "title": "Broadcom股价因软件销售疲软暴跌",
+        "summary": "公司第二财季营收不及预期，AI芯片预测未上调。",
+        "url": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "卖家撤出房市速度创2020年以来最快",
+        "summary": "需求疲软和竞价战减少导致更多卖家取消挂牌。",
+        "url": "https://www.cnbc.com/2026/06/03/sellers-delisting-homes-redfin.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "亚马逊工程师抨击公司一边裁员一边建AI数据中心",
+        "summary": "亚马逊计划今年在AI基础设施上投入2000亿美元，同时裁员3万人。",
+        "url": "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "台湾和韩国股市一周内超越印度",
+        "summary": "印度股市因国内消费疲软和AI落后而失去全球投资者青睐。",
+        "url": "https://www.cnbc.com/2026/06/04/why-taiwan-and-south-koreas-stock-markets-have-surged-past-india.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "普京在圣彼得堡国际经济论坛发表讲话",
+        "summary": "乌克兰无人机袭击后，普京将出席论坛并可能就冲突和经济发表言论。",
+        "url": "",
+        "source": "BBC"
+      },
+      {
+        "title": "美国参议院就ICE资金法案继续辩论",
+        "summary": "共和党法案旨在为移民执法提供资金至特朗普任期结束，但面临民主党反对。",
+        "url": "https://www.npr.org/2026/06/03/g-s1-125779/senate-republicans-start-debate-on-ice-funding-package",
+        "source": "NPR"
+      },
+      {
+        "title": "刚果（金）埃博拉疫情进展",
+        "summary": "WHO称疫情可能早在1月就已开始，应对工作正在追赶。",
+        "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国众议院通过战争权力决议限制对伊朗动武，但象征意义大于实际",
+      "direction": "看空",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "伊朗无人机袭击科威特机场，中东冲突升级",
+      "direction": "看多",
+      "asset_impact": "USO, GLD, VIX",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "以色列与黎巴嫩同意有条件停火，但真主党态度不明",
+      "direction": "中性",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "乌克兰无人机袭击圣彼得堡石油设施，俄乌冲突持续",
+      "direction": "看多",
+      "asset_impact": "USO, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普提议对巴西征收25%关税，贸易摩擦扩大",
+      "direction": "看空",
+      "asset_impact": "EWZ, /ES, USDBRL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "SpaceX IPO估值1.77万亿美元，市场情绪积极",
+      "direction": "看多",
+      "asset_impact": "SPCE, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "亚太市场因中东紧张低开，避险情绪升温",
+      "direction": "看空",
+      "asset_impact": "FXI, NKY, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Broadcom财报不及预期，科技股承压",
+      "direction": "看空",
+      "asset_impact": "SMH, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国房市卖家撤单率上升，需求减弱",
+      "direction": "看空",
+      "asset_impact": "ITB, US10Y",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
