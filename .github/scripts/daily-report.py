@@ -536,8 +536,8 @@ def build_markdown(data, cfg):
         lines.append("")
 
     lines.append("---")
-    lines.append(    repo_url = os.environ.get("GITHUB_SERVER_URL", "https://github.com") + "/" + os.environ.get("GITHUB_REPOSITORY", "your/content-factory")
-    lines.append(f"*由 [AI Content Factory]({repo_url}) 自动生成 · {len(data.get('sections', {}))} 个板块*"))
+    repo_url = os.environ.get("GITHUB_SERVER_URL", "https://github.com") + "/" + os.environ.get("GITHUB_REPOSITORY", "your/content-factory")
+    lines.append(f"*由 [AI Content Factory]({repo_url}) 自动生成 · {len(data.get('sections', {}))} 个板块*")
     return "\n".join(lines)
 
 
