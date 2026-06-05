@@ -1,0 +1,196 @@
+{
+  "title": "🌍 全球简报 | 2026-06-05",
+  "headline": "美国参议院通过700亿美元移民执法拨款法案，泽连斯基致信普京提议直接谈判，刚果（金）埃博拉疫情或已持续数月",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国参议院通过700亿美元移民执法拨款法案",
+        "summary": "经过18小时通宵辩论，参议院通过法案，为ICE和边境巡逻队提供三年资金，未对特朗普和解基金设限。",
+        "url": "https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund",
+        "source": "NPR"
+      },
+      {
+        "title": "泽连斯基致信普京提议直接谈判",
+        "summary": "乌克兰总统表示只有两国“直接接触”才能结束战争，此时美国注意力集中在伊朗。",
+        "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o",
+        "source": "BBC"
+      },
+      {
+        "title": "刚果（金）埃博拉疫情或已从1月开始",
+        "summary": "世卫组织总干事谭德塞表示病毒“领先很多”，但应对正在追赶。同时东部叛乱袭击已致30人死亡。",
+        "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国对古巴总统及卡斯特罗家族实施新制裁",
+        "summary": "国务卿卢比奥宣布制裁，警告任何向被制裁实体提供服务者均面临风险。",
+        "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+        "source": "Guardian"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "真主党拒绝以色列与黎巴嫩达成的停火协议",
+        "summary": "美国周三晚宣布停火协议，但真主党表示拒绝。",
+        "url": "https://www.bbc.com/news/articles/c052343r812o",
+        "source": "BBC"
+      },
+      {
+        "title": "索马里首都爆发政府军与反对派民兵冲突",
+        "summary": "在总统任期届满后决定留任引发抗议，冲突导致平民逃离。",
+        "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+        "source": "Guardian"
+      },
+      {
+        "title": "非洲“家庭价值观”宪章被指倒退",
+        "summary": "草案拒绝性健康和生殖健康权利，人权组织谴责其危险。",
+        "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+        "source": "Guardian"
+      },
+      {
+        "title": "奥运选手联名抗议伊朗处决拳击冠军",
+        "summary": "纳芙拉蒂洛娃等运动员签署公开信，要求停止处决穆罕默德·贾瓦德·瓦法埃·萨尼。",
+        "url": "https://www.foxnews.com/sports/olympians-unite-speak-iran-execution-countrys-star-athletes",
+        "source": "Fox News"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美国5月非农就业报告今日公布",
+        "summary": "市场预期就业增长可能放缓，此前年初数据强于预期。",
+        "url": "https://www.cnbc.com/2026/06/04/the-may-jobs-report-will-be-released-friday-heres-what-to-expect.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "霍尔木兹海峡对峙颠覆能源安全辩论",
+        "summary": "伊朗对战略水道的控制意外推动可再生能源讨论，油价波动加剧。",
+        "url": "https://www.cnbc.com/2026/06/05/iran-war-strait-of-hormuz-renewables-oil-gas.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "印度一季度GDP同比增长7.8%超预期",
+        "summary": "尽管中东冲突带来逆风，印度经济仍保持全球最快增速。",
+        "url": "https://www.cnbc.com/2026/06/05/india-gdp-economy-oil-middle-east-disruption.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "量化基金成2026年油价波动大赢家",
+        "summary": "计算机趋势跟踪对冲基金成功利用能源市场大幅波动获利，现正调整策略。",
+        "url": "https://www.cnbc.com/2026/06/05/oil-price-iran-hedge-funds-quant-traders-trends-energy-shock.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "OpenAI将遵守特朗普AI模型审查行政令",
+        "summary": "OpenAI国家主管表示政府在AI部署中应发挥重要作用。",
+        "url": "https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Anthropic IPO成AI估值首个大考",
+        "summary": "Anthropic本周向公开上市迈出重要一步，将与OpenAI竞争。",
+        "url": "https://www.cnbc.com/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国从美国挖角AI人才，瞄准下一个“超级应用”",
+        "summary": "腾讯首席AI科学家姚顺宇从OpenAI加盟，称将追求通用人工智能。",
+        "url": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科学家教AI机器人运行实验室实验",
+        "summary": "自主机器人实验室旨在接管研究人员最耗时的工作。",
+        "url": "https://www.npr.org/2026/06/05/nx-s1-5846973/ai-science-robots-risks-experiments-gingko-bioworks",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国5月非农就业数据发布",
+        "summary": "市场关注就业增长是否放缓，影响美联储政策预期。",
+        "url": "",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗局势与油价波动",
+        "summary": "霍尔木兹海峡紧张局势持续，能源市场可能进一步动荡。",
+        "url": "",
+        "source": "CNBC"
+      },
+      {
+        "title": "刚果（金）埃博拉疫情应对进展",
+        "summary": "世卫组织及国际社会关注疫情控制情况。",
+        "url": "",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国参议院通过700亿美元移民执法拨款，强化边境安全",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "泽连斯基提议与普京直接谈判，俄乌和谈可能性上升",
+      "direction": "看空",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "真主党拒绝黎以停火协议，中东紧张局势持续",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "霍尔木兹海峡对峙推升油价波动，能源安全辩论转向可再生能源",
+      "direction": "看多",
+      "asset_impact": "USO, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "印度一季度GDP增长7.8%超预期，但中东冲突构成逆风",
+      "direction": "看多",
+      "asset_impact": "FXI, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国对古巴实施新制裁，地缘政治风险上升",
+      "direction": "中性",
+      "asset_impact": "USO, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "刚果（金）埃博拉疫情可能已持续数月，全球卫生风险",
+      "direction": "看空",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国从美国挖角AI人才，科技竞争加剧",
+      "direction": "中性",
+      "asset_impact": "FXI, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
