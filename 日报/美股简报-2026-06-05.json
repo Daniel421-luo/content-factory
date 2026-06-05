@@ -1,0 +1,170 @@
+{
+  "title": "📈 美股简报 | 2026-06-05",
+  "headline": "非农数据公布前市场谨慎，科技股遭Broadcom财报拖累大幅回调，道指受医疗和金融股推动创历史新高",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "标普500期货小幅走低，市场等待5月非农报告",
+        "summary": "标普500期货下跌，本周有望小幅收涨，若实现将连续第10周上涨，创1985年以来最长连涨纪录。",
+        "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "科技股遭抛售，资金轮动至医疗和金融板块",
+        "summary": "Broadcom财报不及预期引发科技股抛售，纳斯达克下跌，但道指受医疗和金融股推动飙升875点创历史新高。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-04-2026",
+        "source": "WSJ"
+      },
+      {
+        "title": "亚洲科技股跟随下跌，韩国KOSPI跌超5%",
+        "summary": "亚洲科技股周五大幅下跌，韩国KOSPI指数跌超5%，受美国芯片股抛售波及。",
+        "url": "https://www.cnbc.com/2026/06/05/asia-markets-today-nikkei-225-kospi-hang-seng-index-csi-300-nifty50.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Lululemon下调全年业绩指引，股价承压",
+        "summary": "Lululemon周四下调全年业绩指引，因与创始人的纠纷持续影响销售，预计今年销售可能下滑。",
+        "url": "https://www.marketwatch.com/story/lululemon-admits-far-more-work-is-needed-for-a-turnaround-and-its-stock-sinks-e28c5618",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Marvell有望加入标普500指数",
+        "summary": "标普500指数成分股调整将于周五宣布，Marvell因股价暴涨市值远超其他候选公司，有望被纳入。",
+        "url": "https://www.marketwatch.com/story/marvell-looks-poised-to-finally-get-a-spot-in-the-s-p-500-after-explosive-stock-surge-02d952c6",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Quantinuum在纳斯达克首日交易平收",
+        "summary": "量子计算公司Quantinuum在纳斯达克上市首日平收，此前发行规模扩大，霍尼韦尔仍持多数股权。",
+        "url": "https://www.cnbc.com/2026/06/04/quantinuum-qnt-stock-first-trade-ipo.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "Broadcom财报不及预期，拖累全球芯片股",
+        "summary": "Broadcom财报令人失望，引发AI相关股票资金外流，美国半导体股下跌，亚洲科技股如SK海力士、三星、台积电等跟跌。",
+        "url": "https://www.cnbc.com/2026/06/05/asian-technology-stocks-sk-hynix-samsung-tsmc-advantest.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "韩国投资者紧盯英伟达CEO黄仁勋访问",
+        "summary": "韩国投资者密切关注英伟达CEO黄仁勋的行程，期待AI巨头下一步动向。",
+        "url": "https://www.cnbc.com/2026/06/05/south-korea-is-obsessing-over-nvidia-ceo-jensen-huangs-visit.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普称可能与伊朗最高领袖会面以达成协议",
+        "summary": "特朗普表示，如果有助于达成协议，他可能会与伊朗最高领袖会面。此前美伊因商船发生冲突。",
+        "url": "https://www.cnbc.com/2026/06/04/trump-iran-supreme-leader.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普动用战时权力宣布7亿美元煤炭投资",
+        "summary": "特朗普宣布投资7亿美元用于煤炭行业，包括新建和现有煤电厂，以及加州奥克兰的出口终端，以应对伊朗战争导致的能源成本上升。",
+        "url": "https://www.bbc.com/news/articles/cy0209r62k5o",
+        "source": "BBC"
+      },
+      {
+        "title": "印度央行维持利率不变，下调增长预期上调通胀预期",
+        "summary": "印度央行将利率维持在5.25%不变，将2027财年通胀预期上调50个基点至5.1%，增长预期从6.9%下调至6.6%。",
+        "url": "https://www.cnbc.com/2026/06/05/india-rbi-rate-gdp-inflation.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "非农就业报告今日公布，可能引发市场波动",
+        "summary": "5月非农就业数据将于今日公布，市场预期将影响美联储利率路径，可能引发股市和债市波动。",
+        "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗局势：商船被困波斯湾，美伊冲突风险持续",
+        "summary": "本周美伊冲突导致商船被困波斯湾，部分船只与美国海军协调撤离霍尔木兹海峡，地缘风险仍存。",
+        "url": "https://www.cnbc.com/2026/06/04/iran-war-strait-hormuz-persian-gulf-oil-tanker-transit.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "Broadcom财报不及预期引发科技股抛售，资金轮动至防御板块",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD, SOXX, QQQ",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "道指受医疗和金融股推动创历史新高，显示市场风格切换",
+      "direction": "看多",
+      "asset_impact": "DIA, XLV, XLF",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "特朗普暗示可能与伊朗会面，地缘风险缓和预期升温",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, SPY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普宣布7亿美元煤炭投资，能源政策转向传统能源",
+      "direction": "看多",
+      "asset_impact": "KOL, BTU, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "亚洲科技股跟随美国芯片股大跌，韩国KOSPI跌超5%",
+      "direction": "看空",
+      "asset_impact": "EWY, TSM, ASML",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Marvell有望被纳入标普500指数，可能引发指数基金买入",
+      "direction": "看多",
+      "asset_impact": "MRVL",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Lululemon下调全年指引，消费疲软信号",
+      "direction": "看空",
+      "asset_impact": "LULU, XRT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "印度央行下调增长预期，新兴市场增长担忧",
+      "direction": "看空",
+      "asset_impact": "EEM, INDA",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "非农就业报告今日公布，市场预期可能影响美联储政策",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
