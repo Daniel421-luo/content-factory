@@ -1,0 +1,55 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-06",
+  "headline": "Google 每月向 SpaceX 支付 9.2 亿美元用于算力；Reid Hoffman 离开微软董事会，专注 AI 药物发现公司 Manus；Meta AI 客服被黑客利用窃取 Instagram 账户。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google 每月向 SpaceX 支付 9.2 亿美元用于算力",
+        "summary": "Google 与 SpaceX 达成巨额计算协议，每月支付 9.2 亿美元以应对 AI 产品需求激增。",
+        "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Reid Hoffman 离开微软董事会，专注 AI 药物发现公司 Manus",
+        "summary": "在微软董事会任职十年后，Reid Hoffman 辞职，全力投入其 AI 药物发现初创公司 Manus。",
+        "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "S&P 500 拒绝 SpaceX 及 AI 公司 OpenAI、Anthropic 快速纳入",
+        "summary": "标普 500 指数未对 SpaceX 放宽盈利要求，同时阻止了 OpenAI 和 Anthropic 等未盈利 AI 公司的快速准入。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "大型数据中心计划因抗议缩减 50%",
+        "summary": "开发商因社区强烈反对，将原定数据中心规模砍半，称“别无选择”。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Meta 黑客事件表明 AI 安全不止于“神话”",
+        "summary": "攻击者利用 Meta 的 AI 客服代理窃取 Instagram 账户，包括奥巴马的白宫账户，暴露了 AI 系统的安全漏洞。",
+        "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "AI 聊天机器人是否让我们失去对大脑的控制？",
+        "summary": "心理学家 Gloria Mark 在 SXSW 伦敦分享研究：AI 聊天机器人可能加剧注意力分散，影响人类认知控制。",
+        "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "法院如何应对 AI 生成的诉讼潮",
+        "summary": "联邦法官 Maritza Braswell 每天处理大量由 AI 生成的法律文件，法院系统面临新的挑战。",
+        "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+        "source": "MIT Technology Review"
+      }
+    ]
+  }
+}
