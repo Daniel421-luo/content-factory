@@ -1,0 +1,170 @@
+{
+  "title": "🌍 全球简报 | 2026-06-07",
+  "headline": "伊朗战争满100天，美国拟用伊朗资产重建海湾盟友；俄经济论坛遭无人机袭击阴影笼罩；秘鲁总统决选投票今日举行。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "伊朗战争满100天：全球市场与经济影响一览",
+        "summary": "伊朗冲突即将达到100天，和平谈判悬而未决。图表显示油价、股市、债券等资产受到显著影响。",
+        "url": "https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国拟用伊朗资产重建海湾盟友",
+        "summary": "消息人士称，美国财长贝森特已指示团队评估伊朗对海湾盟友造成的损失，并计划使用伊朗资产进行重建。",
+        "url": "https://www.cnbc.com/2026/06/06/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "俄经济论坛遭乌克兰无人机袭击阴影笼罩",
+        "summary": "BBC俄罗斯编辑称，普京的旗舰经济论坛被乌克兰无人机袭击事件所掩盖。",
+        "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "秘鲁总统决选：右翼藤森庆子与左翼桑切斯对决",
+        "summary": "秘鲁选民周日投票，在亲美的保守派藤森庆子和左派议员桑切斯之间做出选择，该国面临犯罪和动荡挑战。",
+        "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
+        "source": "Guardian"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "以色列被曝在黎巴嫩附近使用白磷弹",
+        "summary": "白磷弹虽未被国际法禁止，但在平民区可造成残忍伤害和滥杀。",
+        "url": "https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus",
+        "source": "NPR"
+      },
+      {
+        "title": "伊朗称技术人员被拒入境美国，此前球员获世界杯签证",
+        "summary": "伊朗官员表示，在美国允许球员入境数小时后，技术人员被拒签。",
+        "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "美国防部长赫格塞斯在诺曼底演讲中抨击欧洲移民政策",
+        "summary": "赫格塞斯在诺曼底登陆82周年纪念活动上，以海滩“入侵”比喻批评欧洲移民问题。",
+        "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "西岸7个月大婴儿被以军枪杀，葬礼举行",
+        "summary": "婴儿的尸体裹着巴勒斯坦国旗，由父亲抱至墓地。",
+        "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "比特币暴跌，华尔街新加密热潮兴起",
+        "summary": "比特币跌至2024年以来最低，投资者涌入与超流动性平台挂钩的新型加密投资产品HYPE ETF。",
+        "url": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国电动车或数年内进入美国市场",
+        "summary": "尽管有关税、严格法律和行业反对，中国电动车仍有望在几年内进入美国。",
+        "url": "https://www.cnbc.com/2026/06/06/chinese-evs-auto-sales-manufacturing-us.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "加拿大沃尔玛仓库工人签署首份工会协议",
+        "summary": "工会称这是“历史性”突破，但只是更广泛工会化斗争的开始。",
+        "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国确认第二例德克萨斯州螺旋蛆病例，加拿大限制牲畜进口",
+        "summary": "新世界螺旋蛆幼虫以温血动物活组织为食，若不治疗可致命。",
+        "url": "https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "大黄蜂能像黑猩猩和大象一样解决问题",
+        "summary": "新研究表明，这些毛茸茸的昆虫可能具备自发解决复杂问题的能力。",
+        "url": "https://www.npr.org/2026/06/07/nx-s1-5846947/bumblebees-problem-solving-research",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "秘鲁总统决选结果",
+        "summary": "周日投票结束后，初步结果可能于周一公布，决定该国未来政治走向。",
+        "url": "https://www.foxnews.com/world/pro-us-conservative-faces-leftist-perus-high-stakes-presidential-runoff",
+        "source": "Fox News"
+      },
+      {
+        "title": "世界杯开幕前一周：SoFi Stadium工人罢工谈判",
+        "summary": "工会与洛杉矶体育场及国际足联的谈判周一继续，可能影响世界杯筹备。",
+        "url": "https://www.npr.org/2026/06/06/nx-s1-5848682/sofi-stadium-strike-world-cup",
+        "source": "NPR"
+      },
+      {
+        "title": "国际航空运输协会（IATA）年会在里约召开",
+        "summary": "航空业领袖齐聚巴西，讨论燃油危机等议题。",
+        "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗战争满100天，和平谈判前景不明，油价波动持续",
+      "direction": "看多",
+      "asset_impact": "USO, /CL",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国计划使用伊朗资产重建海湾盟友，可能涉及冻结资产解冻",
+      "direction": "中性",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "俄罗斯经济论坛遭无人机袭击，地缘紧张加剧，避险情绪升温",
+      "direction": "看空",
+      "asset_impact": "/ES, VIX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "比特币暴跌至2024年低点，但HYPE ETF等新加密产品吸引资金",
+      "direction": "看空",
+      "asset_impact": "BTC",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国电动车可能进入美国市场，加剧贸易紧张和竞争",
+      "direction": "看空",
+      "asset_impact": "FXI, TSLA",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国确认第二例螺旋蛆病例，加拿大限制牲畜进口，可能影响农产品贸易",
+      "direction": "看空",
+      "asset_impact": "CORN, LIVESTOCK",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "秘鲁总统决选结果可能影响该国矿业政策和外资环境",
+      "direction": "中性",
+      "asset_impact": "FXI, COPPER",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
