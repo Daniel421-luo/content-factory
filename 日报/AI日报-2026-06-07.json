@@ -1,0 +1,91 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-07",
+  "headline": "OpenAI 推出 Lockdown Mode 防御提示注入攻击；特朗普政府或入股 OpenAI；Reid Hoffman 离开微软董事会专注 AI 药物发现；GitHub 开源 Spec Kit 规范 AI 编码；OpenCV 5 发布，原生支持大模型。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "OpenAI 推出 Lockdown Mode 保护敏感数据",
+        "summary": "OpenAI 发布 Lockdown Mode，旨在减少提示注入攻击中敏感数据泄露的风险，但该模式并非完全免疫。",
+        "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码",
+        "summary": "GitHub 发布 Spec Kit，解决“vibe coding”中 AI 在规则未明确时直接编码的问题，推动先写产品规范再让 AI 实现的流程。",
+        "url": "https://x.com/rohanpaul_ai/status/2063246343842501091",
+        "source": "AIHOT"
+      },
+      {
+        "title": "OpenCV 5 发布：升级全新 DNN 引擎、原生支持大模型",
+        "summary": "OpenCV 5 正式发布，采用基于图的 DNN 引擎，ONNX 算子覆盖率提升至超 80%，原生支持 Transformer、VLM 和 LLM。",
+        "url": "https://www.ithome.com/0/960/969.htm",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Persona Atlas：Hugging Face 上的开源人物思维映射工具",
+        "summary": "Persona Atlas 通过工具调用代理执行网络搜索，生成公众人物的资料并映射其思维向量空间，支持比较和热力图展示。",
+        "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "特朗普政府可能入股 OpenAI",
+        "summary": "特朗普表示正在讨论让美国人民从 AI 成功中受益的交易，可能获得 OpenAI 股权。",
+        "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reid Hoffman 离开微软董事会，专注 AI 药物发现初创公司 Manus",
+        "summary": "Reid Hoffman 在担任微软董事十年后辞职，将全力投入其 AI 药物发现公司 Manus。",
+        "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sriram Krishnan 辞去白宫 AI 顾问职务",
+        "summary": "Krishnan 将成立新机构继续影响特朗普的 AI 政策。",
+        "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "美国众议院议员发布法案草案，禁止各州制定 AI 法规",
+        "summary": "该草案旨在将 AI 监管权力集中到联邦层面，禁止各州自行立法。",
+        "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04",
+        "source": "AIHOT"
+      },
+      {
+        "title": "S&P 500 拒绝 SpaceX 快速纳入，同时阻止 OpenAI 和 Anthropic 加入",
+        "summary": "S&P 500 拒绝为未盈利的 AI 公司豁免规则，SpaceX、OpenAI 和 Anthropic 无法快速进入指数。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Meta AI 客服被利用窃取 Instagram 账户，AI 安全不止于 Mythos",
+        "summary": "攻击者利用 Meta 的 AI 客服代理将账户链接到其控制的邮箱，成功窃取包括奥巴马白宫账户在内的多个账号，凸显 AI 系统的新安全风险。",
+        "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "AI 聊天机器人是否让我们失去对大脑的控制？",
+        "summary": "心理学家 Gloria Mark 在 SXSW 伦敦分享研究，探讨 AI 聊天机器人如何影响人类的注意力和认知控制。",
+        "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "WWDC 2026 前瞻：Siri 重大改版与 Apple Intelligence 更新",
+        "summary": "苹果 WWDC 临近，预计将推出 Siri 的全面革新和 Apple Intelligence 相关更新。",
+        "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Shelbyville 市长称反对数据中心的居民住“破房子”引发争议",
+        "summary": "印第安纳州 Shelbyville 市长 Scott Furgeson 被拍到称反对 20 亿美元数据中心项目的居民住在“破房子”里，引发政治风波。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
