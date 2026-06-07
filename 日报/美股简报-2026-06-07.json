@@ -1,0 +1,148 @@
+{
+  "title": "📈 美股简报 | 2026-06-07",
+  "headline": "强劲非农数据打压降息预期，科技股领跌，芯片板块重挫，比特币跌破6万美元",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货盘前走低，科技股承压",
+        "summary": "上周五强劲非农数据后，市场对降息预期降温，科技股领跌，纳指创2025年初以来最大单日跌幅。",
+        "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o",
+        "source": "BBC"
+      },
+      {
+        "title": "比特币跌破6万美元，创2024年10月以来新低",
+        "summary": "比特币价格跌破6万美元，周跌幅扩大，受强劲就业数据推高美债收益率影响，风险资产承压。",
+        "url": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "芯片板块遭遇重挫，市场集中度风险凸显",
+        "summary": "芯片股大幅下跌，因市场对AI泡沫担忧加剧，且指数高度依赖少数科技巨头，波动放大。",
+        "url": "https://www.wsj.com/finance/stocks/carnage-in-chip-stocks-hits-extra-hard-in-top-heavy-market-7f0ea76a",
+        "source": "WSJ"
+      },
+      {
+        "title": "就业数据强劲，服务业与酒店业招聘活跃",
+        "summary": "5月非农新增17.2万就业，超预期，酒店业因世界杯筹备招聘增加，但农民受关税和成本上升困扰。",
+        "url": "https://www.bbc.com/news/articles/cdxpx4gel1yo",
+        "source": "BBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "SpaceX估值达1.77万亿美元，摩根士丹利预测2040年收入3.4万亿美元",
+        "summary": "摩根士丹利向顶级投资者展示的预测显示，SpaceX收入有望在2040年达到3.4万亿美元，下周散户可购买其股票。",
+        "url": "https://www.wsj.com/finance/banking/morgan-stanley-sees-spacexs-revenue-reaching-3-4-trillion-in-2040-c8a7f431",
+        "source": "WSJ"
+      },
+      {
+        "title": "特朗普下周将与AI公司领袖会面讨论投资",
+        "summary": "特朗普表示下周将与顶级AI公司领导人会面，讨论美国对AI企业的投资事宜。",
+        "url": "https://www.bbc.com/news/articles/c98r8r7dz5no",
+        "source": "BBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "芯片股暴跌，市场集中度风险暴露",
+        "summary": "芯片板块遭遇大幅抛售，因AI泡沫担忧及指数集中风险，纳指创2025年初以来最大跌幅。",
+        "url": "https://www.wsj.com/finance/stocks/carnage-in-chip-stocks-hits-extra-hard-in-top-heavy-market-7f0ea76a",
+        "source": "WSJ"
+      },
+      {
+        "title": "韩国科技股面临加息威胁，三星和SK海力士承压",
+        "summary": "韩国股市因三星和SK海力士上涨，但潜在加息可能导致15%回调，影响半导体供应链。",
+        "url": "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "5月非农新增17.2万就业，远超预期",
+        "summary": "美国5月非农就业增加17.2万人，高于预期，失业率维持低位，强化美联储维持高利率预期。",
+        "url": "https://www.cbsnews.com/news/jobs-report-today-may-2026-economy-iran-bls/",
+        "source": "CBS"
+      },
+      {
+        "title": "伊朗战争进入第100天，全球市场影响显著",
+        "summary": "伊朗冲突即将满100天，和平谈判悬而未决，油价、股市和债券市场已受明显冲击。",
+        "url": "https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗战争持续，油价波动风险",
+        "summary": "冲突接近100天，和平谈判不确定，可能影响能源价格和全球市场情绪。",
+        "url": "https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "韩国可能加息，科技股面临回调风险",
+        "summary": "韩国央行若加息，可能导致股市15%修正，影响三星、SK海力士等半导体巨头。",
+        "url": "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "5月非农就业超预期，降息预期降温",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "芯片股暴跌，市场集中度风险暴露",
+      "direction": "看空",
+      "asset_impact": "SOXX, NVDA, AMD, INTC",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "比特币跌破6万美元，创2024年10月新低",
+      "direction": "看空",
+      "asset_impact": "BTC, COIN, MSTR",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SpaceX估值1.77万亿，下周散户可购买",
+      "direction": "中性",
+      "asset_impact": "SPCE, RKLB",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特朗普将与AI公司会面讨论投资",
+      "direction": "看多",
+      "asset_impact": "NVDA, MSFT, GOOGL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "韩国科技股面临加息威胁",
+      "direction": "看空",
+      "asset_impact": "EWY, SK Hynix (间接), Samsung (间接)",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "伊朗战争100天，油价波动风险",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
