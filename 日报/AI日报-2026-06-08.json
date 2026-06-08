@@ -1,0 +1,92 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-08",
+  "headline": "OpenAI 推进超级应用计划，同时推出 Lockdown Mode 防御提示注入攻击；特朗普政府讨论通过公共财富基金入股 AI 初创公司；苹果秘密会议后全面转向 AI，WWDC 2026 即将揭晓。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "OpenAI 推出 Lockdown Mode 保护敏感数据",
+        "summary": "OpenAI 发布 Lockdown Mode，旨在减少提示注入攻击中敏感数据泄露的风险，但该模式并不能完全免疫。",
+        "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Harness-1：20B 参数检索子智能体开源",
+        "summary": "UIUC 与 Chroma 联合推出 Harness-1，基于强化学习训练的有状态搜索框架，在多个基准测试中表现优异，模型权重和代码已公开。",
+        "url": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Her：Claude Code 会话分析工具发布",
+        "summary": "Her 工具可分析 Claude Code 的 .jsonl 会话文件，重建交互、标记高风险操作，并提供优化建议。",
+        "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+        "source": "AIHOT"
+      },
+      {
+        "title": "NVIDIA 在韩国庆祝 RTX Spark 发布",
+        "summary": "NVIDIA CEO 黄仁勋前往韩国，向游戏社区介绍 RTX Spark 超芯片，该芯片支持 1440p/100fps 游戏和 DLSS 4.5。",
+        "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 仍推进超级应用计划",
+        "summary": "OpenAI 高级员工称“聊天已死”，公司正将 ChatGPT 转型为超级应用/Agent 平台，整合编程、图像生成及第三方服务。",
+        "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "特朗普政府讨论通过公共财富基金入股 AI 初创公司",
+        "summary": "据 FT 报道，特朗普政府正与 OpenAI 探讨通过公共财富基金机制让政府入股 AI 公司，收益返还美国公民。",
+        "url": "https://x.com/rohanpaul_ai/status/2063662672835703126",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Sriram Krishnan 辞去白宫 AI 顾问职务",
+        "summary": "Krishnan 将离开白宫 AI 顾问岗位，计划创办新机构继续影响特朗普的 AI 政策。",
+        "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Notion 恢复对 Anthropic 的访问",
+        "summary": "Notion 在服务中断后恢复了对 Anthropic 的访问，其产品负责人对大量用户转发表示惊讶。",
+        "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "学校枪击幸存者起诉 AI 枪支检测公司",
+        "summary": "一名校园枪击幸存者起诉 AI 枪支检测公司，因其系统未能识别武器，引发对 AI 准确性的质疑。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "苹果秘密会议内幕：它终于认真对待 AI",
+        "summary": "据 Bloomberg 报道，苹果在一次内部秘密会议后决定将 AI 作为核心战略，相关进展预计在 WWDC 2026 公布。",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27",
+        "source": "AIHOT"
+      },
+      {
+        "title": "北海道农民用 AI 的 8 个真实案例",
+        "summary": "日本农民富安弘毅分享使用 ChatGPT 和 Codex 解决农场问题的经验，包括病害识别、远程控制、数据库管理等。",
+        "url": "https://x.com/AYi_AInotes/status/2063573709672104286",
+        "source": "AIHOT"
+      },
+      {
+        "title": "GPT-5.5 与 Opus 4.8 设计效果对比",
+        "summary": "网友对比发现 Opus 4.8 的设计效果远优于 GPT-5.5，并推荐使用 baoyu-design 工具配合 Opus 4.8 获得最佳效果。",
+        "url": "https://x.com/dotey/status/2063464057647075379",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Tokenpocalypse 是否来临？",
+        "summary": "随着大型 AI 公司计划上市，Token 价格可能进一步上涨，引发对 AI 成本飙升的讨论。",
+        "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
