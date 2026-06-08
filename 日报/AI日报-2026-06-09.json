@@ -1,0 +1,110 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-09",
+  "headline": "OpenAI 筹备 ChatGPT 史上最大改版，从聊天机器人转向超级应用平台；苹果 WWDC 2026 开幕，Siri 大改版与 Apple Intelligence 成焦点；Meta AI 聊天机器人漏洞致超 2 万 Instagram 账户被黑。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "NotebookLM 更新：Gemini 3.5 成为默认模型，新增云端计算机与来源查找功能",
+        "summary": "Google 为 NotebookLM 推出重大更新，默认模型升级为 Gemini 3.5，响应更准确可靠；新增云端计算机功能，并帮助用户从聊天中构建来源库。",
+        "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "亚马逊推出 AI 定制商品设计功能",
+        "summary": "亚马逊购物应用新增 AI 功能，用户可通过 Alexa 生成设计图案，并打印在 T 恤、卫衣、杯子等商品上。",
+        "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT 新增 Lockdown 模式，防止数据窃取",
+        "summary": "OpenAI 推出 ChatGPT Lockdown 模式，旨在通过限制网络访问，保护用户免受提示注入攻击导致的数据窃取。",
+        "url": "https://www.zdnet.com/article/chatgpt-lockdown-mode-data-theft-prompt-injection/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Harness-1：基于强化学习的 20B 检索子智能体发布",
+        "summary": "UIUC 与 Chroma 联合推出 Harness-1，一个 20B 参数的检索子智能体，通过强化学习在有状态搜索框架中训练，在 8 个基准测试上平均 curated recall 达 0.730，超越多数开源方案。",
+        "url": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Her：Claude Code 会话分析工具",
+        "summary": "Her 是专为 Claude Code 设计的会话分析工具，可重建交互轮次、标记高风险操作、展示 token 消耗，并提供改进建议。",
+        "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 筹备 ChatGPT 史上最大改版，从聊天机器人转向超级应用",
+        "summary": "OpenAI 正计划对 ChatGPT 进行重大改版，整合编程工具 Codex、图像生成及第三方应用，高管称“聊天已死”，目标成为跨平台个人 AI 助手。",
+        "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "特朗普政府与 OpenAI 讨论通过公共财富基金入股 AI 初创公司",
+        "summary": "据 FT 报道，特朗普政府正与 OpenAI 探讨通过公共财富基金机制让政府入股 AI 初创公司，方案是 AI 企业捐赠小部分股权，收益返还美国公民。",
+        "url": "https://x.com/rohanpaul_ai/status/2063662672835703126",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Meta AI 聊天机器人漏洞致超 2 万 Instagram 账户被黑",
+        "summary": "Meta 确认因 AI 支持聊天机器人存在漏洞，黑客利用该漏洞劫持了超过 20,225 个 Instagram 账户，无需双重认证即可控制。",
+        "url": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
+        "source": "The Verge"
+      },
+      {
+        "title": "WhatsApp 发现与 NSO 集团相关的新间谍软件攻击",
+        "summary": "WhatsApp 宣布拦截了一起针对其用户的钓鱼活动，该活动使用 NSO 集团的间谍软件，违反了法院命令。",
+        "url": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "NVIDIA 在韩国庆祝 RTX Spark 发布，与游戏公司合作推广",
+        "summary": "NVIDIA CEO 黄仁勋前往韩国，与 KRAFTON、NC、T1 等公司庆祝 RTX Spark 超芯片发布，该芯片可在笔记本上实现 1440p/100fps 游戏体验。",
+        "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark",
+        "source": "AIHOT"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "天气与气候科学中的 AI 革命并非革命性",
+        "summary": "Ars Technica 分析指出，机器学习在天气和气候科学中的应用有其局限性，当前进展并未带来根本性变革。",
+        "url": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "苹果 WWDC 2026 开幕：Siri 大改版与 Apple Intelligence 成焦点",
+        "summary": "苹果年度开发者大会 WWDC 2026 于今日开幕，预计将发布 iOS 27、macOS 27 等系统更新，Siri 的全面改版和 Apple Intelligence 是最大看点。",
+        "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软 AI 首席执行官：超级智能即将到来，但不会取代你的工作",
+        "summary": "微软 AI 负责人 Mustafa Suleyman 在采访中表示超级智能近在咫尺，但强调 AI 将辅助而非取代人类工作。",
+        "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+        "source": "The Verge"
+      },
+      {
+        "title": "ChatGPT 记忆升级：强大但可能污染答案",
+        "summary": "ZDNet 测试发现，ChatGPT 的新记忆功能虽然强大，但可能基于过时假设和个人档案给出错误细节，从而扭曲未来回答。",
+        "url": "https://www.zdnet.com/article/chatgpts-new-memory-upgrade-is-powerful-and-could-poison-every-answer-it-gives-you/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Momfluencers 将 AI 宣传为比男性更好的“共同家长”",
+        "summary": "Wired 报道，一些妈妈网红正在推销 AI 作为家务和育儿助手，并开设课程教其他妈妈使用，引发关于父亲角色缺失的讨论。",
+        "url": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+        "source": "Wired"
+      },
+      {
+        "title": "学校枪击幸存者起诉 AI 枪支检测公司，因系统未能识别武器",
+        "summary": "一名学校枪击案幸存者起诉 AI 枪支检测公司，指控其系统未能识别出武器，引发对 AI 准确性的质疑。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
