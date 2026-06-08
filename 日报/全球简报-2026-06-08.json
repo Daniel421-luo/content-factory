@@ -1,0 +1,162 @@
+{
+  "title": "🌍 全球简报 | 2026-06-08",
+  "headline": "伊朗宣布结束对以色列军事行动，中东停火面临考验；菲律宾发生7.8级强震致32人死亡；习近平抵达平壤访问朝鲜；美股期货上涨，芯片股反弹。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "伊朗宣布结束对以色列军事行动，但警告黎巴嫩局势可能升级",
+        "summary": "伊朗与以色列在周日夜间相互打击，这是自4月停火以来的首次，威胁到脆弱的停火协议。伊朗随后宣布结束军事行动，但警告称黎巴嫩局势可能引发升级。",
+        "url": "https://www.cnbc.com/2026/06/08/iran-end-military-operations-israel-lebanon-escalation.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "菲律宾南部发生7.8级强震，至少32人死亡",
+        "summary": "地震在菲律宾、印度尼西亚和日本引发小规模海啸，已造成至少32人遇难。",
+        "url": "https://www.bbc.com/news/articles/clyel78e6p5o",
+        "source": "BBC"
+      },
+      {
+        "title": "习近平抵达平壤访问朝鲜，旨在重振中朝关系",
+        "summary": "中国国家主席习近平近七年来首次访问朝鲜，与金正恩会晤，意在修复因朝鲜与俄罗斯关系密切而紧张的双边关系。",
+        "url": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea",
+        "source": "Guardian"
+      },
+      {
+        "title": "特朗普突然中断NBC采访，因选举舞弊指控发生冲突",
+        "summary": "特朗普在采访中被主持人多次质疑后，愤然离场，中断了与NBC的对话。",
+        "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "乌克兰袭击俄罗斯和克里米亚的石油设施",
+        "summary": "乌克兰军队对俄罗斯及被占领的克里米亚的石油设施发动打击，旨在对莫斯科施加经济成本。",
+        "url": "https://abcnews.com/International/wireStory/ukrainian-strikes-hit-oil-sites-russia-crimea-133676199",
+        "source": "ABC News"
+      },
+      {
+        "title": "泽连斯基的欧洲盟友提出五项和平谈判条件",
+        "summary": "乌克兰总统与最坚定的欧洲盟友会晤，正值特朗普将焦点转向伊朗战争。",
+        "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo",
+        "source": "BBC"
+      },
+      {
+        "title": "亚美尼亚亲西方政府赢得选举，无视俄罗斯压力",
+        "summary": "总理帕希尼扬的公民契约党获得近50%选票，轻松击败其他对手。",
+        "url": "https://www.bbc.com/news/articles/cvgel990n51o",
+        "source": "BBC"
+      },
+      {
+        "title": "南非反移民浪潮引发移民极度恐惧",
+        "summary": "非洲移民表示法律身份几乎无法提供保护，反非法移民集会加剧了排外情绪。",
+        "url": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "纳斯达克期货上涨1%，芯片股从抛售中反弹",
+        "summary": "投资者关注通胀数据和SpaceX周五的公开上市，市场情绪回暖。",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "花旗将标普500目标上调至8100点，因AI驱动盈利强劲",
+        "summary": "该银行表示，第一季度的亮眼财报季预示着今年剩余时间将推动指数走高。",
+        "url": "https://www.cnbc.com/2026/06/08/citi-hikes-sp-target-to-8100-because-of-ai-driven-earnings-strength.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "减肥药制造商因新安全数据暴跌25%",
+        "summary": "尽管实验性药物达到关键目标，但分析师对副作用带来的商业机会感到担忧。",
+        "url": "https://www.cnbc.com/2026/06/08/weight-loss-drug-stock-zealand-pharma-data-ada.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "USAA将向佛罗里达会员返还近10亿美元",
+        "summary": "法律改革帮助降低保险成本，USAA宣布向符合条件的佛罗里达会员提供总计近10亿美元的储蓄和回报。",
+        "url": "https://www.cnbc.com/2026/06/08/usaa-to-return-nearly-1-billion-to-florida-members-as-legal-reforms-help-lower-insurance-costs.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "亚马逊与康宁达成数十亿美元协议，为AI数据中心提供光纤",
+        "summary": "亚马逊成为最新一家与康宁达成大规模交易的科技巨头，康宁正迅速成为AI基础设施的关键参与者。",
+        "url": "https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "秘鲁总统选举第二轮投票",
+        "summary": "藤森庆子与左翼议员罗伯托·桑切斯对决，选民面临左右选择。",
+        "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国通胀数据公布",
+        "summary": "投资者关注CPI数据，以判断美联储政策路径。",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX公开上市",
+        "summary": "SpaceX计划于周五上市，市场密切关注。",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗宣布结束对以色列军事行动，但中东停火脆弱",
+      "direction": "看多",
+      "asset_impact": "USO, /ES, GLD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "乌克兰袭击俄罗斯石油设施，能源供应风险上升",
+      "direction": "看多",
+      "asset_impact": "USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "花旗上调标普500目标至8100点，AI驱动盈利强劲",
+      "direction": "看多",
+      "asset_impact": "/ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "减肥药新安全数据引发抛售，生物科技板块承压",
+      "direction": "看空",
+      "asset_impact": "IBB",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "亚马逊与康宁达成AI数据中心协议，光纤需求增长",
+      "direction": "看多",
+      "asset_impact": "GLW, AMZN",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "菲律宾强震可能影响区域供应链",
+      "direction": "中性",
+      "asset_impact": "EEM",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
