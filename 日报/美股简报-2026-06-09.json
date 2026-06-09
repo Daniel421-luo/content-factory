@@ -1,0 +1,172 @@
+{
+  "title": "📈 美股简报 | 2026-06-09",
+  "headline": "AI IPO热潮持续升温，OpenAI秘密提交上市申请；中东局势再度紧张推高油价；芯片股引领市场反弹。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅走高，芯片股领涨",
+        "summary": "继上周五抛售后，美股期货周二盘前小幅上涨，芯片股引领反弹。",
+        "url": "https://www.wsj.com/finance/stocks/chip-stocks-lead-a-market-rebound-5fbd02c2?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "中东局势升级，油价上涨",
+        "summary": "伊朗与以色列周日夜间交火，油价因中东紧张局势加剧而走高。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-08-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "科技IPO热潮：OpenAI、Anthropic、SpaceX相继冲刺上市",
+        "summary": "OpenAI秘密提交IPO申请，加入Anthropic和SpaceX的上市行列，华尔街全力为AI盛宴融资。",
+        "url": "https://www.wsj.com/finance/investing/global-stocks-markets-dow-news-06-08-2026-aac7c547?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "美银警告美股“危险信号”，建议转向防御",
+        "summary": "美银认为标普500过度集中于科技股，这一押注已走到尽头，建议投资者调整配置。",
+        "url": "https://www.marketwatch.com/story/bofa-sees-red-flags-in-the-u-s-stock-market-heres-what-to-buy-now-4d7ba245?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "GSK以106亿美元收购Nuvalent，加码肿瘤药管线",
+        "summary": "英国制药巨头GSK宣布以106亿美元收购美国生物科技公司Nuvalent，为八年来最大收购，旨在加强癌症药物组合。",
+        "url": "https://www.cnbc.com/2026/06/09/gsk-in-talks-to-acquire-nuvalent-for-more-than-9-billion.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "苹果WWDC 2026：Siri AI重大升级，Liquid Glass等新功能亮相",
+        "summary": "苹果在WWDC上重点展示了AI增强的Siri，并推出Liquid Glass等新软件功能。",
+        "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "芯片股引领市场反弹",
+        "summary": "在经历上周五抛售后，芯片股周二领涨大盘，市场情绪回暖。",
+        "url": "https://www.wsj.com/finance/stocks/chip-stocks-lead-a-market-rebound-5fbd02c2?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "中国5月对美出口同比增长35%，创五年新高",
+        "summary": "中国5月出口数据强劲，对美出口增速创2021年3月以来最大，受科技产品提振。",
+        "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国将比亚迪列入涉中国军方企业名单",
+        "summary": "五角大楼更新名单，警告美国企业与比亚迪等中国公司合作的风险。",
+        "url": "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "贝莱德：AI正在改变投资规则，投资者需重新思考组合管理",
+        "summary": "贝莱德认为“超级力量”正在改变投资格局，AI将颠覆传统组合管理原则。",
+        "url": "https://www.cnbc.com/2026/06/09/blackrock-says-mega-forces-are-changing-investing-heres-what-to-do.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东局势：伊朗与以色列交火，停火协议面临破裂风险",
+        "summary": "伊朗和以色列周日夜间互相打击，内塔尼亚胡称战争尚未结束，油价应声上涨。",
+        "url": "https://www.cnbc.com/2026/06/08/iran-end-military-operations-israel-lebanon-escalation.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊拉克与阿联酋竞相建设替代石油管道，霍尔木兹海峡出口受阻",
+        "summary": "伊拉克内阁批准加速通过库尔德-土耳其管道出口原油，以规避霍尔木兹海峡风险。",
+        "url": "https://www.cnbc.com/2026/06/09/iraq-uae-hormuz-oil-pipelines-oil-iran-war.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "OpenAI秘密提交IPO申请，AI上市热潮持续",
+      "direction": "看多",
+      "asset_impact": "AI相关ETF, 科技股",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "中东局势升级，伊朗与以色列交火",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "芯片股引领市场反弹",
+      "direction": "看多",
+      "asset_impact": "SOXX, NVDA, AMD",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美银警告美股危险信号，建议转向防御",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国5月对美出口同比增长35%",
+      "direction": "看多",
+      "asset_impact": "FXI, KWEB",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国将比亚迪列入涉军名单",
+      "direction": "看空",
+      "asset_impact": "BYDDF, 中国汽车股",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "GSK以106亿美元收购Nuvalent",
+      "direction": "看多",
+      "asset_impact": "GSK, NUVL",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "苹果WWDC发布AI增强Siri",
+      "direction": "看多",
+      "asset_impact": "AAPL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伊拉克与阿联酋建设替代石油管道",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "贝莱德称AI改变投资规则",
+      "direction": "中性",
+      "asset_impact": "科技股, AI相关ETF",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
