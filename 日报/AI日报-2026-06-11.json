@@ -1,0 +1,68 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-11",
+  "headline": "Anthropic 新模型 Fable 因安全护栏过严遭网络安全研究者批评；AI 编码初创公司 Niteshift 获 700 万美元种子轮融资；Warner Music 收购 AI 归属初创公司 Sureel AI。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Anthropic 发布 Fable 5 模型，严格限制危险话题",
+        "summary": "Anthropic 推出前沿模型 Fable 5，拒绝回答网络安全、生物学和化学等领域的查询，引发研究者不满。",
+        "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Zest 推出基于真实消费数据的餐厅发现应用",
+        "summary": "由 Alexis Ohanian 的 776 和 Kindred Ventures 支持，Zest 利用交易数据和 AI 根据用户实际用餐习惯推荐餐厅。",
+        "url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "AI 编码初创公司 Niteshift 获 700 万美元种子轮融资",
+        "summary": "由 Datadog 资深人士创立，Niteshift 致力于打造 AI 编码代理，避免被大模型厂商锁定。",
+        "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Warner Music 收购 AI 归属初创公司 Sureel AI",
+        "summary": "华纳音乐通过收购 Sureel AI，旨在更好地追踪其艺术家作品在 AI 生成内容或训练中的使用情况。",
+        "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "网络安全研究者不满 Anthropic Fable 的安全护栏",
+        "summary": "研究者抱怨 Fable 的护栏过于严格，无法用于网络安全工作。",
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google 将保存 Lens 照片、搜索录音等用于 AI 训练",
+        "summary": "Google 更新隐私设置，将保存用户通过 Lens、搜索录音等产生的图像、音频和视频数据，用于改进 AI 模型。",
+        "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "研究显示记忆工具可能降低 AI 模型性能",
+        "summary": "新研究表明，AI 记忆系统可能降低模型性能并助长谄媚倾向。",
+        "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+        "source": "TechCrunch"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "企业级 AI 将成为 VivaTech 2026 焦点",
+        "summary": "与硅谷专注大语言模型和消费级 AI 不同，欧洲公司更关注将 AI 应用于复杂系统。",
+        "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "学习在混合人机企业中领导",
+        "summary": "随着 AI 代理采用率预计在未来两年激增，领导团队需考虑混合人机劳动力的影响。",
+        "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+        "source": "MIT Technology Review"
+      }
+    ]
+  }
+}
