@@ -1,0 +1,156 @@
+{
+  "title": "📈 美股简报 | 2026-06-11",
+  "headline": "中东冲突升级与通胀数据超预期引发市场剧烈震荡，道指创年内最大单日跌幅，油价跳涨。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货盘前下跌，中东局势主导情绪",
+        "summary": "美国对伊朗发动新一轮军事打击后，道指期货下跌约200点，标普500和纳斯达克期货均走低。",
+        "url": "https://www.cnbc.com/2026/06/11/brent-wti-oil-prices-us-launches-fresh-strikes-on-iran-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价跳涨逾2%，避险资产受追捧",
+        "summary": "布伦特原油突破78美元，WTI原油涨至74美元上方，因市场担忧霍尔木兹海峡供应中断。",
+        "url": "https://www.cnbc.com/2026/06/11/brent-wti-oil-prices-us-launches-fresh-strikes-on-iran-.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块领涨，科技板块承压",
+        "summary": "油价飙升推动能源股盘前走强，而科技股因通胀担忧和地缘风险延续跌势。",
+        "url": "https://www.cnbc.com/2026/06/11/brent-wti-oil-prices-us-launches-fresh-strikes-on-iran-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "防御性板块受青睐，公用事业与消费必需品获资金流入",
+        "summary": "市场避险情绪升温，投资者转向高股息和防御性股票。",
+        "url": "https://www.cnbc.com/2026/06/10/these-stocks-pay-attractive-dividends-and-offer-turmoil-insurance.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "甲骨文财报超预期但股价下跌，AI成本引担忧",
+        "summary": "甲骨文Q4营收和利润均超预期，合同积压达6380亿美元，但计划再融资200亿美元用于数据中心，自由现金流为负，盘后股价下跌。",
+        "url": "https://www.cnbc.com/2026/06/10/oracle-orcl-q4-earnings-report-2026.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光与英特尔拖累科技板块进入修正",
+        "summary": "科技板块过去一周的抛售升级为正式修正，美光和英特尔领跌。",
+        "url": "https://www.marketwatch.com/story/micron-intel-drag-the-tech-sector-into-a-new-bearish-phase-will-the-correction-last-this-time-9ba4f3f5",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "反英伟达数据中心初创公司TensorWave获3.5亿美元融资",
+        "summary": "TensorWave估值达15.5亿美元，将使用AMD芯片建设数据中心，AMD为投资者之一。",
+        "url": "https://www.wsj.com/tech/ai/anti-nvidia-data-center-startup-is-valued-at-1-55-billion-in-new-funding-round-e58b2aec",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美国5月CPI同比升至4.2%，创三年新高",
+        "summary": "能源价格飙升推动通胀超预期，特朗普表示“喜欢通胀”并称战争结束后通胀将回落。",
+        "url": "https://www.cbsnews.com/news/cpi-report-today-may-2026-inflation-iran-war-trump/",
+        "source": "CBS News"
+      },
+      {
+        "title": "美国对伊朗发动新一轮打击，中东局势升级",
+        "summary": "特朗普承诺更多攻击，科威特关闭领空，以色列警告黎巴嫩方向发射物。",
+        "url": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普监管机构提出预测市场新规",
+        "summary": "CFTC为Kalshi等平台提供更清晰的投注参数，但不会禁止某些合约。",
+        "url": "https://www.wsj.com/finance/regulation/trump-cftc-prediction-markets-betting-rules-1aea5c9d",
+        "source": "WSJ"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东冲突持续升级，霍尔木兹海峡风险",
+        "summary": "美国对伊朗的军事打击可能进一步扰乱能源供应，油价波动风险高。",
+        "url": "https://www.cnbc.com/2026/06/11/brent-wti-oil-prices-us-launches-fresh-strikes-on-iran-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "通胀超预期引发美联储政策担忧",
+        "summary": "CPI升至4.2%可能影响新任美联储主席Warsh的政策立场，市场对加息预期升温。",
+        "url": "https://www.cnbc.com/2026/06/10/trump-inflation-fed-chair-kevin-warsh-analysis.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对伊朗发动新一轮军事打击，中东局势升级",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, OIL, USO",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国5月CPI同比升至4.2%，创三年新高",
+      "direction": "看空",
+      "asset_impact": "TLT, SPY, QQQ",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "油价跳涨逾2%，能源板块走强",
+      "direction": "看多",
+      "asset_impact": "XLE, USO, OXY, CVX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "甲骨文财报超预期但计划再融资200亿美元，股价下跌",
+      "direction": "看空",
+      "asset_impact": "ORCL",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "科技板块进入修正，美光与英特尔领跌",
+      "direction": "看空",
+      "asset_impact": "MU, INTC, SOXX, QQQ",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "反英伟达数据中心初创公司TensorWave获融资，使用AMD芯片",
+      "direction": "中性",
+      "asset_impact": "AMD, NVDA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "特朗普表示喜欢通胀，市场对美联储政策预期转变",
+      "direction": "看空",
+      "asset_impact": "TLT, SPY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "防御性板块受青睐，高股息股票获资金流入",
+      "direction": "看多",
+      "asset_impact": "XLU, XLP, VZ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
