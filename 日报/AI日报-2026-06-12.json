@@ -1,0 +1,61 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-12",
+  "headline": "Google DeepMind 警告数百万 AI 代理交互风险，同时发布 DiffusionGemma 模型实现 4 倍加速；DoorDash 推出 AI 聊天机器人 Ask DoorDash；Deezer 发布 AI 音乐识别工具。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "DoorDash 推出 AI 聊天机器人 Ask DoorDash",
+        "summary": "用户可通过自然语言提示和照片搜索并下单，无需手动浏览餐厅和商店。",
+        "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Deezer 推出识别 AI 音乐的工具",
+        "summary": "该工具可扫描 Spotify、Apple Music 等平台的播放列表，识别 AI 生成的音乐。",
+        "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google DeepMind 发布 DiffusionGemma 模型",
+        "summary": "新模型可在本地运行 AI，速度提升 4 倍，主要面向图像生成和文本输出加速。",
+        "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Waymo 推出付费会员计划 Waymo Premier",
+        "summary": "月费 29.99 美元，提供优先叫车、10% 返现和免费取消等权益。",
+        "url": "https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Google DeepMind 担忧数百万 AI 代理交互风险",
+        "summary": "DeepMind 资助研究，探讨大量 AI 代理在线交互可能带来的安全隐患，如协调攻击或信息操纵。",
+        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "男子因面部识别误判被捕，起诉佛罗里达警方",
+        "summary": "警方依赖 AI 系统给出的“93% 匹配”结果逮捕嫌疑人，原告称警方忽视了其他证据。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Signal 前员工发布“加密空间”系统",
+        "summary": "开源项目 Encrypted Spaces 旨在构建类似 Slack 或 Google Docs 的隐私保护协作应用。",
+        "url": "https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/",
+        "source": "Wired"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "足球数据革命：AI 如何改变世界杯",
+        "summary": "深度分析 AI 和数据分析在足球战术、球员评估和观赛体验中的革新作用。",
+        "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+        "source": "MIT Technology Review"
+      }
+    ]
+  }
+}
