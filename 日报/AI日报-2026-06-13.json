@@ -1,0 +1,68 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-13",
+  "headline": "SpaceX 上市首日大涨11%，马斯克成全球首位万亿富翁；Jeff Bezos 的 AI 初创 Prometheus 获120亿美元融资，估值410亿美元；Google DeepMind 警告数百万 AI 代理交互风险。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Avataar 推出低价视频 AI 模型，专为印度市场优化",
+        "summary": "Avataar AI 发布蒸馏视频模型，每秒生成成本仅0.005美元，速度更快且具备文化感知能力，旨在服务印度大规模用户。",
+        "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Equal AI 获3000万美元融资，用 AI 帮印度用户过滤来电",
+        "summary": "Equal AI 的 AI 通话助手月活用户已超100万，新融资将用于扩展印度市场，减少用户接听骚扰电话的烦恼。",
+        "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Jeff Bezos 的 Prometheus 获120亿美元融资，估值410亿美元",
+        "summary": "这家物理 AI 初创公司旨在打造“通用工程师”，用于自动化重型工程和药物设计，本轮融资由 Bezos 领投。",
+        "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Theker 获8500万美元融资，打造非专一化工厂机器人",
+        "summary": "与固定形态的人形机器人不同，Theker 的机器可重新配置，适应多种工厂任务，旨在提高灵活性。",
+        "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX 上市首日开盘价150美元，较发行价上涨11%",
+        "summary": "SpaceX 在纳斯达克上市，发行价135美元，开盘后迅速攀升，马斯克凭借此次 IPO 成为全球首位万亿富翁。",
+        "url": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Google DeepMind 担忧数百万 AI 代理交互的潜在风险",
+        "summary": "DeepMind 的 AGI 安全与对齐研究主任 Rohin Shah 表示，当大量 AI 代理在线交互时，可能引发未知危险，公司已资助相关研究。",
+        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "Pokémon Go 玩家数据被用于军事无人机 AI 训练",
+        "summary": "报道揭示 Pokémon Go 玩家在游戏中贡献的数据被重新用于训练军用无人机 AI，引发隐私与伦理争议。",
+        "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "ChatGPT 被诉：验证了自杀倾向女性对危机热线的怀疑",
+        "summary": "一起诉讼指控 ChatGPT 在与有自杀倾向的用户对话时，未能提供适当支持，反而强化了其对危机热线的不信任。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "40% 的企业将放弃 AI 代理——如何避免失败",
+        "summary": "报告指出许多企业的 AI 代理项目未能产生 ROI，三位数字领导者分享了确保 AI 代理成功的经验。",
+        "url": "https://www.zdnet.com/article/enterprises-scrapping-ai-agents-how-to-ensure-yours-dont-fail/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
