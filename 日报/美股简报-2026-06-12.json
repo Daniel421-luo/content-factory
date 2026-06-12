@@ -1,0 +1,152 @@
+{
+  "title": "📈 美股简报 | 2026-06-12",
+  "headline": "SpaceX创纪录IPO今日登陆纳斯达克，美伊达成框架协议油价回落，市场情绪乐观",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅走高，聚焦SpaceX历史性IPO",
+        "summary": "美股期货周五小幅上涨，市场关注SpaceX今日在纳斯达克上市，这是史上最大IPO。",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价因美伊框架协议下跌",
+        "summary": "特朗普称与伊朗达成框架协议，油价周五下跌，尽管德黑兰否认。",
+        "url": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "道指前日飙升930点，特朗普取消对伊打击",
+        "summary": "周四道指大涨930点，因特朗普取消对伊朗的军事打击，市场风险偏好回升。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-11-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "芯片股反弹，AI担忧缓解",
+        "summary": "周四芯片股反弹，市场情绪改善，AI相关股票从近期抛售中回升。",
+        "url": "https://www.wsj.com/finance/stocks/trumps-iran-stand-down-calms-markets-7b63fe88?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "能源板块承压，油价因伊朗协议下跌",
+        "summary": "美伊框架协议降低地缘风险，油价走低，能源股面临压力。",
+        "url": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "SpaceX今日登陆纳斯达克，筹资750亿美元",
+        "summary": "SpaceX以每股135美元发行5.556亿股，筹资750亿美元，为史上最大IPO。零售投资者分配比例降至20%左右。",
+        "url": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Adobe再失高管，股价承压",
+        "summary": "Adobe又一位高管离职，股价延续跌势，周四收于七年多低点。",
+        "url": "https://www.marketwatch.com/story/adobe-is-losing-another-top-executive-and-investors-dont-like-it-587603e9?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Meta订阅计划暴露AI弱势",
+        "summary": "Meta推出订阅服务以拓展广告外收入，但分析认为其在AI领域竞争力不足，前景艰难。",
+        "url": "https://www.wsj.com/tech/ai/metas-subscription-push-exposes-its-weak-hand-in-ai-2fad4680?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "芯片股反弹，市场情绪改善",
+        "summary": "周四芯片股随大盘反弹，AI担忧暂时缓解，SOXX指数上涨。",
+        "url": "https://www.wsj.com/finance/stocks/trumps-iran-stand-down-calms-markets-7b63fe88?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普称与伊朗达成框架协议，油价下跌",
+        "summary": "特朗普宣布与伊朗达成框架协议，但德黑兰否认，市场预期中东紧张局势缓和。",
+        "url": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国5月PPI创2022年以来最大涨幅",
+        "summary": "批发价格指数飙升，能源成本上涨，可能推高消费者价格。",
+        "url": "https://www.cbsnews.com/news/ppi-report-today-may-2026-highest-since-2022/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Pimco警告违约风险上升，建议远离低质量信贷",
+        "summary": "Pimco建议固定收益投资者远离低质量信贷，看好高质量资产。",
+        "url": "https://www.cnbc.com/2026/06/11/pimco-is-warning-about-a-spike-in-defaults-how-to-position-portfolios.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊协议不确定性",
+        "summary": "特朗普称达成框架协议，但伊朗否认，协议最终签署存疑，可能引发油价波动。",
+        "url": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "PPI飙升或加剧通胀担忧",
+        "summary": "5月PPI创2022年以来最大涨幅，可能影响美联储政策预期，打压风险资产。",
+        "url": "https://www.cbsnews.com/news/ppi-report-today-may-2026-highest-since-2022/",
+        "source": "CBS MoneyWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "SpaceX今日IPO上市，史上最大规模",
+      "direction": "看多",
+      "asset_impact": "SPCE, RKLB, ARKK",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美伊框架协议降低地缘风险，油价下跌",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, CVX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国5月PPI创2022年以来最大涨幅",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "芯片股反弹，AI担忧缓解",
+      "direction": "看多",
+      "asset_impact": "SOXX, NVDA, AMD",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Adobe再失高管，股价创多年新低",
+      "direction": "看空",
+      "asset_impact": "ADBE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Pimco警告违约风险上升，建议远离低质量信贷",
+      "direction": "看空",
+      "asset_impact": "HYG, JNK",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
