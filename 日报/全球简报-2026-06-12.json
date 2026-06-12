@@ -1,0 +1,160 @@
+{
+  "title": "🌍 全球简报 | 2026-06-12",
+  "headline": "特朗普取消对伊朗新打击并暗示和平协议接近，但伊朗否认；SpaceX今日IPO创纪录；2026世界杯开幕",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "特朗普取消对伊朗新打击，伊朗否认协议接近",
+        "summary": "特朗普取消对伊朗的新军事打击，并称和平协议即将达成，但伊朗表示“未最终确定”。",
+        "url": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
+        "source": "NPR"
+      },
+      {
+        "title": "SpaceX今日IPO，估值近1.8万亿美元",
+        "summary": "SpaceX股票今日开始交易，成为史上最大IPO，投资者争相买入。",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "2026世界杯在墨西哥开幕，有抗议活动",
+        "summary": "世界杯在墨西哥城阿兹特克体育场开幕，开幕式明星云集，但警方与抗议者发生零星冲突。",
+        "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "中国以间谍罪逮捕美国学者",
+        "summary": "中国逮捕了研究缅甸和中国外交政策的美国学者Min Zin，指控其从事间谍活动。",
+        "url": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
+        "source": "Guardian"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗否认与美达成协议，称报道“猜测性”",
+        "summary": "伊朗表示关于和平协议的报道是“猜测性的”，此前特朗普称已达成“伟大和解”。",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "多伦多警察调查美国领事馆袭击案时被枪杀",
+        "summary": "一名43岁警官在搜查与3月美国领事馆袭击案相关的公寓时被枪杀，19岁嫌疑人仍在逃。",
+        "url": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack",
+        "source": "Guardian"
+      },
+      {
+        "title": "苏丹无人机袭击葬礼致平民死亡",
+        "summary": "人权组织指责RSF准军事组织在埃尔奥贝德杀害平民。",
+        "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "尼日利亚从南非撤离公民，反移民情绪上升",
+        "summary": "尼日利亚成为最新一个从南非撤离公民的非洲国家，因仇外袭击报道。",
+        "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "SpaceX IPO首日，太空股大涨",
+        "summary": "投资者争相买入与SpaceX相关的股票，期权交易量激增。",
+        "url": "https://www.cnbc.com/2026/06/12/space-stocks-jump-with-huge-demand-as-investors-clamor-for-any-way-to-get-long-spacex.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "拟议中的美伊协议将重开霍尔木兹海峡并解除石油制裁",
+        "summary": "伊朗国家媒体称，协议将重开霍尔木兹海峡并解除石油制裁，特朗普表示海峡将在协议签署后立即重开。",
+        "url": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "凯文·沃什首次主持美联储会议，市场关注沟通风格",
+        "summary": "美联储新主席凯文·沃什将主持首次会议，市场关注其如何沟通利率政策。",
+        "url": "https://www.cnbc.com/2026/06/12/warsh-fed-chair-interest-rates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "JPMorgan看好Kratos国防股",
+        "summary": "JPMorgan认为Kratos资产负债表改善且高增长，股价自1月腰斩后有望反弹。",
+        "url": "https://www.cnbc.com/2026/06/12/this-defense-stock-looks-attractive-after-a-sell-off-says-jpmorgan.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "加拿大母亲起诉OpenAI，称ChatGPT导致女儿自杀",
+        "summary": "诉讼称ChatGPT在女儿有自杀念头时告诉她“也许这就是结局”。",
+        "url": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+        "source": "Guardian"
+      },
+      {
+        "title": "智能手机是否导致出生率下降？新研究引发讨论",
+        "summary": "一篇新工作论文探讨自iPhone推出以来出生率持续下降的现象。",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5851795/iphone-birth-rate-drop",
+        "source": "NPR"
+      },
+      {
+        "title": "Mistral CEO谈代理AI、芯片和企业采用",
+        "summary": "欧洲领先AI公司Mistral的CEO Arthur Mensch接受CNBC采访。",
+        "url": "https://www.cnbc.com/2026/06/12/tech-download-mistral-mensch-agentic-ai-chips.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "世界杯：苏格兰对阵海地",
+        "summary": "苏格兰将在波士顿迎战海地，93岁球迷莫伊拉·布朗将现场助威。",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5842854/scotland-world-cup-tartan-army-fans",
+        "source": "NPR"
+      },
+      {
+        "title": "美联储主席沃什首次会议",
+        "summary": "市场关注沃什的沟通风格及利率信号。",
+        "url": "https://www.cnbc.com/2026/06/12/warsh-fed-chair-interest-rates.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊接近达成协议，霍尔木兹海峡可能重开",
+      "direction": "看空",
+      "asset_impact": "USO, CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "SpaceX IPO首日，太空股大涨",
+      "direction": "看多",
+      "asset_impact": "SPCX, RKLB",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国逮捕美国学者，中美关系紧张",
+      "direction": "看空",
+      "asset_impact": "FXI, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储新主席沃什首次会议，市场关注沟通",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普移民政策收紧，小企业贷款受限",
+      "direction": "看空",
+      "asset_impact": "USO, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
