@@ -1,0 +1,139 @@
+{
+  "title": "📈 美股简报 | 2026-06-13",
+  "headline": "SpaceX 上市首日暴涨，马斯克成全球首位万亿富翁；伊朗核协议签署在即但仍有变数；DOJ 批准派拉蒙与华纳兄弟探索合并。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅走高，SpaceX 上市提振市场情绪",
+        "summary": "美股期货盘前小幅上涨，受 SpaceX 创纪录 IPO 首日大涨提振。标普 500 期货和纳斯达克 100 期货均录得涨幅。",
+        "url": "https://www.wsj.com/finance/stocks/stocks-climb-on-spacexs-debut-4a14e882",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "价值股持续跑赢成长股，市场看好盈利扩散",
+        "summary": "今年价值股表现大幅领先成长股，投资者对科技以外行业的盈利增长持乐观态度。分析师认为这不是短期现象。",
+        "url": "https://www.marketwatch.com/story/this-is-not-a-flash-in-the-pan-why-value-stocks-are-beating-growth-by-such-a-wide-margin-b2bddccc",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "SpaceX 上市首日大涨，收盘价超 160 美元",
+        "summary": "SpaceX 以每股 135 美元定价上市，首日收盘报 160.95 美元，涨幅约 19%，市值约 2.2 万亿美元。马斯克成为全球首位万亿富翁。",
+        "url": "https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "SpaceX 前员工因 IPO 成为百万富翁",
+        "summary": "一名前 SpaceX 焊工持有 6500 股公司股票，上市首日其财富增值超过 100 万美元。",
+        "url": "https://www.cbsnews.com/news/spacex-spcx-stock-ipo-welder-employee-millionaire/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Meta 订阅业务暴露其在 AI 领域的弱势",
+        "summary": "WSJ 分析指出，Meta 通过订阅收费拓展广告以外收入的尝试，凸显其在 AI 竞争中缺乏优势。",
+        "url": "https://www.wsj.com/tech/ai/metas-subscription-push-exposes-its-weak-hand-in-ai-2fad4680",
+        "source": "WSJ"
+      },
+      {
+        "title": "BlackRock 私募信贷基金面临 13% 赎回请求",
+        "summary": "BlackRock 旗下私募信贷基金股东要求赎回超过上一季度，但赎回上限仍为 5%。",
+        "url": "https://www.wsj.com/finance/investing/blackrock-private-credit-fund-faces-13-redemption-requests-5cba8e89",
+        "source": "WSJ"
+      }
+    ],
+    "半导体观察": [],
+    "宏观与政策": [
+      {
+        "title": "伊朗核协议签署在即，但特朗普否认伊朗说法",
+        "summary": "特朗普政府高级官员称伊朗协议可能在未来几天签署，但特朗普本人否认伊朗对协议条款的描述，并谴责新的无人机袭击。",
+        "url": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "DOJ 批准派拉蒙与华纳兄弟探索合并",
+        "summary": "美国司法部批准派拉蒙天空之舞以约 1100 亿美元收购华纳兄弟探索，认为不会损害竞争，但仍可能面临州检察长法律挑战。",
+        "url": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-antitrust-justice-department/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "英国经济 4 月萎缩，受伊朗战争影响",
+        "summary": "官方数据显示，英国经济 4 月小幅萎缩，因伊朗战争开始对企业产生影响。",
+        "url": "https://www.bbc.com/news/articles/c77y47248k4o",
+        "source": "BBC"
+      },
+      {
+        "title": "英国誓言在年底前逐步停止进口俄罗斯柴油和航空燃油",
+        "summary": "作为对俄制裁的一部分，英国政府计划在 2027 年前禁止进口俄罗斯柴油和航空燃油。",
+        "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo",
+        "source": "BBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗核协议不确定性",
+        "summary": "特朗普否认伊朗对协议条款的描述，并谴责新无人机袭击，协议签署仍存变数，可能影响油价和地缘风险。",
+        "url": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "BlackRock 私募信贷基金赎回压力",
+        "summary": "13% 的赎回请求虽被上限限制，但可能引发市场对私募信贷流动性的担忧。",
+        "url": "https://www.wsj.com/finance/investing/blackrock-private-credit-fund-faces-13-redemption-requests-5cba8e89",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "SpaceX 上市首日大涨 19%，市值超 2 万亿美元",
+      "direction": "看多",
+      "asset_impact": "SPCX, TSLA",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伊朗核协议签署在即但特朗普否认，地缘风险犹存",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "DOJ 批准派拉蒙与华纳兄弟探索合并，媒体行业整合加速",
+      "direction": "看多",
+      "asset_impact": "PARA, WBD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "英国经济 4 月萎缩，受伊朗战争影响",
+      "direction": "看空",
+      "asset_impact": "EWU, GBP",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "BlackRock 私募信贷基金面临 13% 赎回请求",
+      "direction": "看空",
+      "asset_impact": "BLK, BDC",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "价值股持续跑赢成长股，市场风格切换",
+      "direction": "看多",
+      "asset_impact": "IWD, IWF",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
