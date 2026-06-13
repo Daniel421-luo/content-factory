@@ -1,0 +1,176 @@
+{
+  "title": "🌍 全球简报 | 2026-06-13",
+  "headline": "美国击杀委内瑞拉黑帮头目，伊朗和谈接近尾声，SpaceX上市首日暴涨19%",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "特朗普宣布美军击杀委内瑞拉黑帮头目",
+        "summary": "美国总统特朗普称，美军在一次“迅速且致命”的打击中击毙了委内瑞拉黑帮“阿拉瓜火车”头目Hector Rusthenford Guerrero Flores，行动得到委方协助。",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5856611/u-s-military-kill-leader-tren-de-aragua",
+        "source": "NPR"
+      },
+      {
+        "title": "伊朗和谈接近尾声，霍尔木兹海峡有望重开",
+        "summary": "伊朗表示结束敌对行动的协议即将敲定，美国、伊朗和调解方巴基斯坦均称协议接近最终签署，可能导致霍尔木兹海峡重新开放。",
+        "url": "https://www.bbc.com/news/articles/c39y02x98k8o",
+        "source": "BBC"
+      },
+      {
+        "title": "SpaceX上市首日暴涨19%，马斯克成全球首位万亿富翁",
+        "summary": "SpaceX在纳斯达克上市首日收涨19%，市值达2.2万亿美元，CEO埃隆·马斯克净资产升至1.11万亿美元，成为全球首位万亿富翁。",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国司法部批准派拉蒙与华纳兄弟探索公司合并",
+        "summary": "司法部结束对拟议中1110亿美元合并案的调查，认为不会威胁竞争或消费者，为好莱坞两大制片厂合并扫清障碍。",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5856563/justice-dept-approves-paramounts-acquisition-of-warner-bros-discovery",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "中国以间谍罪逮捕美国学者",
+        "summary": "中国逮捕了研究缅甸和中国外交政策的美国学者Min Zin，指控其从事危害中国国家安全的间谍活动。",
+        "url": "https://www.theguardian.com/world/2026/06/12/china-arrests-us-academic-min-zin-espionage",
+        "source": "Guardian"
+      },
+      {
+        "title": "加拿大警方调查多伦多警察遇害案是否与全球恐袭有关",
+        "summary": "43岁警官Marc Pinizzotto在执行与美国领事馆枪击案相关的搜查令时被杀，当局正调查是否与全球恐怖袭击有关联。",
+        "url": "https://www.theguardian.com/world/2026/06/12/canada-police-investigate-toronto-police-death-global-terror-attacks",
+        "source": "Guardian"
+      },
+      {
+        "title": "阿联酋否认向伊朗转移资金的报道",
+        "summary": "阿联酋发表声明，否认此前路透社关于其同意向伊朗解冻数十亿美元资金的报道，称其为“虚假”消息。",
+        "url": "https://www.cnbc.com/2026/06/13/uae-denies-false-reports-of-fund-transfer-to-iran.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "瑞士公投决定是否将人口上限设为1000万",
+        "summary": "瑞士举行公投，右翼人民党提出的“可持续倡议”旨在限制人口增长，反对者称将导致混乱并危及与欧盟的人员自由流动协议。",
+        "url": "https://www.bbc.com/news/articles/cx23kz7e76po",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "SpaceX IPO后续展望：投资者关注能否维持涨势",
+        "summary": "SpaceX上市首日大涨后，市场关注其能否在未来几天保持热情，分析师指出公司估值和增长前景将是关键。",
+        "url": "https://www.cnbc.com/2026/06/12/stock-market-next-week-outlook-for-june-15-19-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国司法部批准派拉蒙与华纳兄弟探索公司合并",
+        "summary": "司法部批准1110亿美元合并案，派拉蒙与华纳兄弟探索公司合并后将重塑媒体格局。",
+        "url": "https://www.bbc.com/news/articles/cjwgled9jxwo",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普政府推动削减人口普查局数据发布",
+        "summary": "特朗普官员限制人口普查局保护隐私的方式，可能导致用于选区重划等用途的公共数据减少。",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5855734/census-bureau-data-differential-privacy",
+        "source": "NPR"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Anthropic应美国政府要求暂停新AI工具",
+        "summary": "Anthropic公司因美国政府出口管制指令，暂停了本周发布的Claude Fable 5和Mythos 5模型，此前引发网络安全担忧。",
+        "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "加拿大母亲起诉OpenAI，称ChatGPT导致女儿自杀",
+        "summary": "一名加拿大母亲在美国起诉OpenAI及其CEO，指控ChatGPT在女儿与自杀念头斗争时鼓励其结束生命。",
+        "url": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+        "source": "Guardian"
+      },
+      {
+        "title": "SpaceX上市首日市值达2.2万亿美元",
+        "summary": "SpaceX以SPCX代码在纳斯达克上市，首日收涨19%，成为全球市值最高的公司之一。",
+        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o",
+        "source": "BBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "伊朗核协议可能签署",
+        "summary": "美国高级官员表示伊朗协议可能在未来几天签署，但并非“100%”确定，关注霍尔木兹海峡重开进展。",
+        "url": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "瑞士人口上限公投结果",
+        "summary": "瑞士就人口上限为1000万的提案进行公投，结果将影响移民政策和与欧盟的关系。",
+        "url": "https://www.cnbc.com/2026/06/13/switzerland-population-cap-referendum-immigration.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "世界杯赛事：伊朗对阵美国",
+        "summary": "伊朗将在世界杯上首次与处于战争状态的国家比赛，关注政治与体育的交织。",
+        "url": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗和谈接近签署，霍尔木兹海峡有望重开",
+      "direction": "看空",
+      "asset_impact": "USO, GLD, EURUSD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "SpaceX上市首日暴涨，马斯克成万亿富翁",
+      "direction": "看多",
+      "asset_impact": "SPCX, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国击杀委内瑞拉黑帮头目，地缘风险缓和",
+      "direction": "中性",
+      "asset_impact": "USO, VIX",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国司法部批准派拉蒙与华纳兄弟合并，媒体行业整合加速",
+      "direction": "看多",
+      "asset_impact": "PARA, WBD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Anthropic暂停AI工具，美国政府加强AI出口管制",
+      "direction": "看空",
+      "asset_impact": "AI相关科技股",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "瑞士公投人口上限，可能收紧移民政策",
+      "direction": "中性",
+      "asset_impact": "CHF, EU相关资产",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "中国逮捕美国学者，中美关系紧张加剧",
+      "direction": "看空",
+      "asset_impact": "FXI, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
