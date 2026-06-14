@@ -1,0 +1,80 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-14",
+  "headline": "Anthropic 应美国政府要求下线 Fable 5 和 Mythos 5 模型，亚马逊安全研究被指为导火索；OpenAI 遭多州总检察长调查；法院裁定 Google 对 AI Overviews 虚假陈述负责。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文并即将开源",
+        "summary": "智谱发布 GLM-5.2，支持 1M 上下文，号称最强国产 Coding 模型，今晚起面向 GLM Coding Plan 用户开放，API 下周上线，模型下周开源。",
+        "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Suno 音轨分离大幅升级：从零生成更纯净音轨",
+        "summary": "Suno 更新音轨分离功能，不再仅隔离频率，而是从零重新生成音轨，输出无伪影的纯净音轨，可直接用于 DAW。",
+        "url": "https://x.com/suno/status/2065862499765821916",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 应美国政府要求下线 Fable 5 和 Mythos 5 模型",
+        "summary": "美国商务部以国家安全为由，要求 Anthropic 切断 Fable 5 和 Mythos 5 模型的全球访问，称发现一种可能被利用的“越狱”方法。",
+        "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "亚马逊安全研究被指为 Anthropic 模型禁令导火索",
+        "summary": "据 WSJ 报道，亚马逊 CEO 安迪·贾西与白宫的沟通及亚马逊的安全论文，促使美国政府下令 Anthropic 关闭模型。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+        "source": "The Verge"
+      },
+      {
+        "title": "OpenAI 遭多州总检察长调查",
+        "summary": "调查涉及 OpenAI 的广告政策、健康数据处理等多个方面，具体参与州未公布。",
+        "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta 据报因北京要求撤销 20 亿美元 Manus 收购",
+        "summary": "Meta 开始解除对 Manus 的收购，此前北京下令逆转该交易。",
+        "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Visa 与 OpenAI 合作处理 AI 提示交易，专家质疑可信度",
+        "summary": "Visa 将为 OpenAI 的 AI 交易提供支付处理，但专家对安全性表示担忧。",
+        "url": "https://www.zdnet.com/article/openai-and-visa-aim-to-secure-agentic-transactions-how-theyll-work/",
+        "source": "ZDNet"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "法院裁定 Google 对 AI Overviews 生成的虚假陈述承担法律责任",
+        "summary": "美国法院裁定，设计、训练、运营 AI 系统的公司须对系统生成的损害性回复承担法律责任，此案涉及 Google AI Overviews。",
+        "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+        "source": "Wired"
+      },
+      {
+        "title": "KPMG 因明显幻觉撤回 AI 使用报告",
+        "summary": "KPMG 发布的一份关于 AI 使用的报告被发现包含 AI 生成的幻觉内容，已撤回。",
+        "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+        "source": "TechCrunch"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Anthropic 暂停模型访问引发印度 AI 未来辩论",
+        "summary": "印度科技领袖讨论 Anthropic 事件是否为该国 AI 雄心的警钟。",
+        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "杰夫·贝佐斯新创企 Prometheus 将聚焦物理 AI",
+        "summary": "贝佐斯的 Prometheus 是资金最充足的物理 AI 初创公司之一，旨在解决现实世界中的 AI 应用。",
+        "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
