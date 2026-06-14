@@ -1,0 +1,91 @@
+{
+  "title": "📈 美股简报 | 2026-06-14",
+  "headline": "SpaceX上市首日市值突破2万亿美元，特朗普称周日签署伊朗和平协议，市场关注G7峰会",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "期货市场平静，等待周末消息",
+        "summary": "美股期货周五小幅波动，市场消化SpaceX历史性IPO及伊朗和平协议预期。",
+        "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "SpaceX上市带动航天与财富管理板块",
+        "summary": "SpaceX上市首日市值超2万亿美元，带动航天相关股票及财富管理公司Andersen Group受关注。",
+        "url": "https://www.cnbc.com/2026/06/13/this-wealth-advisor-stock-should-benefit-as-clients-get-rich-from-spacex-ipo-says-baird.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "SpaceX上市首日大涨，市值超2万亿美元",
+        "summary": "SpaceX在纳斯达克上市首日股价上涨，市值突破2万亿美元，成为美国第六大上市公司。",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Elon Musk成为全球首位万亿富翁",
+        "summary": "SpaceX上市后，Musk净资产约1.05万亿美元，成为世界首位万亿富翁。",
+        "url": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [],
+    "宏观与政策": [
+      {
+        "title": "特朗普称周日签署伊朗和平协议",
+        "summary": "特朗普在Truth Social上表示，结束与伊朗战争的协议将于周日签署。伊朗对时间表持谨慎态度。",
+        "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普将在G7会见中东和乌克兰领导人",
+        "summary": "特朗普计划周一前往法国参加G7峰会，期间将与中东和乌克兰领导人会面。",
+        "url": "https://www.cnbc.com/2026/06/13/trump-to-meet-with-mideast-and-ukraine-leaders-at-g7-officials-say.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Anthropic遵守政府指令禁用AI模型",
+        "summary": "Anthropic为遵守美国出口管制指令，禁用了Fable 5和Mythos 5模型。",
+        "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗和平协议签署不确定性",
+        "summary": "特朗普称周日签署协议，但伊朗对时间表持谨慎态度，协议能否如期签署存在变数。",
+        "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "特朗普称周日签署伊朗和平协议，但伊朗态度谨慎",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, SPY",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "SpaceX上市首日市值超2万亿美元，带动航天板块",
+      "direction": "看多",
+      "asset_impact": "SPCE, BA, LMT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Anthropic遵守美国出口管制禁用AI模型，显示监管趋严",
+      "direction": "看空",
+      "asset_impact": "AI相关ETF",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
