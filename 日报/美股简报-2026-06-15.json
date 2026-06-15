@@ -1,0 +1,202 @@
+{
+  "title": "📈 美股简报 | 2026-06-15",
+  "headline": "美伊达成和平协议，原油暴跌、股指期货大涨，市场风险偏好显著回升",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货大涨，原油重挫",
+        "summary": "标普500期货上涨，纳斯达克100期货走高，道指期货上扬；WTI原油跌破80美元，布伦特原油同步下跌，因美伊达成和平协议并重新开放霍尔木兹海峡。",
+        "url": "https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "10年期美债收益率下滑",
+        "summary": "10年期美债收益率下跌逾4个基点至4.441%，因伊朗协议促使投资者重新评估美联储加息路径。",
+        "url": "https://www.cnbc.com/2026/06/15/treasury-yields-peace-deal-investor-fears-interest-rates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX盘前上涨6%",
+        "summary": "SpaceX在创纪录的IPO首日后，盘前继续上涨6%，估值超过2万亿美元。",
+        "url": "https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块承压",
+        "summary": "原油价格暴跌，能源股面临压力，分析师警告即使达成协议，油价仍可能波动。",
+        "url": "https://www.cnbc.com/2026/06/15/oil-will-still-cause-volatility-even-with-us-iran-deal-analysts-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "亚洲科技股大涨",
+        "summary": "受美伊协议提振，亚洲科技股飙升，软银上涨超10%。",
+        "url": "https://www.cnbc.com/2026/06/15/softbank-up-more-than-12percent-on-news-of-iran-us-peace-deal-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "航空航天板块受关注",
+        "summary": "SpaceX IPO成功带动投资者涌入太空相关公司，包括卫星通信、激光通信等。",
+        "url": "https://www.wsj.com/finance/investing/spacex-ipo-space-companies-investments-3b71287f",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "SpaceX IPO首日大涨",
+        "summary": "SpaceX上市首日股价飙升，估值超2万亿美元，盘前继续上涨6%。",
+        "url": "https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AT&T：SpaceX威胁被夸大",
+        "summary": "Seeking Alpha分析认为，SpaceX对AT&T的威胁被夸大。",
+        "url": "https://seekingalpha.com/article/4914954-at-and-t-spacex-threat-seems-exaggerated",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "亚洲半导体股受伊朗协议提振",
+        "summary": "美伊协议推动亚洲科技股上涨，软银涨超10%，半导体相关股票受益。",
+        "url": "https://www.cnbc.com/2026/06/15/softbank-up-more-than-12percent-on-news-of-iran-us-peace-deal-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国AI股票仍具吸引力",
+        "summary": "WSJ报道，中国AI股票相对便宜，但地缘政治风险是挑战。",
+        "url": "https://www.wsj.com/finance/stocks/a-place-where-some-ai-stocks-are-still-cheap-china-22559ee9",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美伊达成和平协议",
+        "summary": "美国与伊朗达成协议，结束中东冲突，霍尔木兹海峡将重新开放，协议将于周五签署。",
+        "url": "https://www.cnbc.com/2026/06/14/us-iran-war-peace-deal.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普威胁对法国葡萄酒征100%关税",
+        "summary": "特朗普要求法国废除科技税，否则将对法国葡萄酒征收100%关税，G7峰会前夕发出威胁。",
+        "url": "https://www.cnbc.com/2026/06/15/trump-france-tech-tax-wine-tariffs-champagne.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储主席Warsh首次会议受关注",
+        "summary": "经济学家不确定新任美联储主席Kevin Warsh的政策立场，本周会议将受密切关注。",
+        "url": "https://www.marketwatch.com/story/will-the-real-kevin-warsh-please-stand-up-ahead-of-his-first-fed-meeting-economists-honestly-dont-know-what-to-expect-6fa95c8c",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "英国与日本达成180亿英镑投资协议",
+        "summary": "日本企业将投资英国基础设施和海上风电，金额达180亿英镑。",
+        "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo",
+        "source": "BBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗协议尚未签署，存在变数",
+        "summary": "部分投资者警告，协议尚未正式签署，仍存在不确定性。",
+        "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-stocks-bonds-gold-oil.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "G7峰会期间美欧贸易摩擦风险",
+        "summary": "特朗普威胁对法国葡萄酒加征关税，G7峰会可能加剧贸易紧张。",
+        "url": "https://www.cnbc.com/2026/06/15/trump-france-tech-tax-wine-tariffs-champagne.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Pimco警告债务市场违约重启",
+        "summary": "Pimco表示债务市场违约开始增加，建议投资者关注固定收益。",
+        "url": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊达成和平协议，霍尔木兹海峡将重开",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, CVX, XOM",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美股期货因伊朗协议大涨",
+      "direction": "看多",
+      "asset_impact": "SPY, QQQ, DIA",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "10年期美债收益率下跌",
+      "direction": "看多",
+      "asset_impact": "TLT, IEF",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SpaceX IPO首日大涨，盘前续涨",
+      "direction": "看多",
+      "asset_impact": "SPCX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特朗普威胁对法国葡萄酒征100%关税",
+      "direction": "看空",
+      "asset_impact": "LVMUY, STZ, BUD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "亚洲科技股因伊朗协议大涨",
+      "direction": "看多",
+      "asset_impact": "SFTBY, TSM, ASML",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国AI股票相对便宜但地缘风险",
+      "direction": "中性",
+      "asset_impact": "BABA, BIDU, KWEB",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Pimco警告债务市场违约重启",
+      "direction": "看空",
+      "asset_impact": "HYG, JNK",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美联储主席Warsh首次会议不确定性",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ, DXY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "英国与日本达成180亿英镑投资协议",
+      "direction": "看多",
+      "asset_impact": "EWJ, UKX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
