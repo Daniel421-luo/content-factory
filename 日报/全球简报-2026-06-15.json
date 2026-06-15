@@ -1,0 +1,176 @@
+{
+  "title": "🌍 全球简报 | 2026-06-15",
+  "headline": "美伊达成结束战争协议，油价暴跌股市飙升；英国宣布禁止16岁以下儿童使用社交媒体；SpaceX上市次日再涨6%",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国与伊朗宣布达成结束战争协议，霍尔木兹海峡将重新开放",
+        "summary": "美国总统特朗普宣布与伊朗达成协议，结束持续数月的冲突，并重新开放霍尔木兹海峡。该协议未解决关键核问题，但推动全球油价暴跌、股市大涨。",
+        "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
+        "source": "NPR"
+      },
+      {
+        "title": "英国宣布禁止16岁以下儿童使用TikTok、YouTube等社交媒体",
+        "summary": "英国首相斯塔默宣布，将禁止16岁以下儿童使用包括TikTok、YouTube、Instagram、Facebook和X在内的主要社交平台，成为全球加强儿童网络安全的最新举措。",
+        "url": "https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban",
+        "source": "NPR"
+      },
+      {
+        "title": "SpaceX上市次日再涨6%，市值突破2万亿美元",
+        "summary": "SpaceX在IPO首日大涨后，次日继续上涨6%，市值超过2万亿美元。承销商行使超额配售权，总募资额达857亿美元。",
+        "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-spcx-greenshoe-overallotment.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普前往法国参加G7峰会，系美伊战争后首次",
+        "summary": "特朗普抵达法国埃维昂莱班参加G7峰会，这是自美伊战争爆发以来他首次出席国际多边会议，议程聚焦全球动荡与经济重建。",
+        "url": "https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771",
+        "source": "ABC News"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "俄罗斯空袭基辅致11人死亡，历史性大教堂起火",
+        "summary": "俄罗斯对基辅发动空袭，造成至少11人死亡，一座历史性大教堂被大火吞噬。乌克兰方面称俄方图拉市也遭无人机袭击，3人死亡。",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o",
+        "source": "BBC"
+      },
+      {
+        "title": "以色列部长称以方不会在美伊协议后从黎巴嫩撤军",
+        "summary": "以色列国防部长表示，尽管美伊达成谅解备忘录，以色列不会从黎巴嫩撤军，地区紧张局势持续。",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236",
+        "source": "ABC News"
+      },
+      {
+        "title": "全球针对学校、学生和教职工的暴力袭击激增40%",
+        "summary": "研究显示，全球83个国家报告了超过8556起针对教育的袭击事件，至少10600名学生和教职工死伤或被绑架。",
+        "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
+        "source": "Guardian"
+      },
+      {
+        "title": "菲律宾地震致海床抬升2米，珊瑚暴露海洋生物死亡",
+        "summary": "菲律宾本周发生的强震导致海床抬升高达2米，海岸线向外延伸200米，珊瑚暴露导致大量海洋生物死亡。",
+        "url": "https://www.theguardian.com/world/2026/jun/14/philippines-earthquake-raised-seabed-costal-uplift-coral-exposed",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "道指飙升500点创历史新高，美伊协议提振市场",
+        "summary": "受美伊达成结束战争协议推动，道琼斯指数大涨500点，创历史新高。油价暴跌，科技股领涨。",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "福克斯以220亿美元收购流媒体设备制造商Roku",
+        "summary": "福克斯公司宣布以现金加股票方式收购Roku，交易价值约220亿美元，旨在扩大流媒体业务。",
+        "url": "https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价暴跌，美伊协议推动霍尔木兹海峡重新开放",
+        "summary": "美伊协议宣布后，国际油价大幅下跌，因霍尔木兹海峡将重新开放，缓解了供应中断担忧。",
+        "url": "https://www.bbc.com/news/articles/c6217106px6o",
+        "source": "BBC"
+      },
+      {
+        "title": "交易员策略：美伊协议后继续看好科技股",
+        "summary": "分析师建议投资者在美伊协议后坚持科技股，认为能源成本下降和地缘风险缓解将利好科技板块。",
+        "url": "https://www.cnbc.com/2026/06/15/iran-deal-trader-playbook-stick-with-tech.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "纽约市扩大AI智能街传感器至100个地点",
+        "summary": "纽约市正在扩展AI驱动的街传感器，利用计算机视觉统计行人、自行车和车辆数量，以提升道路安全。",
+        "url": "https://www.foxnews.com/tech/smart-street-sensors-could-watching-city-next",
+        "source": "Fox News"
+      },
+      {
+        "title": "SpaceX IPO超额配售权行使，总募资857亿美元",
+        "summary": "SpaceX的IPO承销商行使了超额配售权，使总募资额从750亿美元增至857亿美元，股价次日再涨6%。",
+        "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-spcx-greenshoe-overallotment.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "G7峰会继续在法国举行，聚焦全球经济与伊朗后续谈判",
+        "summary": "G7峰会将于6月15-17日在法国埃维昂莱班举行，预计将讨论美伊协议后续、全球经济复苏及对俄制裁等议题。",
+        "url": "https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771",
+        "source": "ABC News"
+      },
+      {
+        "title": "美国副总统万斯就伊朗协议细节发表更多评论",
+        "summary": "万斯在CNBC表示美伊协议仍有大量细节待敲定，但美国掌握所有筹码。后续谈判进展将影响市场。",
+        "url": "https://www.cnbc.com/2026/06/15/vance-iran-deal-negotiations-nuclear.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "多米尼加共和国重审英国女子谋杀案",
+        "summary": "一名90岁的英国母亲期待在多米尼加共和国重审中为2019年被谋杀的女儿伸张正义。",
+        "url": "https://www.theguardian.com/uk-news/2026/06/14/mother-hopes-to-get-justice-for-murdered-daughter-in-retrial-in-dominican-republic",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊达成结束战争协议，霍尔木兹海峡将重新开放",
+      "direction": "看空",
+      "asset_impact": "USO, CL",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美伊协议推动股市大涨，道指创历史新高",
+      "direction": "看多",
+      "asset_impact": "/ES, SPY, QQQ",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "福克斯以220亿美元收购Roku，媒体整合加速",
+      "direction": "中性",
+      "asset_impact": "FOX, ROKU",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英国禁止16岁以下儿童使用社交媒体，科技监管趋严",
+      "direction": "看空",
+      "asset_impact": "META, SNAP, GOOGL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "俄罗斯空袭基辅致11人死亡，地缘风险持续",
+      "direction": "中性",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "SpaceX上市次日再涨6%，市值超2万亿美元",
+      "direction": "看多",
+      "asset_impact": "SPCX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "G7峰会召开，聚焦全球经济与伊朗后续谈判",
+      "direction": "中性",
+      "asset_impact": "US10Y, EURUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
