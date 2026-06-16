@@ -1,0 +1,170 @@
+{
+  "title": "📈 美股简报 | 2026-06-16",
+  "headline": "美伊达成临时和平协议，油价大跌、美股创新高；中国5月零售额三年来首次下降；日本央行加息至1995年以来最高水平",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅波动，道指创纪录收盘后续涨",
+        "summary": "标普500和纳斯达克期货小幅上涨，道指期货基本持平。周一受美伊协议推动，道指收于历史新高。",
+        "url": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块承压，油价因伊朗协议大跌",
+        "summary": "布伦特原油跌至3月初以来最低，美国汽油均价略高于4美元/加仑。市场预期霍尔木兹海峡将重新开放。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-15-2026",
+        "source": "WSJ"
+      },
+      {
+        "title": "韩国国防股因战后订单预期飙升",
+        "summary": "分析师认为中东战后重建将带来大量出口订单，推动韩国军工股上涨。",
+        "url": "https://www.cnbc.com/2026/06/16/south-korean-defense-stocks-surge-on-prospects-for-iran-wars-end-.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "SpaceX上市首日飙升20%，估值超2万亿美元",
+        "summary": "SpaceX股票在首个完整交易日上涨20%，承销商行使超额配售权，总募资额达857亿美元。",
+        "url": "https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "福克斯以220亿美元收购Roku",
+        "summary": "福克斯同意以每股160美元现金加股票收购Roku，预计2027年上半年完成。Roku股价升至四年高点。",
+        "url": "https://www.marketwatch.com/story/rokus-sale-to-fox-for-22-billion-raises-a-big-question-aecb5346",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "CrowdStrike自4月以来上涨80%，分析师仍看好",
+        "summary": "投资者Joe Terranova认为CrowdStrike仍有上涨空间，尽管已大幅上涨。",
+        "url": "https://www.cnbc.com/2026/06/15/crowdstrike-is-up-80percent-since-april-terranova-says-its-still-a-buy.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达计划发行至少200亿美元债券",
+        "summary": "这是英伟达自2021年以来首次债务融资，当时公司规模远小于现在。",
+        "url": "https://www.cnbc.com/2026/06/15/nvidia-plans-to-raise-about-20-billion-first-debt-sale-in-ai-boom.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美光：AI内存之王仍难逃周期",
+        "summary": "Seeking Alpha分析指出，尽管美光受益于AI需求，但周期性风险依然存在。",
+        "url": "https://seekingalpha.com/article/4915190-micron-stock-ai-memory-king-no-margin-of-safety",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美伊达成临时和平协议，霍尔木兹海峡将重新开放",
+        "summary": "特朗普宣布协议，油价应声下跌，股市上涨。但美国战略石油储备降至1983年以来最低。",
+        "url": "https://www.cnbc.com/2026/06/15/iran-deal-came-in-time-as-strategic-petroleum-reserve-hits-lowest-level-since-1983.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国5月经济数据疲软，零售额三年来首次下降",
+        "summary": "零售额同比下降，固定资产投资收缩超预期，显示经济下滑加深。",
+        "url": "https://www.cnbc.com/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日本央行加息至1995年以来最高水平",
+        "summary": "日本央行将利率从0.75%上调，为去年12月以来首次加息，日元仍处于历史低位。",
+        "url": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊协议执行不确定性",
+        "summary": "双方对霍尔木兹海峡管理存在分歧，协议正式签署定于周五，但执行细节仍不明朗。",
+        "url": "https://www.cnbc.com/2026/06/15/vp-vance-says-us-expects-strait-of-hormuz-to-be-open-toll-free-long-term.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "6月三巫日及SpaceX期权上市",
+        "summary": "本周四天交易日内将迎来三巫日到期和SpaceX期权上市，可能加剧市场波动。",
+        "url": "https://www.marketwatch.com/story/options-traders-are-bracing-for-a-very-busy-week-with-june-triple-witching-and-launch-of-spacex-contracts-on-deck-b38fbf62",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊达成临时和平协议，霍尔木兹海峡将重新开放",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, CVX, XOM",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国5月零售额三年来首次下降，经济疲软",
+      "direction": "看空",
+      "asset_impact": "FXI, ASHR, KWEB, BABA, JD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "日本央行加息至1995年以来最高水平",
+      "direction": "看空",
+      "asset_impact": "USDJPY, EWJ",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英伟达计划发行至少200亿美元债券",
+      "direction": "中性",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SpaceX上市首日飙升20%，估值超2万亿美元",
+      "direction": "看多",
+      "asset_impact": "SPCX, SPCE, BA",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "福克斯以220亿美元收购Roku",
+      "direction": "看多",
+      "asset_impact": "ROKU, FOXA, DIS",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "CrowdStrike自4月以来上涨80%，分析师仍看好",
+      "direction": "看多",
+      "asset_impact": "CRWD, CYBR, PANW",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "韩国国防股因战后订单预期飙升",
+      "direction": "看多",
+      "asset_impact": "EWY, LMT, NOC, GD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "6月三巫日及SpaceX期权上市，波动率或上升",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ, VIX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
