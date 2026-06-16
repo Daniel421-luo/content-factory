@@ -1,0 +1,182 @@
+{
+  "title": "🌍 全球简报 | 2026-06-16",
+  "headline": "美伊达成谅解备忘录，特朗普称协议‘公平’；G7峰会在法国开幕；日本央行加息至31年新高；美国B-52轰炸机在加州坠毁致8死。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美伊达成谅解备忘录，特朗普称协议‘公平’",
+        "summary": "美国总统特朗普宣布与伊朗达成谅解备忘录，否认美国将投入‘任何资金’，并称协议‘公平’。伊朗面临60天最后期限。",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236",
+        "source": "ABC News"
+      },
+      {
+        "title": "G7峰会在法国开幕，聚焦伊朗协议与乌克兰",
+        "summary": "G7峰会首日，特朗普与盟友讨论伊朗和平协议，并转向乌克兰问题，称‘俄罗斯应该达成协议’。",
+        "url": "https://www.cnbc.com/2026/06/16/trump-g7-summit-iran-zelenskyy-macron.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日本央行加息至1%，创31年新高",
+        "summary": "日本央行将利率上调至1%，以应对伊朗战争引发的通胀压力，而美联储和英国央行预计按兵不动。",
+        "url": "https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国B-52轰炸机在加州坠毁，8人死亡",
+        "summary": "一架B-52轰炸机在加州执行例行测试任务时坠毁，机上8人全部遇难。",
+        "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗协议使以色列总理内塔尼亚胡陷入政治困境",
+        "summary": "特朗普与伊朗的停火协议让以色列总理面临新的政治和安全困境，以色列可能破坏谈判。",
+        "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "俄罗斯艺术家兼普京批评者在波兰遭枪杀",
+        "summary": "化名Semyon Skrepetsky的俄罗斯艺术家Robert Kuzovkov在波兰被枪杀，他以创作普京漫画闻名。",
+        "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "匈牙利议员阻止欧尔班重返总理职位",
+        "summary": "匈牙利议会投票限制欧尔班未来八年内不得再任总理，兑现新总理马扎尔的承诺。",
+        "url": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "加拿大撤销监督海外企业人权监察机构",
+        "summary": "加拿大总理卡尼称加拿大负责任企业监察员办公室自2019年设立以来‘无效’，决定撤销。",
+        "url": "https://www.theguardian.com/world/2026/jun/15/canada-eliminates-human-rights-watchdog-companies-abroad",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "布伦特原油跌破80美元，创三个月新低",
+        "summary": "伊朗和平协议主导G7议程，全球油价跌至三个月低点。",
+        "url": "https://www.cnbc.com/2026/06/16/us-iran-peace-agreement-oil-prices-tankers-strait-of-hormuz-transit.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储本周料维持利率不变，声明或删除宽松倾向",
+        "summary": "CNBC美联储调查显示，受访者预计本周会议不会调整利率，但声明可能删除暗示降息的措辞。",
+        "url": "https://www.cnbc.com/2026/06/16/kevin-warshs-fed-is-not-expected-to-make-any-change-to-rates-for-a-while-according-to-cnbc-fed-survey.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国股指期货持平，道指前一交易日创收盘新高",
+        "summary": "市场等待美联储决议和G7进展，美股期货窄幅波动。",
+        "url": "https://www.cnbc.com/2026/06/16/us-stock-futures-are-flat-after-dow-record-close-on-u.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Pizza Hut以27亿美元出售",
+        "summary": "陷入困境的必胜客连锁餐厅被百胜餐饮集团以27亿美元出售。",
+        "url": "https://abcnews.com/Business/wireStory/struggling-pizza-hut-restaurant-chain-sold-27-billion-133918178",
+        "source": "ABC News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "印度暂时封禁Telegram，因考试泄题担忧",
+        "summary": "印度因国家资格考试泄题争议暂时封禁Telegram，此前NEET考试因泄题被取消。",
+        "url": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "SpaceX盘前上涨5%，此前周一飙升20%",
+        "summary": "马斯克称公司2030年营收可能达约1万亿美元，推动股价继续上涨。",
+        "url": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "透明小鱼或成脑科学未来研究方向",
+        "summary": "全球顶尖脑研究中心之一正从果蝇转向透明小鱼，以理解大脑如何控制行为。",
+        "url": "https://www.npr.org/2026/06/16/nx-s1-5859393/ai-science-brain-humans-fruit-fly-danionella",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美联储利率决议",
+        "summary": "美联储本周会议预计维持利率不变，关注声明措辞变化。",
+        "url": "",
+        "source": "CNBC"
+      },
+      {
+        "title": "G7峰会继续举行",
+        "summary": "G7峰会第二天，预计讨论伊朗协议、乌克兰及全球经济。",
+        "url": "",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国多个州举行初选",
+        "summary": "选民前往投票站参加初选，关注选举结果。",
+        "url": "",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊达成谅解备忘录，伊朗面临60天最后期限",
+      "direction": "看空",
+      "asset_impact": "USO, /CL, EURUSD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "布伦特原油跌破80美元，创三个月新低",
+      "direction": "看空",
+      "asset_impact": "USO, /CL, XLE",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "日本央行加息至1%，创31年新高",
+      "direction": "看多",
+      "asset_impact": "JPY, /6J",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美联储本周料维持利率不变，声明或删除宽松倾向",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES, DXY",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "G7峰会聚焦伊朗协议，特朗普转向乌克兰施压俄罗斯",
+      "direction": "中性",
+      "asset_impact": "USO, EURUSD, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "加拿大撤销海外企业人权监察机构",
+      "direction": "中性",
+      "asset_impact": "EWC, /CL",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "匈牙利议会阻止欧尔班重返总理职位",
+      "direction": "中性",
+      "asset_impact": "EURUSD, EEM",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
