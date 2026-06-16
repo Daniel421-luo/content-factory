@@ -1,0 +1,80 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-17",
+  "headline": "Nvidia 拟发行超 250 亿美元债券，为 AI 领域最大规模债务融资之一；DOJ 称 xAI 未获许可的燃气轮机关乎国家安全；Plaud AI 记事本软件年收入突破 1 亿美元。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Plaud AI 记事本软件年收入突破 1 亿美元",
+        "summary": "Plaud 宣布其 AI 会议记录软件年经常性收入（ARR）超过 1 亿美元，已出货超过 200 万台 AI 记事本设备。在拥挤的 AI 会议记录市场中，该公司正努力建立差异化优势。",
+        "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mobileye 宣布 2027 年在美国推出独立 Robotaxi 服务",
+        "summary": "Mobileye 将利用其 Moovit 平台，于 2027 年在美国某城市推出独立的自动驾驶出租车服务，正式进入美国 Robotaxi 市场。",
+        "url": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "特斯拉 Cybercab 成为史上最轻、最高效的车型",
+        "summary": "特斯拉向 EPA 提交的文件显示，Cybercab 是该公司有史以来最轻、最高效的车型。这款小型自动驾驶双座车已投入生产，但公司尚未制定清晰的商业化计划。",
+        "url": "https://www.theverge.com/transportation/950596/tesla-cybercab-efficient-weight-range-epa",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Nvidia 拟发行超 250 亿美元债券，为 AI 领域最大规模债务融资之一",
+        "summary": "Nvidia 自 2021 年以来首次重返债券市场，计划筹集超过 250 亿美元。此举将测试投资者在 AI 借贷浪潮中对进一步风险敞口的兴趣。",
+        "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "DOJ 称 xAI 未获许可的燃气轮机关乎国家安全",
+        "summary": "美国司法部表示，五角大楼需要 xAI 继续使用其未获许可的燃气轮机，称此事涉及“国家、经济和能源安全”。",
+        "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI 可靠性初创公司 Probably 获 900 万美元融资",
+        "summary": "Probably 致力于构建更可靠的 AI 系统，防止幻觉和事实错误，目标达到与确定性系统相当的准确度。",
+        "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Robinhood 裁员 10% 但未归咎于 AI，引发行业反思",
+        "summary": "Robinhood CEO Vlad Tenev 在裁员通知中未提及 AI，与其他科技公司形成对比。评论认为，单纯将裁员归因于 AI 已不再令人信服。",
+        "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "ALS 患者成为首位脑机接口“重度用户”，通过植入物实现语言交流",
+        "summary": "Casey Harrell 因 ALS 瘫痪，大脑植入电极近三年。自 2023 年首次通过脑机接口“说话”以来，他已累计使用数千小时，成为该技术的首位重度用户。",
+        "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "微软 Copilot 严重漏洞可让黑客窃取用户 2FA 验证码",
+        "summary": "研究人员发现名为 SearchLeak 的漏洞，利用 Copilot 的搜索功能可绕过双因素认证。该漏洞再次暴露了 LLM 安全方法的系统性缺陷。",
+        "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "韩国人为何如此热爱 AI？",
+        "summary": "MIT Technology Review 记者亲历韩国，从无人入境检查到无处不在的 AI 应用，探讨韩国社会对 AI 的狂热接纳及其背后的文化、政策因素。",
+        "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "如何快速上线数据中心？给它一点灵活性",
+        "summary": "文章探讨了在电网压力下，通过灵活调度（如利用电热水壶的瞬时负荷）来加速数据中心并网的新思路，平衡 AI 算力需求与能源稳定性。",
+        "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+        "source": "MIT Technology Review"
+      }
+    ]
+  }
+}
