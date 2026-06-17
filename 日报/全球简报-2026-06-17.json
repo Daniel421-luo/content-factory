@@ -1,0 +1,154 @@
+{
+  "title": "🌍 全球简报 | 2026-06-17",
+  "headline": "特朗普在G7峰会上就伊朗协议施压，同时以色列对黎巴嫩发动新打击；美联储主席沃什首次利率决议备受关注。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "特朗普称若对伊朗协议不满将“重新投炸弹”",
+        "summary": "美国总统特朗普在G7峰会上表示，如果他不满意伊朗协议，美国将“重新投炸弹”。该协议是峰会焦点，但仍有诸多问题未解。",
+        "url": "https://www.cnbc.com/2026/06/17/trump-us-iran-deal-g7.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "以色列无视特朗普批评，对黎巴嫩发动新打击",
+        "summary": "尽管特朗普周二表示以色列总理内塔尼亚胡需“对黎巴嫩更负责”，以色列仍对黎巴嫩发动了新的空袭。",
+        "url": "https://www.bbc.com/news/articles/c7vyn17g832o",
+        "source": "BBC World"
+      },
+      {
+        "title": "美联储主席沃什首次利率决策：市场屏息以待",
+        "summary": "美联储周三公布利率决议，这是新任主席凯文·沃什上任后的首次决策，市场密切关注其政策信号。",
+        "url": "https://www.cnbc.com/2026/06/17/fed-meeting-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "B-52轰炸机坠毁致8人死亡，调查聚焦引擎与操控性",
+        "summary": "一架B-52轰炸机在爱德华兹空军基地起飞后坠毁，机上8人全部遇难，事故原因正在调查中。",
+        "url": "https://www.foxnews.com/politics/deadly-b-52-crash-puts-focus-engines-controllability-investigators-hunt-answers",
+        "source": "Fox News"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗协议主导G7议程，但重大疑问仍存",
+        "summary": "美国-以色列主导的对伊战争震动了全球经济，特朗普在国内的支持率也受到打击。G7领导人表示“支持”并“准备贡献”于美伊谅解备忘录。",
+        "url": "https://www.npr.org/2026/06/17/nx-s1-5860782/trumps-iran-agreement-dominates-g7-but-big-questions-remain",
+        "source": "NPR"
+      },
+      {
+        "title": "巴西最高法院判处博索纳罗之子四年监禁",
+        "summary": "巴西最高法院认定爱德华多·博索纳罗试图寻求美国干预其父的政变审判，判处其四年零两个月监禁。",
+        "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
+        "source": "Guardian"
+      },
+      {
+        "title": "刚果（金）埃博拉疫情：武装人员袭击医院，六岁患者失踪",
+        "summary": "在刚果（金）埃博拉疫情期间，卫生设施因错误信息和恐惧而遭袭击，一名六岁患者被武装人员从医院带走。",
+        "url": "https://www.bbc.com/news/articles/cvgep4l397eo",
+        "source": "BBC World"
+      },
+      {
+        "title": "加拿大取消监督海外企业人权行为的监察机构",
+        "summary": "加拿大总理马克·卡尼称加拿大负责任企业监察员办公室自2019年设立以来未“有效”运作，决定将其撤销。",
+        "url": "https://www.theguardian.com/world/2026/jun/15/canada-eliminates-human-rights-watchdog-companies-abroad",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美联储利率决议：市场预期按兵不动",
+        "summary": "美联储主席沃什首次利率决策，市场普遍预期维持利率不变，但关注点落在未来政策路径上。",
+        "url": "https://www.cnbc.com/2026/06/17/fed-meeting-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "被动投资者因指数基金被迫持有高波动SpaceX股票",
+        "summary": "许多投资指数基金的顾问和资金管理者将很快成为SpaceX的股东，其波动性比比特币高三倍。",
+        "url": "https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美光科技2026年涨超三倍，德银称涨势未止",
+        "summary": "美光科技股价在2026年已上涨超过三倍，德意志银行认为内存短缺将继续推动其业务增长。",
+        "url": "https://www.cnbc.com/2026/06/17/micron-has-tripled-in-2026-deutsche-bank-says-the-rally-isnt-over",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗协议不确定性令霍尔木兹海峡航运前景不明",
+        "summary": "尽管达成临时协议，但伊朗对霍尔木兹海峡的控制仍存疑问，全球航运面临风险。",
+        "url": "https://www.npr.org/2026/06/17/nx-s1-5860909/iran-ships-strait-of-hormuz-trump",
+        "source": "NPR"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Carvana新战略：将经销商变成“游乐场”和试驾中心",
+        "summary": "Carvana开设七家Stellantis特许经销店，但所有销售在线完成，与传统模式形成鲜明对比。",
+        "url": "https://www.cnbc.com/2026/06/17/carvana-new-vehicle-sales.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美联储利率决议及新闻发布会",
+        "summary": "美联储将于北京时间周四凌晨公布利率决议，主席沃什随后召开新闻发布会。",
+        "url": "https://www.cnbc.com/2026/06/17/fed-meeting-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "G7峰会闭幕及特朗普记者会",
+        "summary": "G7峰会即将结束，特朗普预计将举行记者会，就伊朗协议等问题回答提问。",
+        "url": "https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries",
+        "source": "NPR"
+      },
+      {
+        "title": "南非移民离境截止日期临近",
+        "summary": "抗议者设定6月30日为所有无证移民离开南非的最后期限，局势紧张。",
+        "url": "https://www.bbc.com/news/articles/cg740l2jpr0o",
+        "source": "BBC World"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "特朗普威胁若对伊朗协议不满将恢复轰炸，地缘风险上升",
+      "direction": "看空",
+      "asset_impact": "USO, /ES, GLD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "以色列对黎巴嫩发动新打击，无视特朗普批评，中东紧张加剧",
+      "direction": "看空",
+      "asset_impact": "USO, GLD, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储首次沃什利率决策，市场预期按兵不动，但措辞可能偏鹰",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES, DXY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "伊朗协议不确定性令霍尔木兹海峡航运前景不明，油价波动",
+      "direction": "看多",
+      "asset_impact": "USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "被动投资者被迫持有高波动SpaceX股票，可能引发指数基金波动",
+      "direction": "看空",
+      "asset_impact": "SPY, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
