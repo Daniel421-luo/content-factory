@@ -1,0 +1,55 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-18",
+  "headline": "Google 推出 Gemini 驱动的智能音箱，DeepL 收购 Mixhalo 拓展实时音频翻译，Pramaana Labs 获 2700 万美元种子轮融资推动 AI 形式化验证",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google 发布 Gemini 驱动的智能音箱 Home Speaker",
+        "summary": "Google 推出售价 99.99 美元的新款 Home Speaker，用 Gemini 对话式交互取代 Google Assistant 的固定指令，旨在重振智能音箱市场。",
+        "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "DeepL 收购 Mixhalo 进军实时音频翻译",
+        "summary": "DeepL 收购现场音频流与翻译公司 Mixhalo，并在旧金山设立办公室以拓展美国业务。",
+        "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pramaana Labs 获 Khosla Ventures 2700 万美元种子轮融资",
+        "summary": "Pramaana Labs 将利用形式化验证技术提升 AI 在法律、药物发现等高风险领域的可靠性。",
+        "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "加拿大养老金巨头投资印度 AI 数据中心热潮",
+        "summary": "加拿大养老金计划投资委员会将收购印度数据中心运营商 CtrlS 8.2% 的股份，押注 AI 驱动的需求增长。",
+        "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "特朗普政府试图阻止 xAI 燃气轮机污染诉讼",
+        "summary": "NAACP 起诉 xAI 未经许可使用燃气轮机为 Grok 数据中心供电，特朗普政府以国家安全为由介入。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "机器人训练数据采集：脏活累活，AI 实验室已开始付费",
+        "summary": "物理 AI 的发展面临数据瓶颈，一些实验室正通过众包方式收集机器人训练数据，工作枯燥但不可或缺。",
+        "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "白宫与 Anthropic 因 Fable 项目爆发冲突",
+        "summary": "一场关于前沿 AI 模型的内部争斗正在重塑行业格局，涉及白宫与 Anthropic 之间的紧张关系。",
+        "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
