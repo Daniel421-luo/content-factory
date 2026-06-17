@@ -1,0 +1,190 @@
+{
+  "title": "📈 美股简报 | 2026-06-17",
+  "headline": "伊朗停火协议提振市场情绪，SpaceX市值超越亚马逊，英特尔先进制程投产，美联储会议受关注",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅走高，伊朗停火协议提振风险偏好",
+        "summary": "美股期货盘前小幅上涨，市场消化伊朗停火协议利好，油价跌破80美元，道指周一创收盘纪录。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-16-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "美联储主席沃什料将暂不公布利率点阵图",
+        "summary": "美联储FOMC将发布季度利率展望，但主席沃什预计不会公布点阵图，市场关注政策信号。",
+        "url": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "伊朗停火协议利好航空、化工等板块",
+        "summary": "瑞银认为，随着伊朗协议最终敲定，西南航空、伊士曼化工等股票可能受益。",
+        "url": "https://www.cnbc.com/2026/06/16/these-stocks-should-outperform-as-the-iran-deal-is-finalized-says-ubs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "华尔街热捧‘MANGOS’新概念，替代‘Magnificent Seven’",
+        "summary": "市场出现新的人工智能交易主题‘MANGOS’，涵盖部分热门公司，包括尚未公开交易的企业。",
+        "url": "https://www.marketwatch.com/story/wall-street-cant-stop-talking-about-mangos-stocks-as-the-magnificent-seven-becomes-passe-61b5a453?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "SpaceX市值超越亚马逊，成为全球第五大公司",
+        "summary": "SpaceX股价在上市初期大幅上涨，市值超过亚马逊，但随后涨幅收窄。",
+        "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "SpaceX以600亿美元收购AI编程初创公司Cursor",
+        "summary": "该交易将增强SpaceX在AI领域的竞争力，与Anthropic和OpenAI等对手抗衡。",
+        "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "百胜餐饮以27亿美元出售必胜客",
+        "summary": "必胜客因竞争加剧陷入困境，将被出售给美国私募股权公司和中国餐饮企业。",
+        "url": "https://www.cbsnews.com/news/pizza-hut-sale-yum-brands/",
+        "source": "CBS"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英特尔开始生产最先进芯片18A-P，接近与苹果达成交易",
+        "summary": "英特尔进入18A-P节点生产阶段，分析师认为这增强了其吸引外部客户的信心，可能促成与苹果的合作。",
+        "url": "https://www.cnbc.com/2026/06/16/intel-begins-production-of-18a-p-inches-closer-to-possible-apple-deal.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日本5月出口增速创三年多新高，芯片需求激增",
+        "summary": "日本5月出口增长为2022年11月以来最快，受汽车和半导体需求强劲推动。",
+        "url": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "高通被视为罕见的AI芯片价值股",
+        "summary": "尽管智能手机业务拖累股价，但高通在汽车和数据中心领域的多元化布局使其成为AI芯片的价值选择。",
+        "url": "https://www.wsj.com/tech/qualcomm-is-a-rare-ai-chip-value-play-3e09f70b?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "伊朗停火协议框架达成，市场关注霍尔木兹海峡重新开放",
+        "summary": "美伊达成临时和平协议，原油可能优先通过海峡，但化肥等其他商品仍受阻。",
+        "url": "https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "日本央行加息至31年最高水平",
+        "summary": "日本央行自2024年以来持续加息，利率升至31年高位。",
+        "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国限制投资者购房法案有望快速通过国会",
+        "summary": "两党高层就限制投资者购房的法案达成一致，预计将迅速在国会通过。",
+        "url": "https://www.cnbc.com/2026/06/16/housing-bill-limiting-investors-congress.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美联储会议决议及沃什讲话",
+        "summary": "美联储FOMC会议今日公布利率决定，沃什可能暂不公布点阵图，但任何鹰派信号都可能引发市场波动。",
+        "url": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗协议细节及霍尔木兹海峡通航进展",
+        "summary": "协议文本尚未公布，若出现变数或海峡重新开放延迟，可能影响油价和航运。",
+        "url": "https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗停火协议框架达成，油价跌破80美元，市场风险偏好提升",
+      "direction": "看多",
+      "asset_impact": "SPY, XLE, UAL, DAL",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储会议今日召开，沃什可能不公布点阵图，市场关注利率指引",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "英特尔开始生产18A-P芯片，接近与苹果达成交易",
+      "direction": "看多",
+      "asset_impact": "INTC, AAPL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "日本5月出口增速创三年多新高，芯片需求强劲",
+      "direction": "看多",
+      "asset_impact": "SOXX, TSM, NVDA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SpaceX市值超越亚马逊，但期权显示风险较高",
+      "direction": "中性",
+      "asset_impact": "SPCX, AMZN",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "日本央行加息至31年最高水平",
+      "direction": "看空",
+      "asset_impact": "EWJ, USDJPY",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国限制投资者购房法案有望快速通过",
+      "direction": "看空",
+      "asset_impact": "Z, RDFN, OPEN",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "瑞银看好伊朗协议受益股，如西南航空和伊士曼化工",
+      "direction": "看多",
+      "asset_impact": "LUV, EMN",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "高通被视为AI芯片价值股，但智能手机业务拖累",
+      "direction": "看多",
+      "asset_impact": "QCOM",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SpaceX以600亿美元收购AI编程公司Cursor",
+      "direction": "中性",
+      "asset_impact": "SPCX, AI",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    }
+  ]
+}
