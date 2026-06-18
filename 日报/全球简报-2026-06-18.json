@@ -1,0 +1,150 @@
+{
+  "title": "🌍 全球简报 | 2026-06-18",
+  "headline": "特朗普签署美伊初步协议，结束战争并开放霍尔木兹海峡；乌克兰大规模无人机袭击莫斯科炼油厂；美国防部长宣布审查驻欧美军并呼吁‘北约3.0’",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "特朗普签署美伊初步协议，结束战争并开放霍尔木兹海峡",
+        "summary": "特朗普签署14点备忘录，包括结束敌对行动、伊朗永不拥核及3000亿美元重建计划。双方承诺60天内达成最终协议。",
+        "url": "https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval",
+        "source": "NPR"
+      },
+      {
+        "title": "乌克兰大规模无人机袭击莫斯科，炼油厂起火",
+        "summary": "俄方称乌克兰发射近200架无人机，击中莫斯科东南部炼油厂和购物中心，为冲突以来最大规模袭击。",
+        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国防部长宣布审查驻欧美军，呼吁‘北约3.0’",
+        "summary": "皮特·赫格塞斯在布鲁塞尔抨击北约盟友，宣布对驻欧美军进行为期六个月的审查，并呼吁北约转型。",
+        "url": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
+        "source": "NPR"
+      },
+      {
+        "title": "特朗普支持率创历史新低，经济担忧加剧",
+        "summary": "NPR/PBS News/Marist民调显示，特朗普工作支持率和经济处理能力支持率均创纪录新低，中期选举前民众悲观。",
+        "url": "https://www.npr.org/2026/06/18/nx-s1-5861720/trump-economy-gas-prices-midterms-polling",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "巴西最高法院判处博索纳罗之子四年监禁",
+        "summary": "爱德华多·博索纳罗因试图寻求美国干预其父的政变审判被判有罪，刑期四年两个月。",
+        "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
+        "source": "Guardian"
+      },
+      {
+        "title": "日本防卫大臣称加强防御对防止战争‘至关重要’",
+        "summary": "小泉进次郎表示日本需要重新审视二战后和平主义姿态，加强国防能力。",
+        "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "尼日尔首都机场传出枪声和爆炸声",
+        "summary": "尼日尔持续打击伊斯兰极端主义，一月曾遭疑似圣战分子袭击同一机场。",
+        "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "以色列民族主义者挑战耶路撒冷圣地现状",
+        "summary": "以色列右翼日益违反阿克萨清真寺宗教共享惯例，威胁圣地现状。",
+        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "英特尔股价飙升9%，特朗普称将与苹果合作设计芯片",
+        "summary": "特朗普宣布英特尔与苹果合作在美国设计芯片，推动英特尔近期反弹。",
+        "url": "https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "航空燃油价格下跌，但机票价格短期内难以下降",
+        "summary": "航空燃油均价降至伊朗战争以来最低，但专家预计机票价格仍将维持高位。",
+        "url": "https://www.npr.org/2026/06/18/nx-s1-5860631/jet-fuel-airfare-iran-war",
+        "source": "NPR"
+      },
+      {
+        "title": "Hollister与Target合作瞄准返校购物市场",
+        "summary": "Hollister与Target合作销售宿舍用品和服装，瞄准890亿美元返校市场。",
+        "url": "https://www.cnbc.com/2026/06/18/hollister-partners-with-target-to-sell-dorm-bedding-apparel.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "AI基础设施股票一年飙升近500%，Jefferies看好",
+        "summary": "Jefferies投行首次覆盖该股并给予买入评级，认为仍有上涨空间。",
+        "url": "https://www.cnbc.com/2026/06/18/this-ai-infrastructure-stock-has-soared-nearly-500percen",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "奥巴马总统中心揭幕典礼",
+        "summary": "奥巴马总统中心将于周四举行盛大开幕仪式，博物馆展示前总统遗产。",
+        "url": "https://www.npr.org/2026/06/18/nx-s1-5861803/obama-presidential-center-dedication-chicago",
+        "source": "NPR"
+      },
+      {
+        "title": "美伊60天最终协议谈判启动",
+        "summary": "双方承诺在未来60天内进行进一步谈判以达成最终协议，关注后续进展。",
+        "url": "https://www.cnbc.com/2026/06/18/trump-iran-deal-mou-nuclear-hormuz.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊签署初步协议，结束战争并开放霍尔木兹海峡",
+      "direction": "看空",
+      "asset_impact": "USO, GLD, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "乌克兰大规模无人机袭击莫斯科炼油厂",
+      "direction": "看多",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国防部长宣布审查驻欧美军并呼吁北约3.0",
+      "direction": "中性",
+      "asset_impact": "EURUSD, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普支持率创历史新低，经济担忧加剧",
+      "direction": "看空",
+      "asset_impact": "/ES, US10Y",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英特尔与苹果合作设计芯片，股价大涨",
+      "direction": "看多",
+      "asset_impact": "INTC, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "航空燃油价格下跌但机票价格难降",
+      "direction": "中性",
+      "asset_impact": "USO, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
