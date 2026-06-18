@@ -1,0 +1,74 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-19",
+  "headline": "General Intuition 以约 20 亿美元估值融资 3 亿美元；Adobe 将 AI 助手扩展至 Premiere、Illustrator 等应用；Waymo 因高速施工区事故召回近 4000 辆 Robotaxi。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Adobe 将 AI 助手引入 Premiere、Illustrator 和 InDesign",
+        "summary": "Adobe 更新 Firefly AI 助手，并将其集成到 Premiere、Illustrator、InDesign 和 Frame.io 中，提升创意工作流程。",
+        "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pixi 推出 iOS 应用，将文本消息转化为交互式 AR 体验",
+        "summary": "Pixi 的新应用让用户通过 AR 增强消息互动，超越传统贴纸和表情符号。",
+        "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI 编码代理自主指导机器人训练，安装 GPU 和剪扎带",
+        "summary": "Nvidia 的自改进机器人程序利用 AI 编码代理团队，实现机器人自主执行复杂任务。",
+        "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+        "source": "Ars Technica"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "General Intuition 洽谈以约 20 亿美元估值融资 3 亿美元",
+        "summary": "这家初创公司利用 Medal 的 20 亿视频/年数据集训练具身 AI 和世界模型，拥有 1000 万月活用户。",
+        "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo 召回近 4000 辆 Robotaxi，因高速施工区事故风险",
+        "summary": "Waymo 识别出至少 13 起自动驾驶汽车驶入封闭施工区的事件，召回 3871 辆车进行软件更新。",
+        "url": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "亚马逊员工因公开支持数据中心限制面临调查",
+        "summary": "三名软件工程师在 Seattle 市议会作证后，被亚马逊内部调查，指控公司非法报复政治言论。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+        "source": "The Verge"
+      },
+      {
+        "title": "Tesco 因 Broadcom 涨价将 4 万个工作负载迁离 VMware",
+        "summary": "Tesco 在法庭文件中称 Broadcom 将 VMware 价格提高约 175%，计划迁移大量服务器工作负载。",
+        "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "科技工作者支持的 PAC 以 500 万美元对抗大型科技公司的 1 亿美元游说",
+        "summary": "Guardrails PAC 定位为民粹主义政治运动，依靠 AI 行业从业者的小额捐款。",
+        "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "亚马逊和 QuEra 承诺 2028 年实现实用量子纠错",
+        "summary": "两家公司宣布有望在 2028 年实现超越经典计算的量子纠错，推动量子计算实用化。",
+        "url": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "推出 AI 代理的 4 条建议：快速行动但极度谨慎",
+        "summary": "专家建议企业部署 AI 代理时保持人类主导，避免完全放权，确保安全可控。",
+        "url": "https://www.zdnet.com/article/rolling-out-ai-agents-move-fast-and-furious-but-with-extreme-caution/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
