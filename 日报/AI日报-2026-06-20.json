@@ -1,0 +1,74 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-20",
+  "headline": "OpenAI IPO前连获大将，Snap分拆AI视频团队，AI推理公司Baseten被曝15亿美元融资",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Snap分拆AI视频团队成立新公司Dotmo",
+        "summary": "Snapchat母公司Snap将内部AI视频团队分拆为独立公司Dotmo，原团队员工将离开Snap专注AI视频开发，此举旨在控制成本。",
+        "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reliance计划将AI融入每通电话、每个应用和每个家庭",
+        "summary": "印度亿万富翁安巴尼旗下的Reliance正将AI编织进服务超过5亿用户的电信业务中，意图打造全面AI化的生态。",
+        "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "AI推理初创公司Baseten被曝以130亿美元估值融资15亿美元",
+        "summary": "距上一轮巨额融资仅数月，AI推理平台Baseten据传即将完成15亿美元融资，估值达130亿美元，推理赛道热度持续。",
+        "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elastic拟8500万美元收购AI调试初创公司DeductiveAI",
+        "summary": "消息称Elastic已同意收购CRV支持的DeductiveAI，交易金额最高8500万美元。该公司用AI自动发现并修复软件漏洞，成立仅三年。",
+        "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI IPO前接连引入Transformer联合发明人和前特朗普AI政策官员",
+        "summary": "OpenAI在IPO前夕加速招兵买马，本周先后从Google DeepMind挖来Transformer联合发明人Noam Shazeer，并聘请前特朗普政府AI政策官员Dean Ball。",
+        "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "亚马逊MGM放弃拍摄Sam Altman传记电影",
+        "summary": "卢卡·瓜达尼诺执导、安德鲁·加菲尔德主演的OpenAI CEO Sam Altman传记片《Artificial》已被亚马逊MGM放弃，该片原计划讲述2023年Altman被解雇又复职的五天风波。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+        "source": "The Verge"
+      },
+      {
+        "title": "Barret Zoph重返OpenAI仅五个月后再次离职",
+        "summary": "OpenAI企业AI销售负责人Barret Zoph在回归公司五个月后再次离开。他此前曾短暂担任Mira Murati创立的Thinking Machines Lab的联合创始人兼CTO。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "AI初创公司Subquadratic声称突破LLM数学瓶颈",
+        "summary": "总部迈阿密的Subquadratic上月走出隐身模式，宣称解决了困扰大语言模型近十年的数学瓶颈。细节此前匮乏，如今该公司公布了更多技术信息，但业界仍存疑虑。",
+        "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "脑机接口临床试验正在加速推进",
+        "summary": "MIT Tech Review报道了肌萎缩侧索硬化症患者Casey Harrell使用脑机接口近三年的故事，他被研究人员称为“首位重度用户”，目前BCI试验正全面铺开。",
+        "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "Allbirds新AI业务CEO有宏图但无员工",
+        "summary": "Allbirds新成立的AI业务由一位独行CEO领导，虽有大额种子轮融资，但下一步计划尚不明朗，被形容为只有创始人的初创公司。",
+        "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
