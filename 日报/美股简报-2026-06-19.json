@@ -1,0 +1,192 @@
+{
+  "title": "📈 美股简报 | 2026-06-19",
+  "headline": "伊朗协议推动油价下跌、美股收高，英特尔因苹果芯片合作大涨，日元逼近40年低点",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅走高，伊朗协议提振风险偏好",
+        "summary": "标普500期货上涨，延续昨日涨势。伊朗停火协议缓解地缘风险，油价下跌，投资者关注下周通胀数据。",
+        "url": "https://www.cnbc.com/2026/06/19/cnbc-daily-open-trump-vance-tag-team-takes-on-iran-deal-critics.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价因霍尔木兹海峡恢复通航而下跌",
+        "summary": "WTI原油期货下跌，因伊朗协议后油轮交通恢复，市场焦点转向需求前景和OPEC展望。",
+        "url": "https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日元跌破161，逼近40年低点",
+        "summary": "美元兑日元升至161.80，为2024年7月以来最弱，市场对日本干预的预期升温。",
+        "url": "https://www.cnbc.com/2026/06/19/japan-yen-161-dollar-intervention-risk-currency-markets.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块承压，油价下跌",
+        "summary": "随着伊朗协议缓解供应担忧，油价走低，能源股面临压力。",
+        "url": "https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科技股受英特尔-苹果合作提振",
+        "summary": "英特尔宣布为苹果制造芯片，股价大涨，带动半导体板块走强。",
+        "url": "https://www.wsj.com/finance/trump-announces-intel-apple-partnership-988ccc01",
+        "source": "WSJ"
+      },
+      {
+        "title": "消费板块受益于汽油价格下跌",
+        "summary": "美国汽油均价跌破4美元，为三个月来首次，提振消费者信心。",
+        "url": "https://www.cbsnews.com/news/gas-prices-below-4-gallon-iran-strait-of-hormuz/",
+        "source": "CBS News"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "英特尔与苹果达成芯片制造合作，股价大涨",
+        "summary": "特朗普宣布英特尔将为苹果在美国制造芯片，英特尔股价上涨。美国政府持有的10%英特尔股份目前价值600亿美元。",
+        "url": "https://www.cbsnews.com/news/intel-intc-shares-trump-apple-chip-agreement/",
+        "source": "CBS News"
+      },
+      {
+        "title": "埃森哲财报后股价下跌",
+        "summary": "埃森哲业绩展望不及预期，分析师担忧新交易带来整合挑战。",
+        "url": "https://www.marketwatch.com/story/two-big-reasons-accentures-stock-is-sliding-in-the-wake-of-earnings-9353b184",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "SpaceX股价连续两日下跌",
+        "summary": "SpaceX股价周四下跌7%至178美元，IPO买家接近盈亏平衡。",
+        "url": "https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英特尔与苹果合作，股价大涨",
+        "summary": "特朗普宣布英特尔将为苹果制造芯片，英特尔股价大幅上涨。分析师认为英特尔正将政治和战略顺风转化为代工订单。",
+        "url": "https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "苹果在内存市场议价能力受AI冲击",
+        "summary": "WSJ分析指出，AI繁荣削弱了苹果作为内存买家的议价能力，影响其成本控制。",
+        "url": "https://www.wsj.com/tech/why-apples-war-chest-cant-win-the-memory-war-cb997d02",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普称伊朗协议为'无条件投降'",
+        "summary": "特朗普接受Axios采访时称伊朗协议是'无条件投降'，并称其权力'没有限制'。",
+        "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日本干预和加息未能阻止日元贬值",
+        "summary": "日本央行加息并投入超700亿美元干预，但日元仍跌至161.80，逼近40年低点。",
+        "url": "https://www.cnbc.com/2026/06/19/japan-yen-intervention-boj-rate-hike.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国央行维持利率不变，警告能源价格影响",
+        "summary": "英国央行按兵不动，自去年12月以来未再降息，中东动荡阻碍进一步宽松。",
+        "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo",
+        "source": "BBC"
+      },
+      {
+        "title": "下周通胀数据成市场焦点",
+        "summary": "投资者将密切关注通胀数据，寻找美联储可能加息的迹象。",
+        "url": "https://www.cnbc.com/2026/06/18/next-weeks-inflation-data-is-vitally-important-whats-ahead-for-the-market.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "日元持续贬值可能触发日本进一步干预",
+        "summary": "日元跌破161，若继续走弱，日本可能再次干预汇市，引发全球市场波动。",
+        "url": "https://www.cnbc.com/2026/06/19/japan-yen-161-dollar-intervention-risk-currency-markets.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗协议执行不确定性",
+        "summary": "尽管协议签署，但特朗普声称'无条件投降'，执行细节仍存变数，可能影响油价和地缘风险。",
+        "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "下周通胀数据若超预期，可能引发加息担忧",
+        "summary": "若通胀数据高于预期，市场对美联储加息的担忧将加剧，可能打压股市。",
+        "url": "https://www.cnbc.com/2026/06/18/next-weeks-inflation-data-is-vitally-important-whats-ahead-for-the-market.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗协议签署，霍尔木兹海峡恢复通航，油价下跌",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, CVX, XOM",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英特尔与苹果达成芯片制造合作，股价大涨",
+      "direction": "看多",
+      "asset_impact": "INTC, SOXX",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "日元跌破161，逼近40年低点，干预风险上升",
+      "direction": "看空",
+      "asset_impact": "JPY, FXY, EWJ",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国汽油均价跌破4美元，消费者信心可能改善",
+      "direction": "看多",
+      "asset_impact": "XLY, AMZN, WMT",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SpaceX股价连续下跌，IPO买家接近盈亏平衡",
+      "direction": "看空",
+      "asset_impact": "SPACE, RKLB",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "英国央行维持利率不变，能源价格影响通胀前景",
+      "direction": "中性",
+      "asset_impact": "GBP, EWU",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "下周通胀数据成为市场焦点，若超预期可能引发加息担忧",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "苹果在内存市场议价能力受AI冲击，成本压力上升",
+      "direction": "看空",
+      "asset_impact": "AAPL, MU, WDC",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
