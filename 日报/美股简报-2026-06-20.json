@@ -1,0 +1,162 @@
+{
+  "title": "📈 美股简报 | 2026-06-20",
+  "headline": "美光领涨半导体，伊朗协议推动油价下行，美联储新主席暗示不急于降息",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅走高，科技股领涨",
+        "summary": "美股期货盘前小幅上涨，科技股受美光财报提振表现强劲。",
+        "url": "",
+        "source": ""
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块承压，伊朗协议缓解供应担忧",
+        "summary": "伊朗协议实施后，霍尔木兹海峡油轮交通量激增，油价下跌，能源股面临压力。",
+        "url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "半导体板块走强，美光财报超预期",
+        "summary": "美光财报显示营收和利润超预期，带动半导体板块整体上涨。",
+        "url": "",
+        "source": ""
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "美光科技财报超预期，盘后大涨",
+        "summary": "美光科技公布季度财报，营收和每股收益均超市场预期，盘后股价大幅上涨。",
+        "url": "",
+        "source": ""
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光科技财报超预期，盘后大涨",
+        "summary": "美光科技季度营收和利润均超预期，受益于AI驱动的高带宽内存需求，盘后股价大幅上涨。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "内存危机加剧，苹果也难以幸免",
+        "summary": "内存短缺问题严重，苹果CEO库克称情况“不可持续”，可能罕见提价。",
+        "url": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "苹果的现金储备无法赢得内存战争",
+        "summary": "AI热潮削弱了苹果作为买家的议价能力，内存短缺问题难以通过资金解决。",
+        "url": "https://www.wsj.com/tech/why-apples-war-chest-cant-win-the-memory-war-cb997d02",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美联储新主席暗示不急于降息",
+        "summary": "美联储主席沃什表示将成立工作组研究问题，市场预期降息可能推迟至12月。",
+        "url": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "美国对德国药品定价政策发起关税调查",
+        "summary": "美国贸易代表称德国削减药品支出的提议是“严重倒退”，可能加征关税。",
+        "url": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗协议推动油价下跌，美国汽油价格跌破4美元",
+        "summary": "伊朗协议实施后，霍尔木兹海峡油轮交通量增加，美国汽油均价降至3.99美元/加仑。",
+        "url": "https://www.cbsnews.com/news/gas-prices-below-4-gallon/",
+        "source": "CBS"
+      },
+      {
+        "title": "费城联储制造业指数6月反弹",
+        "summary": "费城联储制造业指数在6月回升，显示制造业活动有所改善。",
+        "url": "https://seekingalpha.com/article/4916400-philadelphia-fed-manufacturing-index-rebounded-in-june",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "俄罗斯威胁升级，乌克兰大规模无人机袭击莫斯科",
+        "summary": "俄罗斯承诺对乌克兰进行“大规模打击”，地缘紧张局势可能加剧。",
+        "url": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "私人信贷投资者加速撤离，增加强制清算风险",
+        "summary": "分析师预计高额赎回将持续一年以上，增加强制清算风险。",
+        "url": "https://www.wsj.com/finance/investing/even-more-investors-want-out-of-private-credit-4c225a9c",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美光财报超预期，AI内存需求强劲",
+      "direction": "看多",
+      "asset_impact": "MU, NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伊朗协议实施，霍尔木兹海峡油轮交通量增加，油价下跌",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储主席沃什暗示不急于降息，成立工作组研究",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国对德国药品定价政策发起关税调查",
+      "direction": "看空",
+      "asset_impact": "PFE, MRK",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "内存危机加剧，苹果可能提价",
+      "direction": "看空",
+      "asset_impact": "AAPL",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "俄罗斯威胁升级，乌克兰大规模无人机袭击莫斯科",
+      "direction": "看空",
+      "asset_impact": "SPY, USO",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "私人信贷投资者加速撤离，增加强制清算风险",
+      "direction": "看空",
+      "asset_impact": "BDCS, LendingClub",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "费城联储制造业指数6月反弹",
+      "direction": "看多",
+      "asset_impact": "SPY, XLI",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
