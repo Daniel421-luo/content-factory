@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>视界 · 周刊 6/15 - 6/20</title>
+<style>
+    :root {
+        --page-bg: #fafaf7;
+        --card-bg: #ffffff;
+        --text: #1e293b;
+        --text-muted: #64748b;
+        --text-subtle: #94a3b8;
+        --border: #e2e8f0;
+        --shadow: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
+        --shadow-hover: 0 4px 12px rgba(0,0,0,0.06);
+        --radius: 12px;
+        --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+        --font-mono: "SF Mono", "Fira Code", "JetBrains Mono", monospace;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+        font-family: var(--font-sans);
+        background: var(--page-bg);
+        color: var(--text);
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    .page {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 40px 24px 80px;
+    }
+
+    /* ── Header ── */
+    .masthead {
+        text-align: center;
+        padding: 48px 0 40px;
+        border-bottom: 1px solid var(--border);
+        margin-bottom: 40px;
+    }
+
+    .masthead .brand {
+        font-size: 13px;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--text-subtle);
+        margin-bottom: 12px;
+    }
+
+    .masthead h1 {
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        color: var(--text);
+        margin-bottom: 8px;
+    }
+
+    .masthead .headline {
+        font-size: 17px;
+        color: var(--text-muted);
+        font-weight: 400;
+        max-width: 480px;
+        margin: 0 auto 16px;
+        line-height: 1.5;
+    }
+
+    .masthead .meta {
+        font-size: 13px;
+        color: var(--text-subtle);
+    }
+
+    .masthead .date-badge {
+        display: inline-block;
+        background: #f1f5f9;
+        border-radius: 20px;
+        padding: 4px 14px;
+        font-size: 12px;
+        font-weight: 500;
+        color: var(--text-muted);
+    }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+        display: flex;
+        justify-content: center;
+        gap: 32px;
+        margin-bottom: 48px;
+        flex-wrap: wrap;
+    }
+
+    .stat {
+        text-align: center;
+    }
+
+    .stat-value {
+        font-size: 28px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.02em;
+    }
+
+    .stat-label {
+        font-size: 12px;
+        color: var(--text-muted);
+        margin-top: 2px;
+    }
+
+    /* ── Sections ── */
+    .section-block {
+        margin-bottom: 48px;
+    }
+
+    .section-header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 20px;
+        padding-bottom: 12px;
+        border-bottom: 2px solid var(--border, #e2e8f0);
+    }
+
+    .section-icon {
+        font-size: 22px;
+    }
+
+    .section-header h2 {
+        font-size: 19px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.01em;
+        flex: 1;
+    }
+
+    .section-count {
+        font-size: 12px;
+        color: var(--text-subtle);
+        font-weight: 500;
+        background: #f1f5f9;
+        border-radius: 10px;
+        padding: 2px 10px;
+    }
+
+    /* ── Cards ── */
+    .cards {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .card {
+        background: var(--card-bg);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        display: grid;
+        grid-template-columns: 44px 1fr 200px;
+        gap: 0;
+        overflow: hidden;
+        transition: box-shadow 0.2s;
+    }
+
+    .card:hover {
+        box-shadow: var(--shadow-hover);
+    }
+
+    .card-number {
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 18px 0 0 0;
+        font-family: var(--font-mono);
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--text-subtle);
+    }
+
+    .card-body {
+        padding: 18px 16px;
+    }
+
+    .card-body h3 {
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 1.4;
+        margin-bottom: 6px;
+        color: var(--text);
+    }
+
+    .card-body h3 a {
+        color: inherit;
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s;
+    }
+
+    .card-body h3 a:hover {
+        border-bottom-color: var(--text);
+    }
+
+    .card-why {
+        font-size: 13px;
+        color: var(--text-muted);
+        margin-bottom: 4px;
+        line-height: 1.5;
+    }
+
+    .card-summary {
+        font-size: 13px;
+        color: var(--text-muted);
+        line-height: 1.6;
+        margin-bottom: 6px;
+    }
+
+    .card-action {
+        font-size: 12px;
+        color: var(--text);
+        background: var(--bg, #f8fafc);
+        border-radius: 6px;
+        padding: 6px 10px;
+        line-height: 1.4;
+    }
+
+    .card-meta {
+        margin-top: 8px;
+    }
+
+    .card-source {
+        font-size: 11px;
+        color: var(--text-subtle);
+    }
+
+    .card-take {
+        padding: 18px 16px;
+        border-left: 1px solid var(--border);
+        background: #fafbfc;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    .take-label {
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--text-subtle);
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        margin-bottom: 8px;
+    }
+
+    .take-placeholder {
+        font-size: 12px;
+        color: #cbd5e1;
+        font-style: italic;
+        line-height: 1.5;
+    }
+
+    /* ── Footer ── */
+    .footer {
+        text-align: center;
+        padding-top: 40px;
+        border-top: 1px solid var(--border);
+        margin-top: 20px;
+        color: var(--text-subtle);
+        font-size: 12px;
+    }
+
+    .footer a {
+        color: var(--text-muted);
+        text-decoration: none;
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 640px) {
+        .page {
+            padding: 20px 16px 60px;
+        }
+        .masthead {
+            padding: 28px 0 24px;
+            margin-bottom: 24px;
+        }
+        .masthead h1 {
+            font-size: 24px;
+        }
+        .card {
+            grid-template-columns: 36px 1fr;
+        }
+        .card-take {
+            display: none;
+        }
+        .stats-bar {
+            gap: 20px;
+            margin-bottom: 32px;
+        }
+        .stat-value {
+            font-size: 22px;
+        }
+    }
+
+    /* ── Print ── */
+    @media print {
+        body { background: white; }
+        .page { max-width: 100%; padding: 20px; }
+        .card { box-shadow: none; break-inside: avoid; border: 1px solid #e5e7eb; }
+        .card-take { background: white; }
+    }
+</style>
+</head>
+<body>
+<div class="page">
+
+    <header class="masthead">
+        <div class="brand">视界 · Weekly View</div>
+        <h1>6/15 - 6/20</h1>
+        <p class="headline">美伊停火引爆市场，AI监管博弈加剧，创始人需在宏观波动中抓住AI落地与成本控制的双重机会。</p>
+        <span class="date-badge">2026-06-20 13:17 · 自动生成</span>
+    </header>
+
+    <div class="stats-bar">
+        <div class="stat">
+            <div class="stat-value">16</div>
+            <div class="stat-label">本周日报</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">12</div>
+            <div class="stat-label">精选条目</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">4</div>
+            <div class="stat-label">关注领域</div>
+        </div>
+    </div>
+
+    
+            <section class="section-block" style="--accent: #2563eb; --bg: #eff6ff; --border: #bfdbfe">
+                <div class="section-header">
+                    <span class="section-icon">🤖</span>
+                    <h2>AI × 商业变现</h2>
+                    <span class="section-count">3 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/" target="_blank" rel="noopener">Salesforce 36亿美元收购AI客服平台Fin，企业级AI代理变现加速</a></h3>
+                        <div class="card-why">💡 直接验证AI客服在CRM场景的商业价值，创始人可借鉴其Agentforce模式提升客户服务效率。</div>
+                        <p class="card-summary">Salesforce收购Fin以增强Agentforce平台，帮助企业构建自定义AI客服代理，交易金额36亿美元。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估自身业务中AI客服的落地场景，考虑引入或自建类似Agentforce的代理工具。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-06-16</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/" target="_blank" rel="noopener">Plaud AI记事本ARR破1亿美元，AI会议记录赛道验证变现能力</a></h3>
+                        <div class="card-why">💡 证明AI工具在垂直场景（会议记录）的订阅模式可行，创始人可参考其产品化路径。</div>
+                        <p class="card-summary">Plaud宣布其AI会议记录软件年经常性收入超过1亿美元，已出货超200万台设备。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>研究Plaud的差异化策略，探索将AI能力嵌入现有产品以提升ARPU。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-06-17</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/" target="_blank" rel="noopener">Google推出Gemini驱动智能音箱，AI对话式交互重塑硬件</a></h3>
+                        <div class="card-why">💡 智能音箱是家庭场景入口，创始人可关注AI如何提升全屋定制中的语音交互体验。</div>
+                        <p class="card-summary">Google发布99.99美元的新款Home Speaker，用Gemini对话式交互取代Google Assistant的固定指令。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估将Gemini类对话AI集成到智能家居产品中的可行性，提升用户粘性。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-06-18</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #7c3aed; --bg: #f5f3ff; --border: #ddd6fe">
+                <div class="section-header">
+                    <span class="section-icon">🏠</span>
+                    <h2>全屋定制 × AI</h2>
+                    <span class="section-count">3 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4" target="_blank" rel="noopener">苹果因AI芯片成本上涨被迫提价，全屋定制需关注硬件成本传导</a></h3>
+                        <div class="card-why">💡 AI芯片成本上涨将推高智能家居硬件价格，创始人需提前规划供应链和定价策略。</div>
+                        <p class="card-summary">库克表示AI服务器对内存芯片需求激增，苹果将被迫提高产品价格以转嫁成本。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>与芯片供应商重新谈判长期合同，或寻找替代方案以控制成本。</div>
+                        <div class="card-meta">
+                            <span class="card-source">美股简报-2026-06-18</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/" target="_blank" rel="noopener">Mobileye 2027年在美国推出独立Robotaxi服务，自动驾驶落地加速</a></h3>
+                        <div class="card-why">💡 自动驾驶将改变居住和商业空间设计，创始人需关注其对全屋定制中车库、充电等空间需求的影响。</div>
+                        <p class="card-summary">Mobileye将利用Moovit平台，于2027年在美国某城市推出独立的自动驾驶出租车服务。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>研究自动驾驶对住宅和商业空间设计的影响，提前布局相关定制方案。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-06-17</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/" target="_blank" rel="noopener">Meta为智能眼镜测试面部识别，隐私争议或影响智能家居信任</a></h3>
+                        <div class="card-why">💡 面部识别技术若用于智能家居，可能引发用户隐私担忧，创始人需平衡功能与合规。</div>
+                        <p class="card-summary">Meta与五角大楼供应商Rank One合作，为智能眼镜开发面部识别功能，引发隐私担忧。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>在智能家居产品中谨慎使用生物识别技术，优先采用隐私保护方案。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-06-16</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #dc2626; --bg: #fef2f2; --border: #fecaca">
+                <div class="section-header">
+                    <span class="section-icon">📈</span>
+                    <h2>交易与宏观</h2>
+                    <span class="section-count">3 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval" target="_blank" rel="noopener">美伊达成停火协议，油价暴跌、美股创新高，风险偏好回升</a></h3>
+                        <div class="card-why">💡 宏观风险缓解利好全屋定制行业（成本下降、消费信心提升），创始人可顺势调整库存和营销策略。</div>
+                        <p class="card-summary">美伊签署14点备忘录，结束战争并开放霍尔木兹海峡，WTI原油跌破80美元，道指创历史新高。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>利用油价下跌降低原材料成本，同时加大营销投入以抓住消费回暖窗口。</div>
+                        <div class="card-meta">
+                            <span class="card-source">全球简报-2026-06-18</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-06-17-2026" target="_blank" rel="noopener">美联储维持利率不变但暗示年内加息，沃什鹰派信号打压市场</a></h3>
+                        <div class="card-why">💡 加息预期将增加融资成本，创始人需优化现金流并关注利率敏感型资产。</div>
+                        <p class="card-summary">美联储在沃什首次会议上维持利率3.5%-3.75%不变，但点阵图显示年内可能加息，美股下跌。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估公司债务结构，考虑锁定长期低息贷款，同时减少对利率敏感的投资。</div>
+                        <div class="card-meta">
+                            <span class="card-source">美股简报-2026-06-18</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.cnbc.com/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html" target="_blank" rel="noopener">中国5月零售额三年来首次下降，经济下行压力加大</a></h3>
+                        <div class="card-why">💡 中国是全屋定制重要市场，消费疲软将直接影响订单，创始人需调整区域策略。</div>
+                        <p class="card-summary">中国5月零售额同比下降，固定资产投资收缩超预期，显示经济下滑加深。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>减少对中国市场的过度依赖，拓展东南亚等增长较快地区。</div>
+                        <div class="card-meta">
+                            <span class="card-source">美股简报-2026-06-16</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #059669; --bg: #ecfdf5; --border: #a7f3d0">
+                <div class="section-header">
+                    <span class="section-icon">🔧</span>
+                    <h2>工具与方法</h2>
+                    <span class="section-count">3 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/" target="_blank" rel="noopener">Nvidia拟发行超250亿美元债券，AI算力投资热潮持续</a></h3>
+                        <div class="card-why">💡 算力成本是AI创业的核心支出，创始人需关注融资动态以预判未来价格趋势。</div>
+                        <p class="card-summary">Nvidia自2021年以来首次重返债券市场，计划筹集超过250亿美元，为AI领域最大规模债务融资之一。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>关注Nvidia债券发行对AI芯片价格的影响，适时锁定算力合同。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-06-17</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html" target="_blank" rel="noopener">SpaceX以600亿美元收购AI编程初创公司Cursor，AI编程工具价值凸显</a></h3>
+                        <div class="card-why">💡 AI编程工具可大幅提升开发效率，创始人可引入类似工具加速产品迭代。</div>
+                        <p class="card-summary">SpaceX收购Cursor以增强AI竞争力，交易价值600亿美元。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估Cursor或类似AI编程工具（如GitHub Copilot）在团队中的应用，提升开发效率。</div>
+                        <div class="card-meta">
+                            <span class="card-source">美股简报-2026-06-17</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/" target="_blank" rel="noopener">AI可靠性初创公司Probably获900万美元融资，防止幻觉工具受关注</a></h3>
+                        <div class="card-why">💡 AI幻觉是商业应用的痛点，创始人可关注此类工具提升AI系统的可信度。</div>
+                        <p class="card-summary">Probably致力于构建更可靠的AI系统，防止幻觉和事实错误，目标达到与确定性系统相当的准确度。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>测试Probably等可靠性工具，将其集成到AI产品中以降低错误率。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-06-17</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+
+    <footer class="footer">
+        <p>由 AI Content Factory 自动策展 · 每周六上午生成</p>
+        <p style="margin-top:4px">在 Obsidian 中打开同名 .md 文件可编辑「我的看法」</p>
+    </footer>
+
+</div>
+</body>
+</html>
