@@ -1,0 +1,176 @@
+{
+  "title": "🌍 全球简报 | 2026-06-20",
+  "headline": "以色列空袭黎巴嫩南部致至少5人死亡，停火协议面临破裂；美伊谈判取消，特朗普与意大利总理梅洛尼关系恶化。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "以色列空袭黎巴嫩南部致至少5人死亡，停火协议受威胁",
+        "summary": "以色列对黎巴嫩南部发动空袭，造成至少5人死亡，包括两名儿童，此前有报道称达成停火协议。以军称打击了真主党目标。",
+        "url": "https://www.cnbc.com/2026/06/20/at-least-five-killed-in-israeli-strikes-on-lebanon-despite-ceasefire.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美伊瑞士谈判取消，伊朗协议前景不明",
+        "summary": "原定在瑞士举行的美伊谈判被取消，此前有报道称双方接近达成协议。此举引发市场对中东局势的担忧。",
+        "url": "https://www.npr.org/2026/06/19/g-s1-129076/up-first-newsletter-vice-president-vance-iran-agreement-obama-presidential-center-judicial-system-dhs-facial-recognition",
+        "source": "NPR"
+      },
+      {
+        "title": "特朗普与意大利总理梅洛尼公开争执，称其“编造故事”",
+        "summary": "意大利总理梅洛尼指责特朗普编造了她“乞求”合影的故事，两国关系因特朗普对伊朗开战决定而紧张。",
+        "url": "https://www.bbc.com/news/articles/c20y1ygn707o",
+        "source": "BBC"
+      },
+      {
+        "title": "卡塔尔捐赠的“空军一号”抵达美国，引发争议",
+        "summary": "特朗普在安德鲁斯联合基地展示了卡塔尔捐赠的波音747飞机，该机价值4亿美元，是美国政府收到的最大外国礼物之一。",
+        "url": "https://www.npr.org/2026/06/19/nx-s1-5864503/air-force-one-trump-qatar",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "泽连斯基被剥夺波兰最高荣誉，因二战时期部队命名争议",
+        "summary": "波兰剥夺了乌克兰总统泽连斯基的最高荣誉，原因是其军队单位名称涉及二战历史争议。乌克兰称此举是“战略错误”。",
+        "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o",
+        "source": "BBC"
+      },
+      {
+        "title": "非洲和加勒比国家要求为跨大西洋奴隶贸易正式道歉",
+        "summary": "多国领导人呼吁受益于奴隶贸易的国家道歉、减免债务并提供经济补偿。",
+        "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no",
+        "source": "BBC"
+      },
+      {
+        "title": "美国停止资助南非艾滋病项目",
+        "summary": "美国决定停止资助南非的HIV项目，南非是全球HIV感染者最多的国家，超过800万人。",
+        "url": "https://www.bbc.com/news/articles/cdr457lxr71o",
+        "source": "BBC"
+      },
+      {
+        "title": "全球赔偿正义框架在加纳通过",
+        "summary": "在加纳举行的里程碑式会议上，通过了全球赔偿正义框架，包括公平补偿受奴隶制影响者等措施。",
+        "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "霍尔木兹海峡油轮交通量激增，美伊协议实施后",
+        "summary": "美伊协议开放航道后，霍尔木兹海峡油轮交通量大幅上升，引发对航道治理的疑问。",
+        "url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX估值超1万亿美元，亿万富翁股东名单曝光",
+        "summary": "SpaceX上市后股价飙升，马斯克持股价值超1万亿美元，其他亿万富翁股东也浮出水面。",
+        "url": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "内存危机加剧，苹果或被迫提价",
+        "summary": "内存短缺严重，苹果CEO库克称情况“不可持续”，可能罕见提价。",
+        "url": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "韩国芯片工人巨额奖金引发通胀担忧",
+        "summary": "韩国科技行业工人获得数百万韩元奖金，韩国央行警告通胀压力上升。",
+        "url": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "SpaceX史上风险最高的ETF交易首周表现强劲",
+        "summary": "SpaceX IPO不仅创造了历史最大上市规模，还引发了杠杆ETF的抢购潮。",
+        "url": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "迪士尼乐园经典项目需改用电动车以符合加州排放标准",
+        "summary": "迪士尼乐园的Autopia项目必须在2027年2月前将燃油发动机改为电动，以遵守加州法规。",
+        "url": "https://www.foxnews.com/travel/iconic-disneyland-attraction-switch-electric-vehicles-comply-blue-states-emissions-standards",
+        "source": "Fox News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国与伊朗谈判取消后，中东局势走向",
+        "summary": "关注美伊谈判取消后，伊朗核协议前景及霍尔木兹海峡航运安全。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "意大利外长取消访美行程，美意关系紧张",
+        "summary": "意大利外长因特朗普言论取消访美，关注后续外交互动。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "澳大利亚H5N1禽流感疫情发展",
+        "summary": "澳大利亚确认首例H5N1病例，关注疫情是否扩散。",
+        "url": "",
+        "source": ""
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "以色列空袭黎巴嫩，停火协议破裂风险上升",
+      "direction": "看空",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美伊谈判取消，伊朗协议前景不明",
+      "direction": "看空",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "霍尔木兹海峡油轮交通量激增，航运恢复",
+      "direction": "看多",
+      "asset_impact": "USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "内存危机加剧，苹果或提价",
+      "direction": "看多",
+      "asset_impact": "AAPL, SMH",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "韩国芯片工人巨额奖金，通胀压力上升",
+      "direction": "看空",
+      "asset_impact": "EWY, US10Y",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国停止资助南非HIV项目",
+      "direction": "中性",
+      "asset_impact": "EEM",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "全球赔偿正义框架通过，或影响跨国企业",
+      "direction": "中性",
+      "asset_impact": "EEM, DIA",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
