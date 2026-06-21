@@ -1,0 +1,162 @@
+{
+  "title": "📈 美股简报 | 2026-06-21",
+  "headline": "霍尔木兹海峡紧张局势升级，伊朗声称关闭海峡，美国否认；科技巨头AI建设推高债券市场关注度；韩国芯片工人巨额奖金引发通胀担忧。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "霍尔木兹海峡局势紧张，油价波动风险上升",
+        "summary": "伊朗军方声称关闭霍尔木兹海峡以回应以色列对黎巴嫩的打击，美国表示海峡仍开放。副总统万斯已抵达瑞士与伊朗谈判。",
+        "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI建设推动科技巨头发债，债券市场受关注",
+        "summary": "科技巨头因数据中心建设耗尽现金储备并增加债务，投资者需密切关注利率走势。",
+        "url": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "韩国芯片工人巨额奖金引发通胀预警",
+        "summary": "三星、SK海力士等科技公司发放数百万韩元奖金，韩国央行警告可能推高通胀。",
+        "url": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "美国廉价航空模式面临困境",
+        "summary": "精神航空破产，而美联航、达美航空表现强劲，表明航空业成功不仅靠低价，也非因燃油价格飙升。",
+        "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SNAP限制措施影响食品饮料巨头",
+        "summary": "多州扩大SNAP（补充营养援助计划）限制，消费者减少购买汽水、糖果和加工食品，食品饮料公司面临压力。",
+        "url": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "美银推荐五大科技股，认为有较大上涨空间",
+        "summary": "美国银行公布其下半年首选科技股名单，认为这些股票有显著上行潜力。",
+        "url": "https://www.cnbc.com/2026/06/20/five-top-tech-stocks-with-major-upside-bank-of-america-says.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX估值飙升，马斯克持股超万亿美元",
+        "summary": "SpaceX上市后股价上涨37%，马斯克持股价值超过1万亿美元，其他亿万富翁股东名单公布。",
+        "url": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "韩国芯片工人巨额奖金或推高通胀",
+        "summary": "三星、SK海力士等公司发放巨额奖金，韩国央行警告可能对通胀产生上行压力。",
+        "url": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美国对德国药品定价政策启动关税调查",
+        "summary": "美国贸易代表称德国削减药品开支的提议是“严重倒退”，启动关税调查。",
+        "url": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "俄罗斯威胁升级，乌克兰对莫斯科发动最大规模无人机袭击",
+        "summary": "俄罗斯承诺对乌克兰进行频繁和“大规模打击”，此前基辅对莫斯科发动无人机袭击。",
+        "url": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "印度Jio Platforms提交IPO申请",
+        "summary": "印度最大电信和数字服务公司Jio Platforms已提交IPO文件。",
+        "url": "https://www.cnbc.com/2026/06/19/india-jio-platforms-ipo-mukesh-ambani.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "霍尔木兹海峡局势升级风险",
+        "summary": "伊朗声称关闭海峡，美国否认，但谈判正在进行，若局势恶化可能推高油价。",
+        "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "俄乌冲突升级风险",
+        "summary": "俄罗斯威胁大规模打击，乌克兰无人机袭击莫斯科，地缘紧张加剧。",
+        "url": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗声称关闭霍尔木兹海峡，美国否认，谈判进行中",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "科技巨头因AI建设增加发债，债券市场受关注",
+      "direction": "中性",
+      "asset_impact": "TLT, NVDA, MSFT",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "韩国芯片工人巨额奖金或推高通胀",
+      "direction": "看空",
+      "asset_impact": "EWY, INTC, MU",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国对德国药品定价启动关税调查",
+      "direction": "看空",
+      "asset_impact": "PFE, MRK",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "俄罗斯威胁大规模打击，乌克兰无人机袭击莫斯科",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美银推荐五大科技股，认为有较大上涨空间",
+      "direction": "看多",
+      "asset_impact": "AAPL, MSFT, NVDA, AMZN, GOOGL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SpaceX上市后股价上涨37%，马斯克持股超万亿美元",
+      "direction": "看多",
+      "asset_impact": "TSLA",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "印度Jio Platforms提交IPO申请",
+      "direction": "中性",
+      "asset_impact": "INDA",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    }
+  ]
+}
