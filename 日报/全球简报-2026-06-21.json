@@ -1,0 +1,142 @@
+{
+  "title": "🌍 全球简报 | 2026-06-21",
+  "headline": "美伊谈判在即，伊朗声称关闭霍尔木兹海峡；哥伦比亚总统决选投票，左翼与亲特朗普候选人角逐；玻利维亚宣布紧急状态并部署军队平息抗议。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美伊谈判在瑞士启动，伊朗声称关闭霍尔木兹海峡",
+        "summary": "美国与伊朗代表团抵达瑞士准备进行技术性会谈，但伊朗军方声称已关闭霍尔木兹海峡以回应以色列对黎巴嫩的袭击，美国否认海峡关闭。",
+        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo",
+        "source": "BBC"
+      },
+      {
+        "title": "哥伦比亚总统决选：左翼参议员与特朗普支持的“老虎”对决",
+        "summary": "哥伦比亚举行总统决选，左翼参议员佩特罗与特朗普支持的候选人阿韦拉多·德·拉·埃斯普里埃拉（绰号“老虎”）角逐，后者誓言打击贩毒集团并结束社会主义时代。",
+        "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+        "source": "Guardian"
+      },
+      {
+        "title": "玻利维亚总统宣布紧急状态，部署军队平息抗议",
+        "summary": "玻利维亚总统宣布国家进入紧急状态，派遣军队和推土机清除反政府路障，这些路障由农民和原住民团体设置，已导致国家瘫痪。",
+        "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
+        "source": "Guardian"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "以色列空袭黎巴嫩南部，环保人士被杀",
+        "summary": "以色列空袭黎巴嫩南部，杀害了拒绝撤离海滩的环保人士莫娜·哈利勒；BBC获准进入以色列占领的黎巴嫩南部村庄，看到破坏景象。",
+        "url": "https://www.bbc.com/news/articles/cwylx1vq18zo",
+        "source": "BBC"
+      },
+      {
+        "title": "以色列空袭加沙致六人死亡，包括半岛电视台摄影师",
+        "summary": "以色列空袭加沙造成六人死亡，其中包括一名半岛电视台摄影师，以军指控其为哈马斯狙击手，但未提供证据。",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo",
+        "source": "BBC"
+      },
+      {
+        "title": "泽连斯基归还波兰最高荣誉，因奖项被剥夺",
+        "summary": "乌克兰总统泽连斯基归还波兰最高荣誉，此前该奖项被剥夺，他表示乌克兰愿意就“共同历史中艰难痛苦的篇章”进行接触。",
+        "url": "https://www.bbc.com/news/articles/c2lye7xje9yo",
+        "source": "BBC"
+      },
+      {
+        "title": "加拿大政策迫使寻求庇护者进入美国面临驱逐，批评者称",
+        "summary": "批评者指出，加拿大的《安全第三国协议》迫使移民前往不安全的美国，导致他们面临驱逐风险。",
+        "url": "https://www.theguardian.com/world/2026/jun/21/canada-immigration-us-deportation",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "Kevin Warsh 悄然重塑美联储，推动“天鹅绒手套下的政权更迭”",
+        "summary": "美联储主席Kevin Warsh宣布重大变革，设立工作组重新思考美联储的几乎所有运作，被视为一场悄然革命。",
+        "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI建设热潮让科技投资者关注债券市场",
+        "summary": "科技巨头为数据中心建设耗尽现金并增加债务，迫使投资者关注利率变动对科技股的影响。",
+        "url": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国廉价航空模式难以为继",
+        "summary": "精神航空破产，而美联航和达美航空表现强劲，表明航空业成功不仅仅靠低价，失败也非因燃油价格飙升。",
+        "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SNAP限制措施可能改变购物习惯，食品巨头密切关注",
+        "summary": "更多州实施SNAP食品限制，限制购买苏打水、糖果和加工食品，迫使食品和饮料公司调整策略。",
+        "url": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "中国AI模型引发“潜伏特工”担忧：报告发现为美国用户生成更脆弱代码",
+        "summary": "Booz Allen报告警告，中国AI模型如DeepSeek和Qwen可能为美国政府用户生成更易受攻击的代码，引发安全担忧。",
+        "url": "https://www.foxnews.com/politics/chinese-ai-models-raise-sleeper-agent-fears-after-report-finds-more-vulnerable-code-us-users",
+        "source": "Fox News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美伊在瑞士举行技术性会谈",
+        "summary": "美国与伊朗代表团将于6月22日在瑞士举行会谈，讨论核问题及地区紧张局势，霍尔木兹海峡局势是关键焦点。",
+        "url": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
+        "source": "NPR"
+      },
+      {
+        "title": "哥伦比亚总统决选结果揭晓",
+        "summary": "哥伦比亚总统决选投票于6月21日举行，结果预计在24小时内公布，将决定该国未来安全政策走向。",
+        "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗声称关闭霍尔木兹海峡，美伊谈判前紧张升级",
+      "direction": "看多",
+      "asset_impact": "USO, GLD, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储主席Warsh启动重大改革，市场预期政策转向",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "AI建设推高科技公司债务，债券收益率敏感度上升",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "哥伦比亚总统决选，亲特朗普候选人领先或改变安全政策",
+      "direction": "中性",
+      "asset_impact": "FXI, /ES",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "玻利维亚紧急状态，政治动荡可能影响锂资源供应",
+      "direction": "看多",
+      "asset_impact": "LIT, USO",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
