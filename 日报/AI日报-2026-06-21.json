@@ -1,0 +1,74 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-21",
+  "headline": "诺贝尔奖得主 John Jumper 离开 DeepMind 加入 Anthropic；Subquadratic 声称突破 LLM 数学瓶颈；《大西洋月刊》公开 AI 训练音乐数据库",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Siri AI 上手体验：智能、有用、无处不在",
+        "summary": "Wired 编辑体验了新版 Siri AI，认为它变得对话式、无处不在且真正有用，是苹果 AI 升级的核心。",
+        "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+        "source": "Wired"
+      },
+      {
+        "title": "In the Weights：你的 AI 虚荣心搜索工具",
+        "summary": "一款名为 In the Weights 的新应用上线，让你用 AI 搜索自己的“权重”分数，满足虚荣心。",
+        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "《大西洋月刊》公开 AI 训练音乐数据库",
+        "summary": "记者 Alex Reisner 整理并公开了四个用于训练 AI 的音乐数据集，其中两个包含 1200 万和 900 万首曲目，引发版权讨论。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "诺贝尔奖得主 John Jumper 离开 DeepMind 加入 Anthropic",
+        "summary": "2024 年诺贝尔化学奖得主 John Jumper 从 Google DeepMind 离职，加入竞争对手 Anthropic，成为又一位出走的大牛。",
+        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软双向转售 GPT 与 DeepSeek，成全球最大 AI 中间商",
+        "summary": "彭博社报道，微软既将 ChatGPT 卖给中国企业，也反向将 DeepSeek 模型提供给西方客户，构建跨中美 AI 贸易网络。",
+        "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
+        "source": "AIHOT"
+      },
+      {
+        "title": "NASA 选择 Relativity Space 执行 2028 年火星任务",
+        "summary": "由 Eric Schmidt 领导的火箭公司 Relativity Space 被 NASA 选中，将在 2028 年发射 Aeolus 载荷前往火星。",
+        "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Subquadratic 声称突破 LLM 数学瓶颈",
+        "summary": "迈阿密 AI 初创公司 Subquadratic 走出隐身模式，宣称解决了困扰大语言模型近十年的数学瓶颈，但细节仍不充分。",
+        "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "脑机接口临床试验加速推进",
+        "summary": "MIT Tech Review 报道，ALS 患者 Casey Harrell 使用脑机接口近三年，成为“首位重度用户”，多项 BCI 试验正在展开。",
+        "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+        "source": "MIT Tech Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Signal 总裁警告：AI 聊天机器人不是你的朋友",
+        "summary": "Meredith Whittaker 提醒用户，AI 聊天机器人没有意识、没有知觉，不应被视为朋友或知己。",
+        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "从 PGP 到 Mythos：出口管制从未真正阻止过任何人",
+        "summary": "历史表明，对网络安全软件的出口管制效果有限，对 Anthropic 的 Mythos 模型实施类似管制可能同样无效。",
+        "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
