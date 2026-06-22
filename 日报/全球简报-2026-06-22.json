@@ -1,0 +1,166 @@
+{
+  "title": "🌍 全球简报 | 2026-06-22",
+  "headline": "英国首相斯塔默辞职；美伊同意60天内达成最终协议；哥伦比亚右翼百万富翁赢得大选；美联储前主席格林斯潘去世",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "英国首相斯塔默宣布辞职",
+        "summary": "英国首相基尔·斯塔默周一宣布辞去工党领袖职务，将在数周内离任，此时距离他在大选中以压倒性优势获胜仅两年。",
+        "url": "https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns",
+        "source": "NPR"
+      },
+      {
+        "title": "美伊同意60天内达成最终协议的路线图",
+        "summary": "美国与伊朗在瑞士举行的首轮会谈取得进展，伊朗同意允许国际原子能机构核查人员返回，双方承诺在60天内达成最终协议。",
+        "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普支持的右翼百万富翁赢得哥伦比亚总统选举",
+        "summary": "律师兼百万富翁阿韦拉多·德拉埃斯普列利亚在哥伦比亚总统决选中以微弱优势获胜，左翼对手指控计票违规。",
+        "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美联储前主席艾伦·格林斯潘去世，享年100岁",
+        "summary": "艾伦·格林斯潘曾担任美联储主席19年，被誉为现代美国经济的设计师，但其声誉因2008年金融危机受损。",
+        "url": "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "俄罗斯军队集结威胁乌克兰顿巴斯关键城市",
+        "summary": "俄军集结兵力威胁科斯强季尼夫卡，若该城失守，俄军将能向乌东最后据点推进。",
+        "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "玻利维亚总统宣布紧急状态并部署军队平息抗议",
+        "summary": "玻利维亚总统因农民和原住民团体抗议导致全国道路封锁，宣布紧急状态并出动军队和推土机清除路障。",
+        "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
+        "source": "Guardian"
+      },
+      {
+        "title": "荷兰首相就印尼独立后摩鹿加士兵遭虐待正式道歉",
+        "summary": "荷兰首相罗布·耶滕正式为数千名为荷兰殖民军作战的摩鹿加士兵在印尼独立后遭受的“无情”虐待道歉。",
+        "url": "https://www.theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国最高法院允许推翻七个州少数族裔选民保护工具",
+        "summary": "最高法院维持一项裁决，废除了在七个州执行《投票权法》中保护残疾或文盲选民的关键工具。",
+        "url": "https://www.npr.org/2026/06/22/nx-s1-5863532/supreme-court-voting-rights-act-private-right-arkansas",
+        "source": "NPR"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "SpaceX在创纪录IPO后发行债券，披露超1000亿美元现金储备",
+        "summary": "SpaceX周一宣布发行高级无担保票据，并披露持有约1008亿美元现金。",
+        "url": "https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "雪佛龙将为微软在德克萨斯州的大型数据中心提供天然气燃料",
+        "summary": "微软拥抱天然气，显示其愿意投资化石燃料以满足数据中心电力需求。",
+        "url": "https://www.cnbc.com/2026/06/22/chevron-cvx-microsoft-msft-natural-gas-data-center.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "UPS投资4800万美元建设温控设施，押注医疗物流",
+        "summary": "UPS宣布在医疗物流领域进行新投资，以满足温控类别需求的激增。",
+        "url": "https://www.cnbc.com/2026/06/22/ups-healthcare-logistics-investment.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日本自1978年以来首次提高签证费，翻五倍",
+        "summary": "日本当局表示预计涨价不会对入境旅游产生“即时影响”。",
+        "url": "https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "AI代理战争可能重塑国会——在国会重塑AI之前",
+        "summary": "中期选举中的巨额支出和激烈言辞反映了AI行业的政治分歧和对未来的不同愿景。",
+        "url": "https://www.npr.org/2026/06/22/nx-s1-5856359/ai-anthropic-congress-spending-openai-midterms-election",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "法国高温红色警报持续，学校关闭",
+        "summary": "法国超过一半地区处于红色高温警报，卫生部长警告许多公民将“受苦”，气温预计周一达到峰值。",
+        "url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊同意60天内达成最终协议，伊朗允许IAEA核查",
+      "direction": "看空",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英国首相斯塔默辞职，政治不确定性增加",
+      "direction": "看空",
+      "asset_impact": "GBPUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "哥伦比亚右翼总统当选，可能转向全面军事对抗武装团体",
+      "direction": "看空",
+      "asset_impact": "USO, COP",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "俄罗斯在乌克兰东部集结兵力，顿巴斯局势升级",
+      "direction": "看空",
+      "asset_impact": "USO, GLD, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "玻利维亚紧急状态并部署军队平息抗议，政治动荡",
+      "direction": "看空",
+      "asset_impact": "USO",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "法国高温红色警报，可能影响能源需求和农业产出",
+      "direction": "看多",
+      "asset_impact": "USO, NG",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SpaceX发行债券并披露超1000亿美元现金，显示资本充足",
+      "direction": "中性",
+      "asset_impact": "SPX",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "雪佛龙为微软数据中心供应天然气，化石燃料需求持续",
+      "direction": "看多",
+      "asset_impact": "USO, NG",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
