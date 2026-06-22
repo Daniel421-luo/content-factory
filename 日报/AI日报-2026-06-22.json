@@ -1,0 +1,74 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-22",
+  "headline": "NSA局长称Mythos在数小时内攻破其几乎所有机密系统；美团tabbit国际版免费接入GPT-5.5等旗舰模型；三星电子向全球员工部署ChatGPT Enterprise和Codex。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+        "summary": "美团上线tabbit国际版，免费集成GPT-5.5、Claude Opus 4.8等多家顶级AI模型，用户无需单独订阅即可使用，旨在抢占AI入口。",
+        "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
+        "source": "AIHOT"
+      },
+      {
+        "title": "iOS 27实用AI功能：不止Siri",
+        "summary": "苹果在iOS 27中推出多项实用AI功能，涵盖照片、邮件等系统应用，Siri的AI大改只是其中一部分。",
+        "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "In the Weights：AI驱动的虚荣搜索工具",
+        "summary": "一款名为In the Weights的新应用，利用AI为用户生成个性化“分数”，满足虚荣心。",
+        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
+        "summary": "NSA局长称Mythos在数小时内攻破其几乎所有机密系统，此前Mythos已破解MacOS，引发对苹果设备安全性的担忧。",
+        "url": "https://x.com/AISafetyMemes/status/2068718552174252477",
+        "source": "AIHOT"
+      },
+      {
+        "title": "三星电子向全球员工部署ChatGPT Enterprise和Codex",
+        "summary": "三星电子为全球员工推出ChatGPT Enterprise和Codex，这是OpenAI目前规模最大的企业级AI部署之一。",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+        "source": "AIHOT"
+      },
+      {
+        "title": "特朗普政府对Anthropic的打压：谁受益？",
+        "summary": "Equity播客讨论特朗普政府针对Anthropic的最新行动及其对AI生态系统的影响。",
+        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Polymarket被曝付费制作虚假投注视频",
+        "summary": "据WSJ调查，Polymarket付费让创作者拍摄虚假投注和赢钱视频，涉及超1100条欺骗性内容。",
+        "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "《大西洋月刊》创建AI训练音乐数据集搜索数据库",
+        "summary": "记者Alex Reisner公开了四个用于训练AI的音乐数据集，其中两个包含1200万和900万首曲目，现已可搜索。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+        "source": "The Verge"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Signal总裁Meredith Whittaker：AI聊天机器人不是你的朋友",
+        "summary": "Whittaker提醒用户，AI聊天机器人并非有意识的实体，不应将其拟人化。",
+        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "28个提升ChatGPT提示词的技巧",
+        "summary": "Wired分享28个实用技巧，帮助用户通过提示工程从ChatGPT获得更优质的回答。",
+        "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
