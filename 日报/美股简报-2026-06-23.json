@@ -1,0 +1,190 @@
+{
+  "title": "📈 美股简报 | 2026-06-23",
+  "headline": "科技股遭抛售，纳指下跌1.3%，SpaceX暴跌16%，Alphabet因AI人才流失重挫；伊朗核谈判进展打压油价，道指逆势上涨0.3%。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货盘前小幅波动，科技股延续弱势",
+        "summary": "周二盘前，标普500和纳斯达克期货小幅下跌，道指期货持平。市场继续消化昨日科技股抛售及伊朗局势进展。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-22-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "油价下跌，因伊朗获准以美元出售原油",
+        "summary": "伊朗获准以美元出售原油，油价承压下跌。此前美国副总统万斯暗示伊朗核谈判取得进展。",
+        "url": "https://www.wsj.com/finance/stocks/oil-prices-drop-after-iran-cleared-to-sell-crude-in-dollars-48285693?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "科技股遭抛售，Mag7回调或为买入机会",
+        "summary": "Fundstrat策略师认为，Mag7近期回调是买入机会，因美国股市短期趋势仍看涨。",
+        "url": "https://www.cnbc.com/2026/06/23/magnificent-7-stock-decline-offers-buying-opportunity-fundstrat.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "工业股受AI推动上涨，卡特彼勒股价突破1000美元",
+        "summary": "卡特彼勒成为道指中第二只股价超1000美元的股票，AI驱动的工业股涨势席卷华尔街。",
+        "url": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "SpaceX股价暴跌16%，IPO后涨势消退",
+        "summary": "SpaceX自6月12日创纪录IPO后股价持续回落，过去三个交易日连续下跌，因市场担忧估值过高及债券发行计划。",
+        "url": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Alphabet因AI人才流失创一年多最大单日跌幅",
+        "summary": "Alphabet股价大跌，因多位知名AI研究员相继离职，引发市场对该公司AI竞争力的担忧。",
+        "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "甲骨文裁员21000人，拥抱AI转型",
+        "summary": "甲骨文宣布裁员约21000人，作为向AI转型的一部分，反映科技行业加大AI投入的趋势。",
+        "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "特斯拉致命事故遭联邦调查，涉自动驾驶",
+        "summary": "一辆特斯拉在德州撞入民宅致一名女性死亡，司机声称使用自动驾驶技术，美国联邦机构已展开调查。",
+        "url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "超微电脑股价创一年最佳表现，得益于英伟达合作",
+        "summary": "超微电脑股价周一领涨标普500，因与英伟达的合作伙伴关系提振投资者信心。",
+        "url": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "参议院通过两党住房法案，旨在降低住房成本",
+        "summary": "美国参议院周一通过一项里程碑式的两党住房法案，旨在限制大型投资者囤房，提高住房可负担性。",
+        "url": "https://www.cbsnews.com/news/senate-passes-landmark-housing-affordability-bill/",
+        "source": "CBS"
+      },
+      {
+        "title": "特朗普威胁起诉ABC，因报道引发争议",
+        "summary": "特朗普威胁对ABC提起诽谤诉讼，此前该电视台报道了关于白宫反思池的争议性内容。ABC正面临FCC两项调查。",
+        "url": "https://www.cnbc.com/2026/06/23/trump-threatens-lawsuits-against-abc-network-for-reporting-on-reflecting-pool.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "高盛推荐利率冲击情景下的最佳对冲",
+        "summary": "高盛指出，上周美联储鹰派会议增加了短期利率前景的不确定性，并推荐了对冲策略。",
+        "url": "https://www.cnbc.com/2026/06/23/goldman-sachs-picks-best-hedges-for-a-rate-shock-scenario.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "全球并购交易额有望今年达到4万亿美元",
+        "summary": "普华永道报告显示，2026年全球并购交易额有望达到4万亿美元，为2021年以来最强。",
+        "url": "https://www.cnbc.com/2026/06/23/global-ma-deal-value-on-track-to-reach-4-trillion-this-year-pwc-.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗核谈判进展不确定性",
+        "summary": "伊朗否认在核检查方面做出新承诺，油价波动风险持续。",
+        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "SpaceX债券发行或加剧市场波动",
+        "summary": "SpaceX计划发行至少200亿美元债券，可能对高收益债市场及科技股情绪产生影响。",
+        "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-06-22-2026-064543ba?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "SpaceX股价暴跌16%，IPO后涨势消退，计划发行至少200亿美元债券",
+      "direction": "看空",
+      "asset_impact": "SPAC, IPO相关ETF",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Alphabet因AI人才流失创一年多最大单日跌幅",
+      "direction": "看空",
+      "asset_impact": "GOOGL, GOOG",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伊朗获准以美元出售原油，油价承压下跌",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, OIH",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "Mag7回调被视为买入机会，Fundstrat策略师看好",
+      "direction": "看多",
+      "asset_impact": "QQQ, SPY, AAPL, MSFT, GOOGL, AMZN, META, TSLA, NVDA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "超微电脑股价因英伟达合作创一年最佳表现",
+      "direction": "看多",
+      "asset_impact": "SMCI, NVDA",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "甲骨文裁员21000人，拥抱AI转型",
+      "direction": "中性",
+      "asset_impact": "ORCL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特斯拉致命事故涉自动驾驶，遭联邦调查",
+      "direction": "看空",
+      "asset_impact": "TSLA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "参议院通过两党住房法案，限制大型投资者购房",
+      "direction": "看空",
+      "asset_impact": "大型房地产投资信托",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "高盛推荐利率冲击情景下的对冲策略",
+      "direction": "中性",
+      "asset_impact": "TLT, TBT, 利率期货",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "全球并购交易额有望达4万亿美元，创2021年以来最强",
+      "direction": "看多",
+      "asset_impact": "SPY, 并购套利ETF",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
