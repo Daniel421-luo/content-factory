@@ -1,0 +1,168 @@
+{
+  "title": "🌍 全球简报 | 2026-06-23",
+  "headline": "美国解除伊朗石油制裁以推动和平协议，全球科技股暴跌引发市场震荡",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国全面解除伊朗石油制裁，为和平谈判铺路",
+        "summary": "美国暂时解除对伊朗的石油制裁，允许伊朗出口原油，作为推动结束战争协议的一部分。此举预计将为伊朗带来数十亿美元收入。",
+        "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "全球科技股抛售加剧，市场遭遇广泛下跌",
+        "summary": "继华尔街科技股领跌后，全球股市周二大幅下挫，亚洲和欧洲科技板块跌幅尤为显著。",
+        "url": "https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "联合国调查委员会称以色列在加沙实施种族灭绝，故意针对儿童",
+        "summary": "由三名专家组成的小组发布报告，指责以色列在加沙冲突中故意针对儿童，构成种族灭绝行为。以色列否认该指控。",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "法国热浪致40人溺水身亡，欧洲多地遭遇高温",
+        "summary": "法国总理塞巴斯蒂安·勒科尔努表示，自上周四以来已有40人因热浪相关溺水死亡。欧洲多国正经历高温峰值。",
+        "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗总统访问巴基斯坦，美伊技术团队敲定和平协议细节",
+        "summary": "伊朗总统佩泽什基安访问伊斯兰堡，此前美伊在瑞士举行高层谈判，由美国副总统万斯和伊朗议长卡利巴夫主持。",
+        "url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
+        "source": "NPR"
+      },
+      {
+        "title": "伊朗称未就核设施检查做出新承诺",
+        "summary": "伊朗外交部表示，在瑞士谈判中未就核检查做出新承诺，此前万斯称检查员将被邀请返回。",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "极右翼百万富翁赢得哥伦比亚总统大选",
+        "summary": "特朗普支持的律师阿韦拉多·德·拉·埃斯普列利亚以微弱优势击败左翼候选人，左翼阵营指控计票违规。",
+        "url": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
+        "source": "Guardian"
+      },
+      {
+        "title": "特朗普称期待与哥伦比亚新领导人改善关系",
+        "summary": "特朗普对初步结果显示胜选的哥伦比亚总统候选人表示支持，并预期两国关系将改善。",
+        "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_organization=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "阿波罗限制赎回，私人信贷流动性担忧重燃",
+        "summary": "阿波罗全球管理公司在其主要零售私人信贷基金中限制投资者赎回，此前退出请求达到17%。",
+        "url": "https://www.cnbc.com/2026/06/23/apollo-private-credit-fund-withdrawals-redemptions.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "甲骨文一年内裁员2.1万人，AI导致科技巨头裁员潮",
+        "summary": "甲骨文表示，AI技术的采用导致其运营中裁员，过去一年共裁减2.1万个岗位。",
+        "url": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "JPMorgan建议买入IBM，称软件业务被低估",
+        "summary": "摩根大通将IBM评级从中性上调至增持，认为投资者低估了其软件业务的实力。",
+        "url": "https://www.cnbc.com/2026/06/23/buy-ibm-as-investors-underappreciate-the-strength-of-its-software-business-says-jpmorgan.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国房价下跌：何时是好事，何时是坏事",
+        "summary": "丹佛租房者因房价下跌而受益，但更便宜的住房也可能预示经济衰退。",
+        "url": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not",
+        "source": "NPR"
+      }
+    ],
+    "科技": [
+      {
+        "title": "特斯拉遭联邦调查：Model 3撞入德州住宅致76岁老人死亡",
+        "summary": "哈里斯县当局称，一辆特斯拉Model 3撞入住宅，导致一名76岁老人死亡，联邦机构已介入调查。",
+        "url": "https://www.cnbc.com/2026/06/23/tesla-federal-probe-model-3-crash-texas-home.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普威胁起诉ABC，因报道“倒影池”事件",
+        "summary": "特朗普称将起诉ABC新闻，指责其报道不实。此前ABC已面临联邦通信委员会的两项调查。",
+        "url": "https://www.cnbc.com/2026/06/23/trump-threatens-lawsuits-against-abc-network-for-reporting-on-reflecting-pool.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国2026年中期选举初选：纽约、密歇根等四州投票",
+        "summary": "纽约、密歇根等四州举行关键初选，包括国会席位和州长竞选。特朗普已为密歇根州长候选人约翰·詹姆斯背书。",
+        "url": "https://www.foxnews.com/us/voting-gets-underway-key-primary-elections-across-four-states-more-top-headlines",
+        "source": "Fox News"
+      },
+      {
+        "title": "美伊技术团队继续谈判，伊朗核问题仍是焦点",
+        "summary": "美伊技术团队将继续就和平协议细节进行谈判，伊朗核检查问题可能成为关键障碍。",
+        "url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
+        "source": "NPR"
+      },
+      {
+        "title": "印度建筑火灾致15人死亡，当局下令调查",
+        "summary": "印度北部城市一栋建筑发生火灾，造成15人死亡，目击者称有人跳窗逃生。当局已下令调查。",
+        "url": "https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国解除伊朗石油制裁，伊朗原油出口增加",
+      "direction": "看空",
+      "asset_impact": "USO, CL",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "全球科技股抛售，市场避险情绪升温",
+      "direction": "看空",
+      "asset_impact": "/ES, QQQ, VIX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "阿波罗限制私人信贷基金赎回，流动性担忧加剧",
+      "direction": "看空",
+      "asset_impact": "HYG, JNK",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "联合国报告指控以色列在加沙实施种族灭绝",
+      "direction": "中性",
+      "asset_impact": "USO, GLD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "法国热浪导致死亡人数上升，欧洲能源需求可能增加",
+      "direction": "看多",
+      "asset_impact": "NG, TTF",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "哥伦比亚极右翼总统当选，可能影响地区政策",
+      "direction": "中性",
+      "asset_impact": "COP, EWW",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
