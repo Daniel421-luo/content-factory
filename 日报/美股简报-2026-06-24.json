@@ -1,0 +1,176 @@
+{
+  "title": "📈 美股简报 | 2026-06-24",
+  "headline": "科技股延续跌势，AI支出担忧加剧；特朗普施压油企降价，原油延续跌势；亚洲科技股反弹，三星涨9%",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "科技股期货或承压，亚洲科技股反弹",
+        "summary": "周二纳斯达克指数下跌2%，科技股抛售加剧，因AI支出和估值担忧。周三亚洲科技股反弹，三星涨9%，但美股期货可能仍承压。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "原油延续跌势，特朗普指控油企“哄抬价格”",
+        "summary": "WTI原油延续下跌，特朗普总统加大对石油公司施压，要求降低汽油价格，并宣布将调查价格欺诈行为。",
+        "url": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "科技板块遭抛售，能源板块或成避风港",
+        "summary": "科技股因AI支出回报担忧大幅回调，WSJ分析认为能源股可能成为“滑头交易”，因油价下跌和特朗普施压反而提供买入机会。",
+        "url": "https://www.wsj.com/finance/stocks/energy-stocks-could-be-a-slick-trade-838b66b7?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "韩国股市暴跌后反弹，摩根士丹利认为未破位",
+        "summary": "韩国Kospi指数周二下跌约10%，但摩根士丹利认为市场并未崩溃，周三亚洲科技股反弹，三星涨9%。",
+        "url": "https://www.cnbc.com/2026/06/23/heres-why-morgan-stanley-says-south-korea-stocks-arent-breaking-down.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Cerebras上市后首份财报不及预期，盘后跌10%",
+        "summary": "AI芯片公司Cerebras发布IPO后首份财报，营收虽增长但利润率指引收缩，股价盘后下跌10%。",
+        "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Alphabet将加入道琼斯工业平均指数",
+        "summary": "Alphabet股票将被纳入道指，反映指数从工业向科技转型，但具体生效日期未公布。",
+        "url": "https://www.marketwatch.com/story/alphabets-stock-is-set-to-join-the-dow-heres-which-company-is-getting-the-boot-73453ca7?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "亚洲半导体股反弹，三星涨9%",
+        "summary": "继全球科技股抛售后，周三亚洲科技股反弹，三星电子大涨9%，带动半导体板块情绪修复。",
+        "url": "https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英特尔股价飙升但需工程复兴",
+        "summary": "英特尔股价近期大幅上涨，但WSJ分析指出其仍需克服技术挑战，实现工程能力回归。",
+        "url": "https://www.wsj.com/tech/intels-stock-has-soared-but-it-needs-an-engineering-comeback-594741ce?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "Cerebras财报后下跌，AI芯片竞争加剧",
+        "summary": "Cerebras首份财报显示利润率承压，股价下跌，反映AI芯片市场激烈竞争和投资者对盈利能力的关注。",
+        "url": "https://www.marketwatch.com/story/cerebras-delivers-its-first-earnings-report-but-its-not-enough-to-lift-the-stock-8e80cb6d?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普调查汽油价格欺诈，施压油企降价",
+        "summary": "特朗普总统宣布将调查石油公司价格欺诈行为，尽管全球油价已下跌，但汽油价格仍高于伊朗战争前水平。",
+        "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国众议院通过两党住房可负担法案",
+        "summary": "法案旨在增加住房供应并降低成本，已送交特朗普签署，但分析师认为短期内对市场影响有限。",
+        "url": "https://www.cbsnews.com/news/house-approves-major-housing-affordability-bill-sending-bipartisan-measure-to-trump/",
+        "source": "CBS"
+      },
+      {
+        "title": "MSCI维持韩国新兴市场地位，推迟印尼审查",
+        "summary": "MSCI在最新审查中维持韩国新兴市场分类，并推迟印尼的降级风险审查。",
+        "url": "https://www.cnbc.com/2026/06/24/msci-south-korea-emerging-market-indonesia-review-extended.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "科技股抛售持续风险",
+        "summary": "AI支出回报担忧引发连续两日抛售，若更多公司财报不及预期，可能进一步打压市场情绪。",
+        "url": "https://www.cbsnews.com/news/tech-stock-selloff-ai-profits-nasdaq-nvidia-alphabet-spacex/",
+        "source": "CBS"
+      },
+      {
+        "title": "AI可能很快绕过网络安全系统",
+        "summary": "五眼联盟警告称，最先进的AI模型可能在数月内超越现有网络安全能力，增加系统性风险。",
+        "url": "https://www.cbsnews.com/news/ai-bypass-cybersecurity-systems-months-not-years-five-eyes/",
+        "source": "CBS"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "科技股连续两日抛售，AI支出回报担忧加剧",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX, QQQ",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普调查油企价格欺诈，原油价格承压",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "亚洲科技股反弹，三星涨9%，情绪修复",
+      "direction": "看多",
+      "asset_impact": "Samsung (005930.KS), TSM, ASML",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Cerebras财报利润率指引收缩，股价下跌",
+      "direction": "看空",
+      "asset_impact": "CBRS, NVDA",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Alphabet将纳入道指，指数权重调整",
+      "direction": "中性",
+      "asset_impact": "GOOGL, DIA",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "韩国股市暴跌后摩根士丹利认为未破位",
+      "direction": "看多",
+      "asset_impact": "EWY, KOSPI",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美国两党住房法案通过，利好房地产板块",
+      "direction": "看多",
+      "asset_impact": "XHB, ITB",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "AI可能很快绕过网络安全系统，五眼联盟警告",
+      "direction": "看空",
+      "asset_impact": "CRWD, PANW, ZS",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "MSCI维持韩国新兴市场地位，推迟印尼审查",
+      "direction": "中性",
+      "asset_impact": "EWY, EIDO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
