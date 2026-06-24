@@ -1,0 +1,62 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-24",
+  "headline": "Anthropic 推出 Claude Tag 常驻 Slack，让 AI 学习企业组织知识；Superhuman 收购 AI 检测初创 GPTZero；Menlo Ventures 凭借对 Anthropic 的豪赌成功募资 30 亿美元；Oracle 裁员 21000 人，全力投入 AI 基础设施；白宫下令加速淘汰量子脆弱加密算法。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Anthropic 推出 Claude Tag：常驻 Slack 的 AI 队友",
+        "summary": "Anthropic 发布 Claude Tag，一个始终在线的 Slack AI 助手，能学习企业组织上下文、机构知识和工作流，旨在提升团队协作效率。",
+        "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google Home 升级面部识别：可识别背影和侧脸",
+        "summary": "Google Home 更新面部识别功能，即使人物背对摄像头，也能通过服装等特征持续识别，减少误判。",
+        "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Superhuman 收购 AI 检测初创 GPTZero",
+        "summary": "Superhuman（旗下已有 Grammarly 的 AI 检测工具）收购 GPTZero，整合 AI 内容检测能力。",
+        "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Menlo Ventures 成功募资 30 亿美元，押注 Anthropic 获回报",
+        "summary": "Menlo Ventures 凭借 2024 年对 Anthropic 的 7.5 亿美元大胆投资，成功募集 30 亿美元新基金，巩固其 AI 投资地位。",
+        "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Oracle 裁员 21000 人，全力投入 AI 基础设施",
+        "summary": "Oracle 宣布大规模裁员，以节省资金用于数据中心和 AI 基础设施投资，应对 AI 算力需求。",
+        "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "好莱坞拒绝 OpenAI 传记片《Artificial》，亚马逊等流媒体有意接手",
+        "summary": "Netflix、A24 等多家制片厂拒绝发行 Luca Guadagnino 执导的 Sam Altman 传记片《Artificial》，但亚马逊、Neon 等仍在考虑。",
+        "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "超声波成像让机械手学会灵巧模仿",
+        "summary": "MIT 研究团队利用超声波成像技术，让机械手实时捕捉人类手部肌肉和关节运动，从而精准模仿复杂手势。",
+        "url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "白宫下令加速淘汰量子脆弱加密算法",
+        "summary": "白宫发布行政令，缩短向抗量子密码迁移的截止日期，警告若不及早行动将面临国家安全风险。",
+        "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
