@@ -1,0 +1,150 @@
+{
+  "title": "🌍 全球简报 | 2026-06-24",
+  "headline": "美国国会通过住房法案，伊朗核设施接受检查，欧洲热浪导致法国大规模停电",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国国会通过数十年来最大住房法案",
+        "summary": "国会通过大规模住房负担能力法案，旨在缓解住房危机。",
+        "url": "https://www.npr.org/2026/06/24/g-s1-129769/up-first-newsletter-trump-john-thune-housing-act-new-york-primaries",
+        "source": "NPR"
+      },
+      {
+        "title": "联合国核机构负责人称检查员将访问伊朗核设施",
+        "summary": "国际原子能机构总干事表示，检查员将访问伊朗核浓缩设施，这是美伊临时协议的关键组成部分。",
+        "url": "https://abcnews.com/International/wireStory/nuclear-agency-boss-inspectors-visit-irans-nuclear-sites-134157660",
+        "source": "ABC News"
+      },
+      {
+        "title": "欧洲热浪导致法国大规模停电",
+        "summary": "法国西部约6.8万户家庭因热浪导致停电，创纪录高温席卷欧洲。",
+        "url": "https://www.cnbc.com/2026/06/24/france-power-outage-europe-heat-wave.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "法国确认首例与刚果（金）疫情相关的埃博拉病例",
+        "summary": "法国官员确认首例与刚果民主共和国埃博拉疫情相关的病例，目前疫情已导致260多人死亡。",
+        "url": "https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026",
+        "source": "ABC News"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "国会首次通过战争权力决议，与特朗普在伊朗问题上决裂",
+        "summary": "该决议主要具有象征意义，但增加了对白宫结束冲突的压力。",
+        "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "乌克兰打击使克里米亚关键城市断电",
+        "summary": "塞瓦斯托波尔莫斯科任命的州长警告部分地区电力将中断至晚间。",
+        "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "联合国称将撤离被困霍尔木兹海峡的海员，鲁比奥警告不要收费",
+        "summary": "美国国务卿马尔科·鲁比奥警告伊朗，任何国家都不能对通过海峡的船只收费。",
+        "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "上诉法院允许特朗普政府扩大使用快速驱逐出境",
+        "summary": "联邦上诉法院允许特朗普政府恢复在全美范围内对无证移民进行快速驱逐，而不仅限于边境附近。",
+        "url": "https://www.npr.org/2026/06/24/nx-s1-5869125/court-allows-trump-speedy-deportations",
+        "source": "NPR"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "布伦特原油跌破76美元，创美伊战争前一日以来最低",
+        "summary": "美国总统特朗普加大压力，要求石油公司降低汽油价格。",
+        "url": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科技公司或需支付AI数据中心能源成本，法案在国会推进",
+        "summary": "众议院小组委员会可能推进立法，要求科技公司支付运营AI数据中心的能源成本。",
+        "url": "https://www.cnbc.com/2026/06/24/ai-data-centers-tech-companies-congress-energy-costs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美股期货涨跌互现，科技股反弹，市场等待美光财报",
+        "summary": "内存股盘前上涨，美股期货涨跌互现。",
+        "url": "https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "考古学家在丹麦发现巨大维京时代纺织品生产遗址",
+        "summary": "该遗址有1000多年历史，凸显维京社会的 sophistication。",
+        "url": "https://www.npr.org/2026/06/24/g-s1-129750/viking-textile-production-site",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美光科技财报",
+        "summary": "市场关注美光财报以判断芯片行业需求。",
+        "url": "",
+        "source": "CNBC"
+      },
+      {
+        "title": "欧洲热浪持续",
+        "summary": "热浪预计将向欧洲其他地区蔓延，周末可能向东扩展。",
+        "url": "",
+        "source": "BBC World"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "布伦特原油跌破76美元，特朗普施压降低油价",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "伊朗核设施将接受检查，美伊临时协议推进",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "国会通过战争权力决议，增加对伊朗冲突结束压力",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "法国热浪导致大规模停电，欧洲能源需求上升",
+      "direction": "看多",
+      "asset_impact": "NG, TTF",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "科技公司或需支付AI数据中心能源成本，法案推进",
+      "direction": "看空",
+      "asset_impact": "QQQ, XLK",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "联合国将撤离霍尔木兹海峡海员，鲁比奥警告伊朗",
+      "direction": "中性",
+      "asset_impact": "USO, /CL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
