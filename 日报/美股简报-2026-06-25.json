@@ -1,0 +1,180 @@
+{
+  "title": "📈 美股简报 | 2026-06-25",
+  "headline": "美光财报引爆芯片板块，SK海力士宣布纳斯达克上市；油价因霍尔木兹海峡通航恢复跌至战前水平",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "纳指期货因美光财报上涨",
+        "summary": "美光强劲财报推动纳指期货走高，标普500期货小幅上涨。",
+        "url": "https://www.wsj.com/finance/stocks/microns-blockbuster-earnings-quiets-the-ai-doubters-6d31aa07",
+        "source": "WSJ"
+      },
+      {
+        "title": "油价跌至战前水平",
+        "summary": "布伦特原油价格回落至伊朗冲突前水平，因霍尔木兹海峡油轮交通恢复缓解供应担忧。",
+        "url": "https://www.cnbc.com/2026/06/25/oil-price-supply-concerns-ease-with-hormuz-tanker-traffic-resuming-.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "芯片板块领涨",
+        "summary": "美光财报后股价大涨，SK海力士飙升12%，带动半导体板块强势。",
+        "url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "能源板块承压",
+        "summary": "油价下跌拖累能源股，投资者关注供应恢复。",
+        "url": "https://www.wsj.com/finance/oil-slump-deepens-while-tech-stocks-struggle-baec3a64",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "美光财报超预期，毛利率飙升至84.9%",
+        "summary": "美光第三财季营收同比翻四倍，毛利率从39%跃升至84.9%，股价盘后大涨15%。",
+        "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SK海力士计划纳斯达克上市，筹资294亿美元",
+        "summary": "SK海力士股价周四飙升12%，公司寻求在美上市筹资，可能为美光带来竞争压力。",
+        "url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "高通股价因新营收目标大涨",
+        "summary": "高通宣布新营收目标并与Meta合作，股价大幅上涨。",
+        "url": "https://www.marketwatch.com/story/qualcomms-stock-is-soaring-as-these-big-numbers-excite-wall-street-316d41f4",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光成为科技新利润率之王",
+        "summary": "美光毛利率达84.9%，超越英伟达和Meta，内存危机推动盈利能力。",
+        "url": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SK海力士飙升12%，纳斯达克上市计划",
+        "summary": "SK海力士股价大涨，公司寻求在美上市筹资294亿美元，可能影响美光股价。",
+        "url": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "英特尔：市场可能继续给予溢价",
+        "summary": "分析认为英特尔股价仍有支撑，市场愿意为其支付溢价。",
+        "url": "https://seekingalpha.com/article/4917595-intel-stock-why-i-believe-the-market-can-continue-paying-a-premium",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "伊朗警告未经批准通过霍尔木兹海峡",
+        "summary": "伊朗海军警告称未经其批准通过霍尔木兹海峡不可接受且危险，尽管油轮交通已恢复。",
+        "url": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价因供应担忧缓解下跌",
+        "summary": "布伦特原油跌至战前水平，因滞留油轮开始离开霍尔木兹海峡。",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o",
+        "source": "BBC"
+      },
+      {
+        "title": "PCE数据可能引发加息担忧",
+        "summary": "市场关注即将公布的PCE通胀报告，其中隐藏因素可能迫使美联储加息。",
+        "url": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "大型银行轻松通过年度压力测试",
+        "summary": "摩根大通和美国银行在美联储压力测试中表现优异，因测试细节提前公布。",
+        "url": "https://www.wsj.com/finance/regulation/big-banks-ace-an-easier-annual-stress-test-6f85cdcc",
+        "source": "WSJ"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗威胁霍尔木兹海峡通行",
+        "summary": "伊朗警告未经批准通过海峡不可接受，可能再度扰乱油轮交通。",
+        "url": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "PCE通胀数据可能引发市场波动",
+        "summary": "若PCE数据超预期，可能引发美联储加息预期，冲击股市。",
+        "url": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美光财报超预期，毛利率飙升",
+      "direction": "看多",
+      "asset_impact": "MU, SOXX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SK海力士计划纳斯达克上市筹资294亿美元",
+      "direction": "中性",
+      "asset_impact": "MU, SK Hynix",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "油价因霍尔木兹海峡通航恢复跌至战前水平",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "伊朗警告未经批准通过霍尔木兹海峡不可接受",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "高通宣布新营收目标并与Meta合作",
+      "direction": "看多",
+      "asset_impact": "QCOM",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "PCE通胀数据可能引发加息担忧",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "大型银行轻松通过压力测试",
+      "direction": "看多",
+      "asset_impact": "JPM, BAC",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Fundstrat预测标普500年底达8000点",
+      "direction": "看多",
+      "asset_impact": "SPY",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
