@@ -1,0 +1,176 @@
+{
+  "title": "🌍 全球简报 | 2026-06-26",
+  "headline": "委内瑞拉强震致235人遇难，国际救援抵达；美国最高法院裁定特朗普可终止海地及叙利亚移民保护身份；联合国暂停霍尔木兹海峡船舶撤离计划",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "委内瑞拉强震死亡人数升至235人，国际救援队抵达",
+        "summary": "周三晚两场强震袭击委内瑞拉北部沿海，造成至少235人死亡，数十栋建筑倒塌。美国等多国已派遣救援队协助搜救。",
+        "url": "https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国最高法院裁定特朗普可终止海地及叙利亚移民临时保护身份",
+        "summary": "最高法院裁决允许特朗普政府结束对数十万海地和叙利亚移民的临时保护身份，为大规模驱逐铺平道路。",
+        "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "联合国暂停霍尔木兹海峡船舶撤离计划",
+        "summary": "一艘货船在阿曼附近遭不明弹丸袭击后，联合国暂停了通过霍尔木兹海峡的船舶撤离计划，未报告人员伤亡。",
+        "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "亚洲股市因科技股暴跌而下滑",
+        "summary": "韩国Kospi指数本周第三次暂停交易以防止恐慌性抛售，科技股领跌亚洲市场。",
+        "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "乌克兰高级情报官员因间谍罪被判终身监禁",
+        "summary": "乌克兰上校德米特罗·科久拉同意分享国家机密并系统泄露机密信息，被判处终身监禁。",
+        "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "津巴布韦参议院批准延长总统任期，反对派称“宪法政变”",
+        "summary": "津巴布韦参议院通过宪法修正案，延长总统任期，反对派担忧这将巩固83岁总统姆南加古瓦的权力。",
+        "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+        "source": "Guardian"
+      },
+      {
+        "title": "法国确诊首例埃博拉病例，患者为从刚果（金）返回的医生",
+        "summary": "法国卫生部称患者接触者正在追踪，对欧洲公众风险极低。",
+        "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+        "source": "Guardian"
+      },
+      {
+        "title": "索马里女子因网上批评政府被判三年监禁引发愤怒",
+        "summary": "27岁的萨迪亚·莫阿利姆·阿里因社交媒体言论被判刑，前总统和总理及人权组织谴责。",
+        "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美国原油跌破70美元，因霍尔木兹海峡袭击后市场关注中东局势",
+        "summary": "油价周五延续跌势，市场关注中东冲突进展，同时消化地区消息。",
+        "url": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "纳斯达克期货下跌，科技股抛售持续",
+        "summary": "纳斯达克综合指数和标普500指数本周均有望收跌。",
+        "url": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "红龙虾“无限虾”促销被诉讼称为“车祸”",
+        "summary": "债权人称泰联集团加倍推行榨取价值的活动。",
+        "url": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "纽约房租冻结委员会投票决定冻结租金，房东担忧住房条件恶化",
+        "summary": "决定受到租户欢迎，但房东担心会恶化住房条件。",
+        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "前NOAA员工重建被特朗普关闭的气候数据网站",
+        "summary": "前NOAA员工推出新网站提供气候信息，取代特朗普政府关闭的政府网站。",
+        "url": "https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge",
+        "source": "NPR"
+      },
+      {
+        "title": "海洋探险两周发现31个新物种",
+        "summary": "国际专家利用尖端技术在巴西外海国际水域快速发现新物种。",
+        "url": "https://www.theguardian.com/environment/2026/06/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
+        "source": "Guardian"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "委内瑞拉地震救援持续，死亡人数可能上升",
+        "summary": "救援队继续搜寻幸存者，当局担心死亡人数可能达数千。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "美国Palisades火灾嫌疑人陪审团恢复审议",
+        "summary": "陪审团此前陷入僵局，将于周五恢复审议。",
+        "url": "https://abcnews.com/US/jury-palisades-fire-suspects-federal-trial-deadlocked-resume/story?id=134136910",
+        "source": "ABC News"
+      },
+      {
+        "title": "美国最高法院移民裁决后续影响",
+        "summary": "裁决允许终止海地和叙利亚移民保护身份，可能引发法律挑战和抗议。",
+        "url": "",
+        "source": ""
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "委内瑞拉强震造成严重破坏，石油生产可能中断",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国最高法院允许终止海地及叙利亚移民保护身份，可能引发政治动荡",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "霍尔木兹海峡货船遭袭，联合国暂停撤离计划，航运风险上升",
+      "direction": "看多",
+      "asset_impact": "USO, /CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "亚洲科技股暴跌，韩国Kospi指数多次暂停交易",
+      "direction": "看空",
+      "asset_impact": "/ES, /NQ, EEM",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国原油跌破70美元，市场关注中东局势",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "法国确诊首例埃博拉病例，但风险极低",
+      "direction": "中性",
+      "asset_impact": "GLD, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "津巴布韦延长总统任期，政治不确定性增加",
+      "direction": "中性",
+      "asset_impact": "EEM",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
