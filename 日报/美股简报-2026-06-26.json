@@ -1,0 +1,216 @@
+{
+  "title": "📈 美股简报 | 2026-06-26",
+  "headline": "全球科技股抛售加剧，亚洲市场领跌，美股期货承压；美伊核协议取得进展但霍尔木兹海峡再遭袭击，油价下跌；微软遭遇历史性六月抛售，苹果提价应对芯片成本飙升。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "全球科技股抛售加剧，亚洲市场领跌",
+        "summary": "韩国Kospi指数下跌4%，SoftBank暴跌12%，SK Hynix跌8%，S&P 500期货下跌。科技股抛售蔓延至亚洲，市场担忧AI基础设施成本上升。",
+        "url": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "FTSE Russell指数半年度再平衡，今日交易量预计激增",
+        "summary": "FTSE Russell进行半年度再平衡，分析师预计这将是一年中交易量最大的日子之一，可能影响市场波动。",
+        "url": "https://www.marketwatch.com/story/the-wall-street-equivalent-of-roster-cut-day-happens-friday-itll-be-one-of-the-biggest-volume-days-of-the-year-750e8496",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "S&P 500处于关键支撑位，跌破或预示更多损失",
+        "summary": "S&P 500周四收盘接近关键支撑线，若跌破可能预示未来几天和几周股市进一步下跌。",
+        "url": "https://www.marketwatch.com/story/the-s-p-500-is-at-a-critical-crossroads-a-break-lower-could-signal-more-losses-ahead-f425063c",
+        "source": "MarketWatch"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "科技股遭重创，AI基础设施成本担忧加剧",
+        "summary": "纳斯达克和标普500本周均可能收跌，科技股领跌。市场对AI基础设施成本上升的担忧导致资金从科技板块流出。",
+        "url": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "能源板块承压，油价下跌2%",
+        "summary": "尽管中东局势紧张，但市场关注供应前景，油价延续跌势。伊拉克可能退出OPEC的暗示进一步打压油价。",
+        "url": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "太空股普遍下跌，SpaceX FOMO消退",
+        "summary": "分析师表示，投资者似乎对太空板块的高估值产生疑虑，太空股普遍遭到抛售。",
+        "url": "https://www.marketwatch.com/story/spacex-fomo-is-officially-over-space-stocks-across-the-board-are-getting-punished-77234fe8",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "微软遭遇历史性六月抛售，投资者质疑巨额支出",
+        "summary": "微软股价六月大幅下跌，分析师指出投资者对资本密集型周期感到担忧，自由现金流前景受质疑。",
+        "url": "https://www.marketwatch.com/story/microsofts-stock-is-suffering-a-historic-june-rout-as-investors-balk-at-heavy-spending-9afaef1b",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "苹果与微软因芯片成本飙升提价",
+        "summary": "苹果提高部分MacBook和iPad价格，微软提高Xbox价格，以应对半导体成本飙升。苹果表示从未见过组件价格如此快速上涨。",
+        "url": "https://www.cbsnews.com/news/apple-price-hikes-macbook-ipad-2026/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Wendy's成为最新Meme股，散户投资者涌入",
+        "summary": "Wendy's股价因散户投资者涌入而飙升，他们试图捍卫这家陷入困境的连锁快餐品牌。",
+        "url": "https://www.wsj.com/finance/stocks/wendys-meme-stock-wen-84fb3db2",
+        "source": "WSJ"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "SK Hynix美国上市定价每股166美元，HSBC看涨20%",
+        "summary": "SK Hynix准备以每股166美元在美国上市，HSBC分析师认为此举将缩小与美光的估值差距，目标价显示潜在上涨20%。",
+        "url": "https://www.cnbc.com/2026/06/26/sk-hynix-us-listing-ipo-hsbc-price-target.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "亚洲科技股暴跌，SoftBank和SK Hynix领跌",
+        "summary": "SoftBank暴跌12%，SK Hynix跌8%，亚洲科技股因AI基础设施成本担忧而大幅下挫。",
+        "url": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "苹果和微软提价反映芯片成本压力",
+        "summary": "苹果和微软因半导体成本飙升而提高产品价格，凸显芯片行业成本压力传导至下游。",
+        "url": "https://www.cbsnews.com/news/apple-price-hikes-macbook-ipad-2026/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美伊核协议取得进展，IAEA获准进入伊朗核设施",
+        "summary": "国际原子能机构（IAEA）表示，根据美伊和平协议，已开始技术工作，将很快进入伊朗核设施。",
+        "url": "https://www.cnbc.com/2026/06/26/us-iran-peace-deal-nuclear-access.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "霍尔木兹海峡船只遇袭，联合国暂停撤离计划",
+        "summary": "一艘集装箱船在阿曼海岸附近遭袭，美国官员称伊朗负责。联合国暂停了霍尔木兹海峡的船只撤离计划。",
+        "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊拉克暗示可能退出OPEC，油价面临下行风险",
+        "summary": "伊拉克暗示可能退出OPEC，分析师认为这可能推动油价跌破50美元/桶。",
+        "url": "https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b",
+        "source": "MarketWatch"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "亚洲科技股抛售蔓延至美股，期货下跌",
+        "summary": "韩国Kospi指数下跌4%，SoftBank暴跌12%，SK Hynix跌8%，S&P 500期货下跌，科技股抛售可能延续至美股开盘。",
+        "url": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "霍尔木兹海峡局势再度紧张，船只遇袭",
+        "summary": "一艘集装箱船在阿曼海岸附近遭袭，美国指责伊朗，可能影响能源运输和油价。",
+        "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "FTSE Russell指数再平衡可能引发波动",
+        "summary": "今日FTSE Russell半年度再平衡，预计交易量激增，可能加剧市场波动。",
+        "url": "https://www.marketwatch.com/story/the-wall-street-equivalent-of-roster-cut-day-happens-friday-itll-be-one-of-the-biggest-volume-days-of-the-year-750e8496",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "全球科技股抛售加剧，亚洲市场领跌，美股期货承压",
+      "direction": "看空",
+      "asset_impact": "QQQ, NVDA, AMD, INTC, SOXX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SK Hynix美国上市定价166美元，HSBC看涨20%",
+      "direction": "看多",
+      "asset_impact": "SK Hynix (即将上市), MU",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "微软遭遇历史性六月抛售，投资者质疑AI支出",
+      "direction": "看空",
+      "asset_impact": "MSFT",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "苹果和微软因芯片成本飙升提价",
+      "direction": "中性",
+      "asset_impact": "AAPL, MSFT, INTC, TSM",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美伊核协议取得进展，IAEA获准进入伊朗核设施",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, WTI, Brent",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "霍尔木兹海峡船只遇袭，联合国暂停撤离计划",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, WTI, Brent",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "伊拉克暗示可能退出OPEC，油价面临下行风险",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, WTI, Brent",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "FTSE Russell指数再平衡预计导致交易量激增",
+      "direction": "中性",
+      "asset_impact": "SPY, IWM, QQQ",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "S&P 500处于关键支撑位，跌破或预示更多损失",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, IWM",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "太空股普遍下跌，SpaceX FOMO消退",
+      "direction": "看空",
+      "asset_impact": "SPCE, RKLB, ASTS",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Wendy's成为Meme股，散户投资者涌入",
+      "direction": "中性",
+      "asset_impact": "WEN",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
