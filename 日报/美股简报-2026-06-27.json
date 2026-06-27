@@ -1,0 +1,174 @@
+{
+  "title": "📈 美股简报 | 2026-06-27",
+  "headline": "美股本周遭遇重挫，科技股领跌，美伊冲突再起令市场承压",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货盘前走低，科技股延续跌势",
+        "summary": "美股期货盘前下跌，标普500和纳斯达克本周均录得跌幅，科技股因AI支出担忧继续承压。",
+        "url": "https://www.cnbc.com/2026/06/26/stock-market-next-week-outlook-for-june-29-july-3-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国对伊朗发动报复性打击，油价盘后上涨",
+        "summary": "美国军方确认对伊朗发动报复性打击，原油期货在盘后交易中走高，此前WTI原油跌破70美元。",
+        "url": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8",
+        "source": "MarketWatch"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "科技股遭遇一年来最差周表现，AI支出疑虑升温",
+        "summary": "科技股本周大幅下跌，市场开始质疑AI巨额支出的回报，软件股如ServiceNow和Salesforce因OpenAI威胁减弱而上涨，但甲骨文因AI融资担忧暴跌。",
+        "url": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "软件股因OpenAI威胁减弱而上涨",
+        "summary": "ServiceNow、Salesforce等软件股上涨，因OpenAI的竞争威胁减弱，但甲骨文因与OpenAI的云业务关联而下跌。",
+        "url": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "甲骨文创2001年以来最差周表现，AI融资担忧加剧",
+        "summary": "甲骨文股价本周暴跌，因支出飙升、自由现金流为负及1300亿美元债务令投资者担忧。",
+        "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX将被纳入纳斯达克100指数",
+        "summary": "SpaceX将快速加入纳斯达克100指数，成为纳斯达克近期采用的快速通道纳入框架的首批受益者之一。",
+        "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特斯拉与Waymo在Robotaxi领域竞争，Uber悄然投资",
+        "summary": "Uber正悄悄斥资5亿美元锁定Robotaxi服务，而Waymo可能被甩在后面。",
+        "url": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光：内存芯片短缺将持续，但创新构成长期威胁",
+        "summary": "美光表示短缺将持续，但内存客户正在开发替代方案，长期来看创新可能威胁内存芯片繁荣。",
+        "url": "https://www.wsj.com/finance/the-long-term-threat-to-the-memory-chip-boom-is-innovation-bb289488",
+        "source": "WSJ"
+      },
+      {
+        "title": "AI热潮导致内存芯片短缺，推高个人电子产品价格",
+        "summary": "AI数据中心建设竞赛导致全球内存芯片短缺，推高了个人电子产品的成本。",
+        "url": "https://www.cbsnews.com/news/ai-boom-chip-shortage-gadget-prices-apple-microsoft/",
+        "source": "CBS News"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美国对伊朗发动报复性打击，霍尔木兹海峡局势紧张",
+        "summary": "美国军方确认对伊朗发动报复性打击，此前特朗普指责伊朗违反停火协议，原油价格在盘后交易中上涨。",
+        "url": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普威胁对征收数字服务税的国家加征100%关税",
+        "summary": "特朗普在Truth Social上表示，将对征收数字服务税的国家加征100%关税，此举可能影响欧洲国家。",
+        "url": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普对美联储主席沃什施压减轻，通胀突破4%",
+        "summary": "特朗普的经济顾问在利率问题上给予新任美联储主席沃什空间，尽管通胀率超过4%，特朗普仍呼吁降息。",
+        "url": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "债券收益率下降，沃什强硬言论助力",
+        "summary": "美联储主席沃什对通胀的强硬言论帮助压低国债收益率，尽管通胀数据走高。",
+        "url": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b",
+        "source": "MarketWatch"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊冲突升级，霍尔木兹海峡航运风险",
+        "summary": "美国对伊朗发动报复性打击，可能进一步扰乱霍尔木兹海峡航运，推高油价和航运保险成本。",
+        "url": "https://www.marketwatch.com/story/irans-ship-attack-tests-the-shipping-insurance-market-just-as-war-risk-premiums-had-plunged-8c4ef14d",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "科技股AI泡沫担忧加剧",
+        "summary": "本周科技股大幅下跌，市场对AI支出的回报产生质疑，可能引发进一步抛售。",
+        "url": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对伊朗发动报复性打击，油价盘后上涨",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, CVX, XOM",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "科技股遭遇一年来最差周表现，AI支出疑虑升温",
+      "direction": "看空",
+      "asset_impact": "QQQ, NVDA, AMD, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "甲骨文创2001年以来最差周表现，AI融资担忧",
+      "direction": "看空",
+      "asset_impact": "ORCL",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SpaceX将被纳入纳斯达克100指数",
+      "direction": "看多",
+      "asset_impact": "QQQ, SPY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "特朗普威胁对数字服务税加征100%关税",
+      "direction": "看空",
+      "asset_impact": "EEM, VGK, AAPL, GOOGL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美光表示内存芯片短缺将持续，但创新构成长期威胁",
+      "direction": "中性",
+      "asset_impact": "MU, INTC, TSM",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "软件股因OpenAI威胁减弱而上涨",
+      "direction": "看多",
+      "asset_impact": "NOW, CRM, ADBE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "债券收益率下降，沃什强硬言论助力",
+      "direction": "看多",
+      "asset_impact": "TLT, IEF",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
