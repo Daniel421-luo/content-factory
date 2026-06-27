@@ -1,0 +1,62 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-27",
+  "headline": "特朗普政府批准 Anthropic 向百余家美国机构开放 Mythos 5；OpenAI 应政府要求限制 GPT-5.6 部署，并挖来 Uber 印度负责人拓展市场；南韩计划将全军训练为“无人机战士”。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Anthropic Mythos 5 回归，获准向百余家美国机构开放",
+        "summary": "经过两周谈判，特朗普政府允许 Anthropic 向超过 100 家美国公司和政府机构开放其最先进的 AI 模型 Mythos 5，包括非美籍员工也可使用。",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 应政府要求限制 GPT-5.6 部署，称限制不应成为常态",
+        "summary": "OpenAI 在政府要求下限制了 GPT-5.6 的推出，但表示这种政府介入不应成为长期默认流程，否则会阻碍用户、开发者和企业获得最佳工具。",
+        "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 挖来 Uber 印度负责人，领导美国以外最大市场",
+        "summary": "OpenAI 聘请 Uber 印度负责人担任印度市场主管，这是其在美国以外最大市场的关键布局，同时正在扩大办公室、合作伙伴关系和招聘。",
+        "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FTC 批准马斯克收购 SpaceX 校友创立的 Mesh",
+        "summary": "FTC 批准马斯克收购 Mesh，这家由 SpaceX 校友创立的初创公司今年 2 月以 5000 万美元 A 轮融资走出隐身模式。",
+        "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "南韩计划将全军训练为“无人机战士”",
+        "summary": "南韩宣布将对其 50 万军队进行无人机操作训练，将无人机作为“通用作战工具”，以应对现代战争需求。",
+        "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "IBM 发布亚 1nm 芯片技术，有望将摩尔定律再延长十年",
+        "summary": "IBM 展示了一款原型芯片，在指甲盖大小面积上集成约 1000 亿个晶体管，密度是 2021 年技术的两倍，为更高效、更快的计算铺路。",
+        "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "从 OpenAI 到 SpaceX，为何都在自研芯片？英伟达面临挑战",
+        "summary": "英伟达长期主导 AI 芯片市场，但 OpenAI 与博通合作的自研推理芯片“Jalapeño”等迹象表明，多家巨头正试图摆脱依赖，自研芯片趋势升温。",
+        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "NYT 指控微软为 OpenAI 建造侵犯版权的超级计算机",
+        "summary": "纽约时报在最高法院对索尼案裁决后，调整了对 OpenAI/Microsoft 的版权诉讼，指控微软专门建造超级计算机以帮助 OpenAI 侵犯其版权。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
