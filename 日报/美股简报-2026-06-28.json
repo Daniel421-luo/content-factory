@@ -1,0 +1,140 @@
+{
+  "title": "📈 美股简报 | 2026-06-28",
+  "headline": "中东局势骤然升级，美伊冲突重燃；存储芯片短缺持续发酵，小企业面临生存危机；美股本周连跌，市场担忧情绪升温。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货盘前走低，中东冲突打压风险偏好",
+        "summary": "美伊冲突升级，美国对伊朗目标发动军事打击，油价上涨，市场避险情绪升温。",
+        "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块受中东冲突提振，油价反弹",
+        "summary": "美国攻击伊朗目标后，原油价格回升至冲突前水平，能源股或获支撑。",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o",
+        "source": "BBC"
+      },
+      {
+        "title": "科技股本周承压，市场担忧AI投资回报",
+        "summary": "标普500和纳指本周全线下跌，投资者质疑科技巨头巨额AI支出能否带来回报。",
+        "url": "https://www.wsj.com/finance/stocks/stock-rally-collides-with-a-new-slate-of-worries-5843a9e0",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "美光：存储芯片短缺持续，但创新构成长期威胁",
+        "summary": "美光表示短缺将持续，但客户正开发替代方案，长期可能削弱需求。",
+        "url": "https://www.wsj.com/finance/the-long-term-threat-to-the-memory-chip-boom-is-innovation-bb289488",
+        "source": "WSJ"
+      },
+      {
+        "title": "SpaceX将快速纳入纳斯达克100指数，ETF买入需求巨大",
+        "summary": "SpaceX成为首批受益于纳斯达克快速纳入框架的公司之一，预计将吸引大量ETF资金。",
+        "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "存储芯片短缺冲击苹果和微软，小企业面临生存危机",
+        "summary": "苹果和微软因存储成本上涨提高设备价格，而小型消费电子公司处境艰难。",
+        "url": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI数据中心建设导致全球存储芯片短缺，推高个人电子设备价格",
+        "summary": "AI热潮引发存储芯片短缺，导致电子产品价格结束长期下降趋势。",
+        "url": "https://www.cbsnews.com/news/ai-boom-chip-shortage-gadget-prices-apple-microsoft/",
+        "source": "CBS"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普威胁对欧洲征收100%关税，因数字服务税争端",
+        "summary": "特朗普称将对征收数字服务税的欧洲国家立即实施100%关税。",
+        "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko",
+        "source": "BBC"
+      },
+      {
+        "title": "美国对伊朗目标发动军事打击，霍尔木兹海峡油轮遇袭",
+        "summary": "美国攻击伊朗目标，此前一艘商业油轮在霍尔木兹海峡被击中，60天停火协议面临破裂。",
+        "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "委内瑞拉地震死亡人数超1400人，救援持续",
+        "summary": "委内瑞拉地震已造成1400多人死亡，多国参与救援。",
+        "url": "https://www.cnbc.com/2026/06/27/venezuela-quake-toll-tops-900-search-intensifies-for-hundreds-trapped.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊冲突升级，霍尔木兹海峡航运风险",
+        "summary": "美国攻击伊朗目标，油轮遇袭，中东局势急剧恶化，可能影响全球能源供应。",
+        "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普关税威胁：对欧洲数字服务税征收100%关税",
+        "summary": "若欧洲国家推进数字服务税，美国可能立即加征关税，引发贸易摩擦。",
+        "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊冲突升级，美国攻击伊朗目标，油轮遇袭",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普威胁对欧洲数字服务税征收100%关税",
+      "direction": "看空",
+      "asset_impact": "EEM, VGK",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "存储芯片短缺持续，苹果和微软提价，小企业承压",
+      "direction": "看多",
+      "asset_impact": "MU, NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SpaceX将快速纳入纳斯达克100指数，ETF买入需求巨大",
+      "direction": "看多",
+      "asset_impact": "SPCE, ARKX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "标普500和纳指本周连跌，市场担忧AI投资回报",
+      "direction": "看空",
+      "asset_impact": "QQQ, SPY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "委内瑞拉地震死亡超1400人，救援持续",
+      "direction": "中性",
+      "asset_impact": "USO",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
