@@ -1,0 +1,144 @@
+{
+  "title": "🌍 全球简报 | 2026-06-28",
+  "headline": "美伊相互发动空袭并指责对方违反停火协议，委内瑞拉地震死亡人数超1400人，欧洲多国遭遇创纪录热浪。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美伊相互发动空袭，科威特和巴林谴责伊朗袭击",
+        "summary": "美国对伊朗境内目标发动空袭，伊朗随后报复性打击科威特和巴林的美国设施，双方相互指责违反停火协议。",
+        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o",
+        "source": "BBC"
+      },
+      {
+        "title": "委内瑞拉地震死亡人数升至1430人，近7万人失踪",
+        "summary": "委内瑞拉双震后救援持续，死亡人数已超1400，约7万人失踪，国际救援队陆续抵达。",
+        "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+        "source": "Guardian"
+      },
+      {
+        "title": "欧洲多国遭遇创纪录热浪，1.5亿人受影响",
+        "summary": "德国、丹麦和捷克等国气温突破35°C，约1.5亿人经历高温，火灾风险加剧。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普提名前俄克拉荷马州警长担任ICE局长",
+        "summary": "特朗普提名兰斯·施罗耶领导移民和海关执法局，该职位自奥巴马政府以来未获参议院确认。",
+        "url": "https://www.npr.org/2026/06/27/nx-s1-5873485/trump-nominates-lance-schroyer-ice-director",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "以色列空袭黎巴嫩南部，真主党谴责新协议",
+        "summary": "以色列空袭造成至少1人死亡，此前一天黎巴嫩和以色列签署了框架协议。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo",
+        "source": "BBC"
+      },
+      {
+        "title": "委内瑞拉地震考验特朗普西半球政策",
+        "summary": "特朗普政府削减USAID后，鲁比奥正努力提供有效救灾，地震成为新政策考验。",
+        "url": "https://www.theguardian.com/us-news/2026/06/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid",
+        "source": "Guardian"
+      },
+      {
+        "title": "特朗普再次威胁摧毁伊朗，科威特和巴林报告遭袭",
+        "summary": "伊朗声称袭击了科威特和巴林的美国军事设施，特朗普发出最新威胁。",
+        "url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "内存短缺冲击苹果和微软，小企业面临生存危机",
+        "summary": "内存成本飙升迫使苹果和微软提高设备价格，小型消费电子公司处境艰难。",
+        "url": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX将快速加入纳斯达克100指数，引发大规模ETF买入",
+        "summary": "SpaceX受益于纳斯达克快速纳入框架，预计将带动大量ETF需求。",
+        "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AOC警告大型科技公司面临涨价压力，呼吁拆分苹果",
+        "summary": "众议员奥卡西奥-科尔特斯称国会应拆分苹果等公司，因AI芯片供应链紧张导致科技产品涨价。",
+        "url": "https://www.foxnews.com/politics/aoc-major-tech-company-on-notice-amid-looming-price-increases-far-too-big",
+        "source": "Fox News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "SpaceX将快速加入纳斯达克100指数",
+        "summary": "SpaceX成为首批受益于纳斯达克快速纳入框架的公司之一，预计将引发大量ETF买入。",
+        "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "世界杯淘汰赛阶段开始",
+        "summary": "世界杯32强淘汰赛将于周日开赛，美国队、埃及队和科特迪瓦队首次晋级。",
+        "url": "https://www.npr.org/2026/06/28/nx-s1-5872241/2026-world-cup-fifa-knockout-round-of-32",
+        "source": "NPR"
+      },
+      {
+        "title": "美国独立日250周年庆典筹备",
+        "summary": "华盛顿特区将举行创纪录的烟花表演，纪念美国建国250周年。",
+        "url": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊相互空袭，中东紧张局势升级",
+      "direction": "看空",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "委内瑞拉地震造成重大伤亡，救援持续",
+      "direction": "中性",
+      "asset_impact": "USO",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "欧洲热浪创纪录，能源需求可能上升",
+      "direction": "看多",
+      "asset_impact": "USO, NG",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "内存短缺推高科技产品价格，小企业承压",
+      "direction": "看空",
+      "asset_impact": "AAPL, MSFT",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SpaceX快速纳入纳斯达克100，ETF买入需求激增",
+      "direction": "看多",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "以色列空袭黎巴嫩，地区紧张加剧",
+      "direction": "看空",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
