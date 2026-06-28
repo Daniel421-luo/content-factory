@@ -1,0 +1,73 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-28",
+  "headline": "苹果Vision Pro负责人跳槽OpenAI硬件团队；特朗普政府批准Anthropic Mythos向超100家美国机构开放；亚洲AI初创推出类Mythos模型应对出口禁令。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+        "summary": "阿里千问输入法 macOS 版正式上线，支持 AI 语音输入、自动润色和 9 种方言，iOS/Android/Windows 版即将发布。",
+        "url": "https://www.ithome.com/0/969/334.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "Runway API 推出广告本地化 Recipe",
+        "summary": "Runway 通过 API 提供广告本地化 Recipe，支持单次调用翻译静态广告和图形资产。",
+        "url": "https://x.com/runwayml/status/2070855164584726791",
+        "source": "X (Runway)"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "苹果Vision Pro负责人Paul Meade将离职加入OpenAI硬件团队",
+        "summary": "苹果Vision产品组副总裁Paul Meade下周离职，加入OpenAI硬件部门，他曾负责Vision Pro及AR眼镜研发。",
+        "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "特朗普政府批准Anthropic Mythos向超100家美国机构开放",
+        "summary": "经过数周谈判，白宫允许Anthropic将其最先进AI模型Mythos授权给100多家美国公司和政府机构使用，包括非美籍员工。",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "亚洲AI初创推出类Mythos模型，应对Anthropic出口禁令",
+        "summary": "多家亚洲AI初创公司发布具备类似Mythos能力的模型，以规避美国出口限制，美国AI实验室可能失去巨大市场。",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX注册SpaceXAI商标，将合并xAI",
+        "summary": "SpaceX注册“SpaceXAI”商标，马斯克表示xAI将解散并并入SpaceX，成为其AI产品部门。",
+        "url": "https://x.com/cb_doge/status/2070973276562530507",
+        "source": "X (cb_doge)"
+      },
+      {
+        "title": "FTC批准马斯克收购SpaceX校友创企Mesh",
+        "summary": "FTC批准马斯克收购Mesh，该公司今年2月以5000万美元A轮融资出山。",
+        "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Margaret Atwood谈AI问题：垃圾进，垃圾出",
+        "summary": "《使女的故事》作者Margaret Atwood在文学节上批评AI，指出其核心问题是输入数据质量差导致输出不可靠。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+        "source": "The Verge"
+      },
+      {
+        "title": "NYT指控微软为OpenAI构建侵权超级计算机",
+        "summary": "纽约时报在最新诉讼中指控微软为OpenAI建造超级计算机，帮助其侵犯版权，此前最高法院对索尼案的裁决改变了法律环境。",
+        "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "软银CEO质疑马斯克轨道数据中心愿景",
+        "summary": "软银CEO对马斯克提出的轨道数据中心计划表示怀疑，认为其可行性存疑。",
+        "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
