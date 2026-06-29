@@ -1,0 +1,104 @@
+{
+  "title": "🤖 AI 日报 | 2026-06-30",
+  "headline": "TIDAL 禁止 AI 音乐获利；Rocket Lab 80亿美元收购 Iridium 挑战 SpaceX；新浪开源 3B 模型推理能力媲美大模型；普林斯顿基准测试仅三款 AI 在创业模拟中盈利。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "TIDAL 禁止 AI 音乐获利",
+        "summary": "TIDAL 新政策将阻止 AI 生成的音乐在其平台上获利，以打击 AI 音乐泛滥。",
+        "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "WhatsApp 推出用户名功能，可提前预留",
+        "summary": "WhatsApp 允许用户预留 3-35 字符的用户名，未来可隐藏手机号进行私密聊天。",
+        "url": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
+        "source": "The Verge"
+      },
+      {
+        "title": "Xgimi MemoMind One 智能眼镜：无摄像头，专注隐私",
+        "summary": "Xgimi 推出 MemoMind One 智能眼镜，无摄像头设计，主打隐私和轻量化，已在 Kickstarter 众筹。",
+        "url": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on",
+        "source": "The Verge"
+      },
+      {
+        "title": "Flipper Devices 发布 Busy Bar 生产力显示屏",
+        "summary": "Flipper Devices 推出 Busy Bar，一款可自定义的 LED 显示屏，用于显示状态和提醒，售价 249 美元，7月14日开售。",
+        "url": "https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale",
+        "source": "The Verge"
+      },
+      {
+        "title": "Wayfinder Router：微秒级确定性 LLM 路由工具",
+        "summary": "开源工具 Wayfinder Router 通过分析提示词结构在微秒级决定路由到哪个 LLM，完全离线，无需调用模型。",
+        "url": "https://github.com/itsthelore/wayfinder-router",
+        "source": "GitHub"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Rocket Lab 以 80 亿美元收购 Iridium，挑战 SpaceX",
+        "summary": "Rocket Lab 通过全股票交易以 80 亿美元收购卫星通信公司 Iridium，整合发射与通信业务，增强与 Amazon 和 SpaceX 的竞争力。",
+        "url": "https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications",
+        "source": "The Verge"
+      },
+      {
+        "title": "机器人手公司 Proception 和解特斯拉诉讼并获 1100 万美元融资",
+        "summary": "机器人手初创公司 Proception 与特斯拉达成和解，并宣布完成 1100 万美元融资，采用独特数据收集方法攻克机器人手难题。",
+        "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI 笔记设备 Pocket 获 1100 万美元融资",
+        "summary": "Pocket 推出 129 美元的卡片式 AI 笔记设备，可贴在手机背面，提供无限录音、转录和待办事项功能，获融资以应对需求增长。",
+        "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Omen AI 获 3100 万美元 A 轮融资，优化数据中心冷却",
+        "summary": "Omen AI 完成 3100 万美元 A 轮融资，其技术通过监测芯片冷却液并防止细菌爆发来优化数据中心运营。",
+        "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "美国议员提案禁止 AI 公司出售健康数据",
+        "summary": "参议员 Warren 和众议员 Scanlon 计划提出新法案，禁止 AI 公司（如 ChatGPT）出售用户的健康和位置信息给数据经纪商。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "新浪开源 VibeThinker-3B：推理能力压缩，事实知识不压缩",
+        "summary": "新浪发布仅 3B 参数的 VibeThinker-3B，在数学编程基准上持平 DeepSeek V3.2 等大模型，但知识密集型任务大幅落后，表明推理可压缩而事实知识不能。",
+        "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+        "source": "The Decoder"
+      },
+      {
+        "title": "普林斯顿 CEO-Bench：仅三款 AI 模型在 500 天创业模拟中盈利",
+        "summary": "普林斯顿大学推出 CEO-Bench，让 AI 智能体运营模拟公司 500 天。仅 Claude Fable 5、Claude Opus 4.8 和 GPT-5.5 在最佳运行中超过起始资本 100 万美元。",
+        "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
+        "source": "The Decoder"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
+        "summary": "Elon Musk 宣布 Grok 4.5 基于 1.5T V9 模型，加入 Cursor 数据训练，在 SpaceX 和 Tesla 内部测试，性能接近或超越 Opus。",
+        "url": "https://x.com/elonmusk/status/2071184354756477041",
+        "source": "X (Twitter)"
+      },
+      {
+        "title": "四大顶级 AI 对决《文明 VI》：Claude 核平法国仍输，暴露感知与执行短板",
+        "summary": "前英国数据科学家让 Claude、GPT-5.4 等四个 AI 玩《文明 VI》，发现 AI 主动检查全局状态仅占 1-2%，计划执行率仅 48-66%，暴露感知盲区和执行短板。",
+        "url": "https://www.ithome.com/0/969/570.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "Gartner 称 2026 年为 AI 落地“拐点年”，企业聚焦 Agentic AI",
+        "summary": "Gartner 报告指出 2026 年是组织将 AI 项目与战略目标对齐的拐点，企业投资激增，Agentic AI 成为驱动 ROI 的关键。",
+        "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+        "source": "MIT Technology Review"
+      }
+    ]
+  }
+}
