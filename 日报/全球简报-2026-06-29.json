@@ -1,0 +1,184 @@
+{
+  "title": "🌍 全球简报 | 2026-06-29",
+  "headline": "美伊周末互袭后同意停火，周二将在卡塔尔重启谈判；委内瑞拉地震死亡人数超1400人，搜救持续；芯片股上半年暴涨推动亚太股市走高。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美伊周末互袭后同意停火，周二将在卡塔尔重启谈判",
+        "summary": "美国与伊朗在周末相互发动袭击，威胁到此前达成的临时停火协议。特朗普表示双方将于周二在卡塔尔举行新一轮会谈。",
+        "url": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "委内瑞拉地震死亡人数超1400人，搜救仍在继续",
+        "summary": "委内瑞拉双震已造成至少1430人死亡，近7万人失踪。救援人员从废墟中救出一名父亲和儿子，以及一名18天大的婴儿。",
+        "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
+        "source": "Guardian"
+      },
+      {
+        "title": "芯片股上半年暴涨，AI热潮推动亚太股市走高",
+        "summary": "芯片制造商股价上半年飙升，部分公司市值翻三倍以上，带动亚太股市大幅上涨。",
+        "url": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
+        "source": "Guardian"
+      },
+      {
+        "title": "Comcast宣布分拆NBCUniversal和Sky为独立上市公司",
+        "summary": "Comcast将通过免税分拆将媒体和科技业务剥离为两家独立上市公司，股价大涨20%。",
+        "url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "巴基斯坦空袭阿富汗致数十人死亡",
+        "summary": "巴基斯坦对阿富汗境内发动空袭，塔利班政府称平民死亡，巴基斯坦称打击的是武装分子。",
+        "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo",
+        "source": "BBC"
+      },
+      {
+        "title": "德国北部发生枪击致5人死亡，两人被捕",
+        "summary": "德国施塔德发生枪击事件，造成5人死亡，警方已逮捕两名嫌疑人。",
+        "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo",
+        "source": "BBC"
+      },
+      {
+        "title": "法国跳伞飞机坠毁致11人死亡",
+        "summary": "一架跳伞飞机在法国东北部起飞后不久坠毁，机上11人全部遇难。",
+        "url": "https://www.foxnews.com/world/families-watch-horror-skydiving-plane-crashes-france-killing-11-aboard",
+        "source": "Fox News"
+      },
+      {
+        "title": "委内瑞拉地震考验特朗普西半球新政",
+        "summary": "特朗普政府削减USAID后，国务卿鲁比奥正努力协调对委内瑞拉的地震救援，检验其西半球政策。",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "SpaceX 250亿美元债券发行需求旺盛，但分析师警告风险",
+        "summary": "SpaceX的巨额债券发行吸引大量需求，但分析师指出资本支出、再融资和投资者集中度风险。",
+        "url": "https://www.cnbc.com/2026/06/29/spacex-debt-diversification-equity-bond-investors-analysts.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普在ICE寻求2.2亿美元泰瑟枪交易前购入Axon股票",
+        "summary": "特朗普购入最多500万美元Axon股票，随后ICE寻求与Axon达成2.2亿美元泰瑟枪交易。",
+        "url": "https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "普京承认燃料短缺，乌克兰无人机打击影响俄罗斯能源基础设施",
+        "summary": "普京首次详细说明乌克兰纵深打击成功阻碍了俄罗斯燃料生产，能源基础设施承压。",
+        "url": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Rocket Lab以80亿美元收购Iridium，拓展发射业务",
+        "summary": "Iridium股东将获得每股54美元（现金加股票）的对价，交易扩大Rocket Lab的业务范围。",
+        "url": "https://www.cnbc.com/2026/06/29/rocket-lab-buys-iridium-in-8-billion-deal-to-expand-beyond-launches",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "特朗普推动小型核反应堆计划接近完成，安全担忧浮现",
+        "summary": "特朗普政府启动的计划允许小公司加速测试新型核反应堆设计，但有人担心安全被妥协。",
+        "url": "https://www.npr.org/2026/06/29/nx-s1-5847944/new-nuclear-reactors-america-250-safety-concerns",
+        "source": "NPR"
+      },
+      {
+        "title": "美国250周年庆典：纽约港举行帆船游行",
+        "summary": "美国海岸警卫队“鹰”号率领高桅帆船在纽约港游行，庆祝美国建国250周年。",
+        "url": "https://abcnews.com/video/134303294/",
+        "source": "ABC News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美伊在卡塔尔举行新一轮谈判",
+        "summary": "周二美国与伊朗将在多哈举行技术性会谈，推进此前达成的临时协议。",
+        "url": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国最高法院预计就出生公民权作出裁决",
+        "summary": "最高法院即将就出生公民权案件作出裁决，这是今年最受期待的判决之一。",
+        "url": "https://abcnews.com/Politics/faq-birthright-citizenship-ahead-supreme-courts-ruling/story?id=134215675",
+        "source": "ABC News"
+      },
+      {
+        "title": "美国东部热浪来袭，纽约和华盛顿气温或达40°C",
+        "summary": "美国西北部遭遇反常降雪后，东部地区本周将迎来热浪，纽约和华盛顿气温可能达到40°C。",
+        "url": "https://www.theguardian.com/environment/2026/jun/29/weather-tracker-north-west-us-hit-by-snow-ahead-of-eastern-heatwave",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊周末互袭后同意停火，周二重启谈判",
+      "direction": "看空",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "委内瑞拉地震死亡超1400人，搜救持续",
+      "direction": "中性",
+      "asset_impact": "USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "芯片股上半年暴涨，AI热潮推动",
+      "direction": "看多",
+      "asset_impact": "SOX, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Comcast宣布分拆NBCUniversal和Sky",
+      "direction": "看多",
+      "asset_impact": "CMCSA",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "普京承认燃料短缺，乌克兰无人机打击影响俄罗斯能源",
+      "direction": "看多",
+      "asset_impact": "USO, NG",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "SpaceX 250亿美元债券发行需求旺盛",
+      "direction": "中性",
+      "asset_impact": "SPACEX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普在ICE泰瑟枪交易前购入Axon股票",
+      "direction": "看空",
+      "asset_impact": "AXON",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国东部热浪来袭，气温或达40°C",
+      "direction": "中性",
+      "asset_impact": "NG, USO",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
