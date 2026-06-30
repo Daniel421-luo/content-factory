@@ -1,0 +1,188 @@
+{
+  "title": "📈 美股简报 | 2026-06-30",
+  "headline": "美股期货小幅走高，道指周一首次收于52000点上方；日元跌至40年新低，市场关注干预风险；中国6月制造业PMI超预期，科技出口需求支撑增长。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅走高",
+        "summary": "周二盘前，美股期货小幅上涨，延续周一涨势。道指周一首次收于52000点上方，创历史新高，受Alphabet上涨及美伊紧张局势缓和提振。",
+        "url": "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日元跌至40年新低，干预风险上升",
+        "summary": "日元兑美元跌至1986年以来最低水平，市场警惕日本当局可能进行干预。",
+        "url": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国6月制造业PMI超预期",
+        "summary": "中国6月官方制造业PMI高于预期，受人工智能技术出口需求推动，部分抵消中东动荡影响。",
+        "url": "https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "科技股领涨，纳指周一涨2%",
+        "summary": "纳斯达克指数周一上涨2%，结束连跌走势，科技股反弹。道指因Alphabet纳入成分股而创新高。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-29-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "价值股受关注，通胀高企时表现优于成长股",
+        "summary": "市场分析指出，在高通胀环境下价值股通常跑赢成长股，多家顶级通讯社推荐13只价值股。",
+        "url": "https://www.marketwatch.com/story/value-stocks-beat-growth-when-inflation-is-high-here-are-13-stocks-top-newsletters-are-betting-on-now-f6f4a265?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "特斯拉股价飙升，因全自动驾驶技术更新",
+        "summary": "特斯拉股价周一录得逾一年来最大单日涨幅，受全自动驾驶技术长期期待的更新推动，但本月仍下跌。",
+        "url": "https://www.marketwatch.com/story/teslas-stock-rips-higher-after-a-long-awaited-update-to-self-driving-technology-10565662?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Rocket Lab以80亿美元收购Iridium，挑战SpaceX星链",
+        "summary": "Rocket Lab宣布收购Iridium，作为扩展能力的“捷径”，旨在与SpaceX的星链竞争。",
+        "url": "https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Charter与SpaceX合作传闻推动股价大涨",
+        "summary": "Charter Communications可能成为SpaceX的“亦敌亦友”，其股价大涨，因Starlink进入无线市场选项之一是与Charter合作。",
+        "url": "https://www.marketwatch.com/story/charter-may-be-making-frenemies-with-spacex-and-its-stock-is-soaring-e300eb21?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Strategy放弃“永不卖比特币”策略，计划回购股票并出售比特币",
+        "summary": "Michael Saylor的公司Strategy宣布股票回购和比特币出售计划，以度过加密货币寒冬，此举放弃此前“永不卖币”的承诺。",
+        "url": "https://www.wsj.com/finance/currencies/strategy-abandons-never-sell-bitcoin-mantra-in-bid-to-outlast-crypto-winter-b36e4c2f?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "中国科技出口需求支撑制造业PMI，利好半导体",
+        "summary": "中国6月制造业PMI超预期，人工智能技术出口需求强劲，间接利好半导体行业。",
+        "url": "https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美伊将在卡塔尔举行新一轮会谈",
+        "summary": "特朗普称美国与伊朗将于周二在卡塔尔首都举行会谈，此前周末发生冲突。",
+        "url": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "最高法院扩大总统解雇权力，但允许美联储理事Lisa Cook留任",
+        "summary": "最高法院推翻一项90年历史的裁决，扩大总统解雇独立机构官员的权力，但允许特朗普试图解雇的美联储理事Lisa Cook继续任职。",
+        "url": "https://www.cbsnews.com/news/supreme-court-federal-reserve-lisa-cook-firing/",
+        "source": "CBS"
+      },
+      {
+        "title": "JPMorgan计划扩大国防领域投资",
+        "summary": "Jamie Dimon表示JPMorgan将动用自有资金投资国防等关键行业，并计划大幅扩展国家安全领域业务。",
+        "url": "https://www.wsj.com/finance/banking/jamie-dimon-jpmorgan-investing-defense-091cfc4c?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "伊朗战争使美国家庭平均花费1000美元",
+        "summary": "穆迪首席经济学家Mark Zandi估计，伊朗战争已使美国家庭平均支出增加1000美元，主要因燃料、机票等价格上涨。",
+        "url": "https://www.cbsnews.com/news/iran-war-cost-americans-1000-per-household-economist-estimates/",
+        "source": "CBS"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊会谈结果不确定性",
+        "summary": "周二美伊在卡塔尔举行会谈，若谈判破裂可能导致中东局势升级，影响油价和全球市场。",
+        "url": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日元持续贬值或引发干预",
+        "summary": "日元跌至40年低点，日本当局可能随时干预汇市，引发市场波动。",
+        "url": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "道指首次收于52000点上方，科技股反弹",
+      "direction": "看多",
+      "asset_impact": "QQQ, SPY, DIA",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "日元跌至40年新低，干预风险上升",
+      "direction": "看空",
+      "asset_impact": "USD/JPY, DX-Y",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国6月制造业PMI超预期，科技出口需求强劲",
+      "direction": "看多",
+      "asset_impact": "FXI, KWEB, NVDA, AMD",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特斯拉全自动驾驶技术更新推动股价大涨",
+      "direction": "看多",
+      "asset_impact": "TSLA",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Strategy放弃‘永不卖比特币’策略，计划出售比特币",
+      "direction": "看空",
+      "asset_impact": "MSTR, BTC/USD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美伊将在卡塔尔举行会谈，地缘风险缓和",
+      "direction": "看多",
+      "asset_impact": "USO, SPY",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "最高法院允许美联储理事Lisa Cook留任，货币政策独立性受关注",
+      "direction": "中性",
+      "asset_impact": "TLT, DXY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "JPMorgan计划扩大国防领域投资",
+      "direction": "看多",
+      "asset_impact": "JPM, XAR, ITA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伊朗战争使美国家庭平均花费1000美元，消费承压",
+      "direction": "看空",
+      "asset_impact": "XLY, SPY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
