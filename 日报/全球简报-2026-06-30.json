@@ -1,0 +1,190 @@
+{
+  "title": "🌍 全球简报 | 2026-06-30",
+  "headline": "美国最高法院就出生公民权做出裁决，伊朗与美国在卡塔尔的谈判前景不明，委内瑞拉地震救援持续，秘鲁右翼候选人藤森庆子赢得总统选举。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国最高法院就出生公民权做出裁决，特朗普部分胜诉",
+        "summary": "最高法院裁定特朗普有权解除监管机构负责人，但也在其他案件中遭遇挫折。同时，法院正在审议政府取消出生公民权的努力。",
+        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o",
+        "source": "BBC"
+      },
+      {
+        "title": "美伊谈判前景不明，双方释放矛盾信号",
+        "summary": "美国和伊朗对本周在卡塔尔举行的关键谈判发出矛盾信息，市场关注伊朗核问题及霍尔木兹海峡局势。",
+        "url": "https://abcnews.com/Politics/uncertainty-clouds-step-us-iran-negotiations/story?id=134325959",
+        "source": "ABC News"
+      },
+      {
+        "title": "委内瑞拉地震死亡人数超1700，救援工作持续",
+        "summary": "强烈余震再次袭击北部地区，民众仍被困废墟中。超过100名刚被美国驱逐的委内瑞拉人在酒店倒塌后失踪。",
+        "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
+        "source": "Guardian"
+      },
+      {
+        "title": "秘鲁右翼候选人藤森庆子赢得总统选举",
+        "summary": "藤森庆子击败左翼对手，承诺恢复“秩序与希望”，标志着拉丁美洲右翼势力的又一次胜利。",
+        "url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
+        "source": "Guardian"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "南非部署警力应对反移民抗议",
+        "summary": "数千人离开南非，反移民团体设定的最后期限临近，政府担心2008年暴力事件重演。",
+        "url": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
+        "source": "Guardian"
+      },
+      {
+        "title": "伊朗试图控制霍尔木兹海峡，美阿开辟新航线",
+        "summary": "分析人士称，伊朗袭击商业航运以对抗美国和阿曼开发的新南部走廊。",
+        "url": "https://www.foxnews.com/politics/iran-fights-keep-grip-hormuz-us-gulf-allies-carve-new-shipping-route",
+        "source": "Fox News"
+      },
+      {
+        "title": "摩纳哥爆炸致三人受伤，乌克兰大亨疑为目标",
+        "summary": "嫌疑人放置的爆炸装置导致包括一名乌克兰商业大亨在内的三人受伤，嫌疑人仍在逃。",
+        "url": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon",
+        "source": "NPR"
+      },
+      {
+        "title": "中国商人郭文贵在美国被判30年监禁",
+        "summary": "郭文贵因欺诈等罪名被判刑，他曾自称是中国批评者，骗取数千名追随者资金。",
+        "url": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美股“七巨头”市值蒸发2.3万亿美元，AI支出担忧加剧",
+        "summary": "投资者对巨额AI投资回报前景感到不安，科技股承压。",
+        "url": "https://www.cnbc.com/2026/06/30/magnificent-7-stocks-sell-off-investors-grow-jittery-on-ai-spending.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价面临月度大幅下跌，美伊谈判信号混乱",
+        "summary": "交易员关注美伊在卡塔尔的谈判，油价承压。",
+        "url": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "联邦劳动力培训资金启动，但合格项目寥寥",
+        "summary": "7月1日起联邦资金可用于短期培训项目，但仅12个州制定了申请路线图。",
+        "url": "https://www.npr.org/2026/06/30/nx-s1-5869642/workforce-pell-grants-programs-dont-quality",
+        "source": "NPR"
+      },
+      {
+        "title": "康卡斯特将分拆媒体业务，德银建议买入",
+        "summary": "康卡斯特计划分拆NBCUniversal，德意志银行认为此举使股票更具吸引力。",
+        "url": "https://www.cnbc.com/2026/06/30/comcast-to-spin-out-media-business-deutsche-bank-says-it-will-rise.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "苹果iPhone 18 Pro供应商数据泄露，涉及零件和照片",
+        "summary": "塔塔集团数据泄露暴露了苹果供应链细节，威胁到其精心谈判的制造业务。",
+        "url": "http://www.cnbc.com/2026/06/30/apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-tata-data-leak.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Gojek创始人因腐败被判入狱",
+        "summary": "印尼教育部长任内的笔记本电脑交易导致Nadiem Makarim被判刑。",
+        "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o",
+        "source": "BBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美伊在卡塔尔的谈判",
+        "summary": "美国和伊朗预计将在卡塔尔恢复和平谈判，市场关注核协议进展。",
+        "url": "https://www.npr.org/2026/06/30/nx-s1-5873958/morning-news-brief",
+        "source": "NPR"
+      },
+      {
+        "title": "美国最高法院可能就出生公民权做出裁决",
+        "summary": "最高法院正在审议特朗普政府取消出生公民权的努力，预计很快做出决定。",
+        "url": "https://www.npr.org/2026/06/30/g-s1-129953/remaking-immigration-explainer-video",
+        "source": "NPR"
+      },
+      {
+        "title": "科罗拉多州初选结果",
+        "summary": "科罗拉多州举行美国参议院、众议院和州长初选，结果将影响中期选举格局。",
+        "url": "https://www.npr.org/2026/06/30/g-s1-129870/colorado-primary-election-results-2026",
+        "source": "NPR"
+      },
+      {
+        "title": "联邦劳动力培训资金正式开放申请",
+        "summary": "7月1日起，联邦资金可用于短期培训项目，但合格项目有限。",
+        "url": "https://www.npr.org/2026/06/30/nx-s1-5869642/workforce-pell-grants-programs-dont-quality",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊谈判前景不明，伊朗威胁霍尔木兹海峡航运",
+      "direction": "看多",
+      "asset_impact": "USO, /CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美股七巨头市值大幅缩水，AI支出回报担忧",
+      "direction": "看空",
+      "asset_impact": "/ES, QQQ",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "委内瑞拉地震导致人道危机，石油生产可能受影响",
+      "direction": "看多",
+      "asset_impact": "USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国最高法院扩大总统解雇监管机构权力",
+      "direction": "中性",
+      "asset_impact": "US10Y, DXY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "秘鲁右翼总统当选，可能推动亲商政策",
+      "direction": "看多",
+      "asset_impact": "EPU, /CL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "伊朗与海湾国家开辟新航线，削弱霍尔木兹海峡重要性",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "Medicare将覆盖减肥药，利好制药公司",
+      "direction": "看多",
+      "asset_impact": "NVO, LLY",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "南非反移民抗议可能引发社会动荡",
+      "direction": "看空",
+      "asset_impact": "EZA, ZAR",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
