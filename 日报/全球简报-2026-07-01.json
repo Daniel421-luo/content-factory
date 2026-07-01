@@ -1,0 +1,150 @@
+{
+  "title": "🌍 全球简报 | 2026-07-01",
+  "headline": "美国最高法院驳回特朗普出生公民权上诉，同时拒绝审理卡罗尔诽谤案；委内瑞拉地震致5.8万栋建筑受损；秘鲁右翼候选人藤森惠子赢得总统选举。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国最高法院驳回特朗普出生公民权上诉",
+        "summary": "最高法院裁定维持出生公民权，对特朗普移民议程构成重大打击，民权组织表示欢迎。",
+        "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "委内瑞拉地震致5.8万栋建筑受损",
+        "summary": "卫星数据分析显示，上周两次强震可能造成超过5.8万栋建筑损毁，规模远超官方估计。",
+        "url": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes",
+        "source": "Guardian"
+      },
+      {
+        "title": "秘鲁保守派藤森惠子赢得总统选举",
+        "summary": "藤森惠子击败左翼候选人桑切斯，承诺恢复“秩序与希望”，标志拉美右翼再获胜利。",
+        "url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
+        "source": "Guardian"
+      },
+      {
+        "title": "墨西哥城世界杯庆祝活动致3人死亡",
+        "summary": "超过百万人上街庆祝墨西哥队战胜厄瓜多尔，3人因窒息死亡。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "尼日尔军政府打压LGBTQ+群体",
+        "summary": "至少40人因同性恋被捕，新刑法实施后出现“猎巫”气氛，引发对艾滋病防治倒退的担忧。",
+        "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
+        "source": "Guardian"
+      },
+      {
+        "title": "南非部署警力应对反移民抗议",
+        "summary": "政府担心重演2008年反移民暴力，已向多地增派警力，抗议者要求无证移民离境。",
+        "url": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
+        "source": "Guardian"
+      },
+      {
+        "title": "苏丹RSF在法希尔犯下反人类罪",
+        "summary": "大赦国际报告指控快速支援部队在法希尔实施暴行，联合国称其具有种族灭绝特征。",
+        "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美伊谈判破裂致油价波动",
+        "summary": "伊朗拒绝与美国在卡塔尔会谈，和平进程受挫，油价承压下行。",
+        "url": "https://www.cnbc.com/2026/07/01/oil-prices-brent-wti-crude-trump-iran.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "科技股领涨上半年，但最大赢家不在美国",
+        "summary": "美国大型科技股上半年表现强劲，但国际科技股涨幅更大，新兴市场表现突出。",
+        "url": "https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "风险较高房贷需求下降",
+        "summary": "30年期固定利率与可调利率贷款利差收窄，导致ARM需求减弱。",
+        "url": "https://www.cnbc.com/2026/07/01/demand-for-riskier-mortgages-drops-as-their-advantages-shrink.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国航空系统承压：航班量减少但乘客创新高",
+        "summary": "夏季旅行季再创纪录，航空公司载客量超历史水平，但航班数量低于20年前，系统压力巨大。",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5869367/crowded-skies-strain-aviation",
+        "source": "NPR"
+      }
+    ],
+    "科技": [
+      {
+        "title": "兰博基尼发布Urus SE Performante混动SUV",
+        "summary": "放弃纯电计划后，兰博基尼推出号称“全球最快超级SUV”的插电混动车型。",
+        "url": "https://www.cnbc.com/2026/07/01/lamborghini-urus-suv.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国独立日250周年庆典",
+        "summary": "全美各地将举行庆祝活动，关注安全与天气影响。",
+        "url": "",
+        "source": "NPR"
+      },
+      {
+        "title": "世界杯淘汰赛阶段继续，美国东部热浪影响比赛",
+        "summary": "多场比赛将在高温下进行，关注球员健康与赛程调整。",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5875173/world-cup-heat-wave-dome-philadelphia-new-york-new-jersey",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国最高法院维持出生公民权，特朗普移民议程受挫",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美伊谈判破裂，伊朗拒绝会晤",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "委内瑞拉地震致5.8万栋建筑受损，重建需求或推升大宗商品",
+      "direction": "看多",
+      "asset_impact": "GLD, USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "秘鲁右翼藤森惠子当选总统，拉美右翼势力增强",
+      "direction": "中性",
+      "asset_impact": "FXI, EEM",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国航空系统承压，乘客数量创新高但航班减少",
+      "direction": "看空",
+      "asset_impact": "JETS, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国热浪持续，世界杯比赛受影响",
+      "direction": "中性",
+      "asset_impact": "USO, /NG",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
