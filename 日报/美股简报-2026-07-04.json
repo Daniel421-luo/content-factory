@@ -1,0 +1,168 @@
+{
+  "title": "📈 美股简报 | 2026-07-04",
+  "headline": "小盘股上半年领涨，轮动交易回归；极端热浪威胁电网，PJM启动紧急措施；特朗普交易账户在关税日前大额操作曝光。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "小盘股上半年大涨22%，轮动交易回归",
+        "summary": "罗素2000指数上半年上涨约22%，创数十年最佳表现。周四弱于预期的就业数据提振了美联储暂停加息的预期，推动资金从小盘股轮动。",
+        "url": "https://www.wsj.com/finance/stocks/russell-2000-small-stocks-gains-83fade43",
+        "source": "WSJ"
+      },
+      {
+        "title": "投资者寻求从私募信贷基金撤资近160亿美元",
+        "summary": "由于担心赎回周期延长，更多基金管理人开始限制提款。",
+        "url": "https://www.wsj.com/finance/investing/investors-seek-to-pull-nearly-16-billion-from-private-credit-funds-81b6fe37",
+        "source": "WSJ"
+      },
+      {
+        "title": "特朗普交易账户在‘解放日’关税前后大额交易",
+        "summary": "总统的经纪账户在2025年进行了超过2.1万笔交易，其中在关税宣布前后有重大操作，这些活动直到本周才被披露。",
+        "url": "https://www.wsj.com/finance/stocks/trumps-brokerage-accounts-made-big-trades-around-liberation-day-tariffs-06e92290",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "轮动交易重返华尔街",
+        "summary": "弱于预期的就业数据提振了美联储暂停加息的希望，资金从大型科技股转向小盘股和价值股。",
+        "url": "https://www.wsj.com/finance/stocks/the-rotation-trade-is-back-on-wall-street-2f633f31",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "福特达成质量里程碑，CEO瞄准零缺陷新车发布",
+        "summary": "福特CEO吉姆·法利表示，公司已从过去的质量和召回问题中吸取教训，这些曾损害盈利和声誉。",
+        "url": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "JPMorgan列出7月首选股，高股息EPR Properties入选",
+        "summary": "JPMorgan将EPR Properties加入其月度最佳股票名单。",
+        "url": "https://www.cnbc.com/2026/07/03/jpmorgan-names-high-dividend-stock-among-its-top-july-ideas.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达押注万亿美元机器人热潮，隐藏交易方式曝光",
+        "summary": "CEO黄仁勋称人形机器人为“数万亿美元的经济机遇”，文章揭示了间接投资该主题的方法。",
+        "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "极端热浪威胁美国电网和国庆出行",
+        "summary": "热浪可能压垮美国电网，并迫使部分人改变出行计划。",
+        "url": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国最大电网PJM升级紧急措施以避免停电",
+        "summary": "PJM表示已处于联邦警报状态，要求削减用电。该电网服务6700万人。",
+        "url": "https://www.cnbc.com/2026/07/03/power-grid-independence-day-weekend.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国监控石油市场价格操纵，敦促各州行动",
+        "summary": "反垄断监管机构暗示州检察长可协助调查公司非法行为。",
+        "url": "https://www.cbsnews.com/news/u-s-monitoring-oil-markets-price-fixing/",
+        "source": "CBS"
+      },
+      {
+        "title": "特朗普‘大而美的法案’一周年：赢家与输家",
+        "summary": "该税收和支出法案对家庭、企业和联邦项目的影响日益显现。",
+        "url": "https://www.cbsnews.com/news/trump-one-big-beautiful-bill-obbba-winners-losers-one-year-later/",
+        "source": "CBS"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "极端热浪持续，电网压力或引发局部停电",
+        "summary": "PJM已启动紧急措施，若高温不退，可能影响工业生产和数据中心运营。",
+        "url": "https://www.cnbc.com/2026/07/03/power-grid-independence-day-weekend.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗最高领袖哈梅内伊葬礼开始，地缘风险升温",
+        "summary": "伊朗举行为期六天的葬礼，可能加剧中东紧张局势，影响油价。",
+        "url": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "阿曼在霍尔木兹海峡收费问题上走钢丝，市场存‘盲点’",
+        "summary": "关于可能征收海峡通行费的谈判引发法律、外交和石油市场担忧。",
+        "url": "https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "小盘股上半年大涨22%，轮动交易回归",
+      "direction": "看多",
+      "asset_impact": "IWM, RUT",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "投资者从私募信贷基金撤资近160亿美元",
+      "direction": "看空",
+      "asset_impact": "BDCS, PFLT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普交易账户在关税日前大额交易曝光",
+      "direction": "中性",
+      "asset_impact": "SPY, DIA",
+      "confidence": 2,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "极端热浪威胁电网，PJM启动紧急措施",
+      "direction": "看空",
+      "asset_impact": "XLU, IDU",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "伊朗最高领袖葬礼开始，中东地缘风险升温",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "阿曼在霍尔木兹海峡收费问题上制造市场‘盲点’",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英伟达押注万亿美元机器人热潮",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美国监控石油市场价格操纵",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
