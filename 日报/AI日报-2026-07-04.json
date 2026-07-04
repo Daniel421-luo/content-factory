@@ -1,0 +1,55 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-04",
+  "headline": "Anthropic 发布 Claude Science 进军药物研发，同时 Fable 5 模型创下自动化工作新纪录；扎克伯格承认 AI 代理进展不及预期；Google DeepMind 工会谈判开局不顺。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Anthropic 发布 Claude Science，进军药物研发",
+        "summary": "Anthropic 推出 Claude Science，一个面向科学家的 AI 工作台，整合分散的工具和数据集，可生成图表和可视化，旨在加速药物发现等科研工作。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-sc",
+        "source": "The Verge"
+      },
+      {
+        "title": "Anthropic Fable 5 创下自动化工作新纪录，但尚不能完全替代人类",
+        "summary": "Anthropic 新模型 Fable 5 在自动化自由职业工作方面刷新了性能记录，但专家指出它仍无法完全取代人类。",
+        "url": "https://www.zdnet.com/article/anthropic-fable-5-freelance-work-performance-record/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "扎克伯格内部承认 AI 代理进展不及预期",
+        "summary": "Meta CEO 在内部会议上表示，AI 代理的开发速度未达预期，反映出行业在自主 AI 系统上面临的挑战。",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google DeepMind 工会谈判开局不顺",
+        "summary": "在周三的谈判中，员工对高管不愿认真对待工会化表示不满，双方分歧明显。",
+        "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+        "source": "Wired"
+      },
+      {
+        "title": "AI 驱动的芯片短缺导致消费电子产品价格持续上涨",
+        "summary": "由于 AI 芯片需求激增，手机、电脑、游戏机等设备价格不断攀升，消费者面临新一轮涨价潮。",
+        "url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
+        "source": "Wired"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "AI 术语大全：你需要知道的 AI 词汇",
+        "summary": "TechCrunch 整理了一份 AI 领域常用术语和俚语的指南，帮助读者理解幻觉、AGI 等关键概念。",
+        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "LLM 陷入群体思维困境，这家初创公司试图打破僵局",
+        "summary": "MIT Tech Review 报道称，大型语言模型在回答时趋于同质化，一家初创公司正开发方法让 AI 输出更多样化。",
+        "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+        "source": "MIT Technology Review"
+      }
+    ]
+  }
+}
