@@ -1,0 +1,43 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-05",
+  "headline": "Midjourney 要求好莱坞披露 AI 使用细节；阿里巴巴据报禁止员工使用 Claude Code；同人小说社区因 AI 陷入内部分裂。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Midjourney 要求好莱坞工作室披露 AI 使用细节",
+        "summary": "在与三家好莱坞工作室的持续法律纠纷中，Midjourney 寻求强制这些工作室披露他们自己如何使用 AI。",
+        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "阿里巴巴据报禁止员工使用 Claude Code",
+        "summary": "阿里巴巴已将 Claude Code 列为高风险软件，禁止员工使用。",
+        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "同人小说社区因 AI 陷入内部分裂",
+        "summary": "一场旨在根除使用生成式 AI 作者的新运动引发争议，检测方法被指不可靠，可能误伤无辜作者。",
+        "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Mistral AI 是什么？关于 OpenAI 竞争对手的一切",
+        "summary": "Mistral AI 自 2023 年成立以来已获大量融资，提供部分开源 AI 模型，目标是“将前沿 AI 交到每个人手中”。",
+        "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "新谷歌广告想象 AI 协助撰写《独立宣言》",
+        "summary": "在《独立宣言》签署 250 周年之际，谷歌新广告设想：如果开国元勋们有 Google Workspace 会怎样？",
+        "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
