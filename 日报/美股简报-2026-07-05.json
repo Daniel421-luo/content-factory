@@ -1,0 +1,107 @@
+{
+  "title": "📈 美股简报 | 2026-07-05",
+  "headline": "美国独立日假期后市场交投清淡，小盘股上半年表现亮眼，特朗普发表国庆演讲，伊朗为最高领袖哈梅内伊举行葬礼",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "假期后市场交投清淡",
+        "summary": "美国独立日假期后，今日美股期货预计交投清淡，无重大经济数据公布。上周五（7月3日）美股因假期提前收盘，市场关注本周将公布的就业和通胀数据。",
+        "url": "",
+        "source": "综合"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "小盘股上半年领涨",
+        "summary": "罗素2000指数上半年累计上涨约22%，创数十年来最佳同期表现，显示资金从大型科技股向小盘价值股轮动。",
+        "url": "https://www.wsj.com/finance/stocks/russell-2000-small-stocks-gains-83fade43",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "BTIG公布下半年首选股",
+        "summary": "BTIG列出55只大中小盘股作为下半年首选，涵盖运动休闲公司、网络安全股等，认为这些股票将在未来六个月表现良好。",
+        "url": "https://www.cnbc.com/2026/07/04/btigs-top-picks-for-second-half-of-2026.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [],
+    "宏观与政策": [
+      {
+        "title": "特朗普发表国庆演讲",
+        "summary": "特朗普在华盛顿国家广场发表国庆演讲，内容混合爱国主义与对国内外所谓意识形态威胁的攻击。",
+        "url": "https://www.cnbc.com/2026/07/05/trump-gives-campaign-style-july-4-speech-on-national-mall.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国监控石油市场价格操纵",
+        "summary": "美国反垄断监管机构表示正在监控石油市场是否存在价格操纵行为，并鼓励各州检察长协助调查。",
+        "url": "https://www.cbsnews.com/news/u-s-monitoring-oil-markets-price-fixing/",
+        "source": "CBS"
+      },
+      {
+        "title": "伊朗为哈梅内伊举行葬礼",
+        "summary": "伊朗开始为期六天的最高领袖哈梅内伊葬礼，仪式将在伊朗和伊拉克多地举行，最终安葬于马什哈德。",
+        "url": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普“大而美的法案”一周年影响显现",
+        "summary": "特朗普签署的全面税收和支出法案实施一年后，其对家庭、企业和联邦项目的影响日益明显。",
+        "url": "https://www.cbsnews.com/news/trump-one-big-beautiful-bill-obbba-winners-losers-one-year-later/",
+        "source": "CBS"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗局势与霍尔木兹海峡通行费争议",
+        "summary": "阿曼在霍尔木兹海峡通行费谈判中采取战略模糊态度，引发法律、外交和石油市场担忧，可能影响油价。",
+        "url": "https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "小盘股上半年大幅跑赢，资金轮动持续",
+      "direction": "看多",
+      "asset_impact": "IWM, RUT",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美国监控石油市场价格操纵，可能影响能源股",
+      "direction": "中性",
+      "asset_impact": "XLE, USO",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "伊朗最高领袖葬礼期间中东地缘风险上升",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "霍尔木兹海峡通行费争议可能推高油价",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普“大而美的法案”一周年，财政刺激效果显现",
+      "direction": "中性",
+      "asset_impact": "SPY, IWM",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
