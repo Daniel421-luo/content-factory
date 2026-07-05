@@ -1,0 +1,158 @@
+{
+  "title": "🌍 全球简报 | 2026-07-05",
+  "headline": "特朗普在独立日发表政治化演讲，中国释放地下教会领袖，乌克兰袭击圣彼得堡油库，超级台风巴维逼近关岛",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "特朗普在独立日发表政治化演讲 庆祝美国250周年",
+        "summary": "特朗普总统在华盛顿国家广场发表演讲，庆祝美国独立250周年，内容混合了爱国主义与对国内外意识形态威胁的攻击。",
+        "url": "https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250",
+        "source": "NPR"
+      },
+      {
+        "title": "中国释放地下教会领袖金明日 此前特朗普曾向习近平提出请求",
+        "summary": "著名地下教会“锡安教会”创始人金明日（Ezra Jin）获释并已抵达美国与家人团聚。特朗普在两个月前与习近平会面时提及此案。",
+        "url": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
+        "source": "NPR"
+      },
+      {
+        "title": "乌克兰袭击俄罗斯圣彼得堡主要石油终端",
+        "summary": "乌克兰总统泽连斯基称目标是为俄罗斯战争提供收入的关键基础设施。",
+        "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro",
+        "source": "BBC"
+      },
+      {
+        "title": "超级台风巴维逼近关岛 当地开始疏散",
+        "summary": "风暴预计周一登陆，风速超过160英里/小时，海浪近11米高。",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "中国军队在反腐清洗后晋升两名新上将",
+        "summary": "此举被认为是为了确保军队对共产党和领导人习近平的忠诚。",
+        "url": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
+        "source": "NPR"
+      },
+      {
+        "title": "法国极右翼领导人勒庞面临判决 决定其总统竞选命运",
+        "summary": "勒庞因涉嫌滥用欧盟资金被判有罪，正在上诉中。",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o",
+        "source": "BBC"
+      },
+      {
+        "title": "教皇方济各访问兰佩杜萨岛 呼吁欧洲为移民做更多",
+        "summary": "教皇在意大利兰佩杜萨岛向海上遇难移民致敬。",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no",
+        "source": "BBC"
+      },
+      {
+        "title": "苏丹埃尔奥贝德遭无人机袭击 人道主义状况恶化",
+        "summary": "援助人员称该市成为苏丹军队与准军事组织快速支援部队之间的关键战场。",
+        "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "加拿大新输油管道项目获批 承诺1500亿加元缓解BC省和原住民担忧",
+        "summary": "加拿大和阿尔伯塔省政府宣布计划推进一条主要新输油管道，以扩大海外市场。",
+        "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
+        "source": "Guardian"
+      },
+      {
+        "title": "世界杯推动预测市场交易量创历史新高",
+        "summary": "Kalshi和Polymarket的交易量在6月均创下纪录，新平台Rothera也处理了20亿美元交易量。",
+        "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX股票首次出现在国会议员交易记录中",
+        "summary": "在SpaceX创纪录的IPO之后，国会议员购买其股票的情况首次披露。",
+        "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "SpaceX股票首次出现在国会议员交易记录中",
+        "summary": "在SpaceX创纪录的IPO之后，国会议员购买其股票的情况首次披露。",
+        "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "超级台风巴维预计登陆关岛",
+        "summary": "风暴可能带来160英里/小时以上的风速和近11米高的海浪，疏散工作正在进行。",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo",
+        "source": "BBC"
+      },
+      {
+        "title": "法国极右翼领导人勒庞上诉判决结果",
+        "summary": "勒庞因滥用欧盟资金被判有罪，上诉结果将影响其总统竞选前景。",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "乌克兰袭击俄罗斯圣彼得堡石油终端，能源基础设施风险上升",
+      "direction": "看多",
+      "asset_impact": "USO, /CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "加拿大批准新输油管道项目，长期原油供应预期增加",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "超级台风巴维逼近关岛，可能影响太平洋航运和能源设施",
+      "direction": "看多",
+      "asset_impact": "USO, /NG",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普在独立日演讲中强调反共立场，中美关系紧张可能加剧",
+      "direction": "看空",
+      "asset_impact": "FXI, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国释放地下教会领袖，中美关系出现缓和信号",
+      "direction": "看多",
+      "asset_impact": "FXI",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "法国极右翼领导人勒庞面临判决，欧洲政治不确定性上升",
+      "direction": "看空",
+      "asset_impact": "EURUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "世界杯推动预测市场交易量创纪录，显示散户投机情绪高涨",
+      "direction": "中性",
+      "asset_impact": "/ES, SPY",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
