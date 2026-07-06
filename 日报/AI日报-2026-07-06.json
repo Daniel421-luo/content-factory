@@ -1,0 +1,73 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-06",
+  "headline": "美团开源1.6T MoE模型LongCat-2.0；扎克伯格称正建设千兆瓦级AI集群；NVIDIA Kyber NVL144延迟至2028年；欧盟快速通过聊天管控法规。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "美团 LongCat-2.0 完全开源，1.6T MoE 模型开放权重与推理代码",
+        "summary": "美团宣布 LongCat-2.0 以 MIT 许可开源，总参数量 1.6T，每 token 激活约 48B，支持 1M token 上下文，采用稀疏注意力和零浪费计算等技术。",
+        "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Anthropic Claude Design 系统提示词开源更新",
+        "summary": "Claude Design 的反向工程提示词在 GitHub 以 MIT 许可证开源，包含 20 章提示词和 14 项技能，新增自主决策条款。",
+        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+        "source": "AIHOT"
+      },
+      {
+        "title": "LlamaIndex 发布 legal-kb：法律文档智能体检索参考应用",
+        "summary": "基于 Index v2 的法律知识库应用，采用 Retrieval Harness 模式，提供混合检索、文件搜索和读取等工具。",
+        "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "扎克伯格：正建设千兆瓦级 AI 集群，集中精英与资本",
+        "summary": "Meta 正在建设首个千兆瓦以上单一集群 Prometheus，扎克伯格称将投入数千亿美元资本，集中精英人才和基础设施。",
+        "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+        "source": "AIHOT"
+      },
+      {
+        "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028 年",
+        "summary": "NVIDIA 的 Kyber NVL144 项目遭遇重大挫折，推迟至 2028 年，同时 NVL72x2 背靠背机架架构也被取消，影响 Rubin Ultra 扩展。",
+        "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
+        "source": "AIHOT"
+      },
+      {
+        "title": "欧盟理事会通过快速通道强制推行“聊天管控”法规",
+        "summary": "欧盟理事会通过书面程序快速通过 Chat Control 2.0，要求科技公司无差别扫描加密通信，批评者称其绕过民主监督。",
+        "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Midjourney 要求好莱坞工作室披露 AI 使用细节",
+        "summary": "在与三家好莱坞工作室的法律纠纷中，Midjourney 寻求迫使对方公开其 AI 使用方式。",
+        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Google 新广告设想 AI 辅助起草《独立宣言》引发争议",
+        "summary": "Google 发布广告，想象开国元勋使用 Google Workspace 和 Gemini 起草《独立宣言》，被批评为尴尬且不尊重历史。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+        "source": "The Verge"
+      },
+      {
+        "title": "美国富人让 AI 教孩子，传统学校被冷落",
+        "summary": "尽管多数美国人不信任 AI，部分富裕家庭却转向 Forge Prep 等 AI 学校，让 AI 替代传统教育。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+        "source": "The Verge"
+      },
+      {
+        "title": "一位父亲意外创办沟通应用公司，帮助非语言儿童",
+        "summary": "一位父亲为自闭症儿子开发沟通应用，在言语治疗室展示后获得强烈反响，意外发现产品市场匹配。",
+        "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+        "source": "AIHOT"
+      }
+    ]
+  }
+}
