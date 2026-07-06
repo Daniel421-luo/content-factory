@@ -1,0 +1,91 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-07",
+  "headline": "微软裁员约4800人，Xbox和销售部门受冲击；欧盟理事会快速通过加密通信扫描法规；美团开源1.6T MoE模型LongCat-2.0",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "美团 LongCat-2.0 完全开源",
+        "summary": "美团开源1.6T MoE模型LongCat-2.0，支持1M token上下文，采用MIT许可，开放权重与推理代码。",
+        "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Claude Desktop 登陆 Linux",
+        "summary": "Anthropic推出Claude Desktop官方Linux应用，支持Claude Code，但本地AI功能体验仍有待提升。",
+        "url": "https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Claude Design 系统提示词开源更新",
+        "summary": "Anthropic在GitHub开源Claude Design反向工程系统提示词，包含20章提示词和14项技能，针对Fable 5/Opus 4.7+校准。",
+        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+        "source": "AIHOT"
+      },
+      {
+        "title": "LlamaIndex 发布 legal-kb 法律文档知识库应用",
+        "summary": "LlamaIndex推出基于Index v2的法律文档检索参考应用，采用Retrieval Harness模式，提供检索、查找、读取和grep工具。",
+        "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "微软裁员约4800人，Xbox和销售部门受冲击",
+        "summary": "微软在新财年首日裁员约4800人（占员工2.1%），Xbox和商业销售部门受影响最大，同时出售四个Xbox工作室。",
+        "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+        "source": "The Verge"
+      },
+      {
+        "title": "欧盟理事会快速通过加密通信扫描法规",
+        "summary": "欧盟理事会通过书面程序强制推行Chat Control 2.0，要求科技公司对加密通信进行无差别扫描，批评者称绕过民主监督。",
+        "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+        "source": "AIHOT"
+      },
+      {
+        "title": "智能眼镜公司 Even Realities 估值达10亿美元",
+        "summary": "由前苹果团队创立的Even Realities获美团和腾讯1.5亿美元融资，估值达10亿美元，主打无摄像头智能眼镜。",
+        "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "扎克伯格：建设千兆瓦级AI集群",
+        "summary": "Meta CEO表示正在建设首个千兆瓦以上单一AI集群Prometheus，涉及数千亿美元资本投入，集中精英与资源。",
+        "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+        "source": "AIHOT"
+      },
+      {
+        "title": "NVIDIA Kyber NVL144 延迟至2028年",
+        "summary": "NVIDIA的Kyber NVL144项目遭遇重大挫折，延迟超过12个月至2028年，同时NVL72x2背靠背架构也被取消。",
+        "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
+        "source": "AIHOT"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Reddit 用LLM应对LLM制造的垃圾信息问题",
+        "summary": "在AI时代，平台不得不以火攻火，利用大语言模型来清理AI生成的垃圾内容。",
+        "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "美国富人开始让AI教育孩子",
+        "summary": "尽管多数美国人不信任AI，但部分富裕家庭已转向AI学校（如Forge Prep）替代传统教育，引发争议。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+        "source": "The Verge"
+      },
+      {
+        "title": "Station F 加速器瞄准欧洲AI初创公司",
+        "summary": "巴黎创业孵化器Station F推出新一期F/ai加速器项目，旨在成为欧洲AI初创公司的跳板。",
+        "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "英国监管机构警告AI在金融领域的“军备竞赛”",
+        "summary": "英国金融行为监管局官员表示，随着数百万人使用AI进行个人理财，监管机构需要更大权力以跟上AI应用步伐。",
+        "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
