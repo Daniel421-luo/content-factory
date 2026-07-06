@@ -1,0 +1,148 @@
+{
+  "title": "📈 美股简报 | 2026-07-06",
+  "headline": "美股期货走高，OPEC+增产施压油价，英伟达下一代AI机架系统被曝延迟至2028年",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货上涨，延续上周涨势",
+        "summary": "美国股指期货周日上涨，华尔街希望延续上周的涨势。",
+        "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "OPEC+增产，油价下跌",
+        "summary": "OPEC+同意从8月起进一步提高产量目标，同时关键产油国出口恢复，油价周一走低。",
+        "url": "https://www.cnbc.com/2026/07/06/oil-slips-after-opec-agrees-to-raise-output-targets.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "石油供应过剩可能削弱伊朗谈判筹码",
+        "summary": "更便宜、更充足的原油为各国提供了更快补充库存的机会，并削弱了伊朗利用霍尔木兹海峡作为杠杆的能力。",
+        "url": "https://www.wsj.com/finance/commodities-futures/a-sudden-glut-of-oil-threatens-to-weaken-irans-hand-in-talks-adfcf7c0?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "动量交易面临剧烈反转风险",
+        "summary": "策略师警告，动量交易通常在7月表现挣扎，今年可能尤其波动，且已出现早期迹象。",
+        "url": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "EasyJet同意Castlelake 73亿英镑收购要约",
+        "summary": "EasyJet股价早盘大涨10%，此前该公司原则上同意美国投资公司Castlelake的收购报价。",
+        "url": "https://www.cnbc.com/2026/07/06/easyjet-ezj-stock-castlelake-takeover-bid.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Comcast收购英国广播公司",
+        "summary": "在宣布分拆NBCUniversal计划仅一周后，Comcast表示将收购一家英国广播公司。",
+        "url": "https://www.marketwatch.com/story/just-a-week-after-spin-off-plan-comcast-says-it-will-buy-british-broadcaster-6178a2be?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "ITV将媒体和娱乐业务出售给Sky",
+        "summary": "两家广播公司表示，这笔16亿英镑的交易将创建一个强大的竞争对手，与全球流媒体巨头抗衡。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达下一代AI机架系统延迟至2028年",
+        "summary": "SemiAnalysis报告称，英伟达的Kyber机架系统因制造问题延迟至2028年，加剧了市场对其年度发布节奏与制造极限冲突的担忧。",
+        "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "高盛看空日元，预计AI和能源供应紧缩支撑美元",
+        "summary": "高盛进一步看空日元，认为即使干预也难以阻止日元贬值，同时AI和能源供应紧缩将支撑美元。",
+        "url": "https://www.cnbc.com/2026/07/06/yen-slump-dollar-currencies-ai-energy.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "韩国起诉四大炼油商操纵油价",
+        "summary": "韩国检察官周一以违反公平贸易法为由，起诉了四家国内主要炼油商。",
+        "url": "https://www.cnbc.com/2026/07/06/south-korean-prosecutors-indict-four-refiners-oil-price-collusion.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "OPEC+增产与伊朗石油供应恢复",
+        "summary": "OPEC+增产叠加伊朗石油出口恢复，可能导致全球原油供应过剩，进一步压低油价。",
+        "url": "https://www.cnbc.com/2026/07/06/oil-slips-after-opec-agrees-to-raise-output-targets.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达AI机架延迟影响市场情绪",
+        "summary": "英伟达下一代AI机架系统延迟至2028年，可能引发对AI硬件供应链和公司增长前景的担忧。",
+        "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "OPEC+增产，油价承压",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, XOM, CVX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英伟达下一代AI机架系统延迟至2028年",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX, AMD",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美股期货上涨，市场情绪积极",
+      "direction": "看多",
+      "asset_impact": "SPY, QQQ, DIA",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "EasyJet接受收购要约，股价大涨",
+      "direction": "看多",
+      "asset_impact": "ESYJY",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "高盛看空日元，看多美元",
+      "direction": "看多",
+      "asset_impact": "UUP, FXE, FXY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "动量交易面临剧烈反转风险",
+      "direction": "看空",
+      "asset_impact": "MTUM, SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "本月",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "石油供应过剩削弱伊朗谈判筹码",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
