@@ -1,0 +1,176 @@
+{
+  "title": "🌍 全球简报 | 2026-07-06",
+  "headline": "俄罗斯对基辅发动大规模导弹和无人机袭击致至少12人死亡，特朗普启程赴土耳其参加北约峰会，中国在南太平洋试射远程导弹引发地区紧张。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "俄罗斯大规模袭击基辅致至少12人死亡",
+        "summary": "俄罗斯周一凌晨向基辅发射多波导弹和无人机，造成至少12人死亡，暴露乌克兰防空系统的漏洞。",
+        "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12",
+        "source": "NPR"
+      },
+      {
+        "title": "特朗普启程赴土耳其参加北约峰会，将敦促盟国兑现防务支出承诺",
+        "summary": "特朗普前往安卡拉参加年度北约峰会，去年他推动盟国增加国防开支，今年将试图强制执行这些承诺。",
+        "url": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending",
+        "source": "NPR"
+      },
+      {
+        "title": "中国在南太平洋试射远程导弹，澳大利亚谴责其破坏地区稳定",
+        "summary": "中国在澳大利亚与斐济签署防务协议数小时后进行导弹试射，堪培拉和地区领导人予以谴责。",
+        "url": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
+        "source": "Guardian"
+      },
+      {
+        "title": "FIFA推翻巴洛贡红牌停赛，特朗普据报介入，比利时将上诉",
+        "summary": "FIFA利用罕见规则允许美国前锋巴洛贡在对阵比利时的世界杯16强赛中出场，比利时表示将上诉。",
+        "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "乌克兰警告拦截导弹短缺，泽连斯基呼吁美欧提供更多防空援助",
+        "summary": "泽连斯基称周日俄军对基辅的“大规模攻击”包含68枚导弹和351架攻击无人机，敦促西方提供更多导弹。",
+        "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo",
+        "source": "BBC"
+      },
+      {
+        "title": "委内瑞拉地震死亡人数预计飙升，临时总统辩护应急响应",
+        "summary": "6月24日双地震已致超3000人死亡，临时总统罗德里格斯称不会出现社会动荡。",
+        "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
+        "source": "Guardian"
+      },
+      {
+        "title": "佛罗里达共和党议员称驱逐海地TPS持有者将是“巨大错误”",
+        "summary": "众议员卡洛斯·希门尼斯呼吁白宫重新考虑取消海地临时保护身份，称海地是“失败国家”。",
+        "url": "https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国ICE拟在路易斯安那州开设新设施，加速驱逐移民家庭和儿童",
+        "summary": "新设施设有528张床位，毗邻已成为全美最大驱逐航班枢纽的机场。",
+        "url": "https://abcnews.com/US/wireStory/new-ice-facility-speed-deportations-families-kids-134507955",
+        "source": "ABC News"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "标普500和纳斯达克期货上涨，华尔街上周表现强劲",
+        "summary": "道琼斯指数上周上涨近2%，逼近从未触及的53000点关口。",
+        "url": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Versant同意以5.3亿美元收购高尔夫模拟器公司Full Swing",
+        "summary": "该交易将扩大Versant的非传统媒体资产，以多元化有线电视收入。",
+        "url": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Anthropic签署租约，入驻TeraWulf在肯塔基州的数据中心",
+        "summary": "TeraWulf原为加密货币矿商，已转向AI数据中心基础设施，今年股价上涨超80%。",
+        "url": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普通话、乌克兰打击与俄罗斯袭击基辅令市场警惕",
+        "summary": "特朗普据报与普京和泽连斯基通话，乌克兰打击俄目标，莫斯科对基辅发动致命攻击。",
+        "url": "https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Anthropic租用TeraWulf数据中心，AI算力需求持续增长",
+        "summary": "AI初创公司Anthropic与TeraWulf达成租约，后者从加密货币挖矿转向AI基础设施。",
+        "url": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "澳大利亚航天局发现神秘太空球的“可能来源”",
+        "summary": "航天局称这些物体“似乎是来自太空运载火箭的压力容器”。",
+        "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo",
+        "source": "BBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "北约峰会在土耳其安卡拉开幕",
+        "summary": "峰会将于周二和周三在贝什泰佩总统府举行，特朗普将敦促盟国兑现防务支出承诺。",
+        "url": "https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596",
+        "source": "ABC News"
+      },
+      {
+        "title": "美国与比利时世界杯16强赛",
+        "summary": "美国队将在FIFA推翻巴洛贡红牌后对阵比利时，比赛备受关注。",
+        "url": "https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun",
+        "source": "NPR"
+      },
+      {
+        "title": "法国国民联盟领导人勒庞上诉判决",
+        "summary": "勒庞的上诉结果将决定她能否参加2027年总统选举，目前她在民调中领先。",
+        "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "俄罗斯对基辅大规模袭击，乌克兰防空缺口扩大",
+      "direction": "看空",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普赴北约峰会施压盟国增加国防开支",
+      "direction": "中性",
+      "asset_impact": "US10Y, EURUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国在南太平洋试射远程导弹，地区紧张加剧",
+      "direction": "看空",
+      "asset_impact": "FXI, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普据报与普京和泽连斯基通话，俄乌和谈预期升温",
+      "direction": "中性",
+      "asset_impact": "USO, EURUSD",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国股市期货上涨，道指逼近53000点",
+      "direction": "看多",
+      "asset_impact": "/ES, SPY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Anthropic租用TeraWulf数据中心，AI基础设施需求旺盛",
+      "direction": "看多",
+      "asset_impact": "NVDA, AI相关ETF",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "超级台风巴维登陆美国太平洋岛屿，风速达290公里/小时",
+      "direction": "看空",
+      "asset_impact": "USO, 太平洋岛屿相关资产",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
