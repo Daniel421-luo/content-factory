@@ -1,0 +1,174 @@
+{
+  "title": "📈 美股简报 | 2026-07-07",
+  "headline": "三星业绩超预期但股价下跌引发科技股卖压，特朗普出访土耳其聚焦北约与霍尔木兹海峡局势，微软裁员4800人并剥离游戏工作室",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "科技股先跌后涨，三星业绩引发波动",
+        "summary": "美股期货盘前小幅走高，科技股从早盘跌势中反弹，三星强劲业绩未能提振市场情绪，股价反而下跌。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026",
+        "source": "WSJ"
+      },
+      {
+        "title": "油价因波斯湾袭击事件走强",
+        "summary": "波斯湾船只遭袭后油价上涨，市场关注霍尔木兹海峡通行费争议及马六甲海峡潜在风险。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "国防科技板块受关注",
+        "summary": "市场重新评估国防估值，电子战、反无人机和无人系统等新兴领域投资增长。",
+        "url": "https://www.cnbc.com/2026/07/06/defense-tech-stocks-drones-electronic-warfare-valuation.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "酒类股估值承压",
+        "summary": "饮酒量下降打击蒸馏酒公司股价，但部分分析师认为抛售过度。",
+        "url": "https://www.wsj.com/business/retail/liquor-stocks-are-priced-for-a-big-tobacco-moment-e3bb0481",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "三星利润飙升1800%但股价下跌",
+        "summary": "三星电子第二季度利润同比暴增1800%，AI芯片销售强劲，但股价因部分投资者预期更高而大幅下跌。",
+        "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo",
+        "source": "BBC"
+      },
+      {
+        "title": "微软裁员4800人，Xbox部门重组",
+        "summary": "微软裁减约2.1%员工，Xbox游戏部门计划剥离四家工作室，因收入下滑。",
+        "url": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SK海力士计划280亿美元美国上市",
+        "summary": "SK海力士计划在美上市，融资280亿美元，将便利投资者投资这家全球主要芯片制造商。",
+        "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-06-2026-e2b13bf1",
+        "source": "WSJ"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "三星业绩超预期但股价大跌",
+        "summary": "三星电子利润同比飙升1800%，AI芯片销售强劲，但股价因预期过高而大幅下跌，拖累科技板块。",
+        "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo",
+        "source": "BBC"
+      },
+      {
+        "title": "SK海力士拟在美上市筹资280亿美元",
+        "summary": "SK海力士计划美国上市，成为韩国企业最大规模海外上市，凸显半导体行业热度。",
+        "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-06-2026-e2b13bf1",
+        "source": "WSJ"
+      },
+      {
+        "title": "中国AI模型受美国公司青睐",
+        "summary": "DeepSeek和Z.ai等中国公司发布的AI模型被认为极具竞争力，美国公司因OpenAI和Anthropic成本飙升而转向。",
+        "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普出访土耳其，北约关系紧张",
+        "summary": "特朗普前往土耳其，北约因俄罗斯攻击和美国不耐烦而承压，特朗普曾抱怨北约成员国未帮助清理霍尔木兹海峡。",
+        "url": "https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "银行探索支付网络交易",
+        "summary": "摩根大通、美国银行等探索支付网络交易，可能改变支付格局，但部分高管担忧反弹。",
+        "url": "https://www.wsj.com/finance/banking/jpmorgan-bank-of-america-and-other-banks-explore-a-deal-to-shake-up-payments-world-9d8639fb",
+        "source": "WSJ"
+      },
+      {
+        "title": "6个月期国债收益率升至4%",
+        "summary": "债券市场信号显示美联储应加息，6个月期国债收益率升至4%。",
+        "url": "https://seekingalpha.com/article/4920209-6-month-treasury-yield-rises-4-percent-bond-market-tells-fed-to-get-on-with-rate-hikes",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "波斯湾船只遭袭推高油价",
+        "summary": "波斯湾船只遭袭事件引发油价上涨，市场担忧霍尔木兹海峡通行费争议升级，可能波及马六甲海峡。",
+        "url": "https://www.cnbc.com/2026/07/07/malacca-hormuz-oil-shipping-indonesia.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普与FIFA争议影响世界杯",
+        "summary": "特朗普干预FIFA恢复美国球员巴洛贡参赛资格，引发争议，可能影响美国队表现及市场情绪。",
+        "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "三星利润飙升但股价大跌，科技板块承压",
+      "direction": "看空",
+      "asset_impact": "Samsung, SOXX, NVDA",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "波斯湾船只遭袭，油价走强",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "微软裁员并剥离游戏工作室，Xbox业务收缩",
+      "direction": "中性",
+      "asset_impact": "MSFT",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SK海力士计划在美上市筹资280亿美元",
+      "direction": "看多",
+      "asset_impact": "SK Hynix, SOXX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "中国AI模型受美国公司青睐，成本优势凸显",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD, GOOGL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "6个月期国债收益率升至4%，市场预期加息",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普出访土耳其，北约关系紧张",
+      "direction": "中性",
+      "asset_impact": "XLE, USO",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "SpaceX加入纳斯达克100指数",
+      "direction": "中性",
+      "asset_impact": "SPACEX, QQQ",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
