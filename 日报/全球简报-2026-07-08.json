@@ -1,0 +1,156 @@
+{
+  "title": "🌍 全球简报 | 2026-07-08",
+  "headline": "特朗普称美伊停火协议已破裂，北约峰会在紧张局势中召开；苹果承诺向博通投资300亿美元用于美国芯片制造。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "特朗普称美伊停火协议已破裂",
+        "summary": "特朗普在北约峰会上表示，在美伊最新一轮交火后，他认为当前的停火协议已经结束。",
+        "url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
+        "source": "NPR"
+      },
+      {
+        "title": "苹果承诺向博通投资300亿美元用于美国芯片制造",
+        "summary": "苹果扩大与博通的合作，达成超过300亿美元的芯片制造协议，这是其在美国最大的制造业承诺。",
+        "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "北约盟友宣布370亿英镑新导弹项目",
+        "summary": "英国首相斯塔默将在安卡拉召集约12位领导人讨论该项目。",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "国际奥委会解除俄罗斯禁赛令，允许参加2028年洛杉矶奥运会",
+        "summary": "国际奥委会建议体育机构结束为期三年的俄罗斯运动员中立身份审查计划，为2028年洛杉矶奥运会资格赛铺路。",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5884868/russia-olympics-ban-lifted-ioc-2028-los-angeles-games",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗打击巴林和科威特，中东冲突风险上升",
+        "summary": "伊朗对巴林和科威特发动袭击，此前美国对伊朗进行了打击，地区交火增加了停火协议破裂的风险。",
+        "url": "https://www.npr.org/2026/07/08/g-s1-132460/us-iran-attacks",
+        "source": "NPR"
+      },
+      {
+        "title": "特朗普要求切断与西班牙的贸易，称其是“浪费的事业”",
+        "summary": "特朗普在北约峰会上抨击西班牙未达到5%的国防支出目标，要求结束所有贸易。",
+        "url": "https://www.cnbc.com/2026/07/08/trump-spain-nato-trade-summit.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普重申控制格陵兰的立场，丹麦誓言保卫领土",
+        "summary": "特朗普称美国需要控制格陵兰“为了世界的保护”，丹麦首相表示格陵兰“不出售”。",
+        "url": "https://www.cnbc.com/2026/07/08/greenland-trump-nato-denmark.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "勒庞宣布明年竞选法国总统，尽管被法院判处电子监控",
+        "summary": "极右翼领导人勒庞因挪用公款被判处佩戴电子监控，但她仍宣布参选。",
+        "url": "https://www.npr.org/2026/07/08/g-s1-132467/le-pen-court-ordered-monitor",
+        "source": "NPR"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "俄罗斯燃料短缺加剧，经济压力或影响乌克兰战争走向",
+        "summary": "即使在莫斯科，当局也无法保证燃料供应，经济压力可能导致谈判或升级。",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "高盛称AI热潮利好“光环”股票，推荐欧洲公司",
+        "summary": "高盛研究指出，AI资本支出正在推动相关欧洲公司受益。",
+        "url": "https://www.cnbc.com/2026/07/08/ai-goldman-sachs-boom-capex-halo-stocks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "加拿大购买12艘德国高科技潜艇，深化北约关系",
+        "summary": "加拿大选择德国财团建造潜艇，合同价值数十亿美元，是最大国防合同之一。",
+        "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+        "source": "Guardian"
+      }
+    ],
+    "科技": [
+      {
+        "title": "澳大利亚电信公司大规模故障影响火车和紧急呼叫",
+        "summary": "悉尼和墨尔本数据中心服务器故障导致服务中断，原因尚在调查。",
+        "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "澳大利亚码头工人呼吁每周28小时工作制，应对AI自动化",
+        "summary": "工会表示工人面临自动化威胁，AI正在港口测试。",
+        "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "特朗普与泽连斯基将在北约峰会期间会晤",
+        "summary": "会晤正值乌克兰面临紧急弹药短缺之际。",
+        "url": "https://abcnews.com/Politics/trump-zelenskyy-set-meet-nato-summit-turkey/story?id=134561170",
+        "source": "ABC News"
+      },
+      {
+        "title": "台风袭击中国引发洪水和罕见龙卷风",
+        "summary": "村民被困，难以获得食物和帮助。",
+        "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "特朗普称美伊停火协议破裂，中东冲突升级风险增加",
+      "direction": "看空",
+      "asset_impact": "USO, GLD, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "苹果承诺向博通投资300亿美元用于美国芯片制造",
+      "direction": "看多",
+      "asset_impact": "AVGO, AAPL, SMH",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "北约盟友宣布370亿英镑新导弹项目，国防支出增加",
+      "direction": "看多",
+      "asset_impact": "LMT, NOC, RTX, EU defense stocks",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普要求切断与西班牙的贸易，贸易摩擦风险",
+      "direction": "看空",
+      "asset_impact": "EURUSD, EWP, US10Y",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "俄罗斯燃料短缺加剧，经济压力可能影响乌克兰战争走向",
+      "direction": "看多",
+      "asset_impact": "USO, NG, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "国际奥委会解除俄罗斯禁赛令，地缘政治缓和信号",
+      "direction": "中性",
+      "asset_impact": "RSX, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
