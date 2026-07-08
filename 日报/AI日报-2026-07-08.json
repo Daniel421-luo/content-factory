@@ -1,0 +1,73 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-08",
+  "headline": "Meta 发布 Muse Image 模型引发隐私争议；Anthropic 将 Claude Cowork 扩展至手机端；OpenAI 首席未来学家离职",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Meta 发布 Muse Image 模型，可引用他人照片生成 AI 图像",
+        "summary": "Meta 推出由 Superintelligence Labs 开发的首个 AI 图像生成模型 Muse Image，现已集成至 Meta AI、Instagram 和 WhatsApp。用户可基于他人公开照片生成图像，但需主动选择退出，引发隐私担忧。",
+        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic 将 Claude Cowork 代理扩展至手机和网页",
+        "summary": "Claude Cowork 现在可在手机和网页上使用，即使关闭笔记本电脑也能继续执行任务，标志着向手机端 AI 代理的重要一步。",
+        "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+        "source": "Wired"
+      },
+      {
+        "title": "Meta 智能眼镜将检测隐私灯篡改并自动关闭摄像头",
+        "summary": "针对用户破坏隐私 LED 灯的改装行为，Meta 推出更新：一旦检测到隐私灯被篡改，摄像头将自动禁用。",
+        "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "微软加入 AI 降本趋势，更多依赖自研模型",
+        "summary": "微软成为最新一家削减 AI 支出的硅谷巨头，将更多转向使用自家模型以降低成本。",
+        "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 首席未来学家 Joshua Achiam 离职",
+        "summary": "在 OpenAI 工作近九年的 AI 安全研究负责人 Joshua Achiam 宣布离职，他曾出现在马斯克诉奥特曼案中。",
+        "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+        "source": "Wired"
+      },
+      {
+        "title": "Figma 收购 vibe-coding 应用团队",
+        "summary": "Figma 收购了 Y Combinator 支持的初创公司团队，该团队曾开发 vibe-coding 平台和代理创建产品。",
+        "url": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Discord 承认 AI 审核漏洞误封用户",
+        "summary": "Discord 确认其 AI 审核系统自五月起错误封禁了上传无害图片的用户，周末又有 200 个账号被误封，现已修复。",
+        "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI 数据中心能源需求威胁美国制造业复兴",
+        "summary": "AI 数据中心的电力需求推高锈带工业电价，可能破坏特朗普的“美国制造”计划。",
+        "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "开源 AI 的崛起为何尚未冲击 Anthropic",
+        "summary": "分析认为，开源模型与前沿实验室并非零和博弈，而是分别占据同一生命周期中的不同阶段。",
+        "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "每个美国家庭在 OpenAI 中的 300 美元股份",
+        "summary": "Sam Altman 关于美国人分享 AI 财富的提议再次引发讨论，报道分析了其可行性与影响。",
+        "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+        "source": "MIT Technology Review"
+      }
+    ]
+  }
+}
