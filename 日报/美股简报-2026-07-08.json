@@ -1,0 +1,196 @@
+{
+  "title": "📈 美股简报 | 2026-07-08",
+  "headline": "中东局势升级，美国对伊朗发动打击并撤销石油销售许可，油价跳涨，美股期货小幅波动，投资者等待美联储会议纪要。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅波动",
+        "summary": "投资者权衡中东紧张局势与美联储会议纪要，美股期货基本持平。",
+        "url": "https://www.cnbc.com/2026/07/07/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价因美伊冲突跳涨",
+        "summary": "美国对伊朗发动“强力打击”并撤销石油销售许可，原油期货上涨。",
+        "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块受油价提振",
+        "summary": "美国对伊朗发动打击并撤销石油销售许可，油价上涨，能源股有望走强。",
+        "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI相关债券遭抛售",
+        "summary": "亚马逊计划再借250亿美元，AI建设债券遭大幅抛售。",
+        "url": "https://www.marketwatch.com/story/ai-related-debt-sells-off-sharply-as-amazon-borrows-another-25-billion-46928353",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Rivian股价因股票发行暴跌",
+        "summary": "Rivian宣布股票发行，股价创近两年最大单日跌幅，华尔街担忧其现金状况。",
+        "url": "https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "SpaceX在纳斯达克100首日下跌",
+        "summary": "SpaceX股价跌破首日开盘价，科技股整体疲软。",
+        "url": "https://www.wsj.com/finance/stocks/spacex-shares-stumble-in-nasdaq-100-debut-9ec10565",
+        "source": "WSJ"
+      },
+      {
+        "title": "特斯拉获分析师看好SpaceX合并潜力",
+        "summary": "分析师认为特斯拉与SpaceX合并可能性增加，股价或上涨20%。",
+        "url": "https://www.marketwatch.com/story/teslas-stock-could-rise-20-thanks-to-the-potential-for-a-spacex-merger-analyst-says-0d64693e",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "微软Xbox部门裁员超3000人",
+        "summary": "微软因游戏行业硬件危机削减成本，Xbox部门裁员。",
+        "url": "https://www.cbsnews.com/news/microsoft-xbox-video-game-job-cuts/",
+        "source": "CBS News"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "苹果开始测试长鑫存储芯片",
+        "summary": "据英国金融时报报道，苹果开始测试中国长鑫存储（CXMT）的芯片，用于在中国销售的设备。",
+        "url": "https://www.cnbc.com/2026/07/08/apple-begins-testing-cxmt-chips-for-devices-sold-in-china-ft-says-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美光股价下跌，投资者担忧内存市场见顶",
+        "summary": "美光股价下跌，分析师指出投资者对AI主题持谨慎态度，担忧内存市场接近顶部。",
+        "url": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "三星未能给市场留下深刻印象",
+        "summary": "三星最新动态未能提振投资者信心，股价表现不佳。",
+        "url": "https://www.wsj.com/finance/stocks/samsung-fails-to-impress-8b61321c",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美国对伊朗发动打击并撤销石油销售许可",
+        "summary": "美国对伊朗多个目标实施打击，并撤销了此前授予的伊朗石油销售许可，霍尔木兹海峡威胁升级。",
+        "url": "https://www.cnbc.com/2026/07/07/us-strikes-iran-hormuz-ships.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国议员调查中国企业AI模型在美国的使用",
+        "summary": "众议院委员会正在调查美国公司使用中国AI模型的风险。",
+        "url": "https://www.cnbc.com/2026/07/08/chinese-ai-models-probe-us-lawmakers.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普在NATO峰会上重申对格陵兰的威胁",
+        "summary": "特朗普表示美国可能从欧洲撤军，并再次提出控制格陵兰的要求。",
+        "url": "https://www.cnbc.com/2026/07/07/trump-nato-summit-greenland-us-troops-europe.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊冲突升级，霍尔木兹海峡航运风险",
+        "summary": "美国对伊朗发动打击，伊朗威胁袭击未使用其批准航线的船只，霍尔木兹海峡威胁等级升至“严重”。",
+        "url": "https://www.cnbc.com/2026/07/07/iran-strait-hormuz-oil-tanker-lng.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI支出战可能引发行业调整",
+        "summary": "如果Meta出租过剩算力，可能表明大型科技公司过度建设，AI支出竞赛或出现转折。",
+        "url": "https://www.wsj.com/tech/ai/will-someone-finally-blink-in-the-ai-spending-war-0f59aa60",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对伊朗发动打击并撤销石油销售许可，油价跳涨",
+      "direction": "看多",
+      "asset_impact": "XLE, USO, CVX, XOM",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "苹果开始测试长鑫存储芯片，可能用于中国销售设备",
+      "direction": "中性",
+      "asset_impact": "AAPL, MU, INTC",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美光股价下跌，投资者担忧内存市场见顶",
+      "direction": "看空",
+      "asset_impact": "MU, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Rivian股票发行导致股价暴跌，现金状况受质疑",
+      "direction": "看空",
+      "asset_impact": "RIVN",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特斯拉获分析师看好SpaceX合并潜力，股价或涨20%",
+      "direction": "看多",
+      "asset_impact": "TSLA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "AI相关债券遭抛售，亚马逊计划再借250亿美元",
+      "direction": "看空",
+      "asset_impact": "AMZN, AI相关债券",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国议员调查中国企业AI模型在美国的使用",
+      "direction": "看空",
+      "asset_impact": "BIDU, BABA, AI相关中概股",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "微软Xbox部门裁员超3000人，游戏行业硬件危机",
+      "direction": "看空",
+      "asset_impact": "MSFT, 游戏板块",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SpaceX在纳斯达克100首日下跌，科技股整体疲软",
+      "direction": "看空",
+      "asset_impact": "SPACEX, QQQ",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "特朗普在NATO峰会上重申对格陵兰的威胁，可能撤军欧洲",
+      "direction": "中性",
+      "asset_impact": "欧洲股市ETF, 国防股",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
