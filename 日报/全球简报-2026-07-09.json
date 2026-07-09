@@ -1,0 +1,190 @@
+{
+  "title": "🌍 全球简报 | 2026-07-09",
+  "headline": "美伊冲突持续升级，特朗普称伊朗寻求谈判但战事前景不明；民主党参选人普拉特纳因性侵指控退选；英国工党领袖伯纳姆有望成为下任首相。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美伊连续第二晚互相打击，特朗普称伊朗寻求谈判",
+        "summary": "美国与伊朗连续第二晚互相发动打击，霍尔木兹海峡交通量大幅下降。特朗普表示伊朗已联系美方寻求协议，但不确定战争是否结束。",
+        "url": "https://www.cnbc.com/2026/07/09/trump-iran-war-strikes-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "民主党参选人格雷厄姆·普拉特纳因性侵指控退选",
+        "summary": "普拉特纳在遭女性指控性侵后宣布暂停竞选，他否认指控。此举暴露民主党内部左翼与温和派分歧，可能影响中期选举。",
+        "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o",
+        "source": "BBC"
+      },
+      {
+        "title": "英国工党领袖安迪·伯纳姆有望成为下任首相",
+        "summary": "作为曼彻斯特市长，伯纳姆推动后工业城市增长，分析认为他可能将成功经验推广至全国。",
+        "url": "https://www.npr.org/2026/07/09/nx-s1-5876065/andy-burnham-england-uk",
+        "source": "NPR"
+      },
+      {
+        "title": "乌克兰获准生产爱国者导弹，特朗普宣布",
+        "summary": "特朗普表示将授权乌克兰生产爱国者导弹系统，该系统对俄弹道导弹有效，但生产周期长。",
+        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美伊冲突升级，霍尔木兹海峡交通量骤降",
+        "summary": "特朗普宣布停火结束并发动报复性打击后，伊朗目标巴林和科威特，海峡通行量大幅减少。",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o",
+        "source": "BBC"
+      },
+      {
+        "title": "北约秘书长吕特在土耳其峰会上盛赞特朗普",
+        "summary": "吕特在分歧严重的北约峰会上对特朗普大加赞赏，试图缓和美欧关系。",
+        "url": "https://www.cnbc.com/2026/07/09/nato-rutte-trump-europe.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "乌克兰无人机深入打击俄炼油厂，推动北约40亿美元反无人机计划",
+        "summary": "乌克兰无人机战术在俄罗斯境内造成破坏，促使北约调整投资方向。",
+        "url": "https://www.cnbc.com/2026/07/09/ukraine-drone-strikes-russia-nato.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "国际刑事法院向BBC通报苏丹战争罪行调查突破",
+        "summary": "ICC正在调查达尔富尔过去三年暴行，取得进展。",
+        "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "百事公司财报不及预期，北美消费者收紧预算",
+        "summary": "百事公布第二季度盈利低于预期，尽管国际需求强劲，北美市场疲软。",
+        "url": "https://www.cnbc.com/2026/07/09/pepsico-pep-q2-2026-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "阿斯利康股价暴跌9%，心脏病药物试验失败",
+        "summary": "英国最大制药商阿斯利康宣布晚期临床试验未达主要终点，罕见打击。",
+        "url": "https://www.cnbc.com/2026/07/09/astrazeneca-stock-trial-heart-drug-pharma.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "韩国Kospi指数进入熊市，年内表现最佳市场转跌",
+        "summary": "Kospi指数较6月19日高点下跌20%，受AI相关芯片股拖累。",
+        "url": "https://www.cnbc.com/2026/07/09/kospi-bear-territory-ai-samsung-skhynix-chipmakers.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Jeep母公司股价承压，摩根大通下调评级",
+        "summary": "摩根大通将汽车制造商评级从增持下调至中性，预计近期表现不佳。",
+        "url": "https://www.cnbc.com/2026/07/09/this-car-manufacturer-is-likely-to-keep-underperforming-jpmorgan-says.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "AI公司为选举投入数百万，推动各自监管法案",
+        "summary": "两大AI行业政治行动委员会正推动不同版本的AI立法，影响选举支出。",
+        "url": "https://www.cnbc.com/2026/07/09/ai-companies-election-spending.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "猫薄荷乳液驱蚊效果与避蚊胺相当",
+        "summary": "乌干达试验显示，自产猫薄荷油乳液驱蚊效果与化学避蚊胺一样有效。",
+        "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+        "source": "Guardian"
+      },
+      {
+        "title": "澳大利亚Telstra大规模故障因软件故障",
+        "summary": "电信公司Telstra发生重大计时问题，影响手机、火车和紧急呼叫，归咎于软件故障。",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
+        "source": "Guardian"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美伊冲突后续发展",
+        "summary": "关注特朗普是否宣布全面恢复军事行动，以及霍尔木兹海峡局势对油价的进一步影响。",
+        "url": "",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国中期选举：民主党更换缅因州参议员候选人",
+        "summary": "普拉特纳退选后，民主党需在四个月内选定新候选人，党内分歧可能影响选情。",
+        "url": "",
+        "source": "BBC"
+      },
+      {
+        "title": "北约峰会后续：防务开支与对乌援助",
+        "summary": "北约成员国可能就防务开支承诺和乌克兰援助方案进一步磋商。",
+        "url": "",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊冲突升级，霍尔木兹海峡交通量骤降",
+      "direction": "看多",
+      "asset_impact": "USO, GLD, /ES, VIX",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普称伊朗寻求谈判，但战事前景不明",
+      "direction": "中性",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "乌克兰获准生产爱国者导弹，北约推动反无人机计划",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "百事财报不及预期，北美消费疲软",
+      "direction": "看空",
+      "asset_impact": "PEP, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "阿斯利康心脏病药物试验失败，股价大跌",
+      "direction": "看空",
+      "asset_impact": "AZN",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "韩国Kospi进入熊市，AI芯片股拖累",
+      "direction": "看空",
+      "asset_impact": "KOSPI, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "伊朗战争加速全球清洁能源转型",
+      "direction": "看多",
+      "asset_impact": "TAN, FXI",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI公司投入数百万影响选举立法",
+      "direction": "中性",
+      "asset_impact": "US10Y",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
