@@ -1,0 +1,160 @@
+{
+  "title": "📈 美股简报 | 2026-07-09",
+  "headline": "美伊冲突升级，油价飙升，美股承压下跌；中国通胀数据分化，CPI疲弱PPI走高。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美伊冲突升级，油价飙升，美股期货下跌",
+        "summary": "美国对伊朗发动新一轮打击，油价延续涨势，美股期货走低。道指隔夜下跌近600点。",
+        "url": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国6月CPI疲弱，PPI升至近四年高位",
+        "summary": "中国6月消费者价格增长放缓，而生产者价格通胀升至近四年高点，凸显经济内需疲软与出口强劲的分化。",
+        "url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美元多头仓位创十年新高，但面临油价风险",
+        "summary": "投资者对美元的看涨情绪达到十年来最高，但若油价持续上涨，可能削弱美元涨势。",
+        "url": "https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287",
+        "source": "MarketWatch"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块受益油价飙升，航空与住宅建筑承压",
+        "summary": "油价大涨推动能源股上涨，但航空公司与住宅建筑商因燃料成本上升和通胀担忧而面临压力。",
+        "url": "https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "华尔街和平交易遭伊朗冲突冲击",
+        "summary": "此前押注地缘风险缓和的交易策略受挫，资金从风险资产流向能源和防御板块。",
+        "url": "https://www.wsj.com/finance/stocks/wall-streets-peace-trade-collides-with-renewed-iran-fighting-86b83d67",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Levi's上调全年展望，但盘后股价下跌",
+        "summary": "Levi Strauss连续第二次上调全年业绩指引，但盘后股价仍下跌。",
+        "url": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Luxshare香港上市首日跌逾5%",
+        "summary": "苹果AirPods代工商立讯精密在香港上市首日股价下跌超过5%，此前IPO定价63.28港元。",
+        "url": "https://www.cnbc.com/2026/07/09/luxshare-ipo-hong-kong-debut-apple-airpod-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX股价跌破发行价，两日连跌",
+        "summary": "SpaceX在纳入纳斯达克100指数后股价连续两日下跌，收于148美元，低于IPO发行价。",
+        "url": "https://www.cnbc.com/2026/07/08/spacex-stock-nasdaq-100-ipo.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "SpaceX推动轨道数据中心，AI基础设施受关注",
+        "summary": "SpaceX加速发展轨道数据中心，为AI基础设施开辟新路径，华尔街开始关注相关受益股。",
+        "url": "https://www.cnbc.com/2026/07/08/spacex-racing-to-orbital-data-centers-ways-to-play-emerging-technology-.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美伊冲突升级，特朗普称可能采取更多军事行动",
+        "summary": "美国中央司令部对伊朗军事基础设施和小型船只发动数十次打击，特朗普表示可能“今晚”采取更多行动。",
+        "url": "https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "霍尔木兹海峡重回“全面冲突状态”，能源市场震荡",
+        "summary": "美伊相互打击使霍尔木兹海峡局势紧张，油价飙升，市场波动性预计将持续。",
+        "url": "https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "通胀担忧重燃",
+        "summary": "油价上涨加剧通胀担忧，市场重新评估美联储政策路径。",
+        "url": "https://www.wsj.com/finance/investing/inflation-fears-retake-the-stage-b466fe2a",
+        "source": "WSJ"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊军事冲突持续升级",
+        "summary": "美国对伊朗发动新一轮打击，特朗普暗示可能进一步行动，霍尔木兹海峡航运面临中断风险。",
+        "url": "https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价飙升可能引发通胀与政策收紧",
+        "summary": "油价大幅上涨可能推高通胀，迫使美联储维持紧缩政策，打压风险资产。",
+        "url": "https://www.wsj.com/finance/investing/inflation-fears-retake-the-stage-b466fe2a",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊冲突升级，油价大涨",
+      "direction": "看多",
+      "asset_impact": "XLE, USO, CVX, XOM",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美股因冲突承压，道指大跌",
+      "direction": "看空",
+      "asset_impact": "SPY, DIA, QQQ",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "航空与住宅建筑板块受油价和通胀拖累",
+      "direction": "看空",
+      "asset_impact": "JETS, XHB, LEN, DAL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国CPI疲弱PPI走高，内需外需分化",
+      "direction": "中性",
+      "asset_impact": "FXI, ASHR, KWEB",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美元多头仓位创十年新高，但油价风险上升",
+      "direction": "中性",
+      "asset_impact": "UUP, DXY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SpaceX股价跌破发行价，轨道数据中心概念受关注",
+      "direction": "中性",
+      "asset_impact": "SPACE, NVDA, AMD",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Luxshare香港上市首日大跌",
+      "direction": "看空",
+      "asset_impact": "AAPL, LUXSHARE",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    }
+  ]
+}
