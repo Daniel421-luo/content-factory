@@ -1,0 +1,80 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-09",
+  "headline": "SpaceXAI 发布 Grok 4.5，称其达到“Opus 级”；OpenAI 推出 GPT-Live-1 语音模型，减少打断；Meta 被曝研发全天候录音智能眼镜；Google 深度伪造检测系统成功揭穿麦康奈尔假照片。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "SpaceXAI 发布 Grok 4.5，马斯克称其为“Opus 级模型”",
+        "summary": "SpaceXAI 发布 Grok 4.5，马斯克称其为更便宜、更高效的替代方案，性能对标顶级模型。",
+        "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 推出 GPT-Live-1 语音模型，减少打断更自然",
+        "summary": "新语音模型 GPT-Live-1 设计为更少打断用户，并在停顿后等待继续，提升对话流畅度。",
+        "url": "https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale",
+        "source": "The Verge"
+      },
+      {
+        "title": "Meta 被曝研发全天候录音智能眼镜原型",
+        "summary": "据《金融时报》报道，Meta 正在开发“超级感知”智能眼镜，可连续录音并每隔几秒拍照，用户可向 Meta AI 询问捕捉内容。",
+        "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Lovable 据称正洽谈以 132 亿美元估值融资 3 亿美元",
+        "summary": "AI 初创公司 Lovable 正与 Menlo Ventures 领投的融资轮谈判，估值翻倍。",
+        "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "IBM 与 Red Hat 推出 Lightwell 产品，保护开源代码免受 AI 攻击",
+        "summary": "Lightwell Network 和 Lightwell Clearinghouse Premier 两项商业服务旨在防御 AI 发现的安全漏洞。",
+        "url": "https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "美国联邦政府要求自动驾驶公司停止干扰急救人员",
+        "summary": "NHTSA 表示紧急场景并非“边缘案例”，要求自动驾驶车辆不得妨碍急救响应。",
+        "url": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "自主无人机配送公司 Manna 计划大规模扩张美国业务",
+        "summary": "Manna 将在俄克拉荷马州塔尔萨建立运营和制造设施，最终雇佣 1000 人。",
+        "url": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Google 深度伪造检测系统成功揭穿麦康奈尔假照片",
+        "summary": "一张显示参议员 Mitch McConnell 在医院病危的图片被证实为 AI 生成，Google 的检测系统发挥了关键作用。",
+        "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "布朗大学教授因怀疑 AI 作弊安排线下期末考试，成绩下降 50%",
+        "summary": "教授认为 AI 作弊导致“失败的社会”，并采取强硬措施应对。",
+        "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "我构建了一个自我改进的 AI，你也可以",
+        "summary": "实验表明，用 AI 构建 AI 的未来不仅属于前沿实验室，个人也能参与。",
+        "url": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+        "source": "Wired"
+      },
+      {
+        "title": "Linus Torvalds：我不再是程序员，现在只用两个工具",
+        "summary": "在开源峰会上，Torvalds 讨论了 AI 在 Linux 内核中的影响，以及为何不再支持“博物馆”技术。",
+        "url": "https://www.zdnet.com/article/open-source-summit-linus-torvalds/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
