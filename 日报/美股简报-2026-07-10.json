@@ -1,0 +1,162 @@
+{
+  "title": "📈 美股简报 | 2026-07-10",
+  "headline": "芯片股涨势延续，SK海力士纳斯达克上市在即；美伊技术性会谈继续，中东局势缓和信号提振市场情绪。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅下跌，芯片涨势后市场等待新催化剂",
+        "summary": "继芯片股领涨、油价下跌推动的上涨日后，美股期货小幅走低。投资者关注SK海力士今日纳斯达克上市。",
+        "url": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "芯片交易助华尔街摆脱伊朗最新袭击影响",
+        "summary": "中东紧张局势被市场对热门存储芯片股的追捧所掩盖，科技板块领涨。",
+        "url": "https://www.wsj.com/finance/stocks/the-chip-trade-is-helping-wall-street-shake-off-latest-iran-strikes-54abbf62",
+        "source": "WSJ"
+      },
+      {
+        "title": "烟草股受关注，投资者重新评估行业转型",
+        "summary": "随着烟草公司逐步摆脱对香烟的依赖，投资者开始重新审视该板块。",
+        "url": "https://www.wsj.com/finance/stocks/tobacco-stocks-are-coming-in-from-the-cold-4b45d4cd",
+        "source": "WSJ"
+      },
+      {
+        "title": "航空股财报季即将开启，市场预期乐观",
+        "summary": "航空公司财报季即将到来，市场关注其业绩表现。",
+        "url": "https://www.wsj.com/finance/stocks/airline-earnings-are-cleared-for-takeoff-a9589e8b",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "易捷航空收到Apollo 77亿英镑收购要约，股价大涨14%",
+        "summary": "易捷航空确认收到Apollo提出的57亿英镑（约77亿美元）收购要约，高于此前Castlelake的报价，引发竞购战。",
+        "url": "https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "百事可乐业绩不及预期，股价承压",
+        "summary": "百事可乐财报表现不佳，市场反应消极。",
+        "url": "https://www.wsj.com/finance/stocks/pepsi-fizzles-stocks-bubble-on-7861ada4",
+        "source": "WSJ"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "SK海力士纳斯达克上市：融资265亿美元，创外国公司最大IPO",
+        "summary": "SK海力士今日在纳斯达克开始交易，IPO融资265亿美元，为史上最大外国公司上市。市场关注其能否缩小“韩国折扣”。",
+        "url": "https://www.cnbc.com/2026/07/10/sk-hynix-debuts-on-nasdaq-will-that-bridge-its-korea-discount-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "芯片股涨势延续，存储芯片需求旺盛",
+        "summary": "受存储芯片需求提振，芯片股持续上涨，SK海力士上市进一步激发市场热情。",
+        "url": "https://www.wsj.com/finance/stocks/the-chip-trade-is-helping-wall-street-shake-off-latest-iran-strikes-54abbf62",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美伊同意继续技术性会谈，中东局势出现缓和迹象",
+        "summary": "尽管特朗普称停火“结束”，但美国与伊朗同意继续技术性会谈，市场对冲突升级的担忧有所缓解。",
+        "url": "https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储主席Warsh公布特别工作组名单，包括Marc Andreessen等",
+        "summary": "美联储主席Kevin Warsh宣布成立五个工作组，成员包括Marc Andreessen和Walmart前CEO等，旨在研究AI等议题。",
+        "url": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国原油库存逼近危险水平，全球油市面临伊朗停火结束风险",
+        "summary": "美国原油库存处于危险低位，而汽油和柴油出口接近纪录高位，若伊朗停火结束，油市将面临严重冲击。",
+        "url": "https://www.wsj.com/finance/commodities-futures/the-global-oil-market-isnt-ready-for-the-iran-ceasefire-to-end-3a4a7ec5",
+        "source": "WSJ"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊技术性会谈不确定性：若谈判破裂，霍尔木兹海峡航运或进一步受阻",
+        "summary": "尽管双方同意会谈，但近期袭击事件已导致通过霍尔木兹海峡的油轮和货船数量下降。若谈判失败，油价可能飙升。",
+        "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o",
+        "source": "BBC"
+      },
+      {
+        "title": "纳斯达克波动率与VIX背离：聪明钱暗示需对冲",
+        "summary": "市场表面平静，但纳斯达克波动率指标与VIX出现背离，提示投资者需警惕回调风险。",
+        "url": "https://www.marketwatch.com/story/why-a-hidden-divergence-between-the-vix-and-nasdaq-volatility-has-the-smart-money-on-edge-cda23cc0",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "SK海力士纳斯达克上市，融资265亿美元，创外国公司最大IPO",
+      "direction": "看多",
+      "asset_impact": "SK Hynix, NVDA, MU, SOXX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美伊同意继续技术性会谈，中东紧张局势暂时缓和",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, SPY",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "易捷航空收到Apollo 77亿美元收购要约，股价大涨14%",
+      "direction": "看多",
+      "asset_impact": "ESYJY (OTC), JET, UAL, DAL",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国原油库存逼近危险水平，若伊朗停火结束油市将受冲击",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, SPY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "纳斯达克波动率与VIX背离，提示需对冲回调风险",
+      "direction": "看空",
+      "asset_impact": "QQQ, SPY, NVDA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "芯片股涨势延续，存储芯片需求旺盛",
+      "direction": "看多",
+      "asset_impact": "NVDA, MU, SOXX, AVGO",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美联储成立AI工作组，成员包括Marc Andreessen等",
+      "direction": "中性",
+      "asset_impact": "AI相关ETF, NVDA, MSFT",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "百事可乐业绩不及预期，股价承压",
+      "direction": "看空",
+      "asset_impact": "PEP, KO",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    }
+  ]
+}
