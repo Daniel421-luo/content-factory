@@ -1,0 +1,174 @@
+{
+  "title": "🌍 全球简报 | 2026-07-11",
+  "headline": "特朗普威胁伊朗若暗杀他将遭毁灭性打击，美伊谈判在阿曼恢复；西班牙野火致12人死亡；委内瑞拉地震死亡人数超4000；SK海力士美国上市筹资265亿美元",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "特朗普威胁伊朗：若试图暗杀我，将遭毁灭性打击",
+        "summary": "特朗普在Truth Social上威胁称，若伊朗试图暗杀他，1000枚导弹已“上膛待发”将打击伊朗。此前伊朗最高领袖哈梅内伊葬礼上出现呼吁杀死特朗普的呼声。",
+        "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美伊谈判在阿曼恢复，美方要求伊朗承诺停止在霍尔木兹海峡射击船只",
+        "summary": "美国副总统万斯等官员预计参加周六在阿曼恢复的谈判，美方要求伊朗公开声明霍尔木兹海峡保持开放。",
+        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o",
+        "source": "BBC"
+      },
+      {
+        "title": "西班牙野火致12人死亡，包括4名英国人",
+        "summary": "西班牙正努力控制该国最致命野火之一，已造成至少12人死亡，另有23人失踪，据信有4名英国公民遇难。",
+        "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo",
+        "source": "BBC"
+      },
+      {
+        "title": "委内瑞拉地震死亡人数超4000，救援工作艰巨",
+        "summary": "委内瑞拉接连发生两次强震，政府称至少4118人死亡，16740人受伤，数千人失踪，联合国呼吁国际援助。",
+        "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+        "source": "Guardian"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普政府削弱《濒危物种法》关键保护条款",
+        "summary": "特朗普政府周五最终确定一项规则，缩小了该法对“伤害”的定义，削弱对濒危野生动物的保护。",
+        "url": "https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife",
+        "source": "NPR"
+      },
+      {
+        "title": "明尼苏达州提前从华盛顿特区撤回国民警卫队",
+        "summary": "明尼苏达州长沃尔兹提前撤回部署在华盛顿特区的国民警卫队，此前民主党州长因特朗普持续部署而面临压力。",
+        "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
+        "source": "NPR"
+      },
+      {
+        "title": "俄罗斯导弹无人机袭击基辅致11人受伤，乌克兰攻击俄舰",
+        "summary": "乌克兰国家紧急服务局称，俄罗斯周六凌晨对基辅发动导弹和无人机袭击，至少11人受伤，包括一名儿童。",
+        "url": "https://abcnews.com/International/wireStory/11-wounded-overnight-russian-missile-drone-strikes-kyiv-134672177",
+        "source": "ABC News"
+      },
+      {
+        "title": "尼日利亚军方在扎姆法拉州击毙300名土匪",
+        "summary": "尼日利亚政府官员称，军方与民兵合作，在该州西北部击毙300多名绑架和偷牛团伙成员。",
+        "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "SK海力士美国上市筹资265亿美元，押注AI热潮",
+        "summary": "韩国芯片制造商SK海力士周五为其大规模美国上市定价，计划筹资265亿美元，成为全球最大IPO之一，受益于AI数据中心建设需求。",
+        "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国向“哈瓦那综合征”受害者支付300万美元赔偿",
+        "summary": "美国官员和外交官及其家属十年前开始报告一种神秘疾病，美国政府现已向受害者支付赔偿。",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko",
+        "source": "BBC"
+      },
+      {
+        "title": "发展中国家偿债支出超过教育支出，联合国报告揭示",
+        "summary": "联合国教科文组织报告显示，113个发展中国家去年教育支出低于偿债支出，全球教育援助预计将减少。",
+        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+        "source": "Guardian"
+      }
+    ],
+    "科技": [
+      {
+        "title": "苹果起诉OpenAI窃取商业机密，称其“全面”窃取",
+        "summary": "苹果指控OpenAI窃取商业机密，两家公司曾在2024年达成高调合作，将ChatGPT集成到iPhone操作系统。",
+        "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国成功测试可重复使用火箭助推器",
+        "summary": "中国宣布成功回收可重复使用火箭助推器，标志着太空技术重大突破。",
+        "url": "https://abcnews.com/video/134665903/",
+        "source": "ABC News"
+      },
+      {
+        "title": "五角大楼发布新一批UFO文件",
+        "summary": "五角大楼发布了新的视频和图像，展示更多被称为“不明异常现象”的政府记录。",
+        "url": "https://abcnews.com/video/134666117/",
+        "source": "ABC News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美伊在阿曼的谈判结果",
+        "summary": "美国与伊朗在阿曼恢复谈判，关注双方能否就霍尔木兹海峡航行安全达成初步协议。",
+        "url": "",
+        "source": "BBC"
+      },
+      {
+        "title": "西班牙野火救援进展",
+        "summary": "西班牙继续控制致命野火，关注死亡人数和失踪人员搜救情况。",
+        "url": "",
+        "source": "BBC"
+      },
+      {
+        "title": "委内瑞拉地震国际援助动态",
+        "summary": "联合国呼吁国际援助，关注各国响应及救援进展。",
+        "url": "",
+        "source": "Guardian"
+      },
+      {
+        "title": "台风巴威逼近中国浙江",
+        "summary": "台风巴威预计登陆浙江，数十万人已撤离，关注后续影响。",
+        "url": "",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊谈判恢复，特朗普威胁升级，霍尔木兹海峡风险上升",
+      "direction": "看空",
+      "asset_impact": "USO, /CL, EURUSD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "SK海力士美国上市筹资265亿美元，AI芯片需求强劲",
+      "direction": "看多",
+      "asset_impact": "SMH, NVDA, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "委内瑞拉地震死亡超4000，人道危机加剧，可能影响原油供应",
+      "direction": "看多",
+      "asset_impact": "USO, /CL",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "苹果起诉OpenAI窃取商业机密，科技监管风险上升",
+      "direction": "看空",
+      "asset_impact": "AAPL, MSFT, QQQ",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "发展中国家偿债压力挤压教育支出，新兴市场债务风险持续",
+      "direction": "看空",
+      "asset_impact": "EEM, /DX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普政府削弱濒危物种保护，能源开采监管放松预期",
+      "direction": "看多",
+      "asset_impact": "XLE, /CL",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
