@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>视界 · 周刊 7/6 - 7/11</title>
+<style>
+    :root {
+        --page-bg: #fafaf7;
+        --card-bg: #ffffff;
+        --text: #1e293b;
+        --text-muted: #64748b;
+        --text-subtle: #94a3b8;
+        --border: #e2e8f0;
+        --shadow: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
+        --shadow-hover: 0 4px 12px rgba(0,0,0,0.06);
+        --radius: 12px;
+        --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+        --font-mono: "SF Mono", "Fira Code", "JetBrains Mono", monospace;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+        font-family: var(--font-sans);
+        background: var(--page-bg);
+        color: var(--text);
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    .page {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 40px 24px 80px;
+    }
+
+    /* ── Header ── */
+    .masthead {
+        text-align: center;
+        padding: 48px 0 40px;
+        border-bottom: 1px solid var(--border);
+        margin-bottom: 40px;
+    }
+
+    .masthead .brand {
+        font-size: 13px;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--text-subtle);
+        margin-bottom: 12px;
+    }
+
+    .masthead h1 {
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        color: var(--text);
+        margin-bottom: 8px;
+    }
+
+    .masthead .headline {
+        font-size: 17px;
+        color: var(--text-muted);
+        font-weight: 400;
+        max-width: 480px;
+        margin: 0 auto 16px;
+        line-height: 1.5;
+    }
+
+    .masthead .meta {
+        font-size: 13px;
+        color: var(--text-subtle);
+    }
+
+    .masthead .date-badge {
+        display: inline-block;
+        background: #f1f5f9;
+        border-radius: 20px;
+        padding: 4px 14px;
+        font-size: 12px;
+        font-weight: 500;
+        color: var(--text-muted);
+    }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+        display: flex;
+        justify-content: center;
+        gap: 32px;
+        margin-bottom: 48px;
+        flex-wrap: wrap;
+    }
+
+    .stat {
+        text-align: center;
+    }
+
+    .stat-value {
+        font-size: 28px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.02em;
+    }
+
+    .stat-label {
+        font-size: 12px;
+        color: var(--text-muted);
+        margin-top: 2px;
+    }
+
+    /* ── Sections ── */
+    .section-block {
+        margin-bottom: 48px;
+    }
+
+    .section-header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 20px;
+        padding-bottom: 12px;
+        border-bottom: 2px solid var(--border, #e2e8f0);
+    }
+
+    .section-icon {
+        font-size: 22px;
+    }
+
+    .section-header h2 {
+        font-size: 19px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.01em;
+        flex: 1;
+    }
+
+    .section-count {
+        font-size: 12px;
+        color: var(--text-subtle);
+        font-weight: 500;
+        background: #f1f5f9;
+        border-radius: 10px;
+        padding: 2px 10px;
+    }
+
+    /* ── Cards ── */
+    .cards {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .card {
+        background: var(--card-bg);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        display: grid;
+        grid-template-columns: 44px 1fr 200px;
+        gap: 0;
+        overflow: hidden;
+        transition: box-shadow 0.2s;
+    }
+
+    .card:hover {
+        box-shadow: var(--shadow-hover);
+    }
+
+    .card-number {
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 18px 0 0 0;
+        font-family: var(--font-mono);
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--text-subtle);
+    }
+
+    .card-body {
+        padding: 18px 16px;
+    }
+
+    .card-body h3 {
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 1.4;
+        margin-bottom: 6px;
+        color: var(--text);
+    }
+
+    .card-body h3 a {
+        color: inherit;
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s;
+    }
+
+    .card-body h3 a:hover {
+        border-bottom-color: var(--text);
+    }
+
+    .card-why {
+        font-size: 13px;
+        color: var(--text-muted);
+        margin-bottom: 4px;
+        line-height: 1.5;
+    }
+
+    .card-summary {
+        font-size: 13px;
+        color: var(--text-muted);
+        line-height: 1.6;
+        margin-bottom: 6px;
+    }
+
+    .card-action {
+        font-size: 12px;
+        color: var(--text);
+        background: var(--bg, #f8fafc);
+        border-radius: 6px;
+        padding: 6px 10px;
+        line-height: 1.4;
+    }
+
+    .card-meta {
+        margin-top: 8px;
+    }
+
+    .card-source {
+        font-size: 11px;
+        color: var(--text-subtle);
+    }
+
+    .card-take {
+        padding: 18px 16px;
+        border-left: 1px solid var(--border);
+        background: #fafbfc;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    .take-label {
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--text-subtle);
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        margin-bottom: 8px;
+    }
+
+    .take-placeholder {
+        font-size: 12px;
+        color: #cbd5e1;
+        font-style: italic;
+        line-height: 1.5;
+    }
+
+    /* ── Footer ── */
+    .footer {
+        text-align: center;
+        padding-top: 40px;
+        border-top: 1px solid var(--border);
+        margin-top: 20px;
+        color: var(--text-subtle);
+        font-size: 12px;
+    }
+
+    .footer a {
+        color: var(--text-muted);
+        text-decoration: none;
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 640px) {
+        .page {
+            padding: 20px 16px 60px;
+        }
+        .masthead {
+            padding: 28px 0 24px;
+            margin-bottom: 24px;
+        }
+        .masthead h1 {
+            font-size: 24px;
+        }
+        .card {
+            grid-template-columns: 36px 1fr;
+        }
+        .card-take {
+            display: none;
+        }
+        .stats-bar {
+            gap: 20px;
+            margin-bottom: 32px;
+        }
+        .stat-value {
+            font-size: 22px;
+        }
+    }
+
+    /* ── Print ── */
+    @media print {
+        body { background: white; }
+        .page { max-width: 100%; padding: 20px; }
+        .card { box-shadow: none; break-inside: avoid; border: 1px solid #e5e7eb; }
+        .card-take { background: white; }
+    }
+</style>
+</head>
+<body>
+<div class="page">
+
+    <header class="masthead">
+        <div class="brand">视界 · Weekly View</div>
+        <h1>7/6 - 7/11</h1>
+        <p class="headline">AI军备竞赛加速，地缘冲突推高能源成本，创始人需在不确定性中锁定效率与对冲工具。</p>
+        <span class="date-badge">2026-07-11 12:14 · 自动生成</span>
+    </header>
+
+    <div class="stats-bar">
+        <div class="stat">
+            <div class="stat-value">16</div>
+            <div class="stat-label">本周日报</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">12</div>
+            <div class="stat-label">精选条目</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">4</div>
+            <div class="stat-label">关注领域</div>
+        </div>
+    </div>
+
+    
+            <section class="section-block" style="--accent: #2563eb; --bg: #eff6ff; --border: #bfdbfe">
+                <div class="section-header">
+                    <span class="section-icon">🤖</span>
+                    <h2>AI × 商业变现</h2>
+                    <span class="section-count">3 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://x.com/Meituan_LongCat/status/2073768940078317713" target="_blank" rel="noopener">美团开源1.6T MoE模型LongCat-2.0，支持1M上下文</a></h3>
+                        <div class="card-why">💡 开源大模型降低AI应用门槛，创始人可低成本集成超长上下文能力。</div>
+                        <p class="card-summary">美团以MIT许可开源LongCat-2.0，总参数量1.6T，每token激活48B，支持1M token上下文，采用稀疏注意力技术。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估在客服、文档分析等场景中集成LongCat-2.0，降低AI成本。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-07-06</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/" target="_blank" rel="noopener">Anthropic将Claude Cowork代理扩展至手机端</a></h3>
+                        <div class="card-why">💡 移动端AI代理可提升创始人及团队远程办公效率。</div>
+                        <p class="card-summary">Claude Cowork现可在手机和网页上使用，即使关闭笔记本电脑也能继续执行任务。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>测试Claude Cowork在移动端的工作流，优化日常运营。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-07-08</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/" target="_blank" rel="noopener">Meta发布Muse Image模型，可引用他人照片生成图像引发隐私争议</a></h3>
+                        <div class="card-why">💡 AI图像生成的新模式可能影响全屋定制行业的视觉营销策略。</div>
+                        <p class="card-summary">Meta推出Muse Image，用户可基于他人公开照片生成AI图像，但需主动选择退出，引发隐私担忧。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>关注隐私法规变化，评估在营销素材中使用AI生成图像的合规风险。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-07-08</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #7c3aed; --bg: #f5f3ff; --border: #ddd6fe">
+                <div class="section-header">
+                    <span class="section-icon">🏠</span>
+                    <h2>全屋定制 × AI</h2>
+                    <span class="section-count">2 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/" target="_blank" rel="noopener">Figma收购vibe-coding应用团队，AI设计工具竞争加剧</a></h3>
+                        <div class="card-why">💡 AI设计工具进化可能改变全屋定制行业的设计流程和客户体验。</div>
+                        <p class="card-summary">Figma收购Y Combinator支持的初创公司团队，该团队曾开发vibe-coding平台和代理创建产品。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>关注Figma的AI功能更新，探索在定制设计中的应用。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-07-08</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai" target="_blank" rel="noopener">Meta被曝研发全天候录音智能眼镜原型</a></h3>
+                        <div class="card-why">💡 智能眼镜可能成为全屋定制行业现场测量和客户沟通的新工具。</div>
+                        <p class="card-summary">Meta正在开发“超级感知”智能眼镜，可连续录音并每隔几秒拍照，用户可向Meta AI询问捕捉内容。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估智能眼镜在工地巡检、客户需求记录中的潜在应用。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-07-09</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #dc2626; --bg: #fef2f2; --border: #fecaca">
+                <div class="section-header">
+                    <span class="section-icon">📈</span>
+                    <h2>交易与宏观</h2>
+                    <span class="section-count">3 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html" target="_blank" rel="noopener">美伊冲突升级，油价飙升，美股承压</a></h3>
+                        <div class="card-why">💡 地缘冲突推高能源成本，影响全屋定制行业原材料价格和运输成本。</div>
+                        <p class="card-summary">美国对伊朗发动打击并撤销石油销售许可，霍尔木兹海峡局势紧张，油价跳涨，美股期货下跌。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>对冲能源成本风险，关注供应链调整机会。</div>
+                        <div class="card-meta">
+                            <span class="card-source">美股简报-2026-07-08</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://x.com/SemiAnalysis_/status/2073874671498387899" target="_blank" rel="noopener">NVIDIA Kyber NVL144延迟至2028年，AI硬件供应或收紧</a></h3>
+                        <div class="card-why">💡 AI芯片延迟可能影响AI算力成本，创始人需提前规划算力采购。</div>
+                        <p class="card-summary">NVIDIA的Kyber NVL144项目因制造问题延迟至2028年，同时NVL72x2背靠背架构也被取消。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估AI算力需求，考虑多元化芯片供应商或提前锁定订单。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-07-06</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.cnbc.com/2026/07/06/yen-slump-dollar-currencies-ai-energy.html" target="_blank" rel="noopener">高盛看空日元，预计AI和能源供应紧缩支撑美元</a></h3>
+                        <div class="card-why">💡 美元走强影响进口原材料成本，创始人需管理汇率风险。</div>
+                        <p class="card-summary">高盛进一步看空日元，认为即使干预也难以阻止日元贬值，同时AI和能源供应紧缩将支撑美元。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>关注美元走势，考虑使用外汇对冲工具锁定成本。</div>
+                        <div class="card-meta">
+                            <span class="card-source">美股简报-2026-07-06</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #059669; --bg: #ecfdf5; --border: #a7f3d0">
+                <div class="section-header">
+                    <span class="section-icon">🔧</span>
+                    <h2>工具与方法</h2>
+                    <span class="section-count">2 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/" target="_blank" rel="noopener">Claude Desktop登陆Linux，支持Claude Code</a></h3>
+                        <div class="card-why">💡 Linux用户可更高效地使用AI编程助手，提升开发效率。</div>
+                        <p class="card-summary">Anthropic推出Claude Desktop官方Linux应用，支持Claude Code，但本地AI功能体验仍有待提升。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>在Linux开发环境中部署Claude Desktop，测试代码辅助效果。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-07-07</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools" target="_blank" rel="noopener">LlamaIndex发布legal-kb：法律文档智能体检索参考应用</a></h3>
+                        <div class="card-why">💡 法律文档检索工具可提升合同审查和合规效率。</div>
+                        <p class="card-summary">基于Index v2的法律知识库应用，采用Retrieval Harness模式，提供混合检索、文件搜索和读取等工具。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估在合同管理、法规合规中集成类似检索系统。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-07-06</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+
+    <footer class="footer">
+        <p>由 AI Content Factory 自动策展 · 每周六上午生成</p>
+        <p style="margin-top:4px">在 Obsidian 中打开同名 .md 文件可编辑「我的看法」</p>
+    </footer>
+
+</div>
+</body>
+</html>
