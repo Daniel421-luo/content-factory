@@ -1,0 +1,188 @@
+{
+  "title": "🌍 全球简报 | 2026-07-12",
+  "headline": "美国对伊朗发动空袭，伊朗关闭霍尔木兹海峡；美国参议员林赛·格雷厄姆去世；加拿大多伦多街头节日发生枪击致2死4伤；台风登陆中国浙江，近200万人撤离。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国对伊朗发动空袭，伊朗关闭霍尔木兹海峡",
+        "summary": "美国对伊朗发动空袭，此前伊朗袭击了一艘途经霍尔木兹海峡的集装箱船。伊朗随后关闭了该海峡，全球油价面临上涨压力。",
+        "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国参议员林赛·格雷厄姆去世，享年71岁",
+        "summary": "南卡罗来纳州共和党参议员、特朗普盟友林赛·格雷厄姆因突发疾病去世。他刚从乌克兰返回，曾会见泽连斯基。",
+        "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
+        "source": "NPR"
+      },
+      {
+        "title": "加拿大多伦多街头节日发生枪击，致2死4伤",
+        "summary": "多伦多“圣克莱尔萨尔萨节”发生枪击事件，两名男子死亡，四人受伤。警方称两人交火，已找到两支枪支。",
+        "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "强台风登陆中国浙江，近200万人撤离",
+        "summary": "强台风在浙江登陆，学校、工作和户外活动暂停，大量交通服务取消，近200万人被疏散。",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "委内瑞拉地震死亡人数超4300人",
+        "summary": "委内瑞拉连续两次强震已造成至少4333人死亡，16740人受伤，数千人失踪，政府呼吁国际援助。",
+        "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+        "source": "Guardian"
+      },
+      {
+        "title": "尼日利亚军方击毙300名匪徒",
+        "summary": "尼日利亚军方在西北部扎姆法拉州与绑架和盗牛匪徒交火，击毙超过300人，当地居民称战斗持续整夜。",
+        "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国民主党议员罗·卡纳被以色列定居者扣押",
+        "summary": "美国众议员罗·卡纳在约旦河西岸被武装以色列定居者扣押90分钟，他称这是一次“非法拘留”。",
+        "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普政府传唤《纽约时报》记者",
+        "summary": "特朗普政府就“空军一号”报道向《纽约时报》记者发出传票，该报道涉及卡塔尔赠送的新飞机安全问题。",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "霍尔木兹海峡关闭推高油价风险",
+        "summary": "伊朗关闭霍尔木兹海峡，全球约20%石油运输经过该海峡，市场担忧供应中断，油价可能大幅上涨。",
+        "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "多数美国工人支持设立AI主权财富基金",
+        "summary": "调查显示，随着科技行业裁员增加，多数美国员工支持设立AI主权财富基金，以加强对企业的问责。",
+        "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "新住房法案旨在解决可负担性问题",
+        "summary": "美国新住房法案旨在提高住房可负担性，但专家表示市场影响需要时间显现。",
+        "url": "https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "关税迫使垄断游戏进口商尝试美国制造",
+        "summary": "因关税影响，垄断游戏进口商乔纳森·席尔瓦尝试在美国生产，揭示了美国制造业的挑战。",
+        "url": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa",
+        "source": "NPR"
+      }
+    ],
+    "科技": [
+      {
+        "title": "谷歌可能使用用户照片和语音训练AI",
+        "summary": "谷歌新的“保存媒体”设置允许其使用Google Lens图像、语音搜索和上传文件来训练AI模型，期限为四年。",
+        "url": "https://www.foxnews.com/tech/google-may-use-your-photos-voice-train-ai",
+        "source": "Fox News"
+      },
+      {
+        "title": "AI需求依然强劲，企业转向“价值最大化”",
+        "summary": "尽管AI芯片股波动，但高管表示AI需求“几乎无限”，企业正在优化AI投资回报。",
+        "url": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI机器人开始用于政治竞选短信",
+        "summary": "AI生成的文本机器人正被用于政治竞选，模拟候选人发送个性化短信与选民互动。",
+        "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
+        "source": "NPR"
+      },
+      {
+        "title": "刚果（金）启动创纪录的埃博拉治疗试验",
+        "summary": "刚果（金）伊图里地区启动埃博拉治疗试验，两种药物正在试验中，希望降低死亡率。",
+        "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+        "source": "Guardian"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国财报季开启：摩根大通、奈飞等公布业绩",
+        "summary": "本周近28家标普500公司公布财报，包括摩根大通和奈飞，市场关注企业盈利状况。",
+        "url": "https://www.cnbc.com/2026/07/12/earnings-playbook-reporting-season-starts-with-jpmorgan-chase-netflix.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "委内瑞拉地震救援与国际援助进展",
+        "summary": "委内瑞拉地震死亡人数持续上升，国际社会可能提供更多援助，关注后续救援行动。",
+        "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国与伊朗冲突后续发展",
+        "summary": "美国空袭伊朗后，伊朗关闭霍尔木兹海峡，关注局势是否进一步升级及对全球能源市场的影响。",
+        "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对伊朗空袭，伊朗关闭霍尔木兹海峡",
+      "direction": "看多",
+      "asset_impact": "USO, /CL, GLD, US10Y",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国参议员格雷厄姆去世，可能影响国会政治格局",
+      "direction": "中性",
+      "asset_impact": "/ES, SPY",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "委内瑞拉地震死亡超4300人，经济重建需求巨大",
+      "direction": "看空",
+      "asset_impact": "USO, VXX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "强台风登陆中国浙江，近200万人撤离",
+      "direction": "看空",
+      "asset_impact": "FXI, 沪深300",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "多数美国工人支持设立AI主权财富基金",
+      "direction": "中性",
+      "asset_impact": "QQQ, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "新住房法案旨在提高可负担性，但效果需时间",
+      "direction": "中性",
+      "asset_impact": "US10Y, XHB",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "AI需求依然强劲，企业投资回报优化",
+      "direction": "看多",
+      "asset_impact": "NVDA, QQQ",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
