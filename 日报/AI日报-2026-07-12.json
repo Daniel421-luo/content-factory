@@ -1,0 +1,80 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-12",
+  "headline": "OpenAI 发布 GPT-5.6 系列医疗评估结果，性能大幅提升；蚂蚁集团发布首个原生具身基础模型 LingBot-VA 2.0；Meta 因争议下架 Instagram AI 功能。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+        "summary": "OpenAI 公布 GPT-5.6 系列在医疗领域的评估结果，最小变体 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 Sol 树立新标杆。评估基于准确性、沟通等五个维度，共 20000 个案例。",
+        "url": "https://x.com/sama/status/2075985056846451123",
+        "source": "AIHOT"
+      },
+      {
+        "title": "蚂蚁集团发布 LingBot-VA 2.0，首个原生具身基础模型",
+        "summary": "蚂蚁集团旗下 Robbyant 发布 LingBot-VA 2.0，采用因果 DiT 架构，视频专家约 13B 参数，训练规模约 15.3B 参数，推理延迟降至 142 ms/chunk，在 RoboTwin 2.0 的 5 个任务上取得领先。",
+        "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Claude Code v2.1.207 发布，新增 Auto 模式",
+        "summary": "Anthropic 发布 Claude Code v2.1.207，引入 Auto 模式，进一步提升开发效率。",
+        "url": "",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Meta 因争议下架 Instagram AI 功能",
+        "summary": "Meta 移除 Instagram 上一项有争议的 AI 功能，该功能因用户反馈“未达预期”而遭下架。公司表示初衷是提供有用的创意工具并让用户控制内容引用方式。",
+        "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 押注家庭场景，为 ChatGPT 招聘家庭产品经理",
+        "summary": "OpenAI 发布招聘信息，为 ChatGPT 招募专门负责家庭、看护者和老年人体验的产品经理，表明其向家庭场景拓展的战略。",
+        "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 发现 Claude 内部隐藏空间，揭示模型推理过程",
+        "summary": "Anthropic 获得了对 Claude 内部运作最清晰的观察，发现一个隐藏空间，其中 Claude 在概念间进行推理，为理解大模型内部机制提供新视角。",
+        "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "AI 发现 Linux 内核中隐藏 15 年的 Root 漏洞",
+        "summary": "AI 工具发现了一个存在于 Linux 内核中长达 15 年的 Root 权限漏洞，凸显 AI 在网络安全领域的潜力。",
+        "url": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
+        "source": "Wired"
+      },
+      {
+        "title": "Bluesky 临时 CEO Toni Schneider 转正",
+        "summary": "Bluesky 宣布临时 CEO Toni Schneider 正式成为永久 CEO，他表示“全力以赴”投入这个非传统社交平台。",
+        "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "“学编程”时代结束，雇主需承担再培训责任",
+        "summary": "AI 推动再培训新时代，行业需从过去十年的科技就业驱动中吸取教训，雇主应负责员工技能重塑。",
+        "url": "https://www.zdnet.com/article/learn-to-code-era-is-over-employers-are-on-the-hook-for-reskilling-now/",
+        "source": "ZDNet"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "量子纠错可持续校准处理器",
+        "summary": "研究显示，强化学习可利用错误信息调整控制算法，实现量子处理器的持续校准，提升量子计算稳定性。",
+        "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "无摄像头智能眼镜：Even Realities 押注生产力而非记录",
+        "summary": "Even Realities 推出无摄像头智能眼镜，专注于会议、演示和翻译等生产力场景，避免隐私争议。",
+        "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
