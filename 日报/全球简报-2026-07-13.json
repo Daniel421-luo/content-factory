@@ -1,0 +1,154 @@
+{
+  "title": "🌍 全球简报 | 2026-07-13",
+  "headline": "美伊冲突升级，双方互袭；泰国曼谷酒吧火灾致27死；美国参议员格雷厄姆去世",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美伊在霍尔木兹海峡互袭，局势升级",
+        "summary": "美国对伊朗发动新一轮打击，伊朗随后袭击了多个海湾国家的美军基地，霍尔木兹海峡紧张局势加剧。",
+        "url": "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "泰国曼谷酒吧火灾致27死，22人重伤",
+        "summary": "曼谷乍都乍区一家酒吧发生爆炸性火灾，造成27人死亡、22人重伤，为近年来最严重的火灾之一。",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o",
+        "source": "BBC"
+      },
+      {
+        "title": "美国参议员林赛·格雷厄姆去世，享年71岁",
+        "summary": "南卡罗来纳州共和党参议员林赛·格雷厄姆因主动脉撕裂于周六晚去世，其离世影响国会多项议程。",
+        "url": "https://www.bbc.co.uk/news/articles/cn75083d472o",
+        "source": "BBC"
+      },
+      {
+        "title": "麦康奈尔披露因摔倒和肺炎住院，打破数周沉默",
+        "summary": "参议院共和党领袖麦康奈尔周日首次公开健康状况，称摔倒导致住院，目前尚未完全康复。",
+        "url": "https://www.npr.org/2026/07/13/nx-s1-5891492/mcconnell-fall-hospitalization",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗官员称美伊协议处于“危机阶段”",
+        "summary": "伊朗官员表示，在最新一轮打击后，美伊之间的协议前景堪忧。",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698",
+        "source": "ABC News"
+      },
+      {
+        "title": "厄瓜多尔毒枭兄弟遭伪装警察杀害",
+        "summary": "毒枭“埃尔菲托”的兄弟大卫·马西亚斯在厄瓜多尔被伪装成警察的枪手杀害。",
+        "url": "https://www.bbc.co.uk/news/articles/c20yx84g103o",
+        "source": "BBC"
+      },
+      {
+        "title": "南非驱逐逾5.3万外国人，打击非法移民",
+        "summary": "南非政府加大打击非法移民力度，已驱逐超过5.3万名外国人，此前曾发生反移民抗议。",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o",
+        "source": "BBC"
+      },
+      {
+        "title": "尼日利亚军方击毙300名匪徒",
+        "summary": "尼日利亚军方在西北部扎姆法拉州与匪徒交火，击毙300余名绑架和盗窃团伙成员。",
+        "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美股期货下跌，芯片股承压",
+        "summary": "受地缘紧张和芯片股下跌影响，美股期货走低，SK海力士跌8%。",
+        "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "台积电6月营收同比大增68%",
+        "summary": "全球最大芯片代工商台积电公布6月营收数据，同比增长68%，业绩强劲。",
+        "url": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Meta在路易斯安那州数据中心投资达500亿美元",
+        "summary": "Meta计划在路易斯安那州建设超大规模数据中心，总投资超500亿美元，享受税收优惠。",
+        "url": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "法国核电因河流水温偏高承压",
+        "summary": "欧洲中部高温少雨导致河流水温异常，影响法国核电站冷却用水。",
+        "url": "https://www.theguardian.com/environment/2026/jul/13/weather-tracker-unusually-warm-rivers-affect-french-nuclear-power-plants",
+        "source": "Guardian"
+      }
+    ],
+    "科技": [
+      {
+        "title": "马斯克与奥特曼在X平台互怼",
+        "summary": "苹果对OpenAI提起诉讼后，马斯克与奥特曼在社交媒体上发生争执。",
+        "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "蟒蛇极端生物学或为人类疾病治疗提供线索",
+        "summary": "蟒蛇可数月不进食、心脏大小可变，其代谢机制可能有助于研究人类疾病。",
+        "url": "https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国国会复会，格雷厄姆去世影响议程",
+        "summary": "国会结束休会，参议员格雷厄姆去世可能影响多项立法进程。",
+        "url": "https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief",
+        "source": "NPR"
+      },
+      {
+        "title": "刚果（金）埃博拉治疗试验首批患者入组",
+        "summary": "刚果（金）伊图里省启动创纪录的埃博拉治疗试验，两种药物正在测试。",
+        "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊互袭，霍尔木兹海峡紧张升级",
+      "direction": "看多",
+      "asset_impact": "USO, GLD, VIX",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美股期货下跌，芯片股承压",
+      "direction": "看空",
+      "asset_impact": "/ES, SMH",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "台积电6月营收大增68%",
+      "direction": "看多",
+      "asset_impact": "TSM, SMH",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "法国核电因河流水温偏高承压",
+      "direction": "看空",
+      "asset_impact": "法国核电相关, EU电力",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "南非大规模驱逐非法移民",
+      "direction": "中性",
+      "asset_impact": "ZAR",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
