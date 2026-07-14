@@ -1,0 +1,202 @@
+{
+  "title": "📈 美股简报 | 2026-07-14",
+  "headline": "中东局势升级，油价飙升，美股期货承压；市场关注财报和通胀数据",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货下跌，中东紧张局势加剧",
+        "summary": "标普500和纳斯达克期货小幅走低，因美国与伊朗冲突升级，油价大涨。投资者等待企业财报和通胀数据。",
+        "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价延续涨势，特朗普宣布霍尔木兹海峡收费计划",
+        "summary": "布伦特原油周二上涨，此前特朗普宣布计划对通过霍尔木兹海峡的船只征收20%的通行费，引发供应担忧。",
+        "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国连续第三晚对伊朗军事目标发动打击",
+        "summary": "美国已完成第三轮对伊朗的打击，伊朗则攻击了美国在该地区的军事设施。",
+        "url": "https://www.cnbc.com/2026/07/14/us-iran-hormuz-strikes-oil-toll.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块大涨，中东冲突推高油价",
+        "summary": "油价飙升，能源股受提振，因霍尔木兹海峡局势紧张，供应风险上升。",
+        "url": "https://www.wsj.com/finance/commodities-futures/oil-surges-most-since-2020-reflecting-bet-that-strait-wont-go-back-to-normal-9aa1639f",
+        "source": "WSJ"
+      },
+      {
+        "title": "AI板块承压，SK海力士美国上市表现不佳",
+        "summary": "纳斯达克下跌，因AI疑虑拖累SK海力士美国首秀，市场对AI投资回报产生怀疑。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026",
+        "source": "WSJ"
+      },
+      {
+        "title": "数据中心建设商加速出售数十亿美元股权",
+        "summary": "对算力的持续需求促使投资者寻求拥有AI物理基础设施的机会，数据中心股权交易活跃。",
+        "url": "https://www.wsj.com/finance/investing/data-center-builders-are-racing-to-offload-stakes-worth-billions-1a7d92f8",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Sandisk股价暴跌，但部分分析师仍看好",
+        "summary": "Sandisk股价大跌，但一些分析师上调目标价，认为有较大上涨空间。",
+        "url": "https://www.marketwatch.com/story/sandisks-stock-is-plunging-but-some-analysts-are-getting-even-more-bullish-cba3472f",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "SpaceX股价逼近IPO价格，市值蒸发超8000亿美元",
+        "summary": "SpaceX股价持续下跌，若跌破IPO价格可能引发投资者信心危机。",
+        "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "台湾联电在新加坡启动硅光子晶圆量产，花旗看好前景",
+        "summary": "联电（UMC）在新加坡工厂开始量产硅光子晶圆，花旗认为其前景改善。",
+        "url": "https://www.cnbc.com/2026/07/14/umc-starts-mass-production-in-singapore-citi-sees-improving-outlook.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SK海力士美国上市首日表现不佳，AI疑虑拖累",
+        "summary": "SK海力士在美上市首日股价下跌，市场对AI投资回报的担忧加剧。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "中国6月出口增速创2021年以来最快，AI繁荣和关税抢购推动",
+        "summary": "中国对美出口增长约14%，进口增长26%，受AI需求和关税前抢购影响。",
+        "url": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普重启伊朗封锁，提议对霍尔木兹海峡货物征收20%通行费",
+        "summary": "特朗普宣布重新对伊朗实施海上封锁，并对通过霍尔木兹海峡的货物征收20%费用。",
+        "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国战略石油储备接近极限，设备故障频发",
+        "summary": "政府报告显示，战略石油储备库存处于低位，且遭遇重大设备故障、泄漏和溢出。",
+        "url": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "投资者借贷买股创纪录，华尔街担忧市场风险",
+        "summary": "保证金债务攀升，投资者借钱买股，反映市场贪婪，引发对回调的担忧。",
+        "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446",
+        "source": "MarketWatch"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东冲突升级，霍尔木兹海峡供应中断风险",
+        "summary": "美国与伊朗相互打击，特朗普重启封锁并征收通行费，可能导致石油供应中断，油价大幅波动。",
+        "url": "https://www.cnbc.com/2026/07/14/us-iran-hormuz-strikes-oil-toll.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI板块回调风险，SK海力士上市表现不佳",
+        "summary": "AI疑虑导致纳斯达克下跌，SK海力士首日表现疲软，可能引发科技股进一步调整。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026",
+        "source": "WSJ"
+      },
+      {
+        "title": "保证金债务高企，市场回调风险增加",
+        "summary": "投资者借贷买股规模创纪录，若市场下跌，可能引发强制平仓和进一步抛售。",
+        "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "中东冲突升级，美国对伊朗发动第三轮打击，特朗普重启霍尔木兹海峡封锁并征收20%通行费",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, OIH",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "油价飙升，布伦特原油创2020年以来最大单日涨幅",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, CVX, XOM",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "AI板块承压，SK海力士美国上市首日下跌，纳斯达克走弱",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD, SOXX, QQQ",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "中国6月出口增速创2021年以来最快，AI和关税抢购推动",
+      "direction": "中性",
+      "asset_impact": "FXI, ASHR, KWEB",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国战略石油储备接近极限，设备故障频发",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "投资者保证金债务创纪录，市场贪婪信号",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Sandisk股价暴跌，但部分分析师上调目标价",
+      "direction": "中性",
+      "asset_impact": "WDC, MU",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "联电在新加坡启动硅光子晶圆量产，花旗看好",
+      "direction": "看多",
+      "asset_impact": "UMC, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SpaceX股价逼近IPO价格，市值蒸发超8000亿美元",
+      "direction": "看空",
+      "asset_impact": "SPACE",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "黄金价格从历史高点回落，尽管中东冲突升级",
+      "direction": "看空",
+      "asset_impact": "GLD, SLV",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
