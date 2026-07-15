@@ -1,0 +1,172 @@
+{
+  "title": "🌍 全球简报 | 2026-07-15",
+  "headline": "美伊对峙升级，特朗普威胁打击伊朗基础设施；中国经济增长大幅放缓；PayPal收到530亿美元收购要约",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美伊对峙升级：特朗普威胁打击伊朗基础设施，美国恢复海上封锁",
+        "summary": "特朗普警告称，如果伊朗不恢复谈判，美国可能在下周对伊朗的桥梁和发电厂发动打击。与此同时，美国恢复了对伊朗港口的封锁，双方连续第四天交火。",
+        "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国经济增长大幅放缓，未达目标",
+        "summary": "受国内需求疲软和伊朗战争对油价的影响，中国经济增长率大幅下滑，未能达到政府设定的目标。",
+        "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "PayPal收到Stripe和Advent超530亿美元收购要约",
+        "summary": "据报道，Stripe和Advent International联合提出以每股60.50美元收购PayPal，交易估值超过530亿美元。PayPal股价盘前大涨16%。",
+        "url": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "ASML再次上调销售预测，AI芯片需求强劲",
+        "summary": "ASML今年第二次上调销售预测，因客户持续扩大AI芯片产能。公司股价上涨4%。",
+        "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普提名的司法部长人选布兰奇面临确认听证会",
+        "summary": "托德·布兰奇在参议院司法委员会面临激烈听证，这是自参议员格雷厄姆去世后共和党首次重大提名战。",
+        "url": "https://www.foxnews.com/politics/trump-ag-pick-todd-blanche-faces-senate-test-first-major-confirmation-fight-since-grahams-death",
+        "source": "Fox News"
+      },
+      {
+        "title": "CDC局长提名人埃里卡·施瓦茨出席确认听证会",
+        "summary": "特朗普提名的CDC局长人选在参议院卫生委员会接受质询，若获确认将领导面临人力短缺和政治审查的机构。",
+        "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing",
+        "source": "NPR"
+      },
+      {
+        "title": "墨西哥要求就ICE杀害移民提起刑事诉讼",
+        "summary": "墨西哥总统辛鲍姆表示，墨西哥将要求美国对十多名墨西哥移民在移民拘留期间死亡及ICE特工杀害事件提起刑事诉讼。",
+        "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+        "source": "Guardian"
+      },
+      {
+        "title": "委内瑞拉地震救援不力引发民众愤怒",
+        "summary": "公众对政府地震救援不力的愤怒加剧，叠加美国军事干预的影响，社会动荡风险上升。",
+        "url": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "高盛和摩根大通成为AI热潮新赢家",
+        "summary": "高盛和摩根大通公布创纪录收入，交易和投行业务激增，显示华尔街是AI繁荣的主要受益者。",
+        "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winner",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储候选人沃什承诺“货币政策体制变革”以消除通胀",
+        "summary": "沃什誓言要“让货币政策正确”，击败困扰美联储五年的通胀，并强调AI投资热潮的好处。",
+        "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国初创企业转向廉价中国AI模型以降低成本",
+        "summary": "随着AI成为快速增长的业务支出，一些美国公司通过改用更便宜的中国AI模型来削减成本。",
+        "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
+        "source": "NPR"
+      }
+    ],
+    "科技": [
+      {
+        "title": "ASML上调销售预测，AI芯片需求推动增长",
+        "summary": "ASML今年第二次上调销售预测，因客户持续扩大AI芯片产能。",
+        "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科学家用植物基油脂替代饱和脂肪，使酥皮糕点更健康",
+        "summary": "科学家利用油凝胶技术将植物油转化为固体烘焙脂肪，旨在减少香肠卷、牛角包等中的饱和脂肪而不影响口感。",
+        "url": "https://www.foxnews.com/food-drink/scientists-may-have-found-way-make-sausage-rolls-flaky-pastries-much-healthier",
+        "source": "Fox News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "特朗普就选举发表黄金时段讲话",
+        "summary": "特朗普将于周四晚发表讲话，呼吁共和党通过更严格的联邦投票规则，为11月中期选举做准备。",
+        "url": "https://www.npr.org/2026/07/15/nx-s1-5894580/trump-elections-primetime-address",
+        "source": "NPR"
+      },
+      {
+        "title": "MLB劳资谈判进展：老板提出工资帽，2027赛季面临风险",
+        "summary": "MLB老板自1994年以来首次提出工资帽，劳资协议将于12月1日到期，下赛季面临停摆风险。",
+        "url": "https://www.foxnews.com/sports/inside-mlb-cba-negotiations-manfred-players-union-exec-discuss-issues-sides-attempt-save-2027-season",
+        "source": "Fox News"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊对峙升级，特朗普威胁打击伊朗基础设施，美国恢复海上封锁",
+      "direction": "看多",
+      "asset_impact": "USO, GLD, /ES, VIX",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国经济增长大幅放缓，未达目标",
+      "direction": "看空",
+      "asset_impact": "FXI, /ES, USO",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "PayPal收到Stripe和Advent超530亿美元收购要约",
+      "direction": "看多",
+      "asset_impact": "PYPL",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "ASML上调销售预测，AI芯片需求强劲",
+      "direction": "看多",
+      "asset_impact": "ASML, SMH, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "高盛和摩根大通创纪录收入，AI推动交易和投行业务",
+      "direction": "看多",
+      "asset_impact": "GS, JPM, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美联储候选人沃什承诺货币政策体制变革以消除通胀",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES, DXY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国初创企业转向廉价中国AI模型",
+      "direction": "看空",
+      "asset_impact": "NVDA, AI相关ETF",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "委内瑞拉地震救援不力引发民众愤怒，社会动荡风险上升",
+      "direction": "中性",
+      "asset_impact": "USO, GLD",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
