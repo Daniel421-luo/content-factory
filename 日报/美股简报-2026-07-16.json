@@ -1,0 +1,226 @@
+{
+  "title": "📈 美股简报 | 2026-07-16",
+  "headline": "芯片股抛售蔓延至亚洲，台积电财报亮眼但市场情绪承压；美国对巴西加征25%关税，地缘风险升温",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "亚洲科技股重挫，SK海力士暴跌11%",
+        "summary": "受美国芯片股抛售影响，亚洲半导体板块周四大幅下跌，SK海力士股价暴跌11%。",
+        "url": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "台积电Q2利润飙升超77%，超预期",
+        "summary": "台积电公布第二季度财报，利润同比增长超77%，受益于高端芯片需求旺盛。",
+        "url": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国对巴西加征25%关税",
+        "summary": "美国以不公平贸易行为为由，对大部分巴西商品加征25%关税，并可能额外征收12.5%的强迫劳动相关关税。",
+        "url": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "阿里巴巴、百度港股大涨，因苹果AI合作传闻",
+        "summary": "受与苹果在AI领域合作的消息提振，阿里巴巴和百度港股大幅上涨。",
+        "url": "https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "科技巨头领涨，芯片股承压",
+        "summary": "7月15日美股收盘，苹果等成长股推动指数走高，但芯片股普遍下跌。",
+        "url": "https://www.wsj.com/finance/live/stock-market-today-dow-sp-500-nasdaq-07-15-2026-2a3dd235?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "华尔街交易收入创历史最佳",
+        "summary": "摩根大通、高盛等大行今年交易收入激增，市场风险偏好极高。",
+        "url": "https://www.wsj.com/finance/banking/wall-street-traders-are-having-their-best-year-ever-a80f02ff?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "贝莱德资产管理规模突破15万亿美元，股价大涨",
+        "summary": "贝莱德Q2利润同比增长20%，股价上涨近7%。",
+        "url": "https://www.wsj.com/finance/stocks/blackrock-earnings-q2-2026-blk-stock-4c5d097e?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "PayPal因收购要约暴涨16%",
+        "summary": "PayPal收到收购要约，股价飙升16%，带动科技股情绪。",
+        "url": "https://www.wsj.com/finance/stocks/blackrock-surges-as-megacap-tech-lifts-nasdaq-5e1566e0?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "联合航空Q2盈利超预期，但燃料成本增加60亿美元",
+        "summary": "联合航空财报超预期，但预计全年燃料成本将增加约60亿美元，股价承压。",
+        "url": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "J.B. Hunt盘后涨8%，货运市场趋紧",
+        "summary": "J.B. Hunt财报显示燃料附加费和铁路联运业务需求强劲，盘后股价上涨8%。",
+        "url": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "SpaceX股价跌破上市首日水平",
+        "summary": "SpaceX上市一个月后股价波动剧烈，目前已跌破首日开盘价。",
+        "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "台积电Q2利润飙升超77%，超预期",
+        "summary": "台积电第二季度净利润同比增长超77%，受益于AI和高端芯片需求。",
+        "url": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SK海力士暴跌11%，亚洲芯片股跟随美股抛售",
+        "summary": "美国芯片股抛售蔓延至亚洲，SK海力士领跌，韩国KOSPI指数承压。",
+        "url": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "韩国央行加息25个基点至2.75%",
+        "summary": "韩国央行三年来首次加息，以应对通胀和汇率压力，可能进一步打压科技股。",
+        "url": "https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美国对巴西加征25%关税",
+        "summary": "美国以301条款调查结果为由，对巴西商品加征25%关税，并可能追加12.5%的强迫劳动相关关税。",
+        "url": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储主席沃什称与特朗普政府频繁会面，捍卫独立性",
+        "summary": "沃什表示与财长贝森特定期会面，并强调美联储对通胀零容忍。",
+        "url": "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普称伊朗希望会面，但美军继续空袭",
+        "summary": "中东局势持续紧张，特朗普表示伊朗寻求谈判，但美军仍发动更多打击。",
+        "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "韩国央行加息25个基点至2.75%",
+        "summary": "韩国央行三年来首次加息，以应对通胀和资本外流压力。",
+        "url": "https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东局势升级风险",
+        "summary": "美国对伊朗持续空袭，伊朗可能反击，霍尔木兹海峡航运受威胁，油价波动加剧。",
+        "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "芯片股抛售蔓延至亚洲",
+        "summary": "SK海力士暴跌11%，亚洲科技股承压，可能拖累美股半导体板块。",
+        "url": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国对巴西关税升级",
+        "summary": "25%关税可能引发巴西报复，影响大宗商品和新兴市场资产。",
+        "url": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "台积电Q2利润超预期，AI芯片需求强劲",
+      "direction": "看多",
+      "asset_impact": "TSM, NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SK海力士暴跌11%，亚洲芯片抛售蔓延",
+      "direction": "看空",
+      "asset_impact": "MU, INTC, SOXX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美国对巴西加征25%关税，贸易摩擦升级",
+      "direction": "看空",
+      "asset_impact": "EWZ, PBR, USO",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "中东局势紧张，美军持续空袭伊朗",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "韩国央行加息25个基点至2.75%",
+      "direction": "看空",
+      "asset_impact": "EWY, KWEB",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "联合航空预计燃料成本增加60亿美元",
+      "direction": "看空",
+      "asset_impact": "UAL, JETS",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "阿里巴巴、百度因苹果AI合作传闻大涨",
+      "direction": "看多",
+      "asset_impact": "BABA, BIDU, KWEB",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "贝莱德资产管理规模突破15万亿美元，利润增长20%",
+      "direction": "看多",
+      "asset_impact": "BLK",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "PayPal收到收购要约，股价暴涨16%",
+      "direction": "看多",
+      "asset_impact": "PYPL",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "J.B. Hunt盘后涨8%，货运市场趋紧",
+      "direction": "看多",
+      "asset_impact": "JBHT",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    }
+  ]
+}
