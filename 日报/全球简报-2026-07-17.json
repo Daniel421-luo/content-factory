@@ -1,0 +1,196 @@
+{
+  "title": "🌍 全球简报 | 2026-07-17",
+  "headline": "美国对伊朗发动新一轮打击，伊朗称民用基础设施受损，冲突扩大至叙利亚和巴林；全球芯片股抛售加剧，纳指期货跌2%；加拿大野火烟雾笼罩美国20州，空气质量急剧恶化。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国对伊朗发动新打击，伊朗称民用基础设施受损",
+        "summary": "美国对伊朗发动新一轮军事打击，伊朗方面称桥梁等民用基础设施被击中。与此同时，美国在霍尔木兹海峡登上一艘船只，冲突进一步扩大至叙利亚和巴林。",
+        "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o",
+        "source": "BBC"
+      },
+      {
+        "title": "全球芯片股抛售持续，纳指期货跌2%",
+        "summary": "受芯片股拖累，纳斯达克期货下跌2%，市场对科技行业前景担忧加剧。此前美国对伊朗的打击也加剧了避险情绪。",
+        "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "加拿大野火烟雾笼罩美国20州，空气质量警报拉响",
+        "summary": "加拿大超过800处野火产生的烟雾蔓延至美国，从明尼苏达到纽约的20个州发布空气质量警报，数百万美国人被敦促留在室内。",
+        "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
+        "source": "Guardian"
+      },
+      {
+        "title": "特朗普发表全国讲话，指控中国干预2020年大选",
+        "summary": "特朗普在中期选举前发表黄金时段讲话，声称文件显示中国干预选举和投票系统存在漏洞。中方驳斥为捏造，民主党指责其试图破坏选举公正性。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗称美国打击波及民用设施，冲突扩大至叙利亚和巴林",
+        "summary": "伊朗表示美国最新打击命中桥梁等民用目标，并将袭击范围扩大至叙利亚和巴林。上月签署的脆弱停火协议进一步瓦解。",
+        "url": "https://www.cnbc.com/2026/07/17/iran-war-us-trump-syria-bahrain.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "墨西哥要求美国各州检察长调查ICE拘留期间移民死亡事件",
+        "summary": "墨西哥正式请求美国州检察长对14名墨西哥移民在ICE拘留期间死亡及3人在行动中死亡的事件进行刑事调查。",
+        "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
+        "source": "Guardian"
+      },
+      {
+        "title": "巴西誓言若美国征收25%关税将进行报复",
+        "summary": "巴西总统卢拉办公室称美国关税决定是受前总统博索纳罗家族施压所致，并誓言采取报复措施。",
+        "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+        "source": "Guardian"
+      },
+      {
+        "title": "菲律宾谴责中国媒体发布涉南海种族主义视频",
+        "summary": "中国日报发布的AI视频显示一只穿着菲律宾服装的猴子声称对南海拥有主权，菲律宾谴责为种族主义。",
+        "url": "https://www.bbc.co.uk/news/articles/cj632307934o",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "纳指期货跌2%，全球芯片股抛售加剧",
+        "summary": "芯片股领跌，市场担忧科技行业前景，叠加地缘紧张局势，避险情绪升温。",
+        "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普媒体推出付费即时推送服务，面向华尔街交易员",
+        "summary": "特朗普媒体科技集团将推出快速付费推送服务，向华尔街交易员提供其最具影响力帖子的即时访问权限。",
+        "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo",
+        "source": "BBC"
+      },
+      {
+        "title": "Netflix财报不及预期，股价下跌",
+        "summary": "Netflix第二季度盈利预测令人失望，并宣布将减少参与度报告频率，股价承压。",
+        "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "摩根士丹利建议收入型投资者超越传统60/40组合",
+        "summary": "摩根士丹利指出，寻求收入的投资者应多元化配置，而非依赖传统的60%股票40%债券组合。",
+        "url": "https://www.cnbc.com/2026/07/16/morgan-stanleys-income-playbook-.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "中国初创公司Moonshot AI发布Kimi模型，称媲美OpenAI和Anthropic",
+        "summary": "Moonshot AI推出Kimi K3模型，声称性能接近美国领先AI实验室，是中国AI追赶的最新进展。",
+        "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "习近平呼吁加强全球AI合作，美国限制中国技术获取",
+        "summary": "习近平呼吁全球共同努力推进人工智能发展，与此同时美国主导的限制措施阻碍中国获取先进技术，加剧科技竞争。",
+        "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
+        "source": "NPR"
+      },
+      {
+        "title": "微软CEO纳德拉批评Anthropic的Fable模型“受编辑控制”",
+        "summary": "纳德拉表示Anthropic的Fable模型请求政策不合理，尽管微软与Anthropic关系密切，但也在帮助公司开发保护数据隐私的模型。",
+        "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX星舰试飞中止，股价下跌",
+        "summary": "SpaceX在最后一刻中止了星舰试飞，导致相关股票下跌。",
+        "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国与伊朗冲突后续发展",
+        "summary": "关注美国是否进一步打击伊朗，以及霍尔木兹海峡局势对油价的冲击。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "加拿大野火烟雾对美国空气质量的影响",
+        "summary": "预计烟雾将持续影响美国中西部和东部地区，关注空气质量警报范围变化。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "美国中期选举竞选活动",
+        "summary": "特朗普讲话后，两党围绕移民和选举安全的广告战预计升级。",
+        "url": "",
+        "source": ""
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对伊朗发动新打击，伊朗称民用设施受损，冲突扩大至叙利亚和巴林",
+      "direction": "看多",
+      "asset_impact": "USO, /CL, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "全球芯片股抛售持续，纳指期货跌2%",
+      "direction": "看空",
+      "asset_impact": "/ES, /NQ, SMH",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "加拿大野火烟雾导致美国20州空气质量警报，经济活动可能受影响",
+      "direction": "中性",
+      "asset_impact": "USO, /CL",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普指控中国干预2020年大选，中美关系紧张",
+      "direction": "看空",
+      "asset_impact": "FXI, CNY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "巴西威胁对美国关税进行报复，贸易摩擦升级",
+      "direction": "看空",
+      "asset_impact": "EWZ, BRL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "墨西哥要求调查ICE移民死亡事件，美墨关系紧张",
+      "direction": "中性",
+      "asset_impact": "MXN",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国AI初创公司Moonshot AI发布Kimi模型，AI竞争加剧",
+      "direction": "中性",
+      "asset_impact": "GOOGL, MSFT, NVDA",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SpaceX星舰试飞中止，市场情绪受挫",
+      "direction": "看空",
+      "asset_impact": "SPCE, BA",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
