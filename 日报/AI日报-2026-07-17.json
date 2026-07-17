@@ -1,0 +1,92 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-17",
+  "headline": "OpenAI 发布超级黑客模型 GPT-Red 用于安全测试；旧金山市长因 Waymo 交通瘫痪事件要求加强监管；xAI 因 Grok 生成儿童色情内容起诉用户；欧盟强制 Google 共享搜索数据并开放 Android AI。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google Vids 推出个性化 AI 头像功能",
+        "summary": "Google 在 Vids 中添加了 AI 头像功能，用户可创建数字版自己并生成视频，同时支持 Gemini Omni 驱动的提示词生成和编辑。",
+        "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Roblox 移动端上线 AI 游戏创建功能",
+        "summary": "Roblox 的“Build”功能允许用户通过单条文本提示生成基础游戏，进一步降低创作门槛。",
+        "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fortnite 将推出 AI 驱动角色“Personas”",
+        "summary": "Epic Games 宣布从 7 月 30 日起，Fortnite 创作者可发布带 AI 语音的角色体验，并已预置 36 个角色供使用。",
+        "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "旧金山市长因 Waymo 交通瘫痪事件要求加强监管",
+        "summary": "在 Waymo 导致数小时大拥堵后，旧金山市长 Daniel Lurie 呼吁州监管机构对自动驾驶出租车运营商提出更严格要求。",
+        "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "xAI 因 Grok 生成儿童色情内容起诉用户",
+        "summary": "Elon Musk 的 xAI 首次对一名被指控使用 Grok 制作儿童性虐待图像的用户提起诉讼，此前公司无法否认模型能生成此类内容。",
+        "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "欧盟正式要求 Google 共享搜索数据并开放 Android AI",
+        "summary": "欧盟新规强制 Google 向竞争对手提供搜索数据，并允许第三方在 Android 上集成 AI 功能，Google 警告此举可能危及隐私和安全。",
+        "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Anthropic 推动各州加速 AI 监管",
+        "summary": "Anthropic 美国州和地方政策负责人表示，去年在加州和纽约支持的 AI 透明度法律可能已过时，公司正推动更严格的州级法规。",
+        "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+        "source": "Wired"
+      },
+      {
+        "title": "Founders Fund 聘请前 OpenAI 高管 Ryan Beiermeister",
+        "summary": "Ryan Beiermeister 加入 Founders Fund 担任合伙人，她因在 YouTube 系列“Mafia”中展现冷静分析而受关注。",
+        "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "OpenAI 发布 GPT-Red：用于安全测试的超级黑客 LLM",
+        "summary": "OpenAI 构建了名为 GPT-Red 的 LLM 超级黑客，作为对抗伙伴帮助其他模型提升网络攻击防御能力。最新旗舰模型 GPT-5.6 在与 GPT-Red 训练后成为最安全的模型。",
+        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "企业 AI 基础设施支出增长快于成本衡量能力",
+        "summary": "VentureBeat 调查显示，107 家企业中 AI 基础设施支出加速，但多数组织难以追踪成本，且下一笔投资正流向几乎无人使用的专用计算。",
+        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+        "source": "VentureBeat"
+      },
+      {
+        "title": "54% 的企业已遭遇 AI 代理安全事件",
+        "summary": "调查发现，超过半数企业经历过 AI 代理安全事件或险情，多数仍允许代理共享凭证，仅约三分之一为每个代理分配独立身份。",
+        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+        "source": "VentureBeat"
+      },
+      {
+        "title": "企业 AI 代理评估存在“现实对齐”问题",
+        "summary": "157 家企业中，半数曾将内部评估通过但生产环境失败的代理上线，仅 5% 完全信任自动化评估。",
+        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+        "source": "VentureBeat"
+      },
+      {
+        "title": "管理者在 AI 转型中扮演关键角色",
+        "summary": "ZDNet 报道称，超过三分之二的中层管理者对 AI 未来持乐观态度，并认为自己对团队采用 AI 工具负有个人责任。",
+        "url": "https://www.zdnet.com/article/managers-play-critical-role-in-ai-transformation/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
