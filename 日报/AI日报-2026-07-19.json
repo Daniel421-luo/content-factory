@@ -1,0 +1,68 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-19",
+  "headline": "Moonshot AI 发布开源模型 Kimi K3，性能超越 Anthropic Fable 5；Index Ventures 联合创始人警告 AI 财富将面临再分配；Waymo 因停电暂停旧金山服务一小时后恢复。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Moonshot AI 发布开源模型 Kimi K3，性能超越 Anthropic Fable 5",
+        "summary": "中国公司 Moonshot AI 本周发布新版本 Kimi 模型，在基准测试中击败 Anthropic 的 Fable 5，引发对“全面 AI 共产主义”的担忧。",
+        "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Claude Code v2.1.214 发布：修复权限绕过等安全问题",
+        "summary": "Anthropic 发布 Claude Code 更新，修复了 Windows PowerShell 5.1 中的权限检查绕过漏洞及 Bash 权限检查的误判问题。",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214",
+        "source": "GitHub"
+      },
+      {
+        "title": "Google 更新 Gemini 使用配额机制，用户需关注用量",
+        "summary": "Google 改变了 Gemini 的配额计算方式，用户可能无法像以前一样获得大量 AI 回复。",
+        "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+        "source": "Wired"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Waymo 因停电暂停旧金山服务一小时后恢复",
+        "summary": "Waymo 在旧金山的自动驾驶服务因停电暂停约一小时，并非首次因停电导致服务中断。",
+        "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Index Ventures 联合创始人认为 AI 财富将面临再分配",
+        "summary": "Neil Rimer 预测硅谷 AI 创造的巨额财富将不得不以某种形式重新分配，无论是自愿还是强制。",
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vertu 推出售价 6880 美元的 AI 代理手机",
+        "summary": "Vertu 面向高管推出内置 AI 代理的豪华折叠手机，实际性能表现如何？",
+        "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "提示注入攻击可挫败 AI 黑客代理",
+        "summary": "一种名为“上下文轰炸”的技术可欺骗恶意 AI 代理在造成伤害前自行关闭。",
+        "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+        "source": "Wired"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Dave Eggers 对 OpenAI 员工表示 ChatGPT 正在“沉默一代人”",
+        "summary": "作家 Dave Eggers 受邀在 OpenAI 内部演讲，批评 AI 对创意写作的负面影响。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+        "source": "The Verge"
+      },
+      {
+        "title": "AI 能否改善医疗保险预授权流程？",
+        "summary": "美国政府正在试点使用 AI 进行保险覆盖决策，但效果存疑。",
+        "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
