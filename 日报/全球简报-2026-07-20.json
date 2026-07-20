@@ -1,0 +1,184 @@
+{
+  "title": "🌍 全球简报 | 2026-07-20",
+  "headline": "美伊冲突持续升级，美军连续第九天轰炸伊朗目标；英国首相换人，安迪·伯纳姆接替斯塔默；刚果埃博拉疫情死亡人数超930人；俄罗斯对乌克兰发动大规模导弹袭击。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美伊冲突升级：美军连续第九天轰炸伊朗，伊朗回应袭击叙利亚和约旦",
+        "summary": "美国与伊朗的冲突持续升级，美军连续第九天对伊朗目标实施轰炸，此前三名美军士兵在伊朗袭击中丧生。伊朗则对叙利亚和约旦发动了报复性攻击，霍尔木兹海峡附近两艘船只发生爆炸。",
+        "url": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
+        "source": "NPR"
+      },
+      {
+        "title": "安迪·伯纳姆成为英国新首相，接替凯尔·斯塔默",
+        "summary": "在国王查尔斯的见证下，前曼彻斯特市长安迪·伯纳姆接替凯尔·斯塔默成为英国首相，两人均来自中左翼工党。特朗普此前称英国为“贫困灾难”。",
+        "url": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
+        "source": "NPR"
+      },
+      {
+        "title": "刚果埃博拉疫情死亡人数超过930人",
+        "summary": "刚果卫生部报告，在已确诊的2344例病例中，至少有930人死亡。过去24小时内新增37例死亡，为单日最高之一。",
+        "url": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
+        "source": "NPR"
+      },
+      {
+        "title": "俄罗斯对乌克兰城市发动大规模弹道导弹袭击",
+        "summary": "俄罗斯对乌克兰多个城市发动导弹和无人机袭击，造成8人死亡、数十人受伤。乌克兰则继续对俄罗斯基础设施进行反击。",
+        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美国士兵在伊拉克遭伊朗袭击身亡，另一人受伤",
+        "summary": "美军报告一名士兵在伊拉克的伊朗袭击中死亡，此前一天两名美军士兵在约旦被杀。",
+        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普称美国打击伊朗是“为了纪念”阵亡美军士兵",
+        "summary": "特朗普表示对伊朗的打击是为了纪念被杀的美国士兵，伊朗则以袭击叙利亚和约旦作为回应。",
+        "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo",
+        "source": "BBC"
+      },
+      {
+        "title": "秘鲁地震造成至少6人死亡",
+        "summary": "秘鲁安第斯地区发生5.5级地震，造成至少6人死亡、30多人受伤、300人流离失所。",
+        "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+        "source": "Guardian"
+      },
+      {
+        "title": "圭亚那附近客轮沉没，大规模搜救行动展开",
+        "summary": "一艘客轮在圭亚那海岸附近沉没，乘客名单不准确导致救援复杂化，当局已展开刑事调查。",
+        "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "油价回吐涨幅，因伊朗称可基于国家利益寻求与美国谈判",
+        "summary": "伊朗表示可以基于国家利益与美国进行谈判，油价回吐此前涨幅。美军连续第九晚对伊朗目标实施打击。",
+        "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "瑞安航空股价下跌6%，伊朗战争导致燃油成本上升侵蚀利润",
+        "summary": "瑞安航空第一季度利润下降34%，因中东危机导致消费者推迟预订，航空公司面临“艰难冬季”。",
+        "url": "https://www.cnbc.com/2026/07/20/ryanair-stock-slides-6-as-higher-fuel-costs-amid-iran-war-dent-profit",
+        "source": "CNBC"
+      },
+      {
+        "title": "波音CEO称公司仍需“几年”修复财务，新飞机研发推迟",
+        "summary": "波音CEO凯利·奥特伯格表示，公司更专注于稳定现有业务，而非急于开发737 MAX的继任机型。",
+        "url": "https://www.cnbc.com/2026/07/20/boeing-ceo-ortberg-airbus-farnborough-737max.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "国际足联成为最大赢家：2026年世界杯收入预计超90亿美元",
+        "summary": "国际足联主持了史上最赚钱的体育赛事，预计2026年世界杯收入将超过90亿美元。",
+        "url": "https://www.cnbc.com/2026/07/20/world-cup-fifa-football-winner-tournament-spain.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "贝佐斯支持CuspAI，初创公司与英伟达合作寻找芯片制造材料",
+        "summary": "CuspAI是利用人工智能解决物理世界挑战的新一代公司之一，与英伟达合作开发新型芯片材料。",
+        "url": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "外卖骑手赢得中国最高文学奖",
+        "summary": "王计兵是获得更广泛关注的中国蓝领工人之一，其文学作品获得中国最高文学奖。",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo",
+        "source": "BBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "2026年世界杯决赛：西班牙对阵阿根廷",
+        "summary": "新泽西州大都会人寿体育场将举办西班牙与阿根廷的世界杯决赛，这是两国60年来首次交锋。",
+        "url": "https://abcnews.com/video/134884586/",
+        "source": "ABC News"
+      },
+      {
+        "title": "圣多美和普林西比总统选举",
+        "summary": "圣多美和普林西比举行总统选举，现任总统卡洛斯·维拉·诺瓦希望击败前政党，以独立候选人身份赢得连任。",
+        "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国东北部洪水预警与加拿大野火烟雾持续",
+        "summary": "美国东北部面临双重天气威胁：加拿大野火烟雾导致空气质量差，同时强雷暴引发洪水预警。",
+        "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊冲突持续，美军连续第九天轰炸伊朗，伊朗回应袭击叙利亚和约旦，霍尔木兹海峡附近船只爆炸",
+      "direction": "看多",
+      "asset_impact": "USO, /CL, XLE",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "伊朗表示可基于国家利益与美国谈判，油价回吐涨幅",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英国首相换人，安迪·伯纳姆接替斯塔默，市场担忧其左倾政策",
+      "direction": "看空",
+      "asset_impact": "GBPUSD, UKX, GILTS",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "俄罗斯对乌克兰发动大规模导弹袭击，地缘紧张加剧",
+      "direction": "看多",
+      "asset_impact": "USO, /CL, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "刚果埃博拉疫情持续，死亡人数超930人，但全球影响有限",
+      "direction": "中性",
+      "asset_impact": "无显著影响",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "瑞安航空利润下降34%，因中东危机导致燃油成本上升和消费者推迟预订",
+      "direction": "看空",
+      "asset_impact": "RYAAY, /CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "波音CEO称公司仍需数年修复财务，新飞机研发推迟",
+      "direction": "看空",
+      "asset_impact": "BA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国东北部洪水预警与加拿大野火烟雾持续，可能影响经济活动",
+      "direction": "中性",
+      "asset_impact": "无显著影响",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
