@@ -1,0 +1,164 @@
+{
+  "title": "📈 美股简报 | 2026-07-20",
+  "headline": "中东局势持续升级，布伦特原油突破90美元，美股期货持平，市场聚焦本周科技巨头财报",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "中东冲突升级，油价上涨，美股期货持平",
+        "summary": "美国对伊朗连续第九晚发动打击，布伦特原油突破90美元。美股期货周日基本持平，市场等待本周科技股财报。",
+        "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "散户投资者从Mag Seven转向新AI宠儿",
+        "summary": "WSJ报道，散户投资者正在抛售Mag Seven股票，寻找下一波AI明星股。",
+        "url": "https://www.wsj.com/finance/stocks/everyday-investors-are-over-the-mag-seven-and-into-new-ai-darlings-a112ea2b?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "大宗食品股承压，投资者失去信心",
+        "summary": "WSJ指出，General Mills、Kraft Heinz等食品公司面临通胀和GLP-1药物等多重压力，投资者已放弃该板块。",
+        "url": "https://www.wsj.com/business/retail/big-food-is-running-out-of-moves-with-shoppers-and-investors-5f4567e9?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Ryanair利润暴跌34%，警告冬季艰难",
+        "summary": "Ryanair第一财季利润下降34%，因中东危机导致消费者推迟预订。公司警告航空业面临“艰难冬季”。",
+        "url": "https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Netflix遭降级：定价动能放缓",
+        "summary": "Seeking Alpha分析师将Netflix评级下调，认为定价增长动力减弱，存在更好的投资标的。",
+        "url": "https://seekingalpha.com/article/4923371-netflix-pricing-tailwinds-are-slowing-and-better-buys-exist-downgrade",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "台积电加速亚利桑那工厂建设，押注AI大趋势",
+        "summary": "台积电CFO表示，因客户需求强劲，公司正在加速亚利桑那工厂建设以抓住AI“大趋势”。",
+        "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "韩国散户杠杆押注SK海力士和三星遭重创",
+        "summary": "CNBC报道，韩国散户投资者因杠杆做多SK海力士和三星股票，在股价反转后遭受重大损失。",
+        "url": "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "布伦特原油突破90美元，美伊冲突持续升级",
+        "summary": "美国连续第九晚打击伊朗目标，布伦特原油价格突破90美元，霍尔木兹海峡航运受威胁。",
+        "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "俄乌互相发动数月来最猛烈打击，北约警告",
+        "summary": "俄罗斯和乌克兰互相发动数月来最猛烈打击，北约军事首长警告莫斯科若攻击波罗的海国家将“损失惨重”。",
+        "url": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "极端天气冲击大宗商品市场",
+        "summary": "CNBC报道，从“超级厄尔尼诺”到欧洲热浪，气候波动对大宗商品市场的影响被低估。",
+        "url": "https://www.cnbc.com/2026/07/20/from-super-el-nio-to-europes-heatwave-how-to-trade-extreme-weather.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊冲突持续升级，霍尔木兹海峡航运风险",
+        "summary": "美国连续第九晚打击伊朗，布伦特原油突破90美元，若冲突扩大可能进一步推高油价并冲击全球供应链。",
+        "url": "https://www.cnbc.com/2026/07/20/us-iran-strait-of-hormuz-hostilities-casualties-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "俄乌冲突加剧，欧洲安全局势恶化",
+        "summary": "俄乌互相发动数月来最猛烈打击，北约警告俄罗斯若攻击波罗的海国家将面临严重后果，地缘风险上升。",
+        "url": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊冲突升级，布伦特原油突破90美元",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, CVX, XOM",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美股期货持平，市场等待科技财报",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "台积电加速亚利桑那工厂建设，AI需求强劲",
+      "direction": "看多",
+      "asset_impact": "TSM, NVDA, AMD, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "韩国散户杠杆做多SK海力士和三星遭重创",
+      "direction": "看空",
+      "asset_impact": "SK Hynix (000660.KS), Samsung (005930.KS)",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "散户从Mag Seven转向新AI宠儿",
+      "direction": "中性",
+      "asset_impact": "AAPL, MSFT, GOOGL, AMZN, META, NVDA, TSLA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Ryanair利润暴跌34%，航空业前景黯淡",
+      "direction": "看空",
+      "asset_impact": "RYAAY, JBLU, UAL, DAL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Netflix遭降级，定价动能放缓",
+      "direction": "看空",
+      "asset_impact": "NFLX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "俄乌冲突加剧，欧洲安全风险上升",
+      "direction": "看空",
+      "asset_impact": "EUO, EWU, EWG",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "极端天气冲击大宗商品市场",
+      "direction": "看多",
+      "asset_impact": "DBA, WEAT, CORN, SOYB",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
