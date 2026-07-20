@@ -1,0 +1,97 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-20",
+  "headline": "Netflix 以 5.87 亿美元收购 Ben Affleck 的 AI 电影制作公司；Qwen3.8 开源发布，2.4T 参数模型上线；黄仁勋访日宣布为日本建设 AI 工厂。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+        "summary": "阿里巴巴发布 Qwen3.8-Max-Preview，拥有 2.4T 参数，已在 Token Plan 等平台上线，即将开源权重。",
+        "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
+        "source": "AIHOT"
+      },
+      {
+        "title": "昆仑万维发布 Matrix-Game 3.5 世界模型，宣布2026为“世界模型元年”",
+        "summary": "昆仑万维在 WAIC 上发布 Matrix-Game 3.5 世界模型，实现 Patch 级记忆注入，5B 模型在 720p 下单卡 20FPS 实时生成，核心架构已开源。",
+        "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
+        "source": "AIHOT"
+      },
+      {
+        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+        "summary": "面壁智能开源首个具身 AI 模型系列 MiniCPM-Robot，包含 1.5B 参数的 VLA 模型和目标跟踪模型，同时发布高性能推理框架 PhyAI。",
+        "url": "https://x.com/OpenBMB/status/2078839529591759025",
+        "source": "AIHOT"
+      },
+      {
+        "title": "transcribe.cpp 发布：跨平台语音转录库，支持 16 个 ASR 模型族",
+        "summary": "基于 ggml 的语音转录库 transcribe.cpp v0.1.0 发布，支持 60+ 模型，通过 Vulkan、Metal、CUDA 等实现 GPU 加速。",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "source": "AIHOT"
+      },
+      {
+        "title": "ChatGPT Work 功能上线：建站、邮件、文档处理",
+        "summary": "ChatGPT Work 支持创建和托管网站、管理电子邮件、总结文档等，已面向 Plus、Pro、Business 和 Enterprise 用户开放。",
+        "url": "https://x.com/thsottiaux/status/2078697631019303273",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Netflix 以 5.87 亿美元收购 Ben Affleck 的 AI 电影制作公司 InterPositive",
+        "summary": "Netflix 披露以 5.87 亿美元现金收购由 Ben Affleck 联合创立的 AI 电影制作初创公司 InterPositive，彰显其在 AI 内容创作领域的布局。",
+        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，建设 Vera Rubin AI 工厂",
+        "summary": "Nvidia CEO 黄仁勋访日期间宣布为日本建设“Vera Rubin AI 工厂”，配备 13,750 颗 Vera CPU 和 27,500 颗 Rubin GPU，预计 2028 年投运。",
+        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple 诉讼可能影响 OpenAI 的硬件计划与上市",
+        "summary": "Apple 对 OpenAI 的诉讼可能波及后者进军硬件和上市的计划，引发行业关注。",
+        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "非营利组织 Current AI 致力于构建免费开放的 AI 生态",
+        "summary": "Current AI 正打造类似万维网的开放 AI 平台，在设备端、AI 聊天等方面取得进展，旨在服务多元文化。",
+        "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Moonshot AI 发布新版 Kimi 模型，引发“全面 AI 共产主义”担忧",
+        "summary": "中国公司 Moonshot AI 本周发布新版 Kimi 模型，引发关于 AI 对社会影响的讨论。",
+        "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Christopher Nolan 称 AI 是明显的“特洛伊木马”",
+        "summary": "《奥德赛》导演 Christopher Nolan 在采访中警告 AI 可能隐藏风险，称“所有人都知道希腊人在里面”。",
+        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI 热潮正在瓦解全球决策机制",
+        "summary": "一位从业者观察到全球公私机构陷入 AI 狂热，其团队所见 AI 项目全部失败，内部聊天机器人无人使用，客户服务体验糟糕。",
+        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Will AI fix prior authorization—or make it worse?",
+        "summary": "美国政府试点用 AI 进行保险覆盖决策，但专家质疑 AI 可能使问题恶化而非改善。",
+        "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "我讨厌这首用 Suno 制作的歌，但不得不承认它不错",
+        "summary": "The Verge 作者对 AI 音乐通常持批评态度，但发现一首用 Suno 生成的歌曲《Semiramis Dream》意外地好听，引发对 AI 音乐价值的思考。",
+        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
