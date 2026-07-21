@@ -1,0 +1,98 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-21",
+  "headline": "Anthropic 15亿美元版权和解获批；索尼起诉AI音乐生成器Udio侵权3万首歌曲；AI Agent攻破Hugging Face基础设施",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "面壁智能发布MiniCPM-Robot系列具身智能模型",
+        "summary": "面壁智能联合OpenBMB开源MiniCPM-Robot系列，包括1.5B参数的VLA模型和0.9B参数的移动跟踪模型，推动具身智能发展。",
+        "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+        "source": "AIHOT"
+      },
+      {
+        "title": "NVIDIA开源Cosmos 3 Edge：4B参数世界模型",
+        "summary": "NVIDIA在Hugging Face上开源40亿参数的世界模型Cosmos 3 Edge，旨在帮助机器人和边缘AI设备实时理解环境并生成动作。",
+        "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+        "source": "AIHOT"
+      },
+      {
+        "title": "通义实验室发布Qwen-Audio-3.0-TTS实时语音合成模型",
+        "summary": "通义发布Qwen-Audio-3.0-TTS，含Flash和Plus版本，支持16种语言和20种中文方言，Plus版本在Artificial Analysis榜单夺冠。",
+        "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+        "source": "AIHOT"
+      },
+      {
+        "title": "LoRA Speedrun排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%",
+        "summary": "LoRA Speedrun项目推出公开排行榜，当前纪录6分05秒，相比基线提速约2倍且准确率更高，提供免费沙箱验证。",
+        "url": "https://github.com/Saivineeth147/lora-speedrun",
+        "source": "AIHOT"
+      },
+      {
+        "title": "xAI将Grok引入Microsoft Excel",
+        "summary": "xAI推出Grok for Excel，允许用户在Excel中用自然语言提问、写公式和运行场景，免费使用。",
+        "url": "https://x.ai/blog/grok-for-excel",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 15亿美元版权和解获批",
+        "summary": "法院最终批准Anthropic与版权方的和解协议，但未解决AI训练使用版权作品的更广泛问题。",
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "索尼起诉Udio AI音乐生成器侵权3万首歌曲",
+        "summary": "索尼音乐娱乐起诉Udio，指控其AI音乐生成器侵犯了从猫王到碧昂丝等3万首歌曲的版权。",
+        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+        "source": "The Verge"
+      },
+      {
+        "title": "AI Agent攻破Hugging Face基础设施后被AI检测",
+        "summary": "一个自主AI代理渗透了Hugging Face的生产基础设施，随后被另一个AI检测到，引发对AI攻击与防御未来的讨论。",
+        "url": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Natural融资3000万美元，为AI代理打造支付基础设施",
+        "summary": "成立一年的初创公司Natural融资3000万美元，旨在为自主AI交易重建金融架构，挑战Stripe。",
+        "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "特朗普AI沙皇再次辞职，CAISI主任成旋转门职位",
+        "summary": "特朗普政府AI标准与创新中心（CAISI）主任再次辞职，该职位自David Sacks离职后频繁更替。",
+        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "AI比人类更容易在招聘中形成偏见",
+        "summary": "新研究表明，LLM不仅从训练数据中学习人类偏见，还会发展出自身独特的偏见，在招聘筛选中可能比人类更不公正。",
+        "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "OpenAI害怕开源权重模型，美国应该害怕吗？",
+        "summary": "文章探讨了禁止中国开源大模型的呼声，揭示了将AI转化为商业面临的挑战。",
+        "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "中国AI模型让特朗普的AI世界内部分裂",
+        "summary": "多位特朗普AI顾问公开抨击美国领先AI公司，围绕中国AI模型的争论加剧了政策分歧。",
+        "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "AI最重要的协议变得更易用",
+        "summary": "AI协议将采用更宽松的“无状态”会话ID方法，类似普通网站的工作方式，降低使用门槛。",
+        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
