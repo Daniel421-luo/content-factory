@@ -1,0 +1,174 @@
+{
+  "title": "📈 美股简报 | 2026-07-22",
+  "headline": "芯片股反弹推动纳指回升，中东局势持续推高油价，市场聚焦科技巨头财报",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "期货走高，芯片股反弹",
+        "summary": "美国股指期货上涨，芯片股从近期抛售中反弹，投资者为大型科技公司财报做准备。",
+        "url": "https://www.wsj.com/finance/stocks/u-s-futures-higher-as-ai-trade-bounces-back-d120b6a2",
+        "source": "WSJ"
+      },
+      {
+        "title": "布伦特原油突破90美元",
+        "summary": "中东冲突持续，布伦特原油价格升至每桶90美元以上，能源板块受益。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源股因油价上涨而便宜",
+        "summary": "尽管本月能源股因伊朗战争担忧大涨，但分析师认为该板块仍具吸引力，估值较低。",
+        "url": "https://www.marketwatch.com/story/why-energy-stocks-still-look-so-cheap-even-after-their-big-rally-this-month-7f1a298b",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "芯片股反弹，AI担忧消退",
+        "summary": "芯片股从中国AI担忧中恢复，分析师认为近期回调是买入机会，开源AI模型将推动内存需求。",
+        "url": "https://www.wsj.com/finance/stocks/chip-stocks-shrug-off-chinese-ai-worries-6af6ec70",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Super Micro股价飙升15%",
+        "summary": "AI服务器制造商Super Micro因新订单和利润率披露，股价大涨15%，毛利率预期翻倍至15%-17%。",
+        "url": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科技股重返涨势，等待财报",
+        "summary": "Alphabet、特斯拉、IBM将于周三公布财报，市场预期乐观。",
+        "url": "https://www.wsj.com/finance/stocks/tech-stocks-return-to-rally-mode-ahead-of-earnings-3702d559",
+        "source": "WSJ"
+      },
+      {
+        "title": "Nike削减中国线上分销商",
+        "summary": "Nike将切断数千家中国线上分销商，以稳定定价和品牌形象，推动增长。",
+        "url": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光等芯片股强劲反弹",
+        "summary": "分析师认为近期芯片股抛售是买入机会，开源AI模型将增加内存需求，美光等受益。",
+        "url": "https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "特朗普施压美国制造AI芯片，影响台积电利润率",
+        "summary": "台积电宣布2000亿美元美国投资，但特朗普要求本土生产AI芯片，压缩其利润率。",
+        "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "纬创在德克萨斯开设AI超级芯片工厂",
+        "summary": "纬创在德州开设首家美国工厂，为英伟达生产AI服务器，股价在台湾大涨。",
+        "url": "https://www.cnbc.com/2026/07/22/wistron-shares-surge-after-opening-texas-plant-for-nvidia-ai-servers-.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普计划对仿制药征收高额关税",
+        "summary": "特朗普宣布从2028年起对仿制药征收高额关税，以推动美国本土生产。",
+        "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普对加拿大商品加征50%关税",
+        "summary": "美国对加拿大冰球设备、酒精等商品征收50%关税，贸易争端升级。",
+        "url": "https://www.cbsnews.com/news/trump-canada-tariffs-hockey-milk-alcohol/",
+        "source": "CBS"
+      },
+      {
+        "title": "日本6月出口增速创近三年新高",
+        "summary": "日本6月出口同比增长19.3%，进口增长25.4%，均超预期。",
+        "url": "https://www.cnbc.com/2026/07/22/japan-june-exports-trade-data.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗威胁霍尔木兹海峡，全球风险上升",
+        "summary": "美国连续第11晚打击伊朗目标，伊朗威胁封锁霍尔木兹海峡，油价飙升。",
+        "url": "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "金价大跌，但买入机会显现",
+        "summary": "金价近期下跌，但分析师认为作为伊朗冲突对冲工具，买入黄金具有合理性。",
+        "url": "https://www.wsj.com/finance/commodities-futures/gold-prices-have-tanked-buying-the-dip-makes-sense-4db80abc",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "芯片股反弹，美光等受益于开源AI模型需求",
+      "direction": "看多",
+      "asset_impact": "MU, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Super Micro利润率翻倍，股价大涨",
+      "direction": "看多",
+      "asset_impact": "SMCI",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特朗普施压台积电本土生产，利润率承压",
+      "direction": "看空",
+      "asset_impact": "TSM",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "中东冲突持续，油价突破90美元",
+      "direction": "看多",
+      "asset_impact": "XLE, USO",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "金价回调，但地缘风险支撑避险需求",
+      "direction": "看多",
+      "asset_impact": "GLD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普对加拿大商品加征50%关税",
+      "direction": "看空",
+      "asset_impact": "加拿大相关ETF",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "科技巨头财报在即，市场预期乐观",
+      "direction": "中性",
+      "asset_impact": "QQQ, AAPL, MSFT, GOOGL, AMZN, META, TSLA",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "日本出口增速超预期，利好日本相关ETF",
+      "direction": "看多",
+      "asset_impact": "EWJ, DXJ",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
