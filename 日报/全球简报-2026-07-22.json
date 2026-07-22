@@ -1,0 +1,182 @@
+{
+  "title": "🌍 全球简报 | 2026-07-22",
+  "headline": "美国对伊朗军事行动持续，油价飙升4%；法国通过禁止15岁以下儿童使用社交媒体法案；乌克兰总统泽连斯基解职陆军总司令；热带风暴贝莎减弱但仍影响墨西哥湾沿岸。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国对伊朗军事行动持续，油价飙升4%",
+        "summary": "美国国务卿鲁比奥称伊朗对和谈“不认真”，油价应声上涨4%。特朗普威胁攻击伊朗地下核设施，并称伊朗“想见面”。",
+        "url": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "法国通过法律禁止15岁以下儿童使用社交媒体",
+        "summary": "法国成为欧盟首个通过全面禁令的国家，要求社交媒体平台从明年1月起验证所有用户年龄。",
+        "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o",
+        "source": "BBC"
+      },
+      {
+        "title": "泽连斯基解职乌克兰陆军总司令",
+        "summary": "在国防部长费多罗夫被撤职引发抗议后，西尔斯基被解职。",
+        "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o",
+        "source": "BBC"
+      },
+      {
+        "title": "热带风暴贝莎减弱但仍影响墨西哥湾沿岸",
+        "summary": "热带风暴贝莎在墨西哥湾沿岸减弱，但警告范围从阿拉巴马州莫比尔到路易斯安那州新奥尔良。",
+        "url": "https://abcnews.com/US/tropical-storm-bertha-begins-weakening-churns-off-gulf/story?id=134975115",
+        "source": "ABC News"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗战争已耗费美国375亿美元，五角大楼寻求更多拨款",
+        "summary": "国防部长赫格塞斯在听证会上透露，战争成本高昂，听证会因抗议和争吵中断。",
+        "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno",
+        "source": "BBC"
+      },
+      {
+        "title": "澳大利亚警告中国不会容忍“挑衅”行为",
+        "summary": "外长黄英贤将发表演讲批评中国近期试射核能力潜射导弹。",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
+        "source": "Guardian"
+      },
+      {
+        "title": "印度莫迪政府面临“蟑螂”抗议压力增大",
+        "summary": "反对党国大党在总理官邸外示威，抗议活动愈演愈烈。",
+        "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo",
+        "source": "BBC"
+      },
+      {
+        "title": "尼加拉瓜总统奥尔特加宣布不再举行选举，美国谴责",
+        "summary": "美国国务院谴责奥尔特加政权“结束国家选举”。",
+        "url": "https://www.foxnews.com/politics/state-department-rips-revolutionary-socialist-nicaraguan-regime-far-left-leader-ends-countrys-elections",
+        "source": "Fox News"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "油价因伊朗局势紧张飙升4%",
+        "summary": "布伦特原油和WTI原油价格上涨，因美国国务卿鲁比奥称伊朗对和谈不认真。",
+        "url": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普推动美国制造AI芯片，台积电利润率承压",
+        "summary": "台积电已宣布在美国投资2000亿美元，但特朗普政策挤压其利润空间。",
+        "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普宣布对仿制药征收新关税，2028年生效",
+        "summary": "此举可能影响全球药品供应链。",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+        "source": "Guardian"
+      },
+      {
+        "title": "加拿大取消与美国联合大桥开通庆典，贸易紧张加剧",
+        "summary": "因特朗普宣布对加拿大商品征收50%关税，底特律-温莎大桥开通仪式被取消。",
+        "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+        "source": "Guardian"
+      }
+    ],
+    "科技": [
+      {
+        "title": "法国通过法律禁止15岁以下儿童使用社交媒体",
+        "summary": "法国成为欧盟首个实施全面禁令的国家，要求平台验证用户年龄。",
+        "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o",
+        "source": "BBC"
+      },
+      {
+        "title": "美联储就Anthropic的Mythos AI模型发出警报，但数月无法使用",
+        "summary": "美联储无法访问Claude Mythos Preview，而其他机构正在修补漏洞。",
+        "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普推动美国制造AI芯片，台积电利润率承压",
+        "summary": "台积电在美国投资2000亿美元，但特朗普政策挤压利润。",
+        "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国与伊朗冲突进展",
+        "summary": "关注美国是否对伊朗地下核设施发动攻击及油价波动。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "美国企业财报季继续",
+        "summary": "多家大型科技和工业企业将公布财报。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "澳大利亚外长黄英贤对华演讲",
+        "summary": "预计将批评中国军事行动。",
+        "url": "",
+        "source": ""
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对伊朗军事行动持续，和谈前景黯淡",
+      "direction": "看多",
+      "asset_impact": "USO, /CL, /ES",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普威胁攻击伊朗地下核设施",
+      "direction": "看多",
+      "asset_impact": "USO, GLD, VIX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "加拿大取消与美国联合大桥庆典，贸易紧张升级",
+      "direction": "看空",
+      "asset_impact": "USDCAD, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "特朗普宣布对仿制药征收新关税",
+      "direction": "看空",
+      "asset_impact": "XLV, IBB",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "法国通过社交媒体禁令，可能引发其他欧盟国家效仿",
+      "direction": "中性",
+      "asset_impact": "META, SNAP",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "澳大利亚警告中国，地区紧张局势升温",
+      "direction": "中性",
+      "asset_impact": "FXI, /ES",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "印度莫迪政府面临抗议压力增大",
+      "direction": "看空",
+      "asset_impact": "INR, INDY",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
