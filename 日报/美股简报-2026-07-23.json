@@ -1,0 +1,216 @@
+{
+  "title": "📈 美股简报 | 2026-07-23",
+  "headline": "Alphabet和Tesla财报后因AI支出飙升拖累股价，油价因地缘冲突上涨，美债收益率逼近年内高点",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货盘前走低，AI支出担忧持续",
+        "summary": "Alphabet和Tesla财报后股价下跌，市场对AI巨额支出感到不安，纳指期货承压。",
+        "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价上涨，因油轮在沙特附近被击中且特朗普威胁伊朗",
+        "summary": "WTI原油价格攀升，因特朗普威胁轰炸伊朗基础设施以回应霍尔木兹海峡船只袭击。",
+        "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美债收益率逼近2026年高点，30年期收益率持续高于5%",
+        "summary": "10年期美债收益率接近年内高位，30年期收益率自2007年以来首次连续多日高于5%。",
+        "url": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082",
+        "source": "MarketWatch"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "AI股遭抛售，但分析师认为可能拯救牛市",
+        "summary": "AI热门股大幅回调，但部分分析师认为这有助于市场健康调整，避免泡沫。",
+        "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "能源板块因油价上涨受到提振",
+        "summary": "地缘政治风险推高油价，能源股有望受益。",
+        "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "贵金属谨慎反弹，但分析师认为持续上涨希望渺茫",
+        "summary": "黄金和白银近日反弹，但分析师预计难以回到年内高点。",
+        "url": "https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Tesla Q2财报不及预期，自由现金流转负且利润率下滑",
+        "summary": "Tesla财报显示盈利不及预期，自由现金流为负，汽车业务利润率下降，股价盘后下跌。",
+        "url": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Alphabet Q2营收超预期，但2026年资本支出上调令股价承压",
+        "summary": "Alphabet第二季度营收略超预期，但资本支出大幅增加，市场担忧回报周期，股价下跌。",
+        "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "ServiceNow财报显示网络安全业务增长，股价上涨",
+        "summary": "ServiceNow营收超预期，网络安全业务表现强劲，股价盘后走高。",
+        "url": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "IBM下调业绩展望但幅度小于预期，股价反弹",
+        "summary": "IBM正式财报显示下调展望，但幅度未如上周盈利预警般严重，股价上涨。",
+        "url": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "AI芯片股遭抛售，但分析师认为回调是买入机会",
+        "summary": "AI相关芯片股近期大幅下跌，但部分分析师认为这可能是买入良机，有助于市场健康。",
+        "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "数据中心运营商TECfusions计划通过SPAC上市，估值40亿美元",
+        "summary": "TECfusions运营北美最大AMD AI训练集群之一，计划与Apex Treasury合并上市。",
+        "url": "https://www.wsj.com/finance/investing/u-s-data-center-operator-tecfusions-plans-to-go-public-in-4-billion-spac-deal-e3f54495",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "伊朗危机加剧，美联储加息概率上升",
+        "summary": "油价上涨推高通胀预期，美债收益率攀升，市场认为美联储更可能加息。",
+        "url": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "众议院通过法案限制国会议员股票交易",
+        "summary": "《停止内幕交易法案》禁止议员及其配偶、子女购买个股，已获众议院通过。",
+        "url": "https://www.cbsnews.com/news/congress-stock-trading-limits-house-vote/",
+        "source": "CBS News"
+      },
+      {
+        "title": "对冲基金关注英国股票，新首相承诺'新经济模式'",
+        "summary": "英国新首相Andy Burnham的政策改革可能带来交易机会，对冲基金开始布局。",
+        "url": "https://www.cnbc.com/2026/07/23/andy-burnham-labour-hedge-funds-short-selling-uk.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗-美国冲突升级，油轮被击中",
+        "summary": "特朗普威胁轰炸伊朗基础设施，霍尔木兹海峡航运风险加剧，油价可能进一步上涨。",
+        "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美债收益率持续攀升，30年期收益率创19年新高",
+        "summary": "长期收益率上升可能压制成长股估值，增加市场波动。",
+        "url": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "AI支出过高引发市场担忧，Alphabet和Tesla股价承压",
+        "summary": "科技巨头资本支出激增，市场质疑回报率，可能拖累整体科技板块。",
+        "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "Alphabet和Tesla财报后AI支出超预期，股价下跌",
+      "direction": "看空",
+      "asset_impact": "GOOGL, TSLA, QQQ",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "油轮被击中，特朗普威胁伊朗，油价上涨",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, OIH",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美债收益率逼近年内高点，30年期收益率持续高于5%",
+      "direction": "看空",
+      "asset_impact": "TLT, SPY, QQQ",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI股回调，分析师认为可能拯救牛市",
+      "direction": "中性",
+      "asset_impact": "NVDA, AMD, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "ServiceNow财报超预期，网络安全业务强劲",
+      "direction": "看多",
+      "asset_impact": "NOW, CRM",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "IBM下调展望但幅度小于预期，股价反弹",
+      "direction": "看多",
+      "asset_impact": "IBM",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "数据中心运营商TECfusions计划SPAC上市，使用AMD集群",
+      "direction": "中性",
+      "asset_impact": "AMD, SPAC",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伊朗危机加剧，美联储加息概率上升",
+      "direction": "看空",
+      "asset_impact": "TLT, SPY, QQQ",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "众议院通过法案限制议员股票交易",
+      "direction": "中性",
+      "asset_impact": "SPY",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "对冲基金关注英国股票，新首相政策改革",
+      "direction": "看多",
+      "asset_impact": "EWU, UKX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "贵金属谨慎反弹，但分析师认为持续上涨希望渺茫",
+      "direction": "中性",
+      "asset_impact": "GLD, SLV",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
