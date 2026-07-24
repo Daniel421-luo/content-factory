@@ -1,0 +1,176 @@
+{
+  "title": "🌍 全球简报 | 2026-07-24",
+  "headline": "美国对数十国加征新关税，美伊在波斯湾互袭升级，油价突破100美元",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国对60个贸易伙伴实施新一波关税",
+        "summary": "特朗普政府以强迫劳动为由，对全球主要贸易伙伴加征两位数关税，取代此前因最高法院裁决而失效的临时全球关税。",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
+        "source": "BBC"
+      },
+      {
+        "title": "美伊在波斯湾互袭升级，油价突破100美元",
+        "summary": "美国与伊朗在波斯湾地区互相发动更多打击，伊朗谴责美国计划用冻结资产支付战争赔款。布伦特原油价格自5月以来首次突破100美元。",
+        "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普出席重新安排的白宫记者协会晚宴",
+        "summary": "数月前因枪击事件被迫疏散后，特朗普重返晚宴舞台，白宫记者协会将表彰制止武装嫌疑人的特勤局官员。",
+        "url": "https://abcnews.com/Politics/trump-attend-rescheduled-white-house-correspondents-dinner-friday/story?id=135027808",
+        "source": "ABC News"
+      },
+      {
+        "title": "法国旅游胜地野火蔓延，数万人被疏散",
+        "summary": "大火在法国卡普费雷半岛持续多日，当局下令整个半岛居民撤离。",
+        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普称沙特承认以色列是核协议前提",
+        "summary": "美国总统表示，帮助沙特发展核能的里程碑协议取决于其加入《亚伯拉罕协议》。",
+        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo",
+        "source": "BBC"
+      },
+      {
+        "title": "印度活动家结束26天绝食抗议，但示威者誓言继续",
+        "summary": "索南·旺楚克结束绝食，但“蟑螂”抗议者表示将继续抗议，直至教育部长辞职。政府与抗议者将举行会谈。",
+        "url": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
+        "source": "NPR"
+      },
+      {
+        "title": "加拿大因贸易紧张取消美加联合大桥开通庆典",
+        "summary": "特朗普威胁征收50%关税后，原定周五举行的戈迪·豪国际大桥剪彩仪式被取消。",
+        "url": "https://www.theguardian.com/us-news/2026/07/21/gordie-howe-bridge-opening-celebration-canceled",
+        "source": "Guardian"
+      },
+      {
+        "title": "尼加拉瓜国会宣布暂停选举的“工作计划”",
+        "summary": "美国国务卿呼吁国际社会“联合起来”反对奥尔特加独裁政权。",
+        "url": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美股期货上涨，投资者试图从油价驱动的抛售中恢复",
+        "summary": "三大主要股指本周均将录得跌幅，以科技股为主的纳斯达克指数领跌。",
+        "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英特尔股价大涨，AI热潮推动近15年来最快营收增长",
+        "summary": "英特尔公布超预期财报和指引后股价飙升。",
+        "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国国债收益率回落，10年期收益率徘徊在2025年1月高位附近",
+        "summary": "10年期美债收益率报4.693%，下降1个基点。",
+        "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "俄罗斯袭击切断乌克兰北部约15万人电力供应",
+        "summary": "乌克兰总统表示，俄军攻击导致北部地区大规模停电。",
+        "url": "https://www.cnbc.com/2026/07/24/russian-attack-cuts-power-to-around-150000-in-ukraines-north-as-kyiv-hits-missile-oil-facilities.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Netflix全球观众热追南非剧集《一夫多妻者》",
+        "summary": "这部祖鲁语剧集融合性与丑闻，描绘现代南非的尖锐画面，风靡全球。",
+        "url": "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist",
+        "source": "NPR"
+      },
+      {
+        "title": "韩国科技巨头董事长被判支付前妻6.44亿美元离婚赔偿",
+        "summary": "这起涉及韩国最大公司之一董事长的离婚案引发全国关注。",
+        "url": "https://www.bbc.co.uk/news/articles/ckg68jky65eo",
+        "source": "BBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国新关税生效后贸易伙伴反应",
+        "summary": "各国可能宣布报复措施或继续谈判，关注市场波动。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "美伊冲突持续，关注油价走势",
+        "summary": "布伦特原油突破100美元后，市场关注是否进一步上涨。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "法国野火疏散后续",
+        "summary": "卡普费雷半岛火势控制情况，以及是否影响旅游旺季。",
+        "url": "",
+        "source": ""
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对60国加征新关税，全球贸易战升级",
+      "direction": "看空",
+      "asset_impact": "FXI, EEM, /ES, US10Y",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美伊在波斯湾互袭，油价突破100美元",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, GLD",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "加拿大取消美加联合大桥庆典，贸易紧张加剧",
+      "direction": "看空",
+      "asset_impact": "USO, /ES, CADUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英特尔财报超预期，AI需求推动增长",
+      "direction": "看多",
+      "asset_impact": "INTC, SMH",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美债收益率回落，10年期在4.69%附近",
+      "direction": "中性",
+      "asset_impact": "US10Y, TLT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "俄罗斯袭击乌克兰北部电网，约15万人断电",
+      "direction": "看空",
+      "asset_impact": "/ES, USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "沙特核协议与以色列关系挂钩，中东地缘风险",
+      "direction": "中性",
+      "asset_impact": "USO, GLD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
