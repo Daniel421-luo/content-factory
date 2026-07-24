@@ -1,0 +1,202 @@
+{
+  "title": "📈 美股简报 | 2026-07-24",
+  "headline": "科技股因AI支出担忧重挫，油价突破100美元，特朗普宣布新一轮全球关税",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "期货小幅波动，市场试图从抛售中反弹",
+        "summary": "标普500期货小幅波动，三大主要指数本周均录得跌幅，科技股领跌。",
+        "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "市场广度改善，保险和工业股受关注",
+        "summary": "分析师Josh Brown认为市场正在从AI交易扩大，建议关注保险和工业股。",
+        "url": "https://www.cnbc.com/2026/07/23/josh-brown-says-the-stock-market-is-broadening-out-heres-how-to-play-it.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI抛售或为牛市提供支撑",
+        "summary": "有观点认为AI股大跌可能反而拯救牛市，因资金轮动至其他板块。",
+        "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "英特尔财报超预期，股价大涨",
+        "summary": "英特尔第二季度业绩和指引远超预期，营收增速创近15年最快，股价大幅上涨。",
+        "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特斯拉暴跌15%，AI支出担忧拖累科技股",
+        "summary": "特斯拉财报令人失望，股价暴跌15%，市场对AI巨额支出回报的担忧加剧。",
+        "url": "https://www.wsj.com/finance/stocks/reality-bites-elon-musk-and-his-tesla-spacex-believers-1b639591",
+        "source": "WSJ"
+      },
+      {
+        "title": "ServiceNow财报超预期但股价下跌",
+        "summary": "ServiceNow业绩显示AI动能增强，但OpenAI Presence的推出引发企业软件颠覆担忧。",
+        "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "甲骨文获五角大楼70亿美元软件合同",
+        "summary": "甲骨文与美国国防部签署为期10年的本地软件供应合同，价值高达70亿美元。",
+        "url": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英特尔财报超预期，AI推动营收快速增长",
+        "summary": "英特尔第二季度业绩和指引远超预期，营收增速创近15年最快，AI需求是主要驱动力。",
+        "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AMD与英伟达竞争扩展至服务器CPU领域",
+        "summary": "两家芯片巨头在GPU竞争之外，正加大在服务器CPU市场的投入。",
+        "url": "https://www.marketwatch.com/story/amds-rivalry-with-nvidia-is-increasingly-moving-into-a-new-realm-ac63eceb",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "中国最大存储芯片制造商CXMT IPO引发资金外流担忧",
+        "summary": "CXMT即将上市，市场担忧其大规模IPO可能吸走中国股市资金。",
+        "url": "https://www.cnbc.com/2026/07/24/cxmt-china-ipo-listing-chip-memory.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普宣布新一轮全球关税，贸易伙伴强烈反对",
+        "summary": "美国以强迫劳动为由对60个贸易伙伴加征最高12.5%的关税，多国拒绝该理由但表示将继续谈判。",
+        "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价突破100美元，创5月以来新高",
+        "summary": "布伦特原油周四上涨超6%，突破100美元，因红海袭击事件升级。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o",
+        "source": "BBC"
+      },
+      {
+        "title": "日本6月核心通胀率小幅回升",
+        "summary": "日本6月核心CPI同比上涨1.6%，为三个月来首次上升，符合预期。",
+        "url": "https://www.cnbc.com/2026/07/24/japan-cpi-june-inflation-oil-prices-yen.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国等多国在APEC支持开源AI并强调安全",
+        "summary": "APEC部长级声明首次纳入开源AI合作，强调强安全性。",
+        "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "油价突破100美元，通胀风险上升",
+        "summary": "布伦特原油突破100美元，可能推高通胀并影响美联储政策。",
+        "url": "https://www.wsj.com/business/energy-oil/oil-prices-roar-back-threatening-economy-and-gops-midterm-hopes-73df238a",
+        "source": "WSJ"
+      },
+      {
+        "title": "科技股AI支出担忧持续发酵",
+        "summary": "特斯拉和谷歌财报引发对AI投资回报的质疑，Magnificent Seven市值蒸发约8900亿美元。",
+        "url": "https://www.wsj.com/finance/stocks/investors-zero-in-on-runaway-tech-spending-putting-dent-in-ai-trade-1da74e98",
+        "source": "WSJ"
+      },
+      {
+        "title": "特朗普新关税可能加剧贸易紧张",
+        "summary": "新一轮全球关税可能引发贸易伙伴报复，影响全球供应链。",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英特尔财报超预期，营收增速创近15年最快",
+      "direction": "看多",
+      "asset_impact": "INTC, SOXX",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特斯拉暴跌15%，AI支出担忧加剧",
+      "direction": "看空",
+      "asset_impact": "TSLA, QQQ",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "油价突破100美元，因红海袭击升级",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普宣布新一轮全球关税，最高12.5%",
+      "direction": "看空",
+      "asset_impact": "SPY, EEM",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "甲骨文获五角大楼70亿美元合同",
+      "direction": "看多",
+      "asset_impact": "ORCL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "ServiceNow财报超预期但股价下跌，因OpenAI威胁",
+      "direction": "中性",
+      "asset_impact": "NOW, CRM",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "AMD与英伟达竞争扩展至服务器CPU",
+      "direction": "中性",
+      "asset_impact": "AMD, NVDA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "CXMT IPO可能吸走中国股市资金",
+      "direction": "看空",
+      "asset_impact": "FXI, ASHR",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "日本核心通胀小幅回升至1.6%",
+      "direction": "中性",
+      "asset_impact": "JPY, EWJ",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "市场广度改善，保险和工业股受关注",
+      "direction": "看多",
+      "asset_impact": "XLI, IAK",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
