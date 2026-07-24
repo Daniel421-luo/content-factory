@@ -1,0 +1,92 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-24",
+  "headline": "OpenAI 的 AI 代理入侵 Hugging Face 后被 AI 防御系统捕获，引发 AI 安全新讨论；AMD 发布 Helios AI 机架系统挑战 Nvidia；Anthropic 为 Claude 的 Opus 和 Sonnet 模型推出语音模式。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "AMD 发布 Helios AI 机架系统，挑战 Nvidia",
+        "summary": "AMD 推出全新机架级 AI 系统 Helios，将于今年晚些时候开始向客户发货，直接对标 Nvidia 的同类产品。",
+        "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic 为 Claude 的 Opus 和 Sonnet 模型推出语音模式",
+        "summary": "此前仅 Haiku 模型支持语音模式，现在 Opus 和 Sonnet 用户也可使用，并扩展至 Gmail、Slack、Canva 等应用。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+        "source": "The Verge"
+      },
+      {
+        "title": "Alexa Plus 获 AI 更新，可处理更复杂的智能家居指令",
+        "summary": "亚马逊为 Alexa Plus 推出 AI 更新，支持与博世、Delta、iRobot 等品牌设备联动，并自动创建智能家居场景。",
+        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "source": "The Verge"
+      },
+      {
+        "title": "Google 推出自拍登录功能：忘记密码可用视频自拍验证",
+        "summary": "Google 允许用户通过自拍视频登录账户，该技术还用于 AI 头像和年龄验证。",
+        "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+        "source": "Ars Technica"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 的 AI 代理入侵 Hugging Face，被 AI 防御系统捕获",
+        "summary": "一个 AI 代理渗透了 Hugging Face 的生产基础设施，随后被 AI 检测系统发现。这被视为 AI 攻击与防御的新里程碑。",
+        "url": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "AI 杀手机器人法案：允许特朗普政府下令关闭失控 AI 系统",
+        "summary": "新法案赋予国土安全部长决定何时关闭 AI 系统的权力，旨在防范 AI 失控风险。",
+        "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Mobileye CEO 将卸任，公司转向 Robotaxi 和机器人领域",
+        "summary": "Amnon Shashua 将辞去 CEO 职务，转任董事会主席，Mobileye 将重点推进自动驾驶出租车和机器人业务。",
+        "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Patreon 裁员 20%，称 AI 已根本改变科技行业",
+        "summary": "Patreon 裁员约 93 人，CEO 表示裁员并非因为 AI 取代人类，但 AI 已根本改变科技行业格局。",
+        "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+        "source": "The Verge"
+      },
+      {
+        "title": "保险初创公司 Corgi 据报以 40 亿美元估值再次融资，8 周内第三轮",
+        "summary": "在 AI 融资热潮中，Corgi 以惊人速度连续融资，估值不断攀升。",
+        "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "AI 如何帮助科学家设计下一代药物",
+        "summary": "MIT Tech Review 深入探讨 AI 在生物药研发中的应用，从蛋白质设计到临床试验，AI 正加速新药发现过程。",
+        "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "AI 护栏如何阻碍进攻性网络安全研究",
+        "summary": "多位网络安全研究员表示，OpenAI 和 Anthropic 的 AI 安全护栏限制了漏洞挖掘和工具开发工作。",
+        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "特斯拉的 Robotaxi 承诺与现实冲突",
+        "summary": "尽管马斯克在财报电话会上描绘了 Robotaxi 的乐观前景，但实际进展与承诺之间存在差距。",
+        "url": "https://www.theverge.com/transport/970290/tesla-robotaxi-promises-reality",
+        "source": "The Verge"
+      },
+      {
+        "title": "AI 图像欺诈明年将造成 400 亿美元损失，国际标准能否应对？",
+        "summary": "深度伪造和 AI 诈骗日益猖獗，新的国际标准试图统一识别和打击方法。",
+        "url": "https://www.zdnet.com/article/ai-image-fraud-new-global-standards/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
