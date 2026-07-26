@@ -1,0 +1,168 @@
+{
+  "title": "📈 美股简报 | 2026-07-26",
+  "headline": "本周迎来财报最繁忙一周，苹果等科技巨头领衔；乌克兰袭击伊朗船只令地缘风险升温，市场关注通胀与利率前景。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "财报季进入最繁忙一周",
+        "summary": "本周是第二季度财报季最活跃的一周，苹果等科技巨头将公布业绩，市场处于关键节点。",
+        "url": "https://www.cnbc.com/2026/07/26/earnings-playbook-apple-other-megacaps-lead-busiest-week-of-the-season.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "上周市场波动后企稳",
+        "summary": "美股上周收低，但周五走势趋于平静，波动性有所缓解。",
+        "url": "https://www.wsj.com/finance/stocks/wild-markets-week-settles-down-40d27352",
+        "source": "WSJ"
+      },
+      {
+        "title": "技术面三重威胁浮现",
+        "summary": "国债收益率和油价飙升，美元确认突破长期上行趋势，标普500跌破关键支撑位，但仍有避险板块可配置。",
+        "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b",
+        "source": "MarketWatch"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "工业板块受益AI基建热潮",
+        "summary": "标普500工业板块因AI基础设施投资而市盈率接近科技板块水平，资金流入强劲。",
+        "url": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "苹果等科技巨头领衔本周财报",
+        "summary": "本周是第二季度财报最繁忙的一周，苹果等大型科技公司将公布业绩，对市场方向至关重要。",
+        "url": "https://www.cnbc.com/2026/07/26/earnings-playbook-apple-other-megacaps-lead-busiest-week-of-the-season.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "标普500盈利增长靠单一公司拉动",
+        "summary": "市场准备迎接财报最繁忙一周，标普500的盈利增长主要由一家公司贡献。",
+        "url": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达锁定SK海力士内存供应",
+        "summary": "英伟达作为5000亿美元AI交易的一部分，与SK海力士锁定高带宽内存供应，确保GPU和系统关键组件。",
+        "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SK海力士美股与韩股溢价警示泡沫",
+        "summary": "SK海力士在美国和韩国上市的股票之间存在巨大溢价，这种价差不该在有效市场出现，被视为泡沫警告。",
+        "url": "https://www.wsj.com/finance/stocks/another-bubble-warning-paying-more-for-the-same-stock-in-different-places-a3533ffe",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "乌克兰袭击伊朗船只，地缘风险升级",
+        "summary": "乌克兰袭击里海伊朗船只，德黑兰指责基辅；叠加沙特打击也门胡塞武装，中东冲突扩大。",
+        "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普威胁调查欧盟对科技公司罚款",
+        "summary": "特朗普表示美国将调查欧盟贸易行为，要求逆转对谷歌、苹果、Meta和亚马逊的罚款。",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
+        "source": "BBC"
+      },
+      {
+        "title": "国债市场向美联储发出利率警告",
+        "summary": "国债收益率上升显示市场对通胀极度担忧，质疑美联储能否兑现强硬言论。",
+        "url": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "特朗普新关税生效即遭起诉",
+        "summary": "特朗普对巴西进口商品加征25%关税、威胁对加拿大征50%关税，专家质疑其合法性。",
+        "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "地缘风险：乌克兰-伊朗冲突扩大",
+        "summary": "乌克兰袭击伊朗船只，中东冲突可能进一步升级，影响能源和航运。",
+        "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "贸易政策：特朗普关税诉讼",
+        "summary": "新关税生效即面临法律挑战，若受阻可能引发市场波动。",
+        "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达锁定SK海力士内存供应，强化AI供应链",
+      "direction": "看多",
+      "asset_impact": "NVDA, SK Hynix (间接), SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SK海力士美股溢价警示泡沫风险",
+      "direction": "看空",
+      "asset_impact": "SK Hynix ADR, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "乌克兰袭击伊朗船只，地缘风险升温",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, 航运股",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普威胁调查欧盟科技罚款，贸易摩擦加剧",
+      "direction": "看空",
+      "asset_impact": "GOOGL, AAPL, META, AMZN",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "国债收益率上升，市场担忧通胀和加息",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普新关税遭诉讼，政策不确定性增加",
+      "direction": "中性",
+      "asset_impact": "巴西相关ETF (EWZ), 加元相关",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "工业板块受益AI基建，估值接近科技股",
+      "direction": "看多",
+      "asset_impact": "GE, CAT, 工业ETF (XLI)",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "本周财报季最繁忙，苹果等科技巨头领衔",
+      "direction": "中性",
+      "asset_impact": "AAPL, MSFT, GOOGL, AMZN, META",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    }
+  ]
+}
