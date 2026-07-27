@@ -1,0 +1,150 @@
+{
+  "title": "🌍 全球简报 | 2026-07-27",
+  "headline": "美伊冲突暂时停火，油价大跌；法国西班牙野火迫使30万人撤离；西雅图美食节枪击致3死4伤",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美伊暂停空袭，油价应声下跌",
+        "summary": "美国暂停对伊朗的轰炸，为和平谈判创造空间，国际油价大幅回落。",
+        "url": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "法国西班牙野火肆虐，超30万人被迫撤离",
+        "summary": "法国波尔多地区及西班牙中部大火持续，马克龙召开危机会议，热浪加剧火势。",
+        "url": "https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "西雅图美食节发生枪击，3死4伤",
+        "summary": "周日西雅图中心美食节上，两名嫌疑人互相射击，一人被捕，一人在逃。",
+        "url": "https://abcnews.com/US/multiple-people-shot-seattle-center-police/story?id=135108867",
+        "source": "ABC News"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美伊谈判面临新障碍，伊朗官员称“没有谈判”",
+        "summary": "尽管美国暂停空袭，但伊朗方面表示目前没有与美国进行谈判。",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
+        "source": "ABC News"
+      },
+      {
+        "title": "特朗普宣布新一轮关税，涉及60个贸易伙伴",
+        "summary": "特朗普上周五宣布对欧盟、中国、英国等60个贸易伙伴加征关税，引发市场担忧。",
+        "url": "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国首相承诺继续支持乌克兰，泽连斯基将访英",
+        "summary": "乌克兰总统泽连斯基将成为英国新首相伯纳姆上任后首位国际访客。",
+        "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "油价因美伊停火大幅下跌",
+        "summary": "美国暂停对伊朗攻击，市场预期冲突缓和，原油价格承压。",
+        "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "中国芯片公司CXMT上市首日暴涨466%，成A股市值最大公司",
+        "summary": "合肥长鑫存储（CXMT）IPO募资579.2亿元人民币，股价飙升，市值登顶。",
+        "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "苹果期权出现罕见异动，财报前市场情绪微妙",
+        "summary": "苹果股价自6月底低点上涨20%，期权市场显示投资者对财报预期分歧。",
+        "url": "https://www.cnbc.com/2026/07/27/apple-options-are-doing-something-unusual-into-earnings.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "英伟达、SpaceX、微软等联合发起AI安全倡议",
+        "summary": "多家科技巨头加入“开放安全AI联盟”，应对OpenAI网络攻击后续影响。",
+        "url": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "《奥德赛》电影盗版在X平台泄露，数百万次观看",
+        "summary": "环球影业正努力删除在X上流传的高质量盗版影片。",
+        "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美伊谈判进展",
+        "summary": "关注美国与伊朗是否重启正式谈判，以及停火能否持续。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "法国西班牙野火控制情况",
+        "summary": "关注欧洲热浪和野火对当地经济及能源需求的影响。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "美国中期选举初选最后阶段",
+        "summary": "多个州将举行初选，参议院控制权争夺日趋激烈。",
+        "url": "",
+        "source": ""
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊暂停空袭，油价大幅下跌",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普宣布新一轮广泛关税",
+      "direction": "看空",
+      "asset_impact": "FXI, EZU, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "法国西班牙野火迫使30万人撤离，热浪持续",
+      "direction": "看多",
+      "asset_impact": "NG, TTF",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国芯片公司CXMT上市首日暴涨，半导体板块受关注",
+      "direction": "中性",
+      "asset_impact": "SMH, FXI",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "印度Gen Z抗议迫使莫迪政府让步，政治不确定性上升",
+      "direction": "看空",
+      "asset_impact": "INDA, INRUSD",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国中期选举临近，政治不确定性增加",
+      "direction": "中性",
+      "asset_impact": "VIX, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
