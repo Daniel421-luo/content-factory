@@ -1,0 +1,188 @@
+{
+  "title": "📈 美股简报 | 2026-07-28",
+  "headline": "芯片股抛售蔓延至亚洲，SK海力士暴跌13%，美股指期货承压；苹果超越英伟达重夺全球市值第一；本周聚焦美联储会议及科技巨头财报",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货下跌，韩国Kospi指数暴跌10%",
+        "summary": "标普500期货走低，投资者为本周大型科技股财报和美联储会议做准备。韩国Kospi指数盘中暴跌10%，触发熔断。",
+        "url": "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "原油延续跌势，美伊停火缓解供应担忧",
+        "summary": "WTI原油价格继续下跌，因美国与伊朗暂停敌对行动，市场预期地缘风险缓和。特朗普在空军一号上否认美国武器短缺。",
+        "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美债收益率下行，市场等待美联储决议",
+        "summary": "美国国债需求部分回升，收益率走低，因美伊停火及油价暴跌促使避险资金流入债市。",
+        "url": "https://www.wsj.com/finance/investing/jgb-futures-rise-amid-falling-crude-oil-prices-2f1d5195",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "芯片股抛售加剧，AI热潮担忧蔓延",
+        "summary": "AI相关股票再次大幅下跌，市场担忧科技牛市基础动摇。韩国芯片股领跌，SK海力士暴跌13%。",
+        "url": "https://www.cnbc.com/2026/07/28/daily-open-ai-boom-chip-selloff-sk-hynix.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美韩科技股关联度升至2021年以来最高",
+        "summary": "Kospi与纳斯达克100的60天相关性升至约0.50，为2021年以来最高，投资者担忧联动风险。",
+        "url": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI相关债券市场出现裂痕",
+        "summary": "随着Meta和微软财报临近，AI债券供应压力增大，市场担忧资金从其他板块流出。",
+        "url": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "苹果超越英伟达，成为全球市值最高公司",
+        "summary": "苹果市值达到4.95万亿美元，超越英伟达，后者自2025年6月以来一直占据榜首。",
+        "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达与OpenAI潜在交易引发泡沫担忧",
+        "summary": "分析师警告，英伟达可能为OpenAI数据中心租赁提供支持，若成行将是此类最大交易，可能重燃科技泡沫担忧。",
+        "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "强生提出55亿美元和解婴儿爽身粉诉讼",
+        "summary": "强生提议支付最高55亿美元，以了结持续多年的滑石粉产品致癌诉讼。",
+        "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o",
+        "source": "BBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "SK海力士首尔股价暴跌13%，芯片抛售加深",
+        "summary": "韩国半导体股周二大跌，延续芯片股跌势。SK海力士暴跌13%，三星等也承压。",
+        "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国IPO冲击芯片股",
+        "summary": "一只中国IPO引发芯片股震荡，具体细节未明，但加剧了市场对半导体板块的担忧。",
+        "url": "https://www.wsj.com/finance/stocks/chinese-ipo-rattles-chip-stocks-a563c5f6",
+        "source": "WSJ"
+      },
+      {
+        "title": "纳微半导体发布2026年第二季度财报电话会议演示",
+        "summary": "纳微半导体（Navitas Semiconductor）公布了Q2业绩，但具体数据未在摘要中提及。",
+        "url": "https://seekingalpha.com/article/4926099-navitas-semiconductor-corporation-2026-q2-results-earnings-call-presentation",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普政府要求最高法院介入邮寄投票限制",
+        "summary": "联邦上诉法院周六维持了对23个州的邮寄投票限制禁令，特朗普政府请求最高法院干预。",
+        "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "印尼股市大幅反弹，进入牛市",
+        "summary": "印尼股市从五周低点大幅反弹，估值吸引、监管快速干预及外资回流推动市场进入牛市。",
+        "url": "https://www.cnbc.com/2026/07/28/indonesian-stocks-enter-bull-market.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "本周美联储会议及科技巨头财报",
+        "summary": "美联储利率决议和微软、Meta等科技巨头财报可能引发市场大幅波动，投资者需警惕。",
+        "url": "https://www.cnbc.com/2026/07/27/big-earnings-and-a-fed-meetings-what-nyse-insider-jay-woods-is-watching-this-week.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "芯片股抛售蔓延至亚洲，韩国Kospi熔断",
+        "summary": "韩国Kospi指数暴跌10%触发熔断，SK海力士等芯片股领跌，全球半导体板块承压。",
+        "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊停火缓解供应担忧，原油价格延续跌势",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "苹果超越英伟达成为全球市值最高公司",
+      "direction": "看多",
+      "asset_impact": "AAPL",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "SK海力士暴跌13%，芯片抛售蔓延至亚洲",
+      "direction": "看空",
+      "asset_impact": "MU, NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英伟达与OpenAI潜在交易引发泡沫担忧",
+      "direction": "看空",
+      "asset_impact": "NVDA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美韩科技股关联度升至2021年以来最高，联动风险增加",
+      "direction": "看空",
+      "asset_impact": "QQQ, KWEB",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI相关债券市场出现裂痕，资金压力增大",
+      "direction": "看空",
+      "asset_impact": "MSFT, META",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "强生提出55亿美元和解婴儿爽身粉诉讼",
+      "direction": "看多",
+      "asset_impact": "JNJ",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "本周美联储会议及科技巨头财报可能引发波动",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "印尼股市进入牛市，外资回流",
+      "direction": "看多",
+      "asset_impact": "EIDO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
