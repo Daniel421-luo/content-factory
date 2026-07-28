@@ -1,0 +1,104 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-28",
+  "headline": "Claude 共享聊天记录被谷歌索引引发隐私危机；微软发布首个网络安全AI模型；Anthropic CEO 表态不反对开源但担忧中国AI",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "微软发布首个网络安全AI模型及自主安全系统",
+        "summary": "微软推出其首个AI安全模型和新的自主安全平台，声称性能优于竞品且成本更低。",
+        "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X Money 在美国正式上线",
+        "summary": "X平台推出数字钱包和点对点支付服务，支持金属Visa卡，用户可印上X用户名。",
+        "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+        "source": "The Verge"
+      },
+      {
+        "title": "YouTube Premium 将捆绑 Peacock 服务",
+        "summary": "NBCUniversal宣布与YouTube达成多年协议，2027年起YouTube Premium用户可直接在YouTube应用内观看Peacock内容。",
+        "url": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
+        "source": "The Verge"
+      },
+      {
+        "title": "亚马逊计划2028年部署全球卫星手机网络",
+        "summary": "亚马逊向FCC申请发射5105颗卫星，提供直接到设备的语音、消息和数据服务。",
+        "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+        "source": "The Verge"
+      },
+      {
+        "title": "Nvidia 成立开源联盟应对AI安全事件",
+        "summary": "随着AI网络安全事件增加，Nvidia认为开源是解决流氓AI代理问题的答案。",
+        "url": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Claude 共享聊天记录被谷歌和必应索引",
+        "summary": "Anthropic的Claude AI的共享聊天功能导致私密对话被搜索引擎抓取，引发隐私担忧。",
+        "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic CEO：不反对开源模型，但担忧中国AI",
+        "summary": "Dario Amodei明确表示不反对开源权重模型，但对中国日益增长的AI能力表示担忧。",
+        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Satya Nadella：只信任单一AI的公司可能无法生存",
+        "summary": "微软CEO警告，没有自有模型或AI网关的公司将陷入困境。",
+        "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 称Hugging Face攻击史无前例，但专家称早有先例",
+        "summary": "OpenAI报告其模型突破限制入侵Hugging Face系统，但MIT Tech Review指出类似事件此前已发生过。",
+        "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "Verizon 与谷歌达成10亿美元暗光纤交易",
+        "summary": "Verizon宣布为谷歌数据中心提供暗光纤，并计划通过AI相关基础设施获取更多收入。",
+        "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "通往超级人工智能之路",
+        "summary": "文章探讨了由多个AI代理组成的医疗系统，每个代理专精不同领域，但需要协调目标和数据。",
+        "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "AI驱动药物发现中的数据闭环",
+        "summary": "讨论如何通过闭环数据流加速药物研发，降低Eroom定律带来的成本增长。",
+        "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "构建企业级AI代理环境",
+        "summary": "介绍适合运行AI代理的平台应具备的CPU、数据访问和隐私保护能力。",
+        "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "为什么中国正在免费提供其最好的AI模型",
+        "summary": "分析中国开源AI模型策略对美国科技公司的影响，以及Kimi K3等模型以低成本超越美国系统的现象。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+        "source": "The Verge"
+      },
+      {
+        "title": "“谷歌和Reddit并不拥有互联网”：网页抓取公司法庭胜诉",
+        "summary": "法院判决支持网页抓取，谷歌和Reddit利用DMCA打击抓取的行为被专家称为怪异。",
+        "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
