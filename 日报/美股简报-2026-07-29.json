@@ -1,0 +1,162 @@
+{
+  "title": "📈 美股简报 | 2026-07-29",
+  "headline": "中东局势骤紧，伊朗导弹袭击美军，油价飙升；芯片股抛售蔓延至亚洲，SK海力士财报不及预期领跌；美股期货承压。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "标普500期货小幅走低，油价上涨",
+        "summary": "标普500期货在亚洲时段下跌，因伊朗向美军发射弹道导弹，油价大幅攀升。韩国股市重挫8%，芯片股领跌。",
+        "url": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "投资者从芯片股转向价值股",
+        "summary": "AI担忧促使投资者撤出芯片板块，转向其他行业。今年价值股表现优于成长股，部分受早期芯片股涨幅和传统价值板块反弹推动。",
+        "url": "https://www.wsj.com/finance/stocks/investors-rotate-out-of-chip-stocks-365d8bc6",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "SK海力士财报不及预期，股价暴跌",
+        "summary": "SK海力士利润和营收虽呈指数级增长，但未能满足市场对AI宠儿的高期望，股价大幅下跌。",
+        "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "微软空头仓位创十年新高",
+        "summary": "微软第二季度财报前，空头仓位达到十年高位，几乎没有空头回补，因AI支出引发新疑问。",
+        "url": "https://www.cnbc.com/2026/07/28/microsoft-short-interest-hits-decade-high-ahead-of-q2-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "苹果市值盘中触及5万亿美元",
+        "summary": "苹果股价上涨，市值首次突破5万亿美元，与英伟达的市值争夺反映了投资者对AI未来的分歧。",
+        "url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "希捷财报超预期，盘后上涨",
+        "summary": "存储制造商希捷6月季度业绩超出华尔街预期，为受挫的AI交易带来利好。",
+        "url": "https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光股价创11年来最大月度跌幅",
+        "summary": "美光股价持续下跌，因对中国国内芯片供应和制造工具的担忧加剧，本月跌幅或为11年来最大。",
+        "url": "https://www.marketwatch.com/story/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-3c956a67",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "亚洲科技股抛售蔓延，软银跌10%",
+        "summary": "亚洲科技股延续跌势，软银下跌10%，AI相关股票承压。香港上市的中国互联网股逆势上涨。",
+        "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SK海力士杠杆ETF遭重创",
+        "summary": "随着芯片抛售加深，押注SK海力士的杠杆ETF大幅下跌，AI交易波动剧烈。",
+        "url": "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "伊朗向美军发射弹道导弹，油价飙升",
+        "summary": "伊朗对中东美军发动突然导弹袭击，所有导弹被拦截，但油价因紧张局势升级而大幅上涨。",
+        "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普政府禁止中国新型人形机器人",
+        "summary": "美国禁止中国新型人形机器人，中美在机器人和人工智能领域的竞争加剧。",
+        "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo",
+        "source": "BBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东冲突升级风险",
+        "summary": "伊朗导弹袭击美军后，中东局势骤然紧张，油价上涨可能持续，影响全球市场风险偏好。",
+        "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "芯片股抛售蔓延至亚洲",
+        "summary": "SK海力士财报不及预期引发亚洲芯片股大跌，可能进一步拖累美股半导体板块。",
+        "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗导弹袭击美军，中东局势紧张",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, USO, XLE",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "SK海力士财报不及预期，芯片股抛售蔓延",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD, INTC, MU, SOXX",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "微软空头仓位创十年新高，财报前市场谨慎",
+      "direction": "看空",
+      "asset_impact": "MSFT",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "苹果市值触及5万亿美元，AI竞争格局变化",
+      "direction": "中性",
+      "asset_impact": "AAPL, NVDA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "希捷财报超预期，盘后上涨",
+      "direction": "看多",
+      "asset_impact": "STX, SOXX",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美光股价创11年最大月度跌幅，中国担忧加剧",
+      "direction": "看空",
+      "asset_impact": "MU, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普政府禁止中国新型人形机器人",
+      "direction": "看空",
+      "asset_impact": "BOTZ, AIQ",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "投资者从芯片股转向价值股",
+      "direction": "中性",
+      "asset_impact": "IWD, IWF, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
