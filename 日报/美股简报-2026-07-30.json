@@ -1,0 +1,220 @@
+{
+  "title": "📈 美股简报 | 2026-07-30",
+  "headline": "美国对伊朗发动空袭，地缘风险骤升；美联储按兵不动但鹰派分歧加剧，道指暴跌逾1100点；油价飙升，能源股受追捧。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货大幅低开，地缘与利率双重压力",
+        "summary": "美国对伊朗发动空袭，道指期货跌超500点，标普500期货跌约2%，纳指期货跌1.5%。",
+        "url": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "原油期货暴涨，避险资产走高",
+        "summary": "WTI原油期货涨超5%，布伦特原油突破90美元；黄金期货涨1.5%，美元指数走强。",
+        "url": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储维持利率不变，但三名官员支持加息",
+        "summary": "美联储将利率维持在3.5%-3.75%不变，但三位官员投票支持加息，市场对通胀担忧加剧。",
+        "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块领涨，石油巨头业绩超预期",
+        "summary": "壳牌二季度利润翻倍，受益于伊朗战争推高油价；美国石油基金USO年初至今涨58%。",
+        "url": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科技股承压，Meta因AI支出计划遭抛售",
+        "summary": "Meta股价下跌，因市场担忧AI投资回报周期过长；大型科技股估值面临成本压力。",
+        "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo",
+        "source": "BBC"
+      },
+      {
+        "title": "防御性板块受青睐，公用事业与必需消费走强",
+        "summary": "市场避险情绪升温，资金流入公用事业和必需消费品板块。",
+        "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "壳牌Q2利润翻倍，能源巨头受益油价飙升",
+        "summary": "壳牌二季度利润超预期，受益于伊朗战争导致化石燃料价格飙升。",
+        "url": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "星巴克业绩亮眼，盘后股价大涨",
+        "summary": "星巴克季度业绩超预期，CEO Niccol的转型策略见效，CNBC上调目标价。",
+        "url": "https://www.cnbc.com/2026/07/29/were-raising-our-price-target-on-starbucks-after-a-home-run-quarter-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Robinhood创纪录营收，波动性推动交易量激增",
+        "summary": "Robinhood二季度营收创历史新高，预测市场收入增长十倍。",
+        "url": "https://www.marketwatch.com/story/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza-8e0729c1",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "福特卡车战略获华尔街认可",
+        "summary": "福特大型卡车业务表现强劲，市场关注其转型潜力。",
+        "url": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "三星电子Q2利润超预期，AI芯片需求强劲",
+        "summary": "三星电子二季度营业利润超分析师预期，AI芯片需求持续推动业绩。",
+        "url": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "高通财报不及预期，内存业务拖累",
+        "summary": "高通股价下跌，因内存业务疲软导致盈利不及预期。",
+        "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "中国AI供应商中际旭创港股首日破发",
+        "summary": "中际旭创在港交所上市首日下跌，此前IPO募资68亿美元。",
+        "url": "https://www.cnbc.com/2026/07/30/china-ai-supplier-zhongji-innolight-hong-kong-debut.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美国对伊朗发动空袭，地缘风险急剧升级",
+        "summary": "美国周三对伊朗发动空袭，霍尔木兹海峡等贸易要道面临威胁，航运成本上升。",
+        "url": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储维持利率不变，但鹰派分歧加剧",
+        "summary": "美联储以7-3投票决定维持利率不变，三位官员支持加息，长期国债收益率攀升。",
+        "url": "https://www.wsj.com/finance/stocks/warshs-posture-on-interest-rates-sparks-market-inflation-fears-60b9933c",
+        "source": "WSJ"
+      },
+      {
+        "title": "中国威胁报复美国仿人机器人禁令",
+        "summary": "中国商务部表示美国FCC禁令严重损害双边关系，将采取反制措施。",
+        "url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国央行预计再次维持利率不变",
+        "summary": "市场预期英国央行将连续第五次维持利率在3.75%不变。",
+        "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo",
+        "source": "BBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊冲突升级，霍尔木兹海峡航运受阻",
+        "summary": "美国对伊朗发动空袭，霍尔木兹海峡面临封锁风险，全球石油供应可能中断。",
+        "url": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储鹰派信号引发市场恐慌",
+        "summary": "三位官员支持加息，市场担忧通胀顽固，长期利率上升可能压制估值。",
+        "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026",
+        "source": "WSJ"
+      },
+      {
+        "title": "中国报复性关税或冲击科技供应链",
+        "summary": "中国威胁对美国仿人机器人禁令采取反制，可能影响半导体及AI设备出口。",
+        "url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对伊朗发动空袭，地缘风险骤升",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, USO, XLE",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储维持利率不变但鹰派分歧，三名官员支持加息",
+      "direction": "看空",
+      "asset_impact": "TLT, SPY, DXY",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "壳牌Q2利润翻倍，能源板块受益油价飙升",
+      "direction": "看多",
+      "asset_impact": "XLE, USO, SHEL",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "三星电子Q2利润超预期，AI芯片需求强劲",
+      "direction": "看多",
+      "asset_impact": "SSNLF, NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "高通财报不及预期，内存业务拖累",
+      "direction": "看空",
+      "asset_impact": "QCOM, SOXX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "中国威胁报复美国仿人机器人禁令",
+      "direction": "看空",
+      "asset_impact": "FXI, KWEB, NVDA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "星巴克业绩超预期，转型策略见效",
+      "direction": "看多",
+      "asset_impact": "SBUX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Robinhood创纪录营收，波动性推动交易量",
+      "direction": "看多",
+      "asset_impact": "HOOD",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "道指暴跌1100点后历史表现偏弱",
+      "direction": "看空",
+      "asset_impact": "SPY, DIA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美国石油基金USO表现优于原油期货",
+      "direction": "看多",
+      "asset_impact": "USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
