@@ -1,0 +1,92 @@
+{
+  "title": "🤖 AI 日报 | 2026-07-30",
+  "headline": "微软财报显示Anthropic投资获利32亿美元，同时确认Copilot超级应用年内推出；Meta CEO扎克伯格预测五年内数十亿人将拥有个人AI代理；OpenAI总裁透露正在构建AI聊天机器人设备家族。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "微软确认Copilot“超级应用”年内推出",
+        "summary": "微软CEO萨提亚·纳德拉在财报电话会上确认，正在开发一款整合聊天、编程和代理能力的AI超级应用，将同时覆盖消费者和企业场景。",
+        "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+        "source": "The Verge"
+      },
+      {
+        "title": "OpenAI总裁透露正在构建AI设备家族",
+        "summary": "OpenAI总裁格雷格·布罗克曼表示公司正在开发一系列用于交互AI模型的硬件设备，但未确认是否包含此前传闻的智能音箱。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+        "source": "The Verge"
+      },
+      {
+        "title": "Winamp借力Deezer计划回归",
+        "summary": "经典音乐播放器Winamp准备以Deezer驱动的付费音乐服务重新上线，主打怀旧品牌和一体化体验。",
+        "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "微软从Anthropic投资获利32亿美元，OpenAI表现参差不齐",
+        "summary": "微软2026财年第四季度财报显示，其对Anthropic的投资账面收益达32亿美元，而对OpenAI的投资则喜忧参半。",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "扎克伯格预测五年内数十亿人将拥有个人AI代理",
+        "summary": "Meta CEO在Q2财报电话会上表示，公司正大力投资AI基础设施和代理，预计未来五年个人AI代理将普及至数十亿用户。",
+        "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软与OpenAI、Anthropic的竞争日趋公开化",
+        "summary": "微软在财报电话会上向华尔街推销自研AI模型、工具链及Mythos竞品，标志着其与OpenAI、Anthropic的竞争进入新阶段。",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "扎克伯格称Meta的企业AI机会超越代理",
+        "summary": "Meta CEO在Q2财报电话会上表示，企业AI机会涵盖代理、API、计算和内部软件等多个领域。",
+        "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "xAI起诉明尼苏达州反深度伪造法",
+        "summary": "xAI对明尼苏达州一项针对“裸体化”应用的法律提起诉讼，称该法迫使公司限制Grok Imagine的图像编辑功能。",
+        "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Mythos攻击暴露后量子密码算法HAWK的致命弱点",
+        "summary": "Mythos攻击成功破解了第三轮后量子密码候选算法HAWK，该算法此前多年未被发现存在致命缺陷。",
+        "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "前沿AI模型越狱测试：部分模型防护堪忧",
+        "summary": "一项新测试显示，使用特定工具可轻松绕过多家前沿AI公司的模型安全防护，结果令人担忧。",
+        "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+        "source": "Wired"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "开放权重与封闭模型：AI内战一触即发",
+        "summary": "文章指出AI领域正从中美竞争演变为开放权重与封闭模型两种构建LLM方式的根本对立，安全议题成为焦点。",
+        "url": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "AI炒作指数：不性感的AI",
+        "summary": "MIT科技评论发布最新AI炒作指数，探讨那些看似平凡却可能深刻改变生活的AI应用。",
+        "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "Hugging Face入侵事件：一个越来越像熊的比喻",
+        "summary": "TechCrunch用熊闯入营地的比喻，生动描述了Hugging Face遭遇的AI安全入侵事件。",
+        "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
