@@ -1,0 +1,184 @@
+{
+  "title": "🌍 全球简报 | 2026-07-30",
+  "headline": "美国对伊朗发动大规模报复性空袭，伊朗威胁今日反击；俄罗斯导弹疑越境落入波兰；日本地震死亡人数升至30人；美股科技板块分化，Meta重挫微软大涨。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国对伊朗发动‘重型’空袭，伊朗威胁‘今日惩罚侵略者’",
+        "summary": "美国在伊朗攻击美军后发动大规模报复性空袭，伊朗革命卫队威胁进一步升级。",
+        "url": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "俄罗斯导弹疑越境落入波兰，波兰总理称‘很可能是俄罗斯的’",
+        "summary": "一枚导弹在波兰境内留下10米宽弹坑，波兰总理表示导弹很可能来自俄罗斯。",
+        "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "日本地震死亡人数升至30人，救援工作争分夺秒",
+        "summary": "日本九州岛强震已致30人死亡，救援人员仍在倒塌建筑中搜寻幸存者。",
+        "url": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises",
+        "source": "Guardian"
+      },
+      {
+        "title": "科技股业绩分化：Meta暴跌近9%，微软大涨9%",
+        "summary": "微软云业务和Copilot增长强劲，而Meta营收指引不及预期且自由现金流骤降，导致股价走势分化。",
+        "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "沙特在美伊战争中陷入两难：继续反击还是缓和局势",
+        "summary": "沙特面临选择：是继续以威慑为目的反击，还是尝试缓和紧张局势。",
+        "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "俄罗斯对乌克兰全境发动导弹袭击，至少8名平民死亡",
+        "summary": "俄军扩大对乌克兰城市的轰炸，乌总统泽连斯基指责防空武器供应不足。",
+        "url": "https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war",
+        "source": "NPR"
+      },
+      {
+        "title": "中国威胁对美国的人形机器人禁令进行报复",
+        "summary": "中国商务部称美国联邦通信委员会的做法‘严重损害’双边关系。",
+        "url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "乌干达反对派领袖在法庭晕倒，目前在重症监护室",
+        "summary": "70岁的反对派领袖自2024年11月起被拘留，面临叛国指控。",
+        "url": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "油价因美伊冲突持续上涨，布伦特原油突破92美元",
+        "summary": "伊朗威胁报复美国空袭，布伦特原油涨1.5%至92.10美元/桶，WTI涨0.9%至85.23美元。",
+        "url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储按兵不动，市场关注五大要点",
+        "summary": "美联储本周会议维持利率不变，市场消化其政策信号。",
+        "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "价值股迎来高光时刻：‘卖出半导体，买入番茄酱’",
+        "summary": "今年价值股表现优于成长股，投资者转向实体经济相关公司。",
+        "url": "https://www.cnbc.com/2026/07/29/value-stocks-get-a-moment-in-the-sun-sell-semis-buy-ketchup.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "星巴克股价上涨，公司上调全年业绩展望",
+        "summary": "星巴克连续第四个季度实现同店销售增长，CEO尼科尔推动转型。",
+        "url": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "特朗普考虑对AI实施管控，此前OpenAI遭黑客攻击",
+        "summary": "特朗普政府此前对AI采取不干预态度，但近期黑客事件促使政策转向。",
+        "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "98名美国青少年自行制定学校AI使用规则",
+        "summary": "由于国会未出台学校AI规则，约100名青少年自行起草政策。",
+        "url": "https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国第二季度GDP修正值公布",
+        "summary": "市场预期经济增速略有放缓，关注伊朗冲突对经济的影响。",
+        "url": "https://abcnews.com/Business/government-report-show-us-economy-performed-amid-iran/story?id=135152547",
+        "source": "ABC News"
+      },
+      {
+        "title": "美伊冲突后续：伊朗是否兑现‘今日惩罚’威胁",
+        "summary": "伊朗革命卫队称将‘惩罚侵略者’，市场关注局势进一步升级风险。",
+        "url": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日本地震救援进展及余震风险",
+        "summary": "死亡人数已升至30人，救援队伍与时间赛跑，余震可能阻碍搜救。",
+        "url": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对伊朗发动大规模空袭，伊朗威胁报复",
+      "direction": "看多",
+      "asset_impact": "USO, /CL, GLD",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "俄罗斯导弹疑越境落入波兰，北约反应待观察",
+      "direction": "看多",
+      "asset_impact": "USO, GLD, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "日本地震死亡人数升至30人，救援进行中",
+      "direction": "中性",
+      "asset_impact": "EWJ, /NK",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美联储维持利率不变，市场消化政策信号",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES, DXY",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "科技股业绩分化：Meta暴跌，微软大涨",
+      "direction": "中性",
+      "asset_impact": "QQQ, /NQ",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国威胁报复美国机器人禁令",
+      "direction": "看空",
+      "asset_impact": "FXI, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "油价因美伊冲突持续上涨，布伦特突破92美元",
+      "direction": "看多",
+      "asset_impact": "USO, /CL, XLE",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "价值股表现优于成长股，资金轮动",
+      "direction": "看多",
+      "asset_impact": "IWD, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
