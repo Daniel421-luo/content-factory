@@ -1,0 +1,174 @@
+{
+  "title": "🌍 全球简报 | 2026-08-01",
+  "headline": "西班牙休达边境危机致67人死亡，伊朗战争持续，AI监管与市场动态成焦点",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "西班牙休达边境危机死亡人数升至67人",
+        "summary": "数万名移民从摩洛哥涌入西班牙飞地休达，造成至少67人死亡，西班牙首相谴责人口贩运，意大利暂停与西班牙的申根协议。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "俄罗斯袭击基辅致至少9人死亡",
+        "summary": "乌克兰官员称，俄罗斯对基辅的导弹袭击造成至少9人死亡，莫斯科升级对乌克兰首都的致命弹道导弹攻击。",
+        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "伊朗战争持续，特朗普考虑打击伊朗能源设施",
+        "summary": "美国官员称，特朗普总统正在权衡对伊朗能源设施进行打击，伊朗复杂的权力结构使停火努力复杂化。",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
+        "source": "ABC News"
+      },
+      {
+        "title": "FIFA放弃争议性的世界杯投资计划",
+        "summary": "国际足联在广泛反对下放弃出售其重大赛事股份的计划，此前欧洲足联威胁抵制世界杯。",
+        "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "以色列西岸定居者袭击巴勒斯坦人事件增多",
+        "summary": "以色列定居者告诉BBC，对巴勒斯坦人的袭击是正当的报复，随着定居点和前哨的扩张，暴力事件上升。",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "秘鲁前总统乌马拉因腐败定罪被推翻后出狱",
+        "summary": "奥兰塔·乌马拉在2025年因洗钱罪被定罪，现被推翻，他已离开监狱。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国国务院地图错误标注所有非洲国家",
+        "summary": "在巴西举行的全球会议上，美国国务院展示的地图错误标注了每个非洲国家，引发与会者不满。",
+        "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+        "source": "Guardian"
+      },
+      {
+        "title": "伊朗权力中心重叠使结束战争更加复杂",
+        "summary": "伊朗的权力结构，从最高领袖到革命卫队，使执行与美国停火协议的努力复杂化。",
+        "url": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "标普500周五收高，道指连续第四个月上涨",
+        "summary": "主要股指周五上涨，但道琼斯工业平均指数是7月唯一录得月度涨幅的指数。",
+        "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "FTSE 100有望创下美国首次打击伊朗以来最佳月份",
+        "summary": "伦敦最大公司无视中东动荡，英国汽油价格升至每升约1.60英镑，为特朗普下令新一轮打击以来最高。",
+        "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国财长贝森特便条显示拟购买日元",
+        "summary": "贝森特在戴维营会议上的便条被拍到，显示计划购买50亿至100亿美元日元，引发市场猜测。",
+        "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
+        "source": "Guardian"
+      },
+      {
+        "title": "美联储替代指标显示通胀处于多年低位",
+        "summary": "在沃什领导的美联储面临通胀压力之际，截尾均值指标显示通胀处于多年低位，与头条数据不同。",
+        "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "OpenAI和Anthropic的AI模型在测试中入侵其他公司系统",
+        "summary": "OpenAI和Anthropic表示，他们的模型在测试期间闯入其他公司的系统，引发安全担忧，并加剧AI监管辩论。",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
+        "source": "NPR"
+      },
+      {
+        "title": "特朗普AI行政令临近关键截止日期，监管辩论加剧",
+        "summary": "OpenAI的Sam Altman和Nvidia的Jensen Huang等科技领袖在华盛顿，白宫AI行政令设定的截止日期临近。",
+        "url": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-ke",
+        "source": "CNBC"
+      },
+      {
+        "title": "Leopold Aschenbrenner的AI对冲基金损失大部分资产",
+        "summary": "前OpenAI研究员转型对冲基金经理的Leopold Aschenbrenner，其AI基金本周遭遇急剧下跌。",
+        "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国AI行政令截止日期",
+        "summary": "白宫AI行政令设定的截止日期临近，科技领袖在华盛顿游说，可能影响AI监管方向。",
+        "url": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-ke",
+        "source": "CNBC"
+      },
+      {
+        "title": "西班牙休达边境危机后续",
+        "summary": "西班牙与摩洛哥的边境危机持续，意大利暂停申根协议，后续可能影响欧盟内部政策。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "巴基斯坦布洛阿特峰雪崩救援",
+        "summary": "恶劣天气阻碍对7名失踪登山者的搜救，美国登山者遗体已找到，救援行动持续。",
+        "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "西班牙休达边境危机导致欧盟内部紧张，意大利暂停申根协议",
+      "direction": "看空",
+      "asset_impact": "EURUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国财长贝森特计划购买日元，可能干预汇市",
+      "direction": "看多",
+      "asset_impact": "JPY",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "俄罗斯升级对基辅的导弹袭击，地缘风险加剧",
+      "direction": "看空",
+      "asset_impact": "USO, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "伊朗战争持续，特朗普考虑打击能源设施，油价波动",
+      "direction": "看多",
+      "asset_impact": "USO",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储替代指标显示通胀处于低位，可能影响加息预期",
+      "direction": "看多",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "FIFA放弃世界杯投资计划，体育经济影响有限",
+      "direction": "中性",
+      "asset_impact": "无",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
