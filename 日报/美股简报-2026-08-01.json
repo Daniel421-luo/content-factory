@@ -1,0 +1,168 @@
+{
+  "title": "📈 美股简报 | 2026-08-01",
+  "headline": "科技巨头财报分化，AI资本开支引发现金流担忧，半导体板块创24年最差月度表现",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股周五收高，亚马逊大涨带动纳指涨1%",
+        "summary": "标普500周五上涨，但道指是7月唯一录得月度涨幅的指数。亚马逊财报后大涨，苹果下跌，纳指收涨1%。",
+        "url": "https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9",
+        "source": "WSJ"
+      },
+      {
+        "title": "7月标普500录得2014年以来首次下跌，芯片股创24年最差月度表现",
+        "summary": "标普500结束连续上涨，7月下跌，其中芯片股遭遇2000年以来最大月度跌幅。市场出现底部信号。",
+        "url": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b",
+        "source": "MarketWatch"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源股受益于油价上涨，埃克森美孚和雪佛龙利润大增",
+        "summary": "受伊朗战争影响，油价上涨，埃克森美孚和雪佛龙二季度利润大幅增长。",
+        "url": "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科技巨头市值单周增加近1.5万亿美元",
+        "summary": "亚马逊、微软和谷歌本周市值合计增加数千亿美元，而苹果和Meta市值下跌。",
+        "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "亚马逊财报后大涨，苹果下跌",
+        "summary": "亚马逊财报超预期，股价大涨；苹果财报不及预期，股价下跌。",
+        "url": "https://www.wsj.com/finance/stocks/amazon-surges-and-apple-falls-on-latest-earnings-9f3f3c8b",
+        "source": "WSJ"
+      },
+      {
+        "title": "Meta AI支出合理性遭质疑",
+        "summary": "Meta的AI支出面临成本上升、借贷限制和投资者反对，其AI投资理由越来越站不住脚。",
+        "url": "https://www.wsj.com/tech/ai/metas-case-for-its-ai-spending-keeps-getting-weaker-aa4b9a5c",
+        "source": "WSJ"
+      },
+      {
+        "title": "Ferguson Enterprises将加入标普500指数",
+        "summary": "Ferguson Enterprises将被纳入标普500指数，消息公布后股价上涨超8%。",
+        "url": "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "芯片股7月创24年来最差月度表现",
+        "summary": "标普500指数7月下跌，其中芯片股遭遇2000年以来最大月度跌幅。",
+        "url": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "中国AI模型或依赖英伟达芯片",
+        "summary": "有报道称阿里巴巴的Moonshot使用英伟达H200芯片，但阿里巴巴否认。",
+        "url": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美联储通胀指标显示通胀处于多年低位",
+        "summary": "剔除波动性项目的指标显示通胀处于多年低位，与整体数据不同。",
+        "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普AI行政令临近关键期限",
+        "summary": "OpenAI的Altman和英伟达的黄仁勋在华盛顿，白宫AI行政令的期限临近。",
+        "url": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国财政部警告银行可能干预美元兑日元汇率",
+        "summary": "日元兑美元大幅贬值至数十年低位，美国财政部警告可能干预。",
+        "url": "https://www.wsj.com/finance/currencies/treasury-warns-banks-it-might-intervene-in-dollar-yen-exchange-rate-4d7f1bba",
+        "source": "WSJ"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "AI对冲基金爆仓，市场波动风险",
+        "summary": "Leopold Aschenbrenner的AI基金因高杠杆崩溃，引发市场对AI泡沫的担忧。",
+        "url": "https://www.wsj.com/finance/leopold-aschenbrenner-situational-awareness-ai-fund-597633d3",
+        "source": "WSJ"
+      },
+      {
+        "title": "科技公司现金流恶化，AI支出压力",
+        "summary": "亚马逊、Alphabet和特斯拉报告负现金流，Meta现金生成下降91%，AI建设成本高昂。",
+        "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "亚马逊财报超预期，股价大涨",
+      "direction": "看多",
+      "asset_impact": "AMZN",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "苹果财报不及预期，股价下跌",
+      "direction": "看空",
+      "asset_impact": "AAPL",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "芯片股7月创24年最差月度表现",
+      "direction": "看空",
+      "asset_impact": "SOXX, NVDA, AMD, INTC",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "油价上涨，能源股利润大增",
+      "direction": "看多",
+      "asset_impact": "XLE, XOM, CVX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "Meta AI支出合理性遭质疑",
+      "direction": "看空",
+      "asset_impact": "META",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国财政部可能干预日元汇率",
+      "direction": "看多",
+      "asset_impact": "USD/JPY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "AI基金爆仓引发市场担忧",
+      "direction": "看空",
+      "asset_impact": "AI相关科技股",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "科技公司现金流恶化，AI支出压力",
+      "direction": "看空",
+      "asset_impact": "AMZN, GOOGL, TSLA, META",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    }
+  ]
+}
