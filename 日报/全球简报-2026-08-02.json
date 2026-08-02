@@ -1,0 +1,156 @@
+{
+  "title": "🌍 全球简报 | 2026-08-02",
+  "headline": "特朗普宣布取消对伊朗的打击计划，称已就协议框架达成一致；西班牙休达移民危机持续发酵，欧盟召开紧急会议；俄罗斯夜间袭击基辅致9人死亡。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "特朗普宣布取消对伊朗的打击，称协议框架已达成",
+        "summary": "美国总统特朗普表示，伊朗及中东国家要求美国暂缓攻击，因为“协议框架已达成”，但强调协议需“迅速”敲定。",
+        "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+        "source": "NPR"
+      },
+      {
+        "title": "西班牙休达移民危机：至少57人死亡，欧盟召开紧急会议",
+        "summary": "约5万名移民从摩洛哥涌入西班牙飞地休达，造成至少57人死亡。欧盟内政部长将于周二召开紧急会议，西班牙首相桑切斯面临政治风暴。",
+        "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+        "source": "Guardian"
+      },
+      {
+        "title": "俄罗斯夜间袭击基辅致9人死亡，美国防空援助承诺生变",
+        "summary": "俄罗斯弹道导弹袭击基辅五个区，造成至少9人死亡。特朗普正在收回此前承诺的乌克兰导弹防御系统升级援助。",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+        "source": "NPR"
+      },
+      {
+        "title": "美国财政部与日本联手干预日元汇率",
+        "summary": "据英国《金融时报》报道，美国财政部十多年来首次与日本联手买入日元，以支撑日元汇率，日元兑美元接近40年低点。",
+        "url": "https://www.cnbc.com/2026/08/01/us-treasury-intervenes-to-support-yen-after-japan-steps-in-ft.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "西班牙桑切斯面临执政以来最大挑战",
+        "summary": "休达危机引发国内外强烈反弹，这位亲移民领导人的政治地位受到冲击。",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
+        "source": "NPR"
+      },
+      {
+        "title": "欧盟紧急会议讨论休达移民危机",
+        "summary": "欧盟内政部长将于周二举行紧急会议，但成员国之间在移民问题上仍存在严重分歧。",
+        "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "西非多国反LGBTQ+法律抬头",
+        "summary": "活动人士警告，西非多国正在实施或加强反LGBTQ+法律，政治压力与全球反弹是主要原因。",
+        "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国公司赢得非洲数十亿美元数据中心合同",
+        "summary": "从莱索托到加蓬，美国企业正赢得价值数十亿美元的AI数据中心和电力合同，与中国的竞争加剧。",
+        "url": "https://www.foxnews.com/world/us-companies-win-billions-african-data-center-deals-direct-competition-china",
+        "source": "Fox News"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美国财政部与日本联手干预日元汇率",
+        "summary": "美国财政部十多年来首次与日本联手买入日元，以支撑日元汇率，日元兑美元接近40年低点。",
+        "url": "https://www.cnbc.com/2026/08/01/us-treasury-intervenes-to-support-yen-after-japan-steps-in-ft.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国财长笔记泄露：计划购买50-100亿美元日元",
+        "summary": "美国财长贝森特在戴维营会议上的笔记被拍到，显示计划购买50-100亿美元日元，引发市场猜测。",
+        "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
+        "source": "Guardian"
+      },
+      {
+        "title": "GLP-1药物直接处方兴起，零售药房受益",
+        "summary": "随着美国人直接获得GLP-1减肥药处方，沃尔玛、好市多和亚马逊等零售药房有望成为大赢家。",
+        "url": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "印度考试泄题暴露Z世代就业危机",
+        "summary": "考试泄题只是导火索，印度Z世代面临的高失业率才是抗议的真正根源。",
+        "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "美国公司赢得非洲AI数据中心合同",
+        "summary": "美国企业正赢得非洲多国AI数据中心和电力合同，价值数十亿美元，与中国的竞争加剧。",
+        "url": "https://www.foxnews.com/world/us-companies-win-billions-african-data-center-deals-direct-competition-china",
+        "source": "Fox News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "欧盟内政部长紧急会议讨论休达危机",
+        "summary": "欧盟内政部长将于周二举行紧急会议，讨论西班牙休达移民危机。",
+        "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+        "source": "Guardian"
+      },
+      {
+        "title": "意大利多城市发布最高级别高温警报",
+        "summary": "意大利19个主要城市已处于红色警报，预计到周一几乎所有城市都将面临极端高温。",
+        "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "特朗普取消对伊朗打击，地缘风险缓和",
+      "direction": "看多",
+      "asset_impact": "USO, /ES, GLD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国与日本联手干预日元，日元短期获支撑",
+      "direction": "看多",
+      "asset_impact": "JPYUSD, /6J",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "俄罗斯袭击基辅，乌克兰局势紧张",
+      "direction": "看空",
+      "asset_impact": "USO, GLD, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "西班牙休达移民危机引发欧盟政治紧张",
+      "direction": "看空",
+      "asset_impact": "EURUSD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国公司赢得非洲数据中心合同，科技投资增长",
+      "direction": "看多",
+      "asset_impact": "QQQ, /NQ",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "意大利高温警报，能源需求或增加",
+      "direction": "看多",
+      "asset_impact": "NG, USO",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
