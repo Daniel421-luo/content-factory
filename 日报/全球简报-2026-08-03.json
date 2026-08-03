@@ -1,0 +1,168 @@
+{
+  "title": "🌍 全球简报 | 2026-08-03",
+  "headline": "特朗普取消对伊朗打击计划，油价大跌；美日联合干预汇市提振日元；以色列对哈马斯解除武装协议表担忧；欧盟紧急会议应对休达移民危机。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "特朗普取消对伊朗打击计划，油价大跌",
+        "summary": "美国总统特朗普宣布取消对伊朗的预定打击，称谈判将于周一恢复，油价应声下跌逾5%。",
+        "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美日联合干预汇市，日元升至三个月高位",
+        "summary": "美国和日本政府确认上周晚些时候进行了罕见的联合干预，日元兑美元升至三个月高点。",
+        "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
+        "source": "Guardian"
+      },
+      {
+        "title": "以色列对哈马斯解除武装协议表示严重担忧",
+        "summary": "以色列对特朗普提出的哈马斯解除武装协议表示严重关切，加沙地带夜间和周日袭击造成至少17人死亡。",
+        "url": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
+        "source": "NPR"
+      },
+      {
+        "title": "欧盟紧急召开内政部长会议应对休达移民危机",
+        "summary": "超过5万名移民涌入西班牙休达，欧盟将于周二召开紧急内政部长会议，但内部仍存分歧。",
+        "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+        "source": "Guardian"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗否认特朗普关于新谈判周一开始的说法",
+        "summary": "伊朗否认与美国进行谈判，但正与阿曼就霍尔木兹海峡通行问题进行磋商。",
+        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "俄罗斯向乌克兰南部城市投掷滑翔炸弹，致1人死亡",
+        "summary": "俄罗斯飞机向乌克兰南部一城市投掷八枚滑翔炸弹，造成1人死亡、数十人受伤。",
+        "url": "https://abcnews.com/International/wireStory/russian-planes-fire-salvo-glide-bombs-southern-ukraine-135318363",
+        "source": "ABC News"
+      },
+      {
+        "title": "昂山素季近两年半首次与外界接触，照片显示其健康状况良好",
+        "summary": "缅甸军政府发布昂山素季会见国际红十字会官员的照片，其子表示“有理由抱有希望”。",
+        "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "巴基斯坦控克什米尔地区爆发致命抗议",
+        "summary": "BBC独家进入拉瓦拉科特，安全部队与抗议者发生暴力冲突，一名抗议者称其子“为正义而牺牲”。",
+        "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美股期货大涨，油价下跌",
+        "summary": "特朗普取消对伊朗打击后，道指期货上涨400点，油价下滑，市场风险偏好回升。",
+        "url": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日元兑美元升至三个月高位",
+        "summary": "美日联合干预后，日元兑美元升至157，此前曾跌至163附近的四十年低点。",
+        "url": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "阿斯利康因并购传闻股价下跌",
+        "summary": "据金融时报报道，阿斯利康与百时美施贵宝数月来讨论合并，分析师对此感到困惑。",
+        "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "超过400万人失去食品援助，SNAP参与人数持续下降",
+        "summary": "自去年7月以来，SNAP（食品券）参与人数迅速下降，项目面临历史性削减。",
+        "url": "https://www.npr.org/2026/08/03/nx-s1-5906797/snap-food-stamp-federal-changes-what-to-know",
+        "source": "NPR"
+      }
+    ],
+    "科技": [
+      {
+        "title": "ChatGPT主导国会早期AI支出，立法者权衡监管",
+        "summary": "至少70个众议院办公室使用可识别的AI工具，ChatGPT在国会AI支出中占主导地位。",
+        "url": "https://www.cnbc.com/2026/08/03/chatgpt-dominates-early-ai-spending-in-congress.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI应用帮助清除犯罪记录，促进二次就业",
+        "summary": "一款AI驱动的应用正以前所未有的速度帮助符合条件的美国人清除犯罪记录，消除就业障碍。",
+        "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "欧盟内政部长紧急会议",
+        "summary": "欧盟将于周二召开紧急内政部长会议，讨论休达移民危机。",
+        "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+        "source": "Guardian"
+      },
+      {
+        "title": "美伊谈判可能恢复",
+        "summary": "特朗普称伊朗谈判将于周一恢复，关注后续进展。",
+        "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日本台风“海豚”逼近冲绳",
+        "summary": "日本冲绳面临强风和风暴潮，关注台风路径及影响。",
+        "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "特朗普取消对伊朗打击，地缘风险溢价下降",
+      "direction": "看空",
+      "asset_impact": "USO, CL, /ES",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美日联合干预汇市支撑日元",
+      "direction": "看多",
+      "asset_impact": "JPY, /6J",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "以色列对哈马斯解除武装协议担忧，加沙冲突持续",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "欧盟紧急会议应对休达移民危机，或影响欧元区政治稳定",
+      "direction": "看空",
+      "asset_impact": "EURUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国SNAP参与人数下降，消费支出可能承压",
+      "direction": "看空",
+      "asset_impact": "XLP, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "阿斯利康与百时美施贵宝合并传闻，医疗板块波动",
+      "direction": "中性",
+      "asset_impact": "XLV, AZN, BMY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
