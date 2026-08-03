@@ -1,0 +1,178 @@
+{
+  "title": "📈 美股简报 | 2026-08-03",
+  "headline": "地缘风险缓和与OPEC+增产压低油价，美股期货走高，市场聚焦非农报告与科技巨头财报",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货走高，市场聚焦非农与财报",
+        "summary": "8月首个交易日，美股期货上涨，投资者等待7月非农就业报告及新一轮关键财报。",
+        "url": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价下跌超5%，地缘风险溢价消退",
+        "summary": "特朗普取消对伊朗的打击计划，叠加OPEC+增产，周一油价大幅下跌，原油期货走低。",
+        "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美日联合干预日元，市场情绪获提振",
+        "summary": "美国与日本确认上周五进行协调的日元买入干预，并暗示未来可能再次行动，日元获得支撑。",
+        "url": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块承压，油价大跌",
+        "summary": "中东紧张局势缓和及OPEC+增产导致油价下跌超5%，能源股可能面临压力。",
+        "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科技股估值分化，AI支出获认可",
+        "summary": "大型科技公司财报导致估值走势分化，投资者开始认可AI支出，尤其是涉及云计算的业务。",
+        "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "AI相关股票回调被其他板块涨幅抵消",
+        "summary": "市场对AI相关股票的回调几乎被其他板块的涨幅完全抵消，美股整体韧性较强。",
+        "url": "https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "AMD与SanDisk等芯片股财报动能强劲",
+        "summary": "本周约130家标普500公司发布财报，AMD和SanDisk等芯片股在财报前显示出强劲动能。",
+        "url": "https://www.cnbc.com/2026/08/02/amd-sandisk-are-two-of-the-big-chip-stocks-with-earnings-momentum.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "阿斯利康与百时美施贵宝洽谈4000亿美元合并",
+        "summary": "据英国《金融时报》报道，阿斯利康正考虑与百时美施贵宝合并，交易规模或达4000亿美元。",
+        "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "亚马逊财报推高标普500盈利增长",
+        "summary": "亚马逊因Anthropic投资的账面收益报告异常高的盈利增长，使标普500盈利增长更加波动。",
+        "url": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "AMD财报动能受关注",
+        "summary": "AMD作为本周财报的芯片股之一，市场关注其财报表现，但具体数据未披露。",
+        "url": "https://www.cnbc.com/2026/08/02/amd-sandisk-are-two-of-the-big-chip-stocks-with-earnings-momentum.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "苹果MacBook Neo引发预算笔记本竞争",
+        "summary": "苹果低价MacBook Neo的成功迫使竞争对手重新考虑产品策略，可能影响相关芯片需求。",
+        "url": "https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美日联合干预日元，罕见协调行动",
+        "summary": "美国财政部与日本财务省确认上周五进行协调的日元买入干预，为数十年来首次，并暗示未来可能再次行动。",
+        "url": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普称伊朗谈判将于周一恢复",
+        "summary": "特朗普表示已取消对伊朗的打击计划，并宣布周一恢复谈判，地缘风险有所缓和。",
+        "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "OPEC+增产叠加地缘缓和，油价承压",
+        "summary": "OPEC+增产与中东局势缓和共同导致油价下跌，市场关注原油供应增加对通胀的影响。",
+        "url": "https://www.cnbc.com/2026/08/03/trump-ceasefire-nuclear-deal-strait-of-hormuz-opec-oil-output-.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "非农就业报告",
+        "summary": "7月非农就业报告将于本周发布，可能影响美联储政策预期，引发市场波动。",
+        "url": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "乌克兰担忧冬季能源危机",
+        "summary": "俄罗斯加强导弹袭击，乌克兰担心冬季能源短缺，地缘风险持续。",
+        "url": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI数据中心扩张遭社区抵制",
+        "summary": "美国各地社区对AI数据中心的扩张表示抵制，担忧环境和财务影响，可能影响科技公司扩张计划。",
+        "url": "https://www.cbsnews.com/video/resistance-grows-nationwide-against-ai-data-center-boom/",
+        "source": "CBS"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美日联合干预日元，日元走强",
+      "direction": "看空",
+      "asset_impact": "USD/JPY, 日股ETF",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "特朗普取消对伊朗打击，油价大跌超5%",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, 能源股",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "OPEC+增产，原油供应增加",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "阿斯利康与百时美施贵宝洽谈4000亿美元合并",
+      "direction": "看多",
+      "asset_impact": "AZN, BMY, 医药板块",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "AMD财报在即，市场关注",
+      "direction": "中性",
+      "asset_impact": "AMD, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "苹果MacBook Neo引发预算笔记本竞争",
+      "direction": "看多",
+      "asset_impact": "AAPL, 相关供应链",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "AI数据中心扩张遭社区抵制",
+      "direction": "看空",
+      "asset_impact": "科技巨头, 数据中心相关",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
