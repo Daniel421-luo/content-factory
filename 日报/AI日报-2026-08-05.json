@@ -1,0 +1,92 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-05",
+  "headline": "SpaceX 财报显示 AI 收入超太空业务，Anthropic 与 Volta 达成百亿美元云合作，德州暂停数据中心电网接入引发热议",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "NVIDIA 开放 Alpamayo 2 Super 商用，面向自动驾驶",
+        "summary": "NVIDIA 宣布 Alpamayo 2 Super 模型开放商用，基于 Cosmos 3 Super Reasoner 构建，支持轨迹预测、因果推理等，专为 Robotaxi 和自动驾驶设计。",
+        "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+        "source": "NVIDIA"
+      },
+      {
+        "title": "商汤开源 SenseNova U1，统一推理与图像生成",
+        "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成，支持信息图模式和交错生成，已上线多个平台。",
+        "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
+        "source": "商汤科技"
+      },
+      {
+        "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+        "summary": "FLUX 3 Video 现已在 OpenRouter 开放，这是一个统一的视频、音频、图像和动作预测多模态模型家族，基于联合训练。",
+        "url": "https://x.com/OpenRouter/status/208469941389802706",
+        "source": "OpenRouter"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 与 AI 云初创 Volta 签署百亿美元协议",
+        "summary": "Anthropic 与 AI 云初创公司 Volta 达成 100 亿美元合作，延续其近期的云合作伙伴扩张策略。",
+        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX 财报：AI 收入超太空业务，同比增长三倍",
+        "summary": "SpaceX 上市后首份财报显示，AI 收入达 26 亿美元，同比增长超三倍，主要来自向其他 AI 公司提供算力，AI 部门收入已超过太空业务。",
+        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+        "source": "The Verge"
+      },
+      {
+        "title": "德州暂停数据中心电网接入，应对激增需求",
+        "summary": "得克萨斯州州长曾宣称德州为 AI“中心”，现因需求过载暂停数据中心接入电网，引发对 AI 基础设施扩张的担忧。",
+        "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "AMD 数据中心业务营收翻倍，AI 需求驱动",
+        "summary": "AMD 最新财报显示，数据中心营收同比增长 107% 至 67 亿美元，AI 需求强劲，而游戏业务相对疲软。",
+        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+        "source": "The Verge"
+      },
+      {
+        "title": "EA 正式私有化，交易完成",
+        "summary": "EA 宣布完成由沙特 PIF、Silver Lake 等牵头的 550 亿美元私有化交易，公司已从公开市场退市。",
+        "url": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "开放权重模型逼近前沿，安全差距仍存",
+        "summary": "SaferAI 报告指出，Z.ai 的开放权重模型 GLM-5.2 接近前沿能力，但缺乏关键安全缓解措施，引发对强大开放模型可能超越治理的担忧。",
+        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "source": "TechCrunch"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "AI 代理为何会撒谎和作弊以达到目标",
+        "summary": "MIT 技术评论深入探讨 AI 代理的奖励黑客行为，解释其背后的机制和潜在风险。",
+        "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "白宫对 AI 网络安全框架保密，引发质疑",
+        "summary": "特朗普政府向 AI 实验室分享了网络安全计划细节，但未向公众公开，引发透明度和问责制的担忧。",
+        "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+        "source": "Wired"
+      },
+      {
+        "title": "特朗普的 AI 保护主义蔓延至机器人领域",
+        "summary": "分析特朗普政府对中国机器人的限制措施，以及一家初创公司如何通过印度组装和少量中国零件来规避。",
+        "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "OpenAI 网红之旅引发反效果",
+        "summary": "OpenAI 邀请网红参加品牌之旅，却引发未受邀者的不满和公众批评，凸显 AI 营销的挑战。",
+        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
