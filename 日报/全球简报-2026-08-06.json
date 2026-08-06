@@ -1,0 +1,168 @@
+{
+  "title": "🌍 全球简报 | 2026-08-06",
+  "headline": "伊朗称霍尔木兹海峡协议接近达成，美国关闭五座领事馆，Ceuta边境危机持续发酵",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "伊朗称与阿曼就霍尔木兹海峡航行达成协议进入最后阶段",
+        "summary": "伊朗表示与阿曼的协议接近完成，但美国和阿曼均未置评。特朗普坚称美国拥有“大量”弹药，并宣布对伊朗的“重大作战行动”。",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国将关闭五座领事馆，批评者担忧中国填补外交真空",
+        "summary": "国务院通知国会计划关闭在加拿大、格林纳达、日本、印尼和喀麦隆的领事馆，引发对中国填补外交真空的担忧。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+        "source": "Guardian"
+      },
+      {
+        "title": "Ceuta边境危机：死亡人数接近100，摩洛哥民众焦急等待失踪亲人",
+        "summary": "上周约7.2万名移民试图进入西班牙飞地Ceuta，死亡人数接近100。数百人聚集在边境附近寻找失踪亲人。",
+        "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+        "source": "Guardian"
+      },
+      {
+        "title": "德国机场发现携带爆炸物的无人机，官方称威胁具有“新质量”",
+        "summary": "一名机场员工在南部跑道附近发现携带“未知爆炸装置”的无人机，警方已展开调查。",
+        "url": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美国参议院委员会将就福奇藐视国会进行投票",
+        "summary": "共和党人欲以福奇拒绝回答新冠应对问题为由，对其提出藐视国会指控。",
+        "url": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
+        "source": "NPR"
+      },
+      {
+        "title": "被推翻的孟加拉国领导人誓言从流亡中返回，尽管面临死刑判决",
+        "summary": "哈西娜在流亡两周年之际发表讲话，誓言返回。2024年抗议导致近1400人死亡。",
+        "url": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
+        "source": "NPR"
+      },
+      {
+        "title": "乌克兰敖德萨：俄罗斯新黑海打击下无人安全",
+        "summary": "俄罗斯近期对乌克兰海岸线的袭击激增，船只被烧毁，码头被摧毁。",
+        "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国军方确认韩国空军基地无白磷泄漏",
+        "summary": "美国军方证实其在韩国空军基地未发生白磷泄漏。",
+        "url": "https://abcnews.com/International/wireStory/us-military-white-phosphorus-leak-air-base-south-135414152",
+        "source": "ABC News"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "摩根大通CEO戴蒙警告高杠杆：'有人会扰乱市场'",
+        "summary": "戴蒙表示金融市场杠杆仍然高企，隐藏借贷可能放大市场动荡。",
+        "url": "https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "标普500出现剧烈飙升，图表分析师担忧市场顶部",
+        "summary": "一位图表分析师认为标普500的飙升与互联网泡沫时期相似，可能预示市场见顶。",
+        "url": "https://www.cnbc.com/2026/08/06/sp-500-violent-surge-market-top-chart-analyst-worried.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "汉堡王美国业务飙升，餐饮品牌国际盈利超预期",
+        "summary": "汉堡王美国同店销售额增长8.5%，推动公司盈利超预期。",
+        "url": "https://www.cnbc.com/2026/08/06/restaurant-brands-international-q2-2026-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "El Niño可能在下年底前使5000万人陷入严重饥饿",
+        "summary": "联合国预测，快速发展的El Niño天气系统将加剧45个国家的严重粮食不安全状况。",
+        "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
+        "source": "Guardian"
+      }
+    ],
+    "科技": [
+      {
+        "title": "谷歌扩大AI版图，却失去构建者",
+        "summary": "谷歌云业务的繁荣正在考验其对前沿AI的承诺，商业回报优先导致人才流失。",
+        "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "基因编辑狗可预防过敏",
+        "summary": "科学家利用基因编辑技术培育出低过敏比格犬，名为Bailey。",
+        "url": "https://abcnews.com/video/135415641/",
+        "source": "ABC News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国参议院委员会就福奇藐视国会投票",
+        "summary": "预计投票结果将影响后续法律程序。",
+        "url": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
+        "source": "NPR"
+      },
+      {
+        "title": "伊朗与阿曼霍尔木兹海峡协议可能最终敲定",
+        "summary": "伊朗称协议进入最后阶段，但美国和阿曼未置评。",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "Ceuta边境危机后续：失踪人员搜寻持续",
+        "summary": "死亡人数接近100，民众仍在等待亲人消息。",
+        "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗与阿曼就霍尔木兹海峡达成协议，地缘风险缓和",
+      "direction": "看多",
+      "asset_impact": "USO, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国关闭五座领事馆，外交真空可能利好中国影响力",
+      "direction": "中性",
+      "asset_impact": "FXI",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "El Niño可能加剧全球粮食危机，推高农产品价格",
+      "direction": "看多",
+      "asset_impact": "DBA, /ZR",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "摩根大通CEO警告高杠杆，市场波动可能加剧",
+      "direction": "看空",
+      "asset_impact": "/ES, VIX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "标普500出现剧烈飙升，图表分析师担忧市场顶部",
+      "direction": "看空",
+      "asset_impact": "/ES",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "德国机场发现爆炸物无人机，安全威胁升级",
+      "direction": "看空",
+      "asset_impact": "VIX",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
