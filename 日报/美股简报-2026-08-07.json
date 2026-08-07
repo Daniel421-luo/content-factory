@@ -1,0 +1,194 @@
+{
+  "title": "📈 美股简报 | 2026-08-07",
+  "headline": "美股期货小幅波动，市场聚焦非农就业报告；伊朗霍尔木兹海峡紧张局势推高油价，半导体板块承压",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "标普500期货小幅波动，等待非农报告",
+        "summary": "标普500期货基本持平，市场关注即将公布的7月非农就业报告，此前美股因担忧经济数据而收跌。",
+        "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价上涨，伊朗草案拟禁止美以使用霍尔木兹海峡",
+        "summary": "伊朗提出限制性草案，拟禁止美国和以色列使用霍尔木兹海峡，引发供应中断担忧，油价走高。",
+        "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "道指下跌460点，结束连涨",
+        "summary": "道琼斯指数下跌460点，结束连续上涨势头，油价上涨与贸易谈判不确定性拖累市场情绪。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-06-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块受油价上涨提振",
+        "summary": "伊朗局势紧张推动油价走高，能源板块有望受益，但市场整体风险偏好受抑。",
+        "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "医疗保健板块结束五日连跌",
+        "summary": "医疗保健板块反弹，结束连续五个交易日的下跌，但具体驱动因素未明。",
+        "url": "https://seekingalpha.com/article/4932740-health-care-shakes-off-5-day-slide?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Trade Desk股价大跌，因财报不及预期",
+        "summary": "Trade Desk第二季度营收和利润均不及预期，且指引疲软，股价大幅下跌。",
+        "url": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Alphabet因AI投资消耗现金，重返债券市场",
+        "summary": "谷歌母公司Alphabet因AI投资消耗自由现金流，发行新债以补充流动性。",
+        "url": "https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Meta被责令支付5.67亿美元儿童伤害案基金",
+        "summary": "新墨西哥州法院裁定Meta支付5.67亿美元，用于解决平台对儿童造成的伤害，加上此前罚款，总额达9.42亿美元。",
+        "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光股价下跌，但躲过内存芯片抛售潮",
+        "summary": "美光股价下跌，但跌幅小于Sandisk和西部数据，后者因财报令人失望而大幅下挫。",
+        "url": "https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "内存芯片巨头股价因指引疲软下跌",
+        "summary": "内存芯片公司因软指引而股价下跌，拖累整个板块。",
+        "url": "https://www.wsj.com/finance/stocks/shares-of-memory-giants-drop-on-soft-guidance-505f1796?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "特朗普对关键芯片材料征收15%关税以应对中国",
+        "summary": "美国对关键芯片材料征收15%关税，旨在保护美国企业免受中国芯片行业竞争影响。",
+        "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "中国7月出口增长超预期，AI驱动出货激增",
+        "summary": "中国7月出口增长超预期，全球对高科技组件的需求强劲，推动出口增长。",
+        "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美日干预汇市支撑日元，或重塑全球货币市场",
+        "summary": "美日联合干预支撑日元，可能改变全球货币市场行为，日元被“武器化”。",
+        "url": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "贝森特宣布打击无证移民使用美国银行",
+        "summary": "美国财长贝森特表示，政府不会允许向非法移民提供金融服务带来的风险。",
+        "url": "https://www.cbsnews.com/news/bessent-undocumented-immigrants-u-s-financial-system/",
+        "source": "CBS"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗霍尔木兹海峡紧张局势升级",
+        "summary": "伊朗草案拟禁止美以使用霍尔木兹海峡，冲突扩大，威胁海湾能源基础设施和航运要道。",
+        "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "非农就业报告公布在即",
+        "summary": "7月非农就业报告即将公布，劳动力市场信号混杂，可能引发市场波动。",
+        "url": "https://www.cnbc.com/2026/08/06/what-fridays-jobs-report-could-mean-for-investors.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Jamie Dimon警告高杠杆风险",
+        "summary": "摩根大通CEO警告金融市场杠杆仍然高企，隐藏借贷可能放大市场混乱。",
+        "url": "https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗拟禁止美以使用霍尔木兹海峡，油价上涨",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "7月非农就业报告即将公布，市场观望",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "内存芯片巨头因软指引下跌，美光相对抗跌",
+      "direction": "看空",
+      "asset_impact": "MU, SNDK, WDC",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特朗普对关键芯片材料征收15%关税",
+      "direction": "看空",
+      "asset_impact": "SOXX, NVDA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "中国7月出口增长超预期，AI驱动出货激增",
+      "direction": "看多",
+      "asset_impact": "FXI, KWEB",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Meta被责令支付5.67亿美元儿童伤害案基金",
+      "direction": "看空",
+      "asset_impact": "META",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Alphabet因AI投资消耗现金，发行新债",
+      "direction": "中性",
+      "asset_impact": "GOOGL, GOOG",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Trade Desk财报不及预期，股价大跌",
+      "direction": "看空",
+      "asset_impact": "TTD",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美日干预汇市支撑日元，或重塑货币市场",
+      "direction": "中性",
+      "asset_impact": "FXY, UUP",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
