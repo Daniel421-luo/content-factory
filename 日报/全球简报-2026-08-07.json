@@ -1,0 +1,182 @@
+{
+  "title": "🌍 全球简报 | 2026-08-07",
+  "headline": "美国就业数据意外下滑，特朗普签署新行政令限制出生公民权，伊朗威胁封锁霍尔木兹海峡，全球地缘政治与经济风险交织。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国7月非农就业意外减少2.3万人",
+        "summary": "美国7月非农就业人数减少2.3万，远低于预期增加8.3万，失业率维持在4.2%，引发市场对经济放缓的担忧。",
+        "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普签署新行政令限制出生公民权",
+        "summary": "特朗普总统签署两项行政令，禁止生育旅游并扩大非公民子女出生公民权的排除范围，此举可能面临法律挑战。",
+        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "伊朗指责特朗普“戏剧外交”，霍尔木兹海峡交通近停滞",
+        "summary": "伊朗首席谈判代表批评美国在霍尔木兹海峡问题上的“戏剧外交”，该海峡的能源运输面临严重威胁。",
+        "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Meta因儿童安全违规被罚5.67亿美元",
+        "summary": "Meta因未能保护儿童安全被处以5.67亿美元罚款，加上此前罚款，总额达9.42亿美元，为史上最大儿童安全相关处罚。",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "沙特、土耳其和巴基斯坦签署防务协议",
+        "summary": "三国签署防务协议，巴基斯坦称对任一国的攻击将被视为对全体攻击，此举可能加剧中东紧张局势。",
+        "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国关闭五个领事馆，引发外交真空担忧",
+        "summary": "美国国务院计划关闭在加拿大、格林纳达、日本、印尼和喀麦隆的领事馆，批评者担心中国可能填补外交真空。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+        "source": "Guardian"
+      },
+      {
+        "title": "海地人面临逮捕和驱逐，TPS保护被取消",
+        "summary": "美国国土安全部取消海地人的临时保护身份，数十万海地人面临被驱逐回国的风险，尽管海地局势动荡。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
+        "source": "Guardian"
+      },
+      {
+        "title": "哥伦比亚ELN游击队准备重返战争",
+        "summary": "新总统德·拉·埃斯普列利亚誓言发动军事攻势，该国最后的左翼游击队ELN准备反击，哥伦比亚面临冲突升级风险。",
+        "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "太阳能股因特朗普延长中国多晶硅关税而上涨",
+        "summary": "特朗普宣布对多晶硅产品实施新的进口限制，太阳能股在盘前交易中上涨。",
+        "url": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国支付12亿美元叫停德国海上风电项目",
+        "summary": "美国与德国RWE公司达成12亿美元协议，叫停海上风电项目，这是特朗普政府取消风电项目的最新一例。",
+        "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "DOGE声称节省1100亿美元被指严重夸大",
+        "summary": "政府问责局（GAO）报告指出，马斯克领导的政府效率部声称的1100亿美元节省被严重夸大且错误百出。",
+        "url": "https://abcnews.com/US/doges-claim-110b-savings-vastly-inflated-riddled-errors/story?id=135447522",
+        "source": "ABC News"
+      },
+      {
+        "title": "JPMorgan上调Etsy评级，看好其转型",
+        "summary": "Etsy本周公布强劲销售增长，JPMorgan将其评级上调，认为股价还有20%上涨空间。",
+        "url": "https://www.cnbc.com/2026/08/07/jpmorgan-upgrades-etsy-sees-turnaround-story-taking-stock-another-20percent-higher.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "新疫苗有望对抗主要致命腹泻病",
+        "summary": "一种针对志贺氏菌的新疫苗在试验中显示出巨大希望，每年有超过100万人死于腹泻病，其中近半是5岁以下儿童。",
+        "url": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
+        "source": "NPR"
+      },
+      {
+        "title": "Kalshi和Polymarket临床试验投注被批“可怕”",
+        "summary": "研究人员警告，对临床试验的投注可能激励内幕交易并干扰药物开发，但Kalshi和Polymarket辩称提供有价值信息。",
+        "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
+        "source": "NPR"
+      },
+      {
+        "title": "刚果（金）埃博拉疫情或已变异",
+        "summary": "刚果（金）埃博拉确诊病例超过4000例，卫生官员担心病毒可能正在变异，计划开展挨家挨户排查。",
+        "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+        "source": "Guardian"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国非农数据后续市场反应",
+        "summary": "关注美股开盘及全球市场对意外疲软就业数据的反应，以及美联储政策预期变化。",
+        "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗霍尔木兹海峡局势发展",
+        "summary": "关注伊朗是否进一步采取行动限制美国船只通过霍尔木兹海峡，以及油价波动。",
+        "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国参议院对司法部长提名人Blanche的投票",
+        "summary": "穆尔科斯基参议员宣布反对，Blanche的提名面临风险，关注参议院投票结果。",
+        "url": "https://abcnews.com/Politics/murkowski-oppose-blanche-nomination-putting-attorney-generals-bid/story?id=135450198",
+        "source": "ABC News"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国7月非农就业意外减少2.3万人，远低于预期",
+      "direction": "看空",
+      "asset_impact": "/ES, US10Y, DXY",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "伊朗威胁限制美国船只通过霍尔木兹海峡，海峡交通近停滞",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普延长中国多晶硅关税，太阳能股上涨",
+      "direction": "看多",
+      "asset_impact": "TAN, FXI",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国支付12亿美元叫停德国海上风电项目，显示政策逆风",
+      "direction": "看空",
+      "asset_impact": "TAN, ICLN",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "沙特、土耳其、巴基斯坦签署防务协议，中东紧张加剧",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国关闭五个领事馆，外交真空担忧",
+      "direction": "中性",
+      "asset_impact": "FXI",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "海地人TPS被取消，可能引发移民危机",
+      "direction": "中性",
+      "asset_impact": "DXY",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
