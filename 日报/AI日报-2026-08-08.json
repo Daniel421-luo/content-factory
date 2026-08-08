@@ -1,0 +1,86 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-08",
+  "headline": "OpenAI 因安全顾虑放缓 Astra 模型开发，Cloudflare 推出专为 AI 智能体设计的浏览器 Kitesurf，科学家用 AI 创造 16 种新病毒引发监管讨论。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Cloudflare 推出 Kitesurf：专为 AI 智能体设计的浏览器",
+        "summary": "Cloudflare 发布 Kitesurf，一款云托管浏览器，专为 AI 智能体而非人类设计，在 V8 隔离环境中运行，比 Chromium 更省算力，帮助开发者高效构建浏览器型 AI 智能体。",
+        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "火山引擎上线 Seedance 2.5 API，视频生成迈向电影级长叙事",
+        "summary": "Seedance 2.5 API 将单次视频生成时长提升至 30 秒，支持最多 50 个全模态素材参考，在指令遵循、长叙事和真人感上大幅提升，兼容十余种语言。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Disney Plus 测试 AI 驱动的自然语言搜索",
+        "summary": "Disney Plus 正在测试一种 AI 工具，通过自然语言、语音查询或建议提示生成个性化的影视推荐，提升流媒体搜索体验。",
+        "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+        "source": "The Verge"
+      },
+      {
+        "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风",
+        "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 模型，在路径、强度和风场预测上领先，有效预报时长延长至 3 天，平均提前 24 小时预警。",
+        "url": "https://www.ithome.com/0/986/951.htm",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 因安全顾虑放缓 Astra 模型开发",
+        "summary": "OpenAI 表示 Astra 模型达到“关键网络安全阈值”，可能独立识别并实施网络攻击，因此暂停相关内部活动，以符合新的安全标准。",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rippling 推出 AI 支出控制台，追踪员工 AI 花费",
+        "summary": "在自身 AI 支出激增后，Rippling 发布 AI Spend Console，用于追踪个人和团队的 AI 使用成本，帮助企业优化 AI 投入。",
+        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "科学家用 AI 创造 16 种新病毒，引发监管担忧",
+        "summary": "研究人员利用 AI 系统设计出 16 种新病毒，为对抗细菌耐药性带来新可能，但也引发对技术超越监管速度的担忧。",
+        "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+        "source": "Wired"
+      },
+      {
+        "title": "Meta 被裁定造成“公害”，需出资治疗青少年心理健康问题",
+        "summary": "新墨西哥州法官裁定 Meta 造成“公害”，命令其设立基金帮助解决青少年心理健康危机。",
+        "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "微软 Edge 将停止支持旧版广告拦截扩展",
+        "summary": "微软 Edge 将结束对 Manifest V2 扩展的支持，影响 uBlock Origin 等广告拦截器，与 Chrome 的做法一致。",
+        "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "AI 创造 16 种新病毒的研究细节",
+        "summary": "科学家利用 AI 系统设计出 16 种新病毒，为对抗细菌耐药性提供新思路，但也引发对生物安全与监管的讨论。",
+        "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+        "source": "Wired"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Roku 的 AI 频道体验像“从食槽进食”",
+        "summary": "评论认为 Roku 的 AI 驱动 FAST 频道缺乏传统娱乐的吸引力，内容体验不佳。",
+        "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+        "source": "The Verge"
+      },
+      {
+        "title": "OpenAI 的昂贵智能音箱将用活动部件显得“更生动”",
+        "summary": "据报道，OpenAI 的智能音箱将采用活动部件来增强交互感，但价格昂贵，引发关注。",
+        "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
