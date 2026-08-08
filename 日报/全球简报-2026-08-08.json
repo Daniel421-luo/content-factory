@@ -1,0 +1,170 @@
+{
+  "title": "🌍 全球简报 | 2026-08-08",
+  "headline": "俄罗斯导弹袭击基辅致4人死亡，美国参议院确认特朗普前律师为司法部长，西班牙与意大利因休达移民危机互设边境管制",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "俄罗斯导弹袭击基辅及周边致4人死亡",
+        "summary": "俄军袭击基辅及周边地区，造成包括一名儿童在内的4人死亡，乌克兰防空系统未能完全拦截。",
+        "url": "https://abcnews.com/International/wireStory/russian-attacks-kill-4-kyiv-surrounding-region-air-135478347",
+        "source": "ABC News"
+      },
+      {
+        "title": "美国参议院确认托德·布兰奇为司法部长",
+        "summary": "参议院以50-49票确认特朗普前私人律师托德·布兰奇出任司法部长，共和党参议员卡西迪投下关键一票。",
+        "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "西班牙与意大利因休达移民潮互设边境管制",
+        "summary": "西班牙宣布对来自意大利的旅客实施临时边境检查，以回应意大利因摩洛哥约7.8万移民涌入休达而采取的措施。",
+        "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国承诺向哥伦比亚提供10亿美元安全援助",
+        "summary": "特朗普支持的哥伦比亚新总统德·拉·埃斯普列拉宣誓就职，承诺对“毒品恐怖主义”开战，美国宣布提供10亿美元安全援助。",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "沙特、土耳其和巴基斯坦签署防务协议",
+        "summary": "三国签署防务协议，巴基斯坦称对任一国的攻击将被视为对全体国家的攻击，此举与中东冲突相关。",
+        "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国关闭五个领事馆，引发外交真空担忧",
+        "summary": "美国国务院通知国会计划关闭在加拿大、格林纳达、日本、印尼和喀麦隆的领事馆，批评者担心中国填补外交真空。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+        "source": "Guardian"
+      },
+      {
+        "title": "法官批准特朗普政府终止南苏丹人临时保护身份",
+        "summary": "联邦法官裁定特朗普政府可终止数百名南苏丹人在美国的临时保护身份，此前最高法院允许类似行动。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+        "source": "Guardian"
+      },
+      {
+        "title": "刚果（金）埃博拉疫情或已变异，病例超4000",
+        "summary": "卫生官员担忧埃博拉病毒可能变异，确诊病例已超4000例，非洲公共卫生机构计划逐户排查以升级应对。",
+        "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "特朗普暗示伊朗协议未成，市场仍上涨",
+        "summary": "尽管伊朗协议未达成，市场仍因特朗普的暗示而上涨，分析师质疑在石油储备和弹药库存减少的情况下，这种反应还能持续多久。",
+        "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "私人监狱收入达14亿美元，移民拘留人数上升",
+        "summary": "私人监狱公司宣布收入14亿美元，不包括CoreCivic出售四所设施给国土安全部获得的16亿美元净收益。",
+        "url": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+        "source": "NPR"
+      },
+      {
+        "title": "环孢子虫疫情导致消费者对沙拉失去兴趣",
+        "summary": "美国持续的环孢子虫疫情导致沙拉连锁店客流量下降，消费者避免食用绿叶蔬菜。",
+        "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Hugging Face遭黑客攻击，AI网络安全时代开启",
+        "summary": "黑帽网络安全大会召开之际，Hugging Face等AI平台遭黑客攻击，许多公司尚未意识到风险。",
+        "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "数据中心成为跨党派政治议题，影响选举",
+        "summary": "威斯康星州和俄亥俄州州长候选人呼吁暂停数据中心建设，数据中心问题开始主导竞选活动。",
+        "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+        "source": "NPR"
+      },
+      {
+        "title": "AI与失业：下一波自动化浪潮将如何影响劳动力",
+        "summary": "近期科技裁员引发担忧，但多项研究发现AI驱动的裁员浪潮与过去自动化不同。",
+        "url": "https://www.cnbc.com/2026/08/08/ai-job-losses-automation-workforce.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国参议院《保护大学体育法案》推迟至九月投票",
+        "summary": "该法案在参议院遭遇通宵对峙，修正案涉及联盟重组、女子体育和NCAA责任，投票推迟至九月。",
+        "url": "https://www.foxnews.com/outkick-sports/protect-college-sports-act-stalls-overnight-senate-showdown-vote-pushed-september-chaotic-evening",
+        "source": "Fox News"
+      },
+      {
+        "title": "泰国总理承诺加强枪支管制",
+        "summary": "泰国总理在14岁少年枪击致8人死亡后承诺加强枪支法律，该事件引发全国关注。",
+        "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "俄罗斯导弹袭击基辅，乌克兰防空能力不足",
+      "direction": "看空",
+      "asset_impact": "VIX, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国确认特朗普前律师为司法部长，政策延续性增强",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "西班牙与意大利互设边境管制，欧盟内部紧张加剧",
+      "direction": "看空",
+      "asset_impact": "EURUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国向哥伦比亚提供10亿美元安全援助，打击毒品贸易",
+      "direction": "看多",
+      "asset_impact": "USO",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "沙特、土耳其和巴基斯坦签署防务协议，中东地缘风险上升",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普暗示伊朗协议但未达成，市场波动性增加",
+      "direction": "中性",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "刚果（金）埃博拉疫情可能变异，全球卫生风险上升",
+      "direction": "看空",
+      "asset_impact": "VIX",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
