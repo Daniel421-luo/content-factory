@@ -1,0 +1,68 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-09",
+  "headline": "OpenAI 因安全顾虑放缓 Astra 模型开发，同时收购演示文稿初创公司 NextSlide；DeepMind 飓风预测模型获突破；Cloudflare 称 AI 机器人流量已超人类。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能",
+        "summary": "ChatGPT 桌面应用新增语音控制，用户可通过语音让 AI 在电脑上执行多步骤任务，基于全新语音模型 ChatGPT-Live。",
+        "url": "https://www.ithome.com/0/987/452.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "苹果 Mac 支持文档更新，Apple 智能可配合阿里千问模型",
+        "summary": "苹果官网新增支持文档，确认 Apple 智能可配合阿里巴巴千问模型工作，适用于 macOS 26.6 及以上版本。",
+        "url": "https://www.ithome.com/0/987/366.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "Grok Imagine 图像编辑迎来重大升级",
+        "summary": "Grok Imagine 新增区域悬停编辑功能，用户可即时编辑图像任意特定区域。",
+        "url": "https://x.com/elonmusk/status/2086127247077843282",
+        "source": "X (Elon Musk)"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 收购演示文稿初创公司 NextSlide",
+        "summary": "NextSlide 团队已加入 OpenAI，将专注于 ChatGPT 相关项目。",
+        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cloudflare：AI 机器人流量已超越人类",
+        "summary": "Cloudflare 披露非人类流量已于 2026 年 5 月超过人类，预计五年后人机流量比达 1:1000。",
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "Firebird 在亚美尼亚启动独联体地区最大 AI 工厂",
+        "summary": "该 AI 工厂由 NVIDIA 和 Dell Technologies 提供基础设施，亚美尼亚总理出席开幕式。",
+        "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
+        "source": "NVIDIA Blog"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "DeepMind 飓风预测模型取得突破",
+        "summary": "开源 WeatherNext 模型能用较低分辨率数据做出准确预测，为预报员争取额外一天预警时间。",
+        "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "OpenAI 因安全顾虑放缓 Astra 模型开发",
+        "summary": "OpenAI 表示 Astra 模型达到“关键网络安全阈值”，可能独立发起网络攻击，因此放慢开发。",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rippling 自曝 AI 支出失控后推出 ROI 工具",
+        "summary": "Rippling 在自身 AI 花费数百万美元后，推出 AI Spend Console 以追踪员工 AI 支出。",
+        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
