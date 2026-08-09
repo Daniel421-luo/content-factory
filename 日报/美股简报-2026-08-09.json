@@ -1,0 +1,122 @@
+{
+  "title": "📈 美股简报 | 2026-08-09",
+  "headline": "7月非农意外减少2.3万，降息预期升温，美股三大指数再创历史新高",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货走高，标普500创纪录",
+        "summary": "7月非农就业意外减少2.3万，失业率下降，市场对美联储9月降息预期增强，美股期货盘前上涨。",
+        "url": "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "科技股领涨，AI支出担忧缓解",
+        "summary": "大型公司财报强劲，缓解了市场对AI支出和通胀压力的担忧，科技板块推动标普500和纳斯达克创下4月以来最佳周表现。",
+        "url": "https://www.wsj.com/finance/stocks/blockbuster-earnings-bolster-stocks-record-run-97551889?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "伯克希尔哈撒韦新CEO开始动用现金储备",
+        "summary": "伯克希尔Q2利润翻倍，达成68亿美元收购交易，并回购股票，成为其他股票的净买家。",
+        "url": "https://www.wsj.com/finance/stocks/berkshire-hathaway-earnings-q2-2026-brk-a-stock-e394a0e7?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "Meta被罚5.67亿美元，创儿童安全案件纪录",
+        "summary": "Meta因儿童安全问题被罚款5.67亿美元，加上此前罚款总额达9.42亿美元。",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "Arista Networks遭降级，AI利好有限",
+        "summary": "Seeking Alpha分析师将Arista Networks评级下调，认为尽管有AI顺风，但上涨空间有限。",
+        "url": "https://seekingalpha.com/article/4933838-arista-networks-despite-clear-ai-tailwinds-gains-will-be-more-limited-here-downgrade?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "7月非农意外减少2.3万，降息预期升温",
+        "summary": "美国7月非农就业减少2.3万，远低于预期的增加9.5万，失业率下降，市场对美联储9月降息预期增强。",
+        "url": "https://www.cbsnews.com/news/july-jobs-report-unexpected-job-losses/",
+        "source": "CBS"
+      },
+      {
+        "title": "特朗普宣布1.8亿美元资助矿业教育",
+        "summary": "特朗普总统宣布超过1.8亿美元的拨款，用于加强矿业教育项目，以提高关键矿产产量。",
+        "url": "https://www.cbsnews.com/news/trump-mining-education-critical-minerals-180-million-dollars/",
+        "source": "CBS"
+      },
+      {
+        "title": "特朗普政府向德国公司支付12亿美元以停止风电项目",
+        "summary": "RWE获得12亿美元补偿，这是特朗普政府取消风电项目的一系列交易中的最新一笔。",
+        "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "霍尔木兹海峡局势紧张",
+        "summary": "伊朗为重新开放霍尔木兹海峡设定条件，此前阿联酋一艘船只遭空袭，地缘风险持续。",
+        "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "7月非农就业意外减少2.3万，降息预期升温",
+      "direction": "看多",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "伯克希尔Q2利润翻倍，新CEO开始部署现金",
+      "direction": "看多",
+      "asset_impact": "BRK.A, BRK.B",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Meta被罚5.67亿美元，创儿童安全案件纪录",
+      "direction": "看空",
+      "asset_impact": "META",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "霍尔木兹海峡局势紧张，伊朗设定重开条件",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普政府向RWE支付12亿美元以停止风电项目",
+      "direction": "看空",
+      "asset_impact": "RWE, ICLN",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Arista Networks遭降级，AI利好有限",
+      "direction": "看空",
+      "asset_impact": "ANET",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
