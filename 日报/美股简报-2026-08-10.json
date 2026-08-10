@@ -1,0 +1,156 @@
+{
+  "title": "📈 美股简报 | 2026-08-10",
+  "headline": "美股期货持平，市场关注通胀数据与霍尔木兹海峡局势；标普500上周创历史新高",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货持平，等待通胀数据与伊朗不确定性",
+        "summary": "美国股指期货周日基本持平，此前伊朗提出新要求，令霍尔木兹海峡重新开放的希望再度蒙上阴影，投资者等待本周晚些时候的关键通胀数据。",
+        "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "标普500上周创历史收盘新高",
+        "summary": "三大指数上周创下4月以来最佳周度表现，标普500上周五收于历史新高。",
+        "url": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "标普500销售增长创近5年新高，能源板块领涨",
+        "summary": "标普500指数第二季度销售增长创近五年新高，其中能源公司营收增长42.5%，成为主要推动力。",
+        "url": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "跑赢标普500的股票数量创4年新高",
+        "summary": "平均股票表现四年来首次跑赢大盘，这一趋势有望延续。",
+        "url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "伯克希尔新CEO阿贝尔大举动用现金",
+        "summary": "格雷格·阿贝尔在担任伯克希尔哈撒韦CEO的第二个季度进行了大规模支出，包括45亿美元的股票回购。",
+        "url": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "大型公司财报强劲，支撑股市创纪录涨势",
+        "summary": "美国大型公司的财报业绩缓解了市场对AI支出和通胀压力的担忧。",
+        "url": "https://www.wsj.com/finance/stocks/blockbuster-earnings-bolster-stocks-record-run-97551889?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "AMD：资本开支推动下一轮增长",
+        "summary": "分析认为AMD的资本开支正在为下一阶段增长提供动力。",
+        "url": "https://seekingalpha.com/article/4933965-amd-q2-capex-is-fueling-the-next-leg?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "伊朗否认与美国直接谈判，胡塞武装声称袭击沙特炼油厂",
+        "summary": "伊朗外长表示未与美国直接谈判，但通过中间人交换信息；胡塞武装声称袭击沙特炼油厂，沙特阿美已扑灭炼油厂火灾。",
+        "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普称石油巨头赚得太多，引发政治反弹",
+        "summary": "特朗普指责埃克森美孚和雪佛龙赚得太多，石油巨头的高额利润引发政治和环境方面的反弹。",
+        "url": "https://www.cnbc.com/2026/08/10/oil-iran-war-profits-windfall-tax.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "私人信贷压力增大，尽管行业基调乐观",
+        "summary": "违约率触及近期高位，内部贷款健康审查显示未来面临更艰难时期。",
+        "url": "https://www.wsj.com/finance/investing/private-credit-is-under-growing-strain-despite-industrys-upbeat-tone-e5abf388?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "霍尔木兹海峡局势不确定性持续",
+        "summary": "伊朗提出新要求，美国与伊朗达成协议的前景存疑，油价因不确定性上涨。",
+        "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国重申霍尔木兹海峡封锁，拒绝55艘船只通行",
+        "summary": "美国重申对霍尔木兹海峡的封锁，已拒绝55艘船只通行，谈判陷入僵局。",
+        "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗否认与美国直接谈判，霍尔木兹海峡重新开放前景不明，油价上涨",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, XOM, CVX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国重申霍尔木兹海峡封锁，拒绝55艘船只通行",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "标普500销售增长创近5年新高，能源板块营收增长42.5%",
+      "direction": "看多",
+      "asset_impact": "SPY, XLE",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "跑赢标普500的股票数量创4年新高，市场广度改善",
+      "direction": "看多",
+      "asset_impact": "SPY, IWM",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "伯克希尔新CEO大举回购45亿美元，显示对公司价值信心",
+      "direction": "看多",
+      "asset_impact": "BRK.B",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特朗普批评石油巨头利润过高，可能引发加税或监管风险",
+      "direction": "看空",
+      "asset_impact": "XOM, CVX, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "私人信贷违约率上升，行业压力增大",
+      "direction": "看空",
+      "asset_impact": "BDCS, ARCC",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AMD资本开支推动增长，分析师看好",
+      "direction": "看多",
+      "asset_impact": "AMD, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    }
+  ]
+}
