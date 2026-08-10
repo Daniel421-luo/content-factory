@@ -1,0 +1,194 @@
+{
+  "title": "🌍 全球简报 | 2026-08-10",
+  "headline": "乌克兰无人机袭击俄罗斯鞑靼斯坦致13人死亡，台风海豚登陆中国东部引发大规模疏散，伊朗局势转向经济施压",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "乌克兰无人机袭击俄罗斯鞑靼斯坦致13人死亡",
+        "summary": "乌克兰对俄罗斯鞑靼斯坦地区的无人机袭击造成至少13人死亡，这是自战争以来最致命的袭击之一。",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "台风海豚登陆中国东部，超百万人疏散",
+        "summary": "台风海豚带来强风和暴雨，上海等地遭遇创纪录降雨，超过一百万人被转移至安全地带。",
+        "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
+        "source": "Guardian"
+      },
+      {
+        "title": "特朗普转向经济施压，伊朗在霍尔木兹海峡问题上升级立场",
+        "summary": "美国与伊朗的紧张关系持续，特朗普政府暗示将采取经济措施，而伊朗在霍尔木兹海峡问题上态度强硬。",
+        "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "以色列拒绝特朗普的加沙15点计划",
+        "summary": "以色列总理内塔尼亚胡表示，在哈马斯真正解除武装之前，以军不会撤出加沙，拒绝了特朗普的停火计划。",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗谈判：美国'低调'处理，特朗普称",
+        "summary": "特朗普表示美国正在'低调'处理与伊朗的谈判，此前双方在阿曼进行了间接接触。",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900",
+        "source": "ABC News"
+      },
+      {
+        "title": "德国军事基地上空发现无人机，莱比锡炸弹事件后",
+        "summary": "德国警方正在调查在军事基地上空发现无人机的事件，该基地据报用于存放爱国者导弹系统部件。",
+        "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "加拿大政府介入'失控'野火，数千人撤离",
+        "summary": "不列颠哥伦比亚省野火失控，联邦政府宣布提供紧急援助，已造成一人死亡。",
+        "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+        "source": "Guardian"
+      },
+      {
+        "title": "哥斯达黎加外交官成为联合国首位女性秘书长有力竞争者",
+        "summary": "前副总统丽贝卡·格林斯潘被视为连续性候选人，可能成为联合国首位女性秘书长。",
+        "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "全球央行抢购黄金，创纪录45%计划增持",
+        "summary": "面对持续通胀和地缘政治不确定性，各国央行正以创纪录的速度增持黄金储备。",
+        "url": "https://www.foxnews.com/politics/quiet-rush-gold-sweeping-globe-why-countries-stockpiling",
+        "source": "Fox News"
+      },
+      {
+        "title": "澳大利亚稀土矿商因美国国防部投资而飙升",
+        "summary": "特朗普政府支持建设澳大利亚钪矿，以挑战中国在关键矿产领域的主导地位。",
+        "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伯克希尔哈撒韦盈利上升，CEO格雷格·阿贝尔开始部署巴菲特巨额现金",
+        "summary": "能源、铁路和制造业的强劲表现抵消了保险业务的疲软，阿贝尔开始动用现金储备。",
+        "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Mizuho公布8月首选股，沃尔玛等入选",
+        "summary": "Mizuho将沃尔玛等主要股票加入其8月首选名单。",
+        "url": "https://www.cnbc.com/2026/08/09/here-are-some-of-mizuhos-top-picks-for-august.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "FAA聘请初创公司Air Space Intelligence重启美国空域系统",
+        "summary": "阿拉斯加航空公司使用该公司的技术优化运营后，FAA决定聘请其进行全国空域系统的大规模升级。",
+        "url": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
+        "source": "NPR"
+      },
+      {
+        "title": "太空垃圾问题催生清理初创企业",
+        "summary": "随着地球轨道日益拥挤，多家公司押注清理太空垃圾将成为有利可图的新业务。",
+        "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Myspace计划复出，作为社交媒体疲劳的'解药'",
+        "summary": "Myspace的重新推出引发怀旧情绪，但分析师认为成功难度较大。",
+        "url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "苹果支付短信诈骗威胁35分钟内损失8250美元",
+        "summary": "华盛顿特区居民收到苹果支付诈骗短信，声称被扣款8250美元，并将在35分钟内自动批准重复扣款。",
+        "url": "https://www.foxnews.com/tech/apple-pay-text-scam-threatens-8250-loss-35-minutes",
+        "source": "Fox News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国劳工部发布通胀报告",
+        "summary": "美国劳工部将发布新的通胀数据，可能影响美联储政策预期。",
+        "url": "https://www.npr.org/2026/08/10/nx-s1-5921277/morning-news-brief",
+        "source": "NPR"
+      },
+      {
+        "title": "明尼苏达州初选",
+        "summary": "明尼苏达州举行初选，迈克·林德尔在特朗普支持下竞选州长。",
+        "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
+        "source": "NPR"
+      },
+      {
+        "title": "缅因州参议院竞选：女性选民可能成为决定因素",
+        "summary": "苏珊·柯林斯和特洛伊·杰克逊的竞争激烈，女性选民的支持至关重要。",
+        "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
+        "source": "NPR"
+      },
+      {
+        "title": "欧洲高温持续，更多记录可能被打破",
+        "summary": "欧洲中部和东部高温持续，干旱和野火加剧，未来几天可能继续打破温度记录。",
+        "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "乌克兰无人机袭击俄罗斯鞑靼斯坦致13人死亡，地缘紧张升级",
+      "direction": "看空",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "伊朗在霍尔木兹海峡问题上态度强硬，美国转向经济施压",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "全球央行创纪录增持黄金，避险需求上升",
+      "direction": "看多",
+      "asset_impact": "GLD",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "台风海豚登陆中国东部，超百万人疏散，可能影响经济活动",
+      "direction": "看空",
+      "asset_impact": "FXI, CNY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国国防部投资澳大利亚稀土矿，挑战中国关键矿产主导地位",
+      "direction": "看多",
+      "asset_impact": "稀土相关股票",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "以色列拒绝特朗普加沙计划，中东和平进程受阻",
+      "direction": "看空",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "欧洲高温破纪录，干旱和野火加剧，可能影响能源需求",
+      "direction": "看多",
+      "asset_impact": "天然气, 电力",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
