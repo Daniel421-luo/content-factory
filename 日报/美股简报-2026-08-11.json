@@ -1,0 +1,186 @@
+{
+  "title": "📈 美股简报 | 2026-08-11",
+  "headline": "投资者权衡伊朗局势与AI乐观情绪，美股期货持稳，油价因霍尔木兹海峡协议前景黯淡而上涨",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货持稳，市场关注伊朗与霍尔木兹海峡局势",
+        "summary": "投资者权衡霍尔木兹海峡重新开放取得进展的迹象，但对美伊能否达成更广泛解决方案存疑，期货市场保持稳定。",
+        "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价因霍尔木兹海峡协议无望而上涨",
+        "summary": "由于美伊协议前景黯淡，油价上涨，同时美国战略石油储备降至1983年以来最低水平。",
+        "url": "https://www.wsj.com/finance/investing/oil-surges-with-no-hormuz-deal-in-sight-10ab080d?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "JPMorgan：市场对7月CPI报告的可能反应",
+        "summary": "JPMorgan表示，周三公布的7月消费者价格指数可能引发股市显著波动。",
+        "url": "https://www.cnbc.com/2026/08/10/how-the-market-may-react-to-julys-cpi-report-according-to-jpmorgan.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "AI交易正在抢占加密货币的风头",
+        "summary": "投资者正放弃比特币等数字代币，转而涌入AI股票的热潮。",
+        "url": "https://www.wsj.com/finance/currencies/retail-traders-crypto-cash-0d303c92?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "标普500的集中反弹开始分散？",
+        "summary": "市场观察人士探讨标普500指数中少数权重股主导的涨势是否正在扩散至更广泛股票。",
+        "url": "https://seekingalpha.com/article/4934484-is-the-s-and-p-500s-concentrated-rally-starting-to-diversify?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "战争帮助中国电动汽车颠覆全球汽车市场",
+        "summary": "高油价为中国电动汽车出口提供助力，中国电动汽车在全球市场的份额上升。",
+        "url": "https://www.wsj.com/business/autos/war-is-helping-chinese-evs-upend-the-global-car-market-b1b7ea57?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "特朗普媒体第二季度亏损2.38亿美元，加密货币下跌",
+        "summary": "特朗普媒体与科技集团公布第二季度亏损，并称已签署超过10份Truth API客户协议，该服务提供对特朗普帖子的更快访问。",
+        "url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Rocket Lab公布宏大计划，但财报喜忧参半致股价下跌",
+        "summary": "Rocket Lab计划扩大在欧洲的业务并增加积压订单，但市场对财报反应消极。",
+        "url": "https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "苹果股价可能跑输大盘，尤其在没有“全玻璃”iPhone的情况下",
+        "summary": "杰富瑞分析师警告，苹果推出价格大幅提高的设备以提升盈利能力的难度可能比想象中大。",
+        "url": "https://www.marketwatch.com/story/apples-stock-could-underperform-especially-without-an-all-glass-iphone-this-analyst-warns-fc9a750c?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Archer Aviation与波音达成协议，股价上涨",
+        "summary": "Archer Aviation同意从波音收购三个业务部门，股价走高。",
+        "url": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达筹集500亿美元融资用于AI基础设施",
+        "summary": "英伟达与七家华尔街金融机构合作，筹集超过500亿美元的第三方资本，用于AI基础设施的建设。CEO黄仁勋表示，其芯片是“可投资资产”。",
+        "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英特尔计划出售150亿美元股票，此前一年股价上涨400%",
+        "summary": "英特尔表示，在物理AI、定制芯片和先进封装领域看到增长机会，计划发行150亿美元股票。",
+        "url": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "新加坡因AI相关提振大幅上调年度增长预测",
+        "summary": "新加坡将2026年GDP增长预测上调至4.5%至5.5%，远高于此前预测区间2%-4%的下限。",
+        "url": "https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普签署行政令减少儿童疫苗，错误关联自闭症",
+        "summary": "该行政令建立在特朗普政府重塑儿童疫苗时间表的努力之上，由长期怀疑疫苗的卫生部长RFK Jr.主导。",
+        "url": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "法院为针对科技巨头的社交媒体成瘾诉讼扫清障碍",
+        "summary": "上诉法院的裁决可能为针对谷歌、Meta等社交媒体公司的诉讼潮打开大门。",
+        "url": "https://www.cbsnews.com/news/social-media-addiction-lawsuits-court-rules/",
+        "source": "CBS"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "霍尔木兹海峡局势持续紧张，特朗普声称完全控制并要求伊朗赔偿",
+        "summary": "美伊双方立场相距甚远，尽管双方都谈到缓和地区敌对行动，但协议前景不明，油价可能继续波动。",
+        "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "7月CPI报告即将公布，市场可能剧烈波动",
+        "summary": "JPMorgan警告，周三公布的CPI数据可能引发股市显著波动，投资者需关注通胀数据。",
+        "url": "https://www.cnbc.com/2026/08/10/how-the-market-may-react-to-julys-cpi-report-according-to-jpmorgan.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达与华尔街合作筹集500亿美元用于AI基础设施，显示AI资本开支强劲",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "英特尔计划出售150亿美元股票，可能稀释现有股东权益",
+      "direction": "看空",
+      "asset_impact": "INTC",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "油价因霍尔木兹海峡协议无望而上涨，能源板块受益",
+      "direction": "看多",
+      "asset_impact": "XLE, USO",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普声称完全控制霍尔木兹海峡并要求伊朗赔偿，地缘风险升级",
+      "direction": "看空",
+      "asset_impact": "SPY, 原油",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "新加坡因AI提振大幅上调增长预测，亚洲科技需求强劲",
+      "direction": "看多",
+      "asset_impact": "TSM, 亚洲科技股",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "苹果可能因缺乏创新而跑输大盘，分析师警告",
+      "direction": "看空",
+      "asset_impact": "AAPL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "法院允许社交媒体成瘾诉讼继续进行，可能增加科技巨头法律风险",
+      "direction": "看空",
+      "asset_impact": "META, GOOGL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "特朗普媒体签署超过10份Truth API协议，但亏损扩大",
+      "direction": "中性",
+      "asset_impact": "DJT",
+      "confidence": 2,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    }
+  ]
+}
