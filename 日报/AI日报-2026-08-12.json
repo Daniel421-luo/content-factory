@@ -1,0 +1,98 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-12",
+  "headline": "谷歌 Gemini 月活突破 10 亿，成谷歌史上增长最快产品；OpenAI 发布 Linux 版 ChatGPT 桌面应用；研究揭示 AI 模型内部推理痕迹，或证明中国 AI 模型使用美国模型训练。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "OpenAI 发布 Linux 版 ChatGPT 桌面应用",
+        "summary": "OpenAI 终于为 Linux 操作系统推出专属 ChatGPT 桌面应用，扩展其跨平台覆盖。",
+        "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "谷歌 Gemini 应用用户数突破 10 亿",
+        "summary": "谷歌宣布 Gemini 月活用户达 10 亿，成为谷歌史上增长最快的产品，其中 63% 用户使用语音功能，每日生成超 1.5 亿张图片。",
+        "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia 发布开源 Nemotron 3.5 Lightning 模型，专注本地智能体 AI",
+        "summary": "Nvidia 推出开源模型 Nemotron 3.5 Lightning，旨在支持专业化的本地代理 AI 应用。",
+        "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Threads 推出 VR 应用，登陆 Meta Quest 头显",
+        "summary": "Meta 宣布 Threads 应用正式登陆 Quest VR 头显，此前已登陆 Ray-Ban 智能眼镜，平台月活已超 5 亿。",
+        "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Accel 完成 5.5 亿美元印度基金募集，超额认购",
+        "summary": "美国风投公司 Accel 在不到两个月内完成 5.5 亿美元印度基金募集，距离上一支基金仅 19 个月，且上一支基金仍有 55% 以上资金未部署。",
+        "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber 出售机器人公司 Serve 全部股份",
+        "summary": "Uber 出人意料地出售了其在机器人公司 Serve 的全部股份，双方业务方向出现分歧。",
+        "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 又一高管离职：特别项目负责人 Brad Lightcap 宣布离开",
+        "summary": "OpenAI 特别项目负责人、前 COO Brad Lightcap 在任职八年后宣布离职，称将开始“新的事业”。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+        "source": "The Verge"
+      },
+      {
+        "title": "Scaleup Europe 基金首投芬兰卫星公司 ICEYE",
+        "summary": "目标规模 57 亿美元的公共-私人基金 Scaleup Europe 完成首笔投资，支持芬兰卫星公司 ICEYE。",
+        "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "新技巧揭示 AI 模型的“内心想法”",
+        "summary": "研究人员从 Claude、GPT 和 Gemini 中提取“推理痕迹”，发现某些中国 AI 模型可能基于美国领先模型进行训练。",
+        "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+        "source": "Wired"
+      },
+      {
+        "title": "AI 用于科学需要推理，而不仅仅是数据",
+        "summary": "前谷歌 CEO 埃里克·施密特等人撰文指出，AI 在科学发现中需要更强的推理能力，而非仅依赖数据。",
+        "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "初创公司追逐 LLM 的下一件大事",
+        "summary": "MIT 技术评论探讨了在 Transformer 架构提出九年后，初创公司如何探索 LLM 的新方向。",
+        "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "AI 教授们正在适应学术研究的新现实",
+        "summary": "报道探讨了 AI 教授如何在产业界与学术界之间权衡，以及学术研究模式的转变。",
+        "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "AI 可能帮助化石燃料公司增加排放",
+        "summary": "新研究发现，AI 提高化石燃料行业生产力，可能导致碳排放增加近 5%，远超数据中心的影响。",
+        "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
+        "source": "Wired"
+      },
+      {
+        "title": "“审查工业综合体”如何改变互联网和美国政策",
+        "summary": "深度分析美国国务院反虚假信息办公室关闭背后的“审查工业综合体”现象及其对互联网政策的影响。",
+        "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+        "source": "MIT Technology Review"
+      }
+    ]
+  }
+}
