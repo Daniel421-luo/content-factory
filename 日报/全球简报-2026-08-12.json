@@ -1,0 +1,170 @@
+{
+  "title": "🌍 全球简报 | 2026-08-12",
+  "headline": "中国前总理朱镕基逝世，享年97岁；哥伦比亚强震死亡人数超110人；美国CPI数据符合预期；胡塞武装袭击红海船只致六人死亡。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "中国前总理朱镕基逝世，享年97岁",
+        "summary": "朱镕基在1990年代推动中国经济改革，带领中国加入世贸组织，被誉为经济转型的关键人物。",
+        "url": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
+        "source": "NPR"
+      },
+      {
+        "title": "哥伦比亚强震死亡人数升至110人以上",
+        "summary": "7.4级地震袭击哥伦比亚西部，卡利和佩雷拉等主要城市建筑严重受损，救援工作仍在进行。",
+        "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国7月CPI同比上涨3.4%，符合预期",
+        "summary": "消费者价格指数环比上涨0.1%，年度通胀率维持在3.4%，与市场预期一致。",
+        "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "胡塞武装袭击红海船只，六人死亡",
+        "summary": "红海和波斯湾发生袭击事件，一艘货船和一艘集装箱船被击中，这是该地区一年多来首次出现人员死亡。",
+        "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普证实因潜在威胁秘密更换飞机",
+        "summary": "在北约峰会后，特朗普因可能的安全威胁秘密更换飞机，副总统和财长乘坐诱饵飞机离开土耳其。",
+        "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "普京威胁对西方扣押俄罗斯商船进行报复",
+        "summary": "俄罗斯总统普京称西方扣押俄商船是“海盗行为”，并威胁采取报复措施。",
+        "url": "https://abcnews.com/International/wireStory/putin-threatens-retaliation-western-seizures-russian-commercial-vessels-135570787",
+        "source": "ABC News"
+      },
+      {
+        "title": "以色列定居者围困约旦河西岸巴勒斯坦家庭",
+        "summary": "以色列安全部队撤离后，约旦河西岸一个村庄的巴勒斯坦家庭仍被定居者围困。",
+        "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国水设施遭黑客攻击，伊朗战争新战线？",
+        "summary": "一系列针对美国水系统的网络攻击暴露了关键基础设施的脆弱性，可能成为伊朗战争的新前线。",
+        "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
+        "source": "NPR"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美国7月CPI同比上涨3.4%，符合预期",
+        "summary": "消费者价格指数环比上涨0.1%，年度通胀率维持在3.4%，与市场预期一致。",
+        "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "抵押贷款利率停止上升，需求回升",
+        "summary": "抵押贷款利率略有下降，带动了低迷的抵押贷款市场需求的回升。",
+        "url": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "CoreWeave股价盘前大涨20%，AI需求强劲",
+        "summary": "AI云巨头CoreWeave第二季度营收翻倍，受超大规模客户AI需求激增推动。",
+        "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "纽约市议会调查预测市场平台营销策略",
+        "summary": "市议会向四家预测市场平台发出信函，并考虑立法解决相关问题。",
+        "url": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Meta和Nvidia在开源AI竞赛中与中国实验室竞争",
+        "summary": "中国在开源权重模型市场领先，Meta和Nvidia正努力让美国占据一席之地。",
+        "url": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "真菌发现有望对抗非洲秋粘虫",
+        "summary": "南非科学家的突破性研究显示，土壤真菌可用于对抗破坏性作物害虫。",
+        "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
+        "source": "Guardian"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国初选结果后续影响",
+        "summary": "威斯康星州初选结果可能影响民主党左翼势头，后续关注其他州初选。",
+        "url": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+        "source": "NPR"
+      },
+      {
+        "title": "泰国枪支管制政策动向",
+        "summary": "泰国暂停发放枪支许可证，总理呼吁加强枪支管控，后续可能出台更严格措施。",
+        "url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国7月CPI同比上涨3.4%，符合预期，通胀压力温和",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "胡塞武装袭击红海船只致六人死亡，地缘风险升级",
+      "direction": "看多",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国前总理朱镕基逝世，可能引发对中国经济改革遗产的讨论",
+      "direction": "中性",
+      "asset_impact": "FXI",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普秘密更换飞机，显示伊朗威胁加剧",
+      "direction": "看空",
+      "asset_impact": "VIX, USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "普京威胁报复西方扣押俄商船，能源供应风险上升",
+      "direction": "看多",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "哥伦比亚地震造成重大伤亡，可能影响区域经济",
+      "direction": "中性",
+      "asset_impact": "COP",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Meta和Nvidia在开源AI竞赛中发力，AI投资热度持续",
+      "direction": "看多",
+      "asset_impact": "NVDA, META",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
