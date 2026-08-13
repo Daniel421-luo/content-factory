@@ -1,0 +1,174 @@
+{
+  "title": "🌍 全球简报 | 2026-08-13",
+  "headline": "西班牙迎来百年一遇日全食，哥伦比亚地震死亡人数超百，乌克兰袭击俄黑海粮食出口终端，全球市场聚焦美国通胀数据",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "西班牙迎来百年一遇日全食，数百万人涌上街头观看",
+        "summary": "西班牙在8月12日迎来一个多世纪以来的首次日全食，数百万人在城市和乡村目睹了这一壮观天象。",
+        "url": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
+        "source": "NPR"
+      },
+      {
+        "title": "哥伦比亚地震死亡人数超百，救援工作持续进行",
+        "summary": "哥伦比亚西部发生7.4级强震，已造成超过100人死亡，卡利和佩雷拉等主要城市建筑严重受损。",
+        "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+        "source": "Guardian"
+      },
+      {
+        "title": "乌克兰袭击俄黑海粮食出口终端，引发食品市场担忧",
+        "summary": "乌克兰对俄罗斯黑海港口新罗西斯克的主要粮食出口终端发动大规模无人机袭击，警告全球食品市场可能受影响。",
+        "url": "https://www.cnbc.com/2026/08/13/",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国7月PPI数据即将公布，市场等待通胀进一步信号",
+        "summary": "美国7月生产者价格指数将于周四公布，投资者密切关注通胀走势，以判断美联储政策路径。",
+        "url": "https://www.cnbc.com/2026/08/12/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗外长称美国在战争中因情报失误而“误判”",
+        "summary": "伊朗外长阿拉格齐表示，美国在伊朗战争中因情报失败而“误判”，局势持续紧张。",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900",
+        "source": "ABC News"
+      },
+      {
+        "title": "以色列定居者围困约旦河西岸村庄，更多军队将被派遣",
+        "summary": "约旦河西岸库斯拉村的两个巴勒斯坦家庭自周日以来被困家中，水电被切断，以色列将增派军队。",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "赞比亚大选在即，现任总统与已故对手的幽灵纠缠",
+        "summary": "赞比亚周四举行大选，现任总统希奇莱马寻求连任，但与已故前任伦古家族的恩怨持续影响选情。",
+        "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
+        "source": "Guardian"
+      },
+      {
+        "title": "墨西哥前州长因2014年43名学生失踪案被起诉",
+        "summary": "格雷罗州前州长安赫尔·阿吉雷因涉嫌参与2014年43名学生失踪案被正式起诉，该案成为墨西哥暴力冲突的象征。",
+        "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "油价下跌，投资者权衡需求下降与中东紧张局势",
+        "summary": "原油期货周三早间回落，此前隔夜价格上涨，市场关注需求疲软与中东供应风险。",
+        "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "航运巨头警告港口和卡车瓶颈可能推高运费",
+        "summary": "全球航运需求依然强劲，但港口和卡车运输瓶颈加剧拥堵，对运费构成上行压力。",
+        "url": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SK海力士投资7200亿美元扩建AI内存工厂",
+        "summary": "SK海力士正投资7200亿美元建设内存工厂以满足AI需求，CNBC独家探访其建设现场。",
+        "url": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "纽约市租金创历史新高，市长负担能力计划受质疑",
+        "summary": "纽约市6月租金中位数创下4200美元的历史新高，市长马姆达尼的租金冻结计划面临经济学家质疑。",
+        "url": "https://www.foxnews.com/politics/mamdanis-affordability-revolution-stumbled-rent-costs-soar-record-highs",
+        "source": "Fox News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "美国需要数千名蓝领工人来制造AI未来",
+        "summary": "到2030年，美国需要额外14万名熟练技工来建设AI数据中心，瑞士的学徒模式或可借鉴。",
+        "url": "https://www.foxnews.com/opinion/america-needs-thousands-blue-collar-workers-manufacture-ai-future",
+        "source": "Fox News"
+      },
+      {
+        "title": "哈佛大学与中国军方大学合作论文曝光",
+        "summary": "众议院中国委员会报告称，哈佛大学与中国军方关联大学合作发表了140多篇论文。",
+        "url": "https://www.foxnews.com/politics/harvard-china-links-unearthed-congress-finds-140-papers-coauthored-ccp-military-universities",
+        "source": "Fox News"
+      },
+      {
+        "title": "ICE计划为警员配备电击手套",
+        "summary": "美国移民和海关执法局计划采购电击手套，制造商称其为非致命工具，用于逮捕时使目标顺从。",
+        "url": "https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国7月PPI数据公布",
+        "summary": "美国7月生产者价格指数将于周四8:30 ET公布，市场关注通胀压力。",
+        "url": "https://www.cnbc.com/2026/08/12/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "赞比亚大选投票",
+        "summary": "赞比亚于周四举行大选，现任总统希奇莱马寻求连任。",
+        "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国同日三州执行死刑",
+        "summary": "田纳西州、阿拉巴马州和俄克拉荷马州将于周四分别执行死刑，为美国罕见同日多州执行。",
+        "url": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "乌克兰袭击俄罗斯黑海粮食出口终端，可能影响全球粮食供应",
+      "direction": "看多",
+      "asset_impact": "WHEAT, WEAT",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国7月PPI数据即将公布，若高于预期可能强化美联储鹰派立场",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES, DXY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中东紧张局势持续，但油价因需求担忧而下跌",
+      "direction": "看空",
+      "asset_impact": "USO, CL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "航运瓶颈加剧，运费可能上涨",
+      "direction": "看多",
+      "asset_impact": "BALT, SHIPPING",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SK海力士大规模投资AI内存，显示AI需求强劲",
+      "direction": "看多",
+      "asset_impact": "NVDA, SMH",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "哥伦比亚地震造成重大伤亡，可能影响该国经济及大宗商品供应",
+      "direction": "看空",
+      "asset_impact": "COP, CO",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
