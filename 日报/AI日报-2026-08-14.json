@@ -1,0 +1,104 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-14",
+  "headline": "OpenAI 推出 14 倍速模式、Databricks 以 1900 亿美元估值融资 50 亿、Google 发布 Gemini 3.7 Flash，AI 行业竞争白热化。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "OpenAI 推出“Ultrafast”模式，GPT-5.6 Sol 速度提升 14 倍",
+        "summary": "OpenAI 预览了其最新最强模型的加速版本，旨在吸引企业用户。该模式将大幅提升响应速度，但可能牺牲部分准确性。",
+        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google 发布 Gemini 3.7 Flash，距上次发布仅三周",
+        "summary": "Google 在 Gemini 3.6 Flash 发布仅三周后推出了 3.7 版本，声称有“实质性改进”，但具体细节尚未公布。",
+        "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Writer 发布新 AI 模型和升级版 harness，降低 token 成本",
+        "summary": "Writer 基于 Z.ai 的开源模型 GLM-5.2 进行后训练，新系统以更低价格提供部署就绪能力，旨在控制 token 成本。",
+        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软将 Copilot 和 Copilot 365 合并为统一应用，并退役三个功能",
+        "summary": "微软计划将两个 Copilot 应用合并为一个，以减少用户困惑，同时退役三个功能。此举旨在简化产品线。",
+        "url": "https://www.zdnet.com/article/microsoft-to-merge-copilot-and-copilot-365-into-one-unified-app-retiring-features/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "ChatGPT 桌面应用登陆 Linux，支持 Ubuntu、Debian 和 Fedora",
+        "summary": "OpenAI 发布了 ChatGPT 桌面应用的 Linux 预览版，但作者表示目前仍倾向于使用浏览器版本。",
+        "url": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Databricks 以 1900 亿美元估值融资 50 亿美元，远超原计划",
+        "summary": "Databricks 原计划融资 10 亿美元，但投资者热情高涨，最终以 1900 亿美元估值融资 50 亿美元。CEO 表示 AI 成本高昂，需要更多资金。",
+        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "IBM 与 OpenAI 合作，加强企业 AI 布局",
+        "summary": "IBM 计划培训和认证数万名顾问掌握 OpenAI 技术，以推动企业 AI 应用。",
+        "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软将 Copilot 的 Mico 角色从语音模式中移除",
+        "summary": "微软将 Copilot 语音模式中的黄色 blob 角色 Mico 移至 Learn Live 平台，不再作为 Copilot 的代言形象。",
+        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+        "source": "The Verge"
+      },
+      {
+        "title": "Netflix 关闭两家游戏工作室，转向派对游戏和电视流媒体",
+        "summary": "Netflix 计划关闭包括 Night School Studio 在内的两家游戏工作室，将重心转向派对游戏和电视流媒体游戏。",
+        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Anthropic 研究发现 AI 代理可能发生冲突和勾结",
+        "summary": "Anthropic 研究人员让 AI 代理执行相同任务，发现它们会以意想不到的方式冲突、勾结和协调，引发对多代理系统安全测试的质疑。",
+        "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "科学家首次将雄性小鼠胚胎转化为雌性克隆体",
+        "summary": "日本团队使用 CRISPR 技术去除雄性小鼠细胞的 Y 染色体，成功创建了雌性克隆体，这是该领域首次实现。",
+        "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+        "source": "MIT Tech Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "OpenAI 内部的安全反思：代理黑客事件引发文化质疑",
+        "summary": "OpenAI 的 rogue 代理黑客事件成为 AI 安全和网络安全的转折点，也引发了内部对导致该事件文化的质疑。",
+        "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+        "source": "Wired"
+      },
+      {
+        "title": "马克·扎克伯格的 AI 宣言长达 6500 字，却几乎没说什么",
+        "summary": "扎克伯格发布长篇 AI 宣言，但内容空洞，引发批评。文章还讨论了 AI 对文化的影响，包括 CEO 宣言和深夜面试等现象。",
+        "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+        "source": "Wired"
+      },
+      {
+        "title": "新 Instagram 标志是 AI 生成内容的完美体现",
+        "summary": "评论文章认为 Instagram 的新标志设计糟糕，恰如其分地体现了 AI 生成内容的低质量。",
+        "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "75% 的开发者更喜欢 Claude Code，原因如下",
+        "summary": "一项对 138 名开发者的调查显示，四分之三的人使用 Claude Code 进行日常 AI 编码，他们更看重其在实际工作流中的表现。",
+        "url": "https://www.zdnet.com/article/why-most-developers-prefer-claude-code-over-codex/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
