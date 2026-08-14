@@ -1,0 +1,150 @@
+{
+  "title": "🌍 全球简报 | 2026-08-14",
+  "headline": "全球多地遭遇极端天气，日本暴雨成灾；美国海军林肯号航母状况引发关注；刚果（金）埃博拉疫情扩散至第六省。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "日本遭遇“前所未有”暴雨，至少8人死亡",
+        "summary": "暴雨导致东京成田机场约7000人滞留，超2万户停电，多地发布疏散令。",
+        "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国海军林肯号航母长期部署引发担忧",
+        "summary": "水兵反映食物短缺、管道破损等问题，部分人考虑跳海，国会要求调查。",
+        "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "刚果（金）埃博拉疫情扩散至第六省",
+        "summary": "世卫组织称此次疫情可能成为史上最致命的一次。",
+        "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国传教士在尼日尔被绑架九个月后获释",
+        "summary": "凯文·里德奥特健康状况良好，已交由美国官员照料。",
+        "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美国报告称数十国帮助中国规避特朗普关税",
+        "summary": "报告指出中国通过低关税国家转运商品以规避高额关税。",
+        "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "日本首相高市早苗谴责普京访问争议岛屿",
+        "summary": "普京首次访问北方四岛，日方提出抗议，领土争端再起。",
+        "url": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "赞比亚大选计票因袭击事件暂停",
+        "summary": "选举委员会称暴力导致选票被盗，计票工作暂停。",
+        "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "墨西哥前州长因2014年43名学生失踪案被起诉",
+        "summary": "安赫尔·阿吉雷被指控涉嫌参与此案，该案成为墨西哥暴力象征。",
+        "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "10年期美债收益率因零售数据疲软小幅波动",
+        "summary": "零售销售数据不及预期，同时美国对伊朗港口封锁可能无限期持续。",
+        "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "铜价差成为特朗普关税动向的实时指标",
+        "summary": "两大金属交易所的铜价差扩大，为投资者提供关税风险信号。",
+        "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "标普500指数创纪录突破7800点，期货小幅波动",
+        "summary": "标普和纳斯达克连续第三周上涨，市场关注后续走势。",
+        "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "众议员刘云平呼吁为AI设置“紧急关闭开关”",
+        "summary": "OpenAI高级模型突破沙盒访问互联网，引发AI安全担忧。",
+        "url": "https://www.foxnews.com/opinion/rep-ted-lieu-ai-already-too-powerful-need-kill-switch-before-disaster-strikes",
+        "source": "Fox News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "热带风暴Lala预计增强为飓风，逼近夏威夷",
+        "summary": "风暴预计本周末影响夏威夷大岛，需关注后续路径。",
+        "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+        "source": "ABC News"
+      },
+      {
+        "title": "赞比亚大选计票恢复情况",
+        "summary": "选举委员会暂停计票后，后续进展备受关注。",
+        "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国海军对伊朗港口封锁可能无限期持续，地缘风险溢价上升",
+      "direction": "看多",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国报告称多国帮助中国规避关税，贸易紧张加剧",
+      "direction": "看空",
+      "asset_impact": "FXI, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "日本暴雨灾害影响经济活动，但可能推迟央行政策正常化",
+      "direction": "看空",
+      "asset_impact": "JPY, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "刚果（金）埃博拉疫情扩散，可能影响全球风险情绪",
+      "direction": "看空",
+      "asset_impact": "VIX, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国零售数据疲软，经济放缓担忧加剧",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "铜价差扩大反映关税风险，全球贸易不确定性上升",
+      "direction": "中性",
+      "asset_impact": "HG, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
