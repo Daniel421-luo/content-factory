@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>视界 · 周刊 8/10 - 8/15</title>
+<style>
+    :root {
+        --page-bg: #fafaf7;
+        --card-bg: #ffffff;
+        --text: #1e293b;
+        --text-muted: #64748b;
+        --text-subtle: #94a3b8;
+        --border: #e2e8f0;
+        --shadow: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
+        --shadow-hover: 0 4px 12px rgba(0,0,0,0.06);
+        --radius: 12px;
+        --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+        --font-mono: "SF Mono", "Fira Code", "JetBrains Mono", monospace;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+        font-family: var(--font-sans);
+        background: var(--page-bg);
+        color: var(--text);
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    .page {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 40px 24px 80px;
+    }
+
+    /* ── Header ── */
+    .masthead {
+        text-align: center;
+        padding: 48px 0 40px;
+        border-bottom: 1px solid var(--border);
+        margin-bottom: 40px;
+    }
+
+    .masthead .brand {
+        font-size: 13px;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--text-subtle);
+        margin-bottom: 12px;
+    }
+
+    .masthead h1 {
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        color: var(--text);
+        margin-bottom: 8px;
+    }
+
+    .masthead .headline {
+        font-size: 17px;
+        color: var(--text-muted);
+        font-weight: 400;
+        max-width: 480px;
+        margin: 0 auto 16px;
+        line-height: 1.5;
+    }
+
+    .masthead .meta {
+        font-size: 13px;
+        color: var(--text-subtle);
+    }
+
+    .masthead .date-badge {
+        display: inline-block;
+        background: #f1f5f9;
+        border-radius: 20px;
+        padding: 4px 14px;
+        font-size: 12px;
+        font-weight: 500;
+        color: var(--text-muted);
+    }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+        display: flex;
+        justify-content: center;
+        gap: 32px;
+        margin-bottom: 48px;
+        flex-wrap: wrap;
+    }
+
+    .stat {
+        text-align: center;
+    }
+
+    .stat-value {
+        font-size: 28px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.02em;
+    }
+
+    .stat-label {
+        font-size: 12px;
+        color: var(--text-muted);
+        margin-top: 2px;
+    }
+
+    /* ── Sections ── */
+    .section-block {
+        margin-bottom: 48px;
+    }
+
+    .section-header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 20px;
+        padding-bottom: 12px;
+        border-bottom: 2px solid var(--border, #e2e8f0);
+    }
+
+    .section-icon {
+        font-size: 22px;
+    }
+
+    .section-header h2 {
+        font-size: 19px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.01em;
+        flex: 1;
+    }
+
+    .section-count {
+        font-size: 12px;
+        color: var(--text-subtle);
+        font-weight: 500;
+        background: #f1f5f9;
+        border-radius: 10px;
+        padding: 2px 10px;
+    }
+
+    /* ── Cards ── */
+    .cards {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .card {
+        background: var(--card-bg);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        display: grid;
+        grid-template-columns: 44px 1fr 200px;
+        gap: 0;
+        overflow: hidden;
+        transition: box-shadow 0.2s;
+    }
+
+    .card:hover {
+        box-shadow: var(--shadow-hover);
+    }
+
+    .card-number {
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 18px 0 0 0;
+        font-family: var(--font-mono);
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--text-subtle);
+    }
+
+    .card-body {
+        padding: 18px 16px;
+    }
+
+    .card-body h3 {
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 1.4;
+        margin-bottom: 6px;
+        color: var(--text);
+    }
+
+    .card-body h3 a {
+        color: inherit;
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s;
+    }
+
+    .card-body h3 a:hover {
+        border-bottom-color: var(--text);
+    }
+
+    .card-why {
+        font-size: 13px;
+        color: var(--text-muted);
+        margin-bottom: 4px;
+        line-height: 1.5;
+    }
+
+    .card-summary {
+        font-size: 13px;
+        color: var(--text-muted);
+        line-height: 1.6;
+        margin-bottom: 6px;
+    }
+
+    .card-action {
+        font-size: 12px;
+        color: var(--text);
+        background: var(--bg, #f8fafc);
+        border-radius: 6px;
+        padding: 6px 10px;
+        line-height: 1.4;
+    }
+
+    .card-meta {
+        margin-top: 8px;
+    }
+
+    .card-source {
+        font-size: 11px;
+        color: var(--text-subtle);
+    }
+
+    .card-take {
+        padding: 18px 16px;
+        border-left: 1px solid var(--border);
+        background: #fafbfc;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    .take-label {
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--text-subtle);
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        margin-bottom: 8px;
+    }
+
+    .take-placeholder {
+        font-size: 12px;
+        color: #cbd5e1;
+        font-style: italic;
+        line-height: 1.5;
+    }
+
+    /* ── Footer ── */
+    .footer {
+        text-align: center;
+        padding-top: 40px;
+        border-top: 1px solid var(--border);
+        margin-top: 20px;
+        color: var(--text-subtle);
+        font-size: 12px;
+    }
+
+    .footer a {
+        color: var(--text-muted);
+        text-decoration: none;
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 640px) {
+        .page {
+            padding: 20px 16px 60px;
+        }
+        .masthead {
+            padding: 28px 0 24px;
+            margin-bottom: 24px;
+        }
+        .masthead h1 {
+            font-size: 24px;
+        }
+        .card {
+            grid-template-columns: 36px 1fr;
+        }
+        .card-take {
+            display: none;
+        }
+        .stats-bar {
+            gap: 20px;
+            margin-bottom: 32px;
+        }
+        .stat-value {
+            font-size: 22px;
+        }
+    }
+
+    /* ── Print ── */
+    @media print {
+        body { background: white; }
+        .page { max-width: 100%; padding: 20px; }
+        .card { box-shadow: none; break-inside: avoid; border: 1px solid #e5e7eb; }
+        .card-take { background: white; }
+    }
+</style>
+</head>
+<body>
+<div class="page">
+
+    <header class="masthead">
+        <div class="brand">视界 · Weekly View</div>
+        <h1>8/10 - 8/15</h1>
+        <p class="headline">AI 加速渗透商业与生活，但地缘风险与基础设施挑战并存，创始人需在创新与稳健间平衡。</p>
+        <span class="date-badge">2026-08-15 10:14 · 自动生成</span>
+    </header>
+
+    <div class="stats-bar">
+        <div class="stat">
+            <div class="stat-value">16</div>
+            <div class="stat-label">本周日报</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">12</div>
+            <div class="stat-label">精选条目</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">4</div>
+            <div class="stat-label">关注领域</div>
+        </div>
+    </div>
+
+    
+            <section class="section-block" style="--accent: #2563eb; --bg: #eff6ff; --border: #bfdbfe">
+                <div class="section-header">
+                    <span class="section-icon">🤖</span>
+                    <h2>AI × 商业变现</h2>
+                    <span class="section-count">3 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/" target="_blank" rel="noopener">谷歌 Gemini 月活突破 10 亿，成史上增长最快产品</a></h3>
+                        <div class="card-why">💡 证明 AI 应用已进入大众市场，为创始人提供用户规模参考和变现机会。</div>
+                        <p class="card-summary">谷歌 Gemini 月活用户达 10 亿，63% 使用语音功能，每日生成超 1.5 亿张图片，成为谷歌史上增长最快的产品。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>研究 Gemini 的语音和图像功能，探索将其集成到自身产品以提升用户体验。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-08-12</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/" target="_blank" rel="noopener">OpenAI 完成 70 亿美元员工股票出售，估值持续走高</a></h3>
+                        <div class="card-why">💡 反映 AI 行业资本热度，为创始人提供融资和人才激励的参考。</div>
+                        <p class="card-summary">OpenAI 完成 70 亿美元员工股票出售，为员工提供流动性，显示公司估值和市场信心。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>关注 OpenAI 的估值变化，评估自身公司在 AI 领域的融资策略。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-08-11</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/" target="_blank" rel="noopener">AI 编程初创公司 Cognition 洽谈 400 亿美元估值融资</a></h3>
+                        <div class="card-why">💡 AI 编程工具市场潜力巨大，创始人可关注此赛道并考虑合作或竞争。</div>
+                        <p class="card-summary">Cognition 在数月前完成 260 亿美元估值融资后，正洽谈新一轮融资，估值可能达 400 亿美元。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估 AI 编程工具在自身业务中的应用，或探索投资机会。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-08-13</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #7c3aed; --bg: #f5f3ff; --border: #ddd6fe">
+                <div class="section-header">
+                    <span class="section-icon">🏠</span>
+                    <h2>全屋定制 × AI</h2>
+                    <span class="section-count">2 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://x.com/AIatMeta/status/2086757844544811485" target="_blank" rel="noopener">Meta 发布开源模型 Muse Glimmer，专为本地智能体优化</a></h3>
+                        <div class="card-why">💡 开源模型可在消费级硬件运行，为全屋定制提供本地化 AI 解决方案，保护用户隐私。</div>
+                        <p class="card-summary">Meta 推出 300 亿参数开源模型 Muse Glimmer，专为本地智能体工作流优化，可在消费级硬件上运行，Apache 2.0 许可。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>测试 Muse Glimmer 在智能家居设备上的应用，探索本地化 AI 助手。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-08-11</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3>Nvidia 发布开源 Nemotron 3.5 Lightning 模型，专注本地代理 AI</h3>
+                        <div class="card-why">💡 Nvidia 的模型可支持本地代理 AI，适用于全屋定制的智能控制场景。</div>
+                        <p class="card-summary">Nvidia 推出开源模型 Nemotron 3.5 Lightning，旨在支持专业化的本地代理 AI 应用。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>关注 Nvidia 的本地 AI 模型，评估其在智能家居中的应用潜力。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-08-12</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #dc2626; --bg: #fef2f2; --border: #fecaca">
+                <div class="section-header">
+                    <span class="section-icon">📈</span>
+                    <h2>交易与宏观</h2>
+                    <span class="section-count">3 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html" target="_blank" rel="noopener">美国 7 月 CPI 同比上涨 3.4%，符合预期，通胀连续降温</a></h3>
+                        <div class="card-why">💡 通胀数据影响利率决策，直接关系融资成本和市场流动性。</div>
+                        <p class="card-summary">7 月 CPI 同比上涨 3.4%，符合预期，连续第二个月降温，食品和燃料成本放缓，但住房价格仍高。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>关注美联储后续利率决策，调整投资组合和融资计划。</div>
+                        <div class="card-meta">
+                            <span class="card-source">全球简报-2026-08-12</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.wsj.com/finance/stocks/coreweave-stock-surge-gives-the-ai-trade-a-boost-1b546f50?mod=rss_markets_main" target="_blank" rel="noopener">CoreWeave 股价大涨 19%，AI 基础设施需求强劲</a></h3>
+                        <div class="card-why">💡 AI 基础设施是当前投资热点，创始人可关注相关股票和行业趋势。</div>
+                        <p class="card-summary">CoreWeave 第二季度营收翻倍，受 AI 需求推动，股价大涨 19%，提振 AI 交易。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>研究 AI 基础设施领域的投资机会，或评估自身业务对 AI 算力的依赖。</div>
+                        <div class="card-meta">
+                            <span class="card-source">美股简报-2026-08-13</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html" target="_blank" rel="noopener">霍尔木兹海峡局势紧张，油价上涨，地缘风险加剧</a></h3>
+                        <div class="card-why">💡 地缘政治风险影响能源价格和全球供应链，创始人需关注成本波动。</div>
+                        <p class="card-summary">美伊分歧持续，胡塞武装袭击红海船只致六人死亡，油价上涨，航运风险加剧。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估供应链风险，考虑能源成本对冲策略。</div>
+                        <div class="card-meta">
+                            <span class="card-source">全球简报-2026-08-12</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #059669; --bg: #ecfdf5; --border: #a7f3d0">
+                <div class="section-header">
+                    <span class="section-icon">🔧</span>
+                    <h2>工具与方法</h2>
+                    <span class="section-count">3 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/" target="_blank" rel="noopener">Anthropic 默认开启 Claude Code 自动模式，AI 编程助手更自主</a></h3>
+                        <div class="card-why">💡 AI 编程工具提升开发效率，创始人可引入以加速产品迭代。</div>
+                        <p class="card-summary">Anthropic 将 Claude Code 的自动模式设为默认，减少人工监督，标志 AI 编程助手向更高自主性迈进。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>试用 Claude Code 自动模式，评估其在开发流程中的效率提升。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-08-10</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3>OpenRouter 推出新版 Auto 路由器，以市场智慧驱动模型选择</h3>
+                        <div class="card-why">💡 帮助创始人优化 AI 模型选择，降低成本并提升效果。</div>
+                        <p class="card-summary">OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器，智能选择模型。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>使用 OpenRouter 的 Auto 路由器，优化 API 调用成本。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-08-11</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/" target="_blank" rel="noopener">新字体 ShieldFont 可干扰 AI 抓取器，保护网页内容</a></h3>
+                        <div class="card-why">💡 保护创始人网站内容不被 AI 抓取，维护数据资产。</div>
+                        <p class="card-summary">ShieldFont 字体让 AI 训练数据变得无意义，同时保持页面对于人类可读。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>考虑在网站部署 ShieldFont，防止内容被 AI 无偿抓取。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-08-13</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+
+    <footer class="footer">
+        <p>由 AI Content Factory 自动策展 · 每周六上午生成</p>
+        <p style="margin-top:4px">在 Obsidian 中打开同名 .md 文件可编辑「我的看法」</p>
+    </footer>
+
+</div>
+</body>
+</html>
