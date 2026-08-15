@@ -1,0 +1,168 @@
+{
+  "title": "📈 美股简报 | 2026-08-15",
+  "headline": "美股从纪录高位回落，零售数据疲软引发消费警示；英伟达披露SpaceX巨额持股，伯克希尔增持Alphabet",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅走低，零售数据疲软",
+        "summary": "美国7月零售销售下滑，标普500指数从纪录高位回落，期货市场暗示今日低开。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "标普500连续第三周上涨",
+        "summary": "尽管零售数据疲软，但市场对美联储9月维持利率不变的预期升温，标普500指数录得连续第三周上涨。",
+        "url": "https://www.wsj.com/finance/stocks/s-p-500-logs-third-consecutive-weekly-gain-1b37e4d4?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "伯克希尔增持房屋建筑商，减持金融股",
+        "summary": "伯克希尔哈撒韦在第二季度增持Alphabet、Delta和房屋建筑商股票，同时减持金融股并退出Constellation。",
+        "url": "https://www.wsj.com/finance/stocks/berkshire-adds-to-alphabet-stake-buys-homebuilders-and-exits-constellation-746a5bdc?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "铜价差成为特朗普关税政策的风向标",
+        "summary": "两个金属交易所之间的铜价差扩大，为投资者提供了衡量美国关税风险的实时指标。",
+        "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "伯克希尔增持Alphabet至前三大持仓",
+        "summary": "监管文件显示，伯克希尔持有Alphabet约1.06亿股，价值379亿美元，使其成为前三大持仓之一。",
+        "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Sandisk股价本周反弹近35%",
+        "summary": "分析师对Sandisk新财务目标给予积极评价，推动股价延续反弹，本周累计上涨近35%，较近期低点反弹超60%。",
+        "url": "https://www.marketwatch.com/story/sandisks-stock-is-extending-its-major-rebound-this-is-the-latest-spark-69898f46?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达披露持有SpaceX 210亿美元股份",
+        "summary": "英伟达在第二季度通过投资xAI持有SpaceX股份，价值约210亿美元，显示其在AI和太空领域的布局。",
+        "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Situational Awareness基金重仓AI芯片股",
+        "summary": "该对冲基金在6月底的五大持仓包括Sandisk、美光科技、Bloom Energy、台积电和Nebius Group，显示对AI供应链的押注。",
+        "url": "https://www.cnbc.com/2026/08/14/situational-awareness-filing-shows-ai-bets-before-forced-portfolio-sale-to-citadel.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Arm联合创始人警告AI泡沫风险",
+        "summary": "Hermann Hauser表示AI革命是真实的，但泡沫风险同样存在，投资者需保持警惕。",
+        "url": "https://www.cnbc.com/2026/08/14/arm-ai-bubble-hermann-hauser-the-tech-download.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美国零售销售下滑，消费警示信号",
+        "summary": "7月零售销售数据疲软，引发对消费支出放缓的担忧，油价和国债收益率上升。",
+        "url": "https://www.wsj.com/finance/investing/consumer-warning-lights-f1df8c6d?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "特朗普家族加密企业获银行牌照初步批准",
+        "summary": "美国货币监理署有条件批准World Liberty Trust Co.的国家信托银行章程，允许其发行稳定币。",
+        "url": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "美国报告称多国帮助中国规避关税",
+        "summary": "美国新报告指出，中国通过低关税国家转运商品以规避高额关税。",
+        "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗冲突升级，美国威胁使用新经济手段",
+        "summary": "特朗普政府加大对伊朗的施压，军事冲突陷入僵局，霍尔木兹海峡风险持续。",
+        "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Jane Street因Situational Awareness亏损约150亿美元",
+        "summary": "Jane Street在7月录得史上最差月度表现，因Leopold Aschenbrenner的对冲基金交易失败。",
+        "url": "https://www.wsj.com/finance/investing/jane-street-suffers-loss-of-about-15-billion-due-to-troubles-at-situation-awareness-9be40c51?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达披露持有SpaceX 210亿美元股份",
+      "direction": "看多",
+      "asset_impact": "NVDA",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伯克希尔增持Alphabet至前三大持仓",
+      "direction": "看多",
+      "asset_impact": "GOOGL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国7月零售销售下滑",
+      "direction": "看空",
+      "asset_impact": "SPY, XLY",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Sandisk股价本周反弹近35%",
+      "direction": "看多",
+      "asset_impact": "SNDK",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特朗普家族加密企业获银行牌照批准",
+      "direction": "看多",
+      "asset_impact": "BTC, COIN",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "伊朗冲突升级，美国威胁新经济手段",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "Jane Street因Situational Awareness亏损150亿美元",
+      "direction": "看空",
+      "asset_impact": "MU, TSM",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Arm联合创始人警告AI泡沫风险",
+      "direction": "中性",
+      "asset_impact": "SOXX, NVDA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
