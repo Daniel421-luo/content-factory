@@ -1,0 +1,92 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-16",
+  "headline": "Anthropic 公布 Claude 水印技术细节，SpaceX 正式完成对 Cursor 的收购，AI 生成书籍正冲击亚马逊作者收入",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Anthropic 公布 Claude 新水印技术细节",
+        "summary": "Anthropic 分享了 Claude 水印的工作原理、编辑后是否可隐藏以及对代码的影响，旨在提高 AI 生成内容的可追溯性。",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google Meet 现在可为线下会议做笔记",
+        "summary": "Google Meet 的 Gemini 驱动功能现在可以保存会议记录、发送到 Google Drive 并邮件发送副本，适用于线下会议场景。",
+        "url": "https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "ChatGPT 新增“计算机历史”功能，追踪 Mac 活动",
+        "summary": "ChatGPT Mac 应用推出 Computer History 功能，可创建用户活动时间线，但也引发隐私担忧。",
+        "url": "https://www.zdnet.com/article/chatgpt-computer-history/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "OpenFactory：用 AI 一夜之间构建自己的 Linux 发行版",
+        "summary": "OpenFactory 允许用户通过 AI 快速定制 Linux 发行版，无需深入技术知识，被认为潜力巨大。",
+        "url": "https://www.zdnet.com/article/openfactory-is-an-impressive-new-service-that-allows-you-to-build-your-own-linux-distribution/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "SpaceX 正式完成对 AI 编程公司 Cursor 的收购",
+        "summary": "SpaceX 宣布完成对 AI 编程工具 Cursor 的收购，Cursor 正式成为 SpaceX 的一部分。",
+        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Thrive 创始人 Joshua Kushner 警告硅谷 VC 警惕 AI 狂热",
+        "summary": "Kushner 在其首封投资信中表示，AI 机遇巨大，但兴奋不应削弱投资纪律，提醒同行保持理性。",
+        "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "自动驾驶卡车正式在加州高速公路上测试",
+        "summary": "Aurora Innovation 和 Kodiak AI 获得加州 DMV 许可，开始在高速公路上测试自动驾驶卡车。",
+        "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI 生成书籍正淹没亚马逊，拉低人类作者收入",
+        "summary": "一项分析显示，AI 生成书籍数量激增，导致人类作者单书收入下降，即使未检测到 AI 文本的书籍也受影响。",
+        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+        "source": "AIHOT"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "科学家开发 CRISPR 技术将雄性小鼠胚胎转为雌性",
+        "summary": "研究人员通过 CRISPR 切除 Y 染色体，成功将雄性小鼠胚胎转化为雌性，为克隆和生殖生物学带来新可能。",
+        "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+        "source": "MIT Tech Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "女子指控继父用 Grok 将童年照片转为色情图像",
+        "summary": "一名女子声称继父使用 xAI 的 Grok 工具将她的童年照片转化为露骨内容，引发对 AI 滥用的担忧。",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "如何判断你的 AI 平台账户是否被黑客入侵",
+        "summary": "一份指南教你检查主流 AI 平台账户是否被黑客入侵，包括常见迹象和应对措施。",
+        "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "苹果警告用户注意新的间谍软件攻击",
+        "summary": "苹果针对记者、活动人士等目标用户发出间谍软件攻击警告，建议开启锁定模式并采取防护措施。",
+        "url": "https://www.zdnet.com/article/apple-warns-targetted-spyware-attacks-what-to-do/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "男子怀疑法庭使用 AI，在诉讼文件中注入提示词试图影响判决",
+        "summary": "一名自辩诉讼当事人因怀疑法庭使用 AI 审理案件，在文件中注入提示词，法官警告此举不当。",
+        "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
