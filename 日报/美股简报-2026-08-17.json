@@ -1,0 +1,160 @@
+{
+  "title": "📈 美股简报 | 2026-08-17",
+  "headline": "美股期货小幅波动，市场关注美联储动向及零售巨头财报；日本GDP不及预期，地缘风险持续",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅波动",
+        "summary": "美国股指期货周日基本持平，此前一周市场较为平静，投资者等待美联储关于利率前景的暗示。",
+        "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "标普500连续三周上涨后市场接近历史高位",
+        "summary": "股市仍接近历史高点，期货市场表现混合。",
+        "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "欧洲股市被忽视的优异表现",
+        "summary": "高盛试图破除关于欧洲股市的“神话”，指出其表现优于预期，但关注度低于美国市场。",
+        "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "生物科技股或成2026年“复出”板块",
+        "summary": "有分析认为生物科技股有望成为2026年的“复出赢家”，但需注意风险。",
+        "url": "https://seekingalpha.com/article/4937198-are-biotech-stocks-the-comeback-kid-of-2026-i-say-yes?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "沃尔玛和塔吉特将揭示美国消费者健康状况",
+        "summary": "两大零售商的财报将显示在持续通胀环境下消费者的承受能力。",
+        "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "摩根大通有望成为首家万亿美元银行",
+        "summary": "分析师认为摩根大通市值可能很快突破1万亿美元，并预测下一站是2万亿美元。",
+        "url": "https://www.cnbc.com/2026/08/16/jpmorgan-may-become-first-1-trillion-bank-next-stop-could-be-2-trillion.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "法拉利首款电动车拍出4000万美元纪录",
+        "summary": "法拉利首款电动车在拍卖会上以4000万美元成交，创下纪录，尽管设计引发争议。",
+        "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "开放权重AI不会削弱“卖铲人”需求",
+        "summary": "无论开放模型是否普及，AI热潮的主要受益者都能获利。",
+        "url": "https://www.wsj.com/tech/ai/open-weight-ai-wont-crimp-demand-for-picks-and-shovels-523e6410?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "日本二季度GDP年化增长1.1%，不及预期",
+        "summary": "日本二季度GDP年化增长1.1%，低于预期的2%。",
+        "url": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普特使在开罗与埃及、卡塔尔和土耳其调解人会面",
+        "summary": "以色列继续打击加沙，特朗普特使与调解人举行会谈。",
+        "url": "https://www.cnbc.com/2026/08/16/trumps-envoys-meet-mediators-israel-strikes-gaza.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国战略石油储备接近危险水平",
+        "summary": "专家警告，战略石油储备的快速消耗可能损害储存油库的洞穴。",
+        "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普家族加密企业获准成立银行",
+        "summary": "货币监理署有条件批准特朗普家族的加密企业成立信托银行。",
+        "url": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东冲突持续，美军心理健康问题凸显",
+        "summary": "林肯号航母心理健康问题引发关注，中东冲突持续。",
+        "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "俄罗斯经济压力增大",
+        "summary": "俄罗斯战时经济面临预算赤字扩大，分析师警告明年压力可能加剧。",
+        "url": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "日本GDP不及预期，可能影响全球增长预期",
+      "direction": "看空",
+      "asset_impact": "EWJ, FXY",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "沃尔玛和塔吉特财报将揭示消费者健康状况",
+      "direction": "中性",
+      "asset_impact": "WMT, TGT, XLY",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "摩根大通有望成为首家万亿美元银行",
+      "direction": "看多",
+      "asset_impact": "JPM, XLF",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "开放权重AI不会削弱AI基础设施需求",
+      "direction": "看多",
+      "asset_impact": "NVDA, AMD, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美国战略石油储备接近危险水平，可能影响油价",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普家族加密企业获准成立银行，利好加密货币",
+      "direction": "看多",
+      "asset_impact": "BTC, COIN",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "中东冲突持续，美军心理健康问题凸显",
+      "direction": "看空",
+      "asset_impact": "SPY, XLE",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
