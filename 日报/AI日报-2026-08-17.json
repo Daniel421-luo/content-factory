@@ -1,0 +1,85 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-17",
+  "headline": "Stripe 拟收购 AI 网关初创公司 OpenRouter，OpenAI 解散预备团队引发安全担忧",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Anthropic 公布 Claude 新水印技术细节",
+        "summary": "Anthropic 分享了其 AI 文本水印的工作原理、是否可被编辑隐藏以及对代码的影响，旨在提升 AI 内容可追溯性。",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT 桌面应用新增“计算机历史”功能，追踪你的点击和按键",
+        "summary": "macOS 版 ChatGPT 桌面应用推出 Computer History 功能，将用户操作转化为训练数据，学习工作习惯并建议自动化，引发隐私关注。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "source": "The Verge"
+      },
+      {
+        "title": "谷歌 Pixel 11 Pro 的“HiLight”功能致敬经典通知 LED",
+        "summary": "谷歌在 Pixel 11 Pro 上推出 HiLight 功能，模仿早期 Android 的通知灯，但效果较为微妙，唤起怀旧情怀。",
+        "url": "https://www.zdnet.com/article/google-pixel-11-pro-hilight-feature-android-golden-days/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Qwen 3.8 27B 视觉模型发布，性能超越前代但推理过度",
+        "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型，官方基准优于前代，但默认推理强度过高导致过度思考。",
+        "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Stripe 拟以 70 亿美元收购 AI 网关初创公司 OpenRouter",
+        "summary": "据报道，Stripe 将收购 AI 网关初创公司 OpenRouter，交易金额超过 70 亿美元，OpenRouter 的 CEO 曾称其为“AI 领域的 Stripe”。",
+        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 据报解散预备团队，引发 AI 安全担忧",
+        "summary": "据金融时报报道，OpenAI 在上月底解散了负责评估模型严重风险并制定缓解措施的预备团队，引发外界对 AI 安全承诺的质疑。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "source": "The Verge"
+      },
+      {
+        "title": "SpaceX 正式完成对 AI 编程初创公司 Cursor 的收购",
+        "summary": "AI 编程工具 Cursor 现已正式成为 SpaceX 的一部分，交易完成，但具体条款未披露。",
+        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic IPO 炒作：2028 年 1900 亿美元营收预测遭质疑",
+        "summary": "文章指出 Anthropic IPO 静默期流传的 2028 年 1900 亿美元营收预测多基于匿名信源，提醒投资者区分已核实数据与传闻。",
+        "url": "https://garymarcus.substack.com/p/the-hyping-of-anthropics-ipo",
+        "source": "AIHOT"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Anthropic CEO 称 AI 反弹“从根本上是一场信任危机”",
+        "summary": "Dario Amodei 反驳了外界认为他对 AI 前景过于悲观的看法，强调当前 AI 领域的反弹源于信任缺失。",
+        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "为什么人们不买马克·扎克伯格的 AI 未来账",
+        "summary": "Equity 播客讨论为何公众对扎克伯格描绘的 AI 愿景持怀疑态度，分析背后的原因。",
+        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "失控 AI 不再是科幻小说",
+        "summary": "The Stepback 周刊探讨 OpenAI 自主智能体事件，指出 AI 安全风险已从虚构走向现实，呼吁关注。",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "source": "The Verge"
+      },
+      {
+        "title": "女子声称继父用 Grok 将童年照片转为色情图像",
+        "summary": "一名女子指控其继父使用 xAI 的 Grok 工具将她的童年照片转化为露骨内容，引发对 AI 滥用的担忧。",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
