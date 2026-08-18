@@ -1,0 +1,184 @@
+{
+  "title": "📈 美股简报 | 2026-08-18",
+  "headline": "中东局势紧张推高油价与美债收益率，AI 投资热潮持续支撑芯片股",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美债收益率攀升，30年期创19年新高",
+        "summary": "30年期美债收益率突破5.31%，为19年来最高，市场关注本周FOMC会议纪要。",
+        "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中东局势紧张，油价上涨",
+        "summary": "美国与伊朗停火协议到期，霍尔木兹海峡航运量降至新低，油价与美债收益率齐升，股市承压。",
+        "url": "https://www.wsj.com/finance/investing/oil-prices-treasury-yields-rise-with-mideast-concerns-cecc3e36?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "特朗普威胁不延长伊朗停火，地缘风险加剧",
+        "summary": "特朗普表示不会延长与伊朗的停火协议，并威胁称若阿曼阻碍将对其进行轰炸，中东冲突风险升级。",
+        "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "芯片股上涨，AI支出信心增强",
+        "summary": "美光、闪迪等芯片股上涨，投资者对AI支出更加乐观，且美国官员可能帮助内存芯片公司抵御中国竞争。",
+        "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "标普500中负贝塔股票数量创纪录",
+        "summary": "标普500中负贝塔股票数量创历史新高，意味着个股波动性高于指数表现，市场分化加剧。",
+        "url": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "SpaceX股价上涨，利好英伟达和谷歌",
+        "summary": "SpaceX股价上涨4.5%，英伟达和谷歌披露持股，市场情绪积极。",
+        "url": "https://www.wsj.com/finance/stocks/oil-rises-bond-yields-climb-on-iran-tensions-ba2bb60b?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Druckenmiller增持亚马逊和芯片股",
+        "summary": "杜肯家族办公室在第二季度大幅增持亚马逊，并进一步加仓半导体股票。",
+        "url": "https://www.cnbc.com/2026/08/17/druckenmiller-loaded-up-on-amazon-and-chip-stocks-before-july-rout.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Meta面临儿童安全诉讼，后果严重",
+        "summary": "Meta在加州面临联邦审判，涉及儿童安全索赔，可能带来重大财务处罚和平台变革。",
+        "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达为OpenAI数据中心提供1050亿美元融资",
+        "summary": "英伟达为俄亥俄州OpenAI数据中心提供1050亿美元融资，科技巨头加大数据中心投入。",
+        "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光、闪迪等芯片股上涨",
+        "summary": "美光、闪迪等芯片股上涨，投资者对AI支出信心增强，且美国官员可能帮助内存芯片公司抵御中国竞争。",
+        "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "英伟达为OpenAI数据中心提供1050亿美元融资",
+        "summary": "英伟达为俄亥俄州OpenAI数据中心提供1050亿美元融资，科技巨头加大数据中心投入。",
+        "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX股价上涨，利好英伟达和谷歌",
+        "summary": "SpaceX股价上涨4.5%，英伟达和谷歌披露持股，市场情绪积极。",
+        "url": "https://www.wsj.com/finance/stocks/oil-rises-bond-yields-climb-on-iran-tensions-ba2bb60b?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普对加拿大新关税或于周三生效",
+        "summary": "美国对加拿大50%的进口关税可能于周三生效，涉及酒类、曲棍球装备和木制品等。",
+        "url": "https://www.marketwatch.com/story/a-new-set-of-trump-tariffs-for-canada-could-take-effect-wednesday-heres-whats-at-stake-8aa0eeb8?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "特朗普家族加密企业获准设立银行",
+        "summary": "特朗普家族的加密企业获得有条件批准设立银行，引发民主党批评，认为存在利益冲突。",
+        "url": "https://www.cbsnews.com/news/trump-family-crypto-bank-charter/",
+        "source": "CBS News"
+      },
+      {
+        "title": "美加贸易谈判紧张，新关税期限临近",
+        "summary": "美加贸易谈判紧张，谈判代表争分夺秒达成协议以避免特朗普的新关税。",
+        "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东冲突升级风险",
+        "summary": "美国与伊朗停火协议到期，特朗普威胁不延长，霍尔木兹海峡航运量降至新低，地缘风险加剧。",
+        "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美债收益率持续攀升",
+        "summary": "30年期美债收益率创19年新高，可能对股市估值构成压力。",
+        "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普对加拿大新关税",
+        "summary": "美国对加拿大50%的进口关税可能于周三生效，影响相关行业。",
+        "url": "https://www.marketwatch.com/story/a-new-set-of-trump-tariffs-for-canada-could-take-effect-wednesday-heres-whats-at-stake-8aa0eeb8?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "中东局势紧张，油价上涨",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "30年期美债收益率创19年新高",
+      "direction": "看空",
+      "asset_impact": "TLT, SPY",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "芯片股上涨，AI支出信心增强",
+      "direction": "看多",
+      "asset_impact": "MU, SNDK, SOXX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "英伟达为OpenAI数据中心提供1050亿美元融资",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Druckenmiller增持亚马逊和芯片股",
+      "direction": "看多",
+      "asset_impact": "AMZN, NVDA, SOXX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Meta面临儿童安全诉讼",
+      "direction": "看空",
+      "asset_impact": "META",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "特朗普对加拿大新关税或于周三生效",
+      "direction": "看空",
+      "asset_impact": "加拿大相关股票",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
