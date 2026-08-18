@@ -1,0 +1,104 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-18",
+  "headline": "Anthropic 年化收入飙升至 650 亿美元，AI 代理采用率今年增长两倍，行业迎来爆发式增长",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Cursor 推出 Origin 代码托管服务，挑战 GitHub",
+        "summary": "Cursor 向所有付费用户开放 Origin 代码托管测试版，提供仓库、PR、代码浏览及 GitHub 同步功能，并集成 Vercel 等工具，旨在成为 GitHub 的替代方案。",
+        "url": "https://cursor.com/changelog/origin-code-hosting",
+        "source": "AIHOT"
+      },
+      {
+        "title": "OpenRouter 推出 Activity 仪表盘与 Analytics API",
+        "summary": "OpenRouter 新增活动仪表盘和测试版分析 API，可按智能体、模型、请求维度追踪 AI 使用成本、token 量和缓存命中率，帮助企业优化 AI 支出。",
+        "url": "https://openrouter.ai/blog/announcements/activity-dashboard",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Reddit 测试 AI 将帖子转为音频和视频",
+        "summary": "Reddit 开始试验用 AI 将热门文字帖转化为音频和短视频，使用 AI 语音朗读帖子及评论，类似 TikTok 风格，提升内容消费体验。",
+        "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+        "source": "The Verge"
+      },
+      {
+        "title": "YouTube 调整观看计数规则，播放即算一次观看",
+        "summary": "YouTube 将从 8 月 24 日起，视频开始播放即计入观看次数，与 Instagram、TikTok 及 Shorts 保持一致，创作者的总观看数将更快增长。",
+        "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
+        "source": "The Verge"
+      },
+      {
+        "title": "Google Workspace 默认允许 Gemini 访问公司数据，管理员可关闭",
+        "summary": "Google Workspace 中 Gemini 默认可访问 Gmail、Docs 等数据，引发隐私担忧，管理员可立即禁用该功能以保护企业数据。",
+        "url": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 年化收入飙升至 650 亿美元",
+        "summary": "Anthropic 在两个月内新增 180 亿美元年化收入，总年化收入达到 650 亿美元，显示 AI 模型需求强劲增长。",
+        "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI 自动化初创公司 Relay 关闭，团队加入谷歌 Chrome 部门",
+        "summary": "Relay 创始人 Jacob Bank 宣布公司关闭，团队将加入谷歌 Chrome 团队，专注于在浏览器中集成 AI 助手功能。",
+        "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Higgsfield 完成 4 亿美元 B 轮融资，估值达 54 亿美元",
+        "summary": "AI 图像和视频生成初创公司 Higgsfield 在 8 个月内估值翻两番，完成 4 亿美元 B 轮融资，由前 Snap 高管创立。",
+        "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "企业 AI 代理采用率今年增长两倍，可衡量 ROI 显现",
+        "summary": "Salesforce 报告显示，企业 AI 代理采用率今年增长两倍，各行业开始找到适合自身业务的策略，并出现可衡量的投资回报。",
+        "url": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "前 SpaceX 工程师打造机器人工厂，生产钢制零件",
+        "summary": "一家由前 SpaceX 工程师创立的公司正在建设机器人工厂，用于制造钢制零件，但强调并非追求全自动化。",
+        "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "肠道健康与阿尔茨海默病的新联系被发现",
+        "summary": "研究人员发现，肠道细菌产生的代谢物可削弱保护大脑的屏障，并促进与认知疾病相关的变化，为阿尔茨海默病防治提供新思路。",
+        "url": "https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/",
+        "source": "Wired"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Flock 支持者忽视了什么？",
+        "summary": "麻省理工科技评论发文指出，Flock 平台宣布更改后，其支持者可能忽略了隐私和监控方面的关键问题，引发对警察科技巨头影响的讨论。",
+        "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "当孩子的机器人朋友去世时会发生什么？",
+        "summary": "文章探讨了儿童与机器人 Moxie 建立情感联系后，当机器人停止服务时对孩子的影响，引发对 AI 情感依赖的思考。",
+        "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "R 级电影工作室想成为 AI 界的 HBO",
+        "summary": "Rogue Studios 作为新兴的成人内容 AI 生成器，押注于“精致”的成人内容未来，引发对 AI 内容伦理的讨论。",
+        "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
+        "source": "Wired"
+      },
+      {
+        "title": "谷歌想让你少用手机、多用 AI，但谁会买账？",
+        "summary": "评论指出，谷歌利用人们对技术的依赖来推销新手机，而这种依赖正是谷歌自己造成的，引发对科技公司营销策略的反思。",
+        "url": "https://www.zdnet.com/article/google-wants-you-to-use-its-phones-less-and-its-ai-more/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
