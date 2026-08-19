@@ -1,0 +1,162 @@
+{
+  "title": "🌍 全球简报 | 2026-08-19",
+  "headline": "美国暂缓对加拿大加征关税，刚果（金）埃博拉疫情成史上最致命，Unitree上市首日暴涨600%",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国暂缓对加拿大加征关税，称接近达成协议",
+        "summary": "美国总统特朗普宣布暂停对加拿大商品加征50%关税，为期三天，称双方即将敲定协议。",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "刚果（金）埃博拉疫情成为该国史上最致命",
+        "summary": "官方数据显示，埃博拉疫情已导致至少2325人死亡，成为刚果（金）历史上最严重的疫情。",
+        "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Unitree上市首日股价暴涨600%",
+        "summary": "全球最大人形机器人制造商Unitree在中国股市首日交易中股价飙升超过600%。",
+        "url": "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
+        "source": "The Guardian"
+      },
+      {
+        "title": "以色列军方就加沙女孩欣德·拉贾卜之死展开刑事调查",
+        "summary": "以色列军方下令对2024年加沙城六岁女孩欣德·拉贾卜被杀事件进行刑事调查。",
+        "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "韩国缩短与美国的联合军演，称应美方要求",
+        "summary": "韩国宣布缩短与美国的联合军演，此前特朗普表示计划缩减联合军演，称与金正恩关系“非常好”。",
+        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "阿联酋切断与伊朗的贸易往来",
+        "summary": "据报道，在导弹袭击事件后，阿联酋已暂停与伊朗的贸易，美伊谈判破裂。",
+        "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "利比亚同意接收美国1200名被驱逐者",
+        "summary": "利比亚称这是一项“人道主义安排”，且未获得任何补偿。",
+        "url": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "被解职的乌克兰国防部长呼吁举行总统选举",
+        "summary": "乌克兰自2022年2月以来实施戒严，选举被暂停。",
+        "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "Moderna和默克癌症疫苗后期试验显示前景，Moderna股价飙升100%",
+        "summary": "该联合疗法显著延长了黑色素瘤患者无复发存活时间，与Keytruda单药相比。",
+        "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Target上调业绩展望，销售反弹及巨额关税退税提振利润",
+        "summary": "Target公布的第二季度销售好于预期，并上调了全年展望。",
+        "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Lowe's给出疲软展望，称家居改善支出承压",
+        "summary": "Lowe's公布的第二季度业绩喜忧参半，称家居改善支出持续面临压力。",
+        "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "全球最大橄榄油公司Deoleo股价大涨逾20%，收购战升温",
+        "summary": "西班牙Deoleo股价周三上涨，因收购战加剧。",
+        "url": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "美国试图堵住中国获取英伟达高端芯片的漏洞",
+        "summary": "中国AI公司被曝通过海外云服务获取先进英伟达算力，美国立法者考虑收紧云访问缺口。",
+        "url": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国机器人公司推出能跑赢博尔特的机器人",
+        "summary": "宇树科技发布“超人”机器人，垂直跳跃超过6.5英尺。",
+        "url": "https://abcnews.com/video/135754463/",
+        "source": "ABC News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国与加拿大关税谈判进展",
+        "summary": "特朗普宣布暂停关税三天，关注后续协议能否最终达成。",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国初选后续影响",
+        "summary": "佛罗里达州初选结果引发关注，特朗普背书影响力受质疑。",
+        "url": "https://abcnews.com/Politics/takeaways-tuesday-primaries-trump-endorsement/story?id=135754500",
+        "source": "ABC News"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国暂缓对加拿大加征关税，贸易紧张缓和",
+      "direction": "看多",
+      "asset_impact": "CAD, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "阿联酋切断与伊朗贸易，地缘风险升级",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "刚果（金）埃博拉疫情恶化，可能影响全球风险偏好",
+      "direction": "看空",
+      "asset_impact": "GLD, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Unitree上市首日暴涨，中国科技股情绪高涨",
+      "direction": "看多",
+      "asset_impact": "FXI, KWEB",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Moderna疫苗试验成功，生物科技板块或受提振",
+      "direction": "看多",
+      "asset_impact": "XBI, MRNA",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国考虑收紧对华AI芯片出口管制，科技股承压",
+      "direction": "看空",
+      "asset_impact": "NVDA, SMH",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
