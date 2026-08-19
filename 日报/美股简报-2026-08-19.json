@@ -1,0 +1,138 @@
+{
+  "title": "📈 美股简报 | 2026-08-19",
+  "headline": "全球债券抛售加剧，科技股承压，特朗普暂停对加拿大新关税三日",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅波动",
+        "summary": "标普500连续第三日下跌后，期货变化不大，长期国债收益率触及数十年高位。",
+        "url": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "全球债券抛售持续",
+        "summary": "美国、英国、德国和日本长期政府债券利率飙升，市场担忧财政赤字、通胀和AI支出。",
+        "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "科技股因债券收益率上升而下跌",
+        "summary": "长期债券收益率上升导致科技股下跌，AI相关股票因高估值和收益率上升而承压。",
+        "url": "https://www.wsj.com/finance/investing/bond-rout-sends-tech-stocks-lower-f8b4c8f6?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "AI芯片股回调",
+        "summary": "由于预期过高、国债收益率上升以及Anthropic财务进展可能令人失望，美光等AI芯片股出现回调。",
+        "url": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Meta面临‘大烟草’时刻",
+        "summary": "Meta因儿童社交媒体成瘾诉讼面临审判，但即使败诉也可能对业务影响有限，投资者或可获利。",
+        "url": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "茅台业绩下滑反映中国经济",
+        "summary": "贵州茅台半年报净利润罕见下滑，反映中国经济放缓。",
+        "url": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "AI芯片股回调",
+        "summary": "美光等AI芯片股因预期过高、收益率上升和Anthropic财务担忧而回调。",
+        "url": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Cerebras新芯片寄望复苏",
+        "summary": "Cerebras押注其专用芯片在AI代理普及中超越传统GPU，以扭转IPO后股价颓势。",
+        "url": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普暂停对加拿大新关税三日",
+        "summary": "特朗普宣布暂停对加拿大商品征收50%新关税三天，称接近达成协议。",
+        "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "全球债券抛售无休止",
+        "summary": "华尔街预计债券抛售将持续，30年期美债收益率创19年新高，投资者预测新纪元。",
+        "url": "https://www.wsj.com/finance/investing/bonds-are-getting-hammered-and-wall-street-says-the-rout-wont-end-anytime-soon-895e0ad8?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "特朗普称未安排与伊朗会谈",
+        "summary": "特朗普表示未安排与伊朗会谈，并暗示在霍尔木兹海峡采取行动，尽管船只仍受攻击。",
+        "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "全球债券抛售加剧",
+        "summary": "长期国债收益率持续上升，可能继续打压股市估值，尤其是科技股。",
+        "url": "https://www.wsj.com/finance/investing/bonds-are-getting-hammered-and-wall-street-says-the-rout-wont-end-anytime-soon-895e0ad8?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "霍尔木兹海峡局势紧张",
+        "summary": "尽管特朗普声称海峡开放，但船只仍受攻击，通行量稀少，地缘风险持续。",
+        "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "特朗普暂停对加拿大新关税三日，贸易紧张缓和",
+      "direction": "看多",
+      "asset_impact": "SPY, XLY",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "全球债券抛售持续，30年期美债收益率创19年新高",
+      "direction": "看空",
+      "asset_impact": "TLT, QQQ",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI芯片股因收益率上升和预期过高而回调",
+      "direction": "看空",
+      "asset_impact": "MU, NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Meta面临儿童安全诉讼，但影响可能有限",
+      "direction": "中性",
+      "asset_impact": "META",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "霍尔木兹海峡局势紧张，特朗普暗示行动",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
