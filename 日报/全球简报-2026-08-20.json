@@ -1,0 +1,156 @@
+{
+  "title": "🌍 全球简报 | 2026-08-20",
+  "headline": "美国债务突破40万亿美元，俄罗斯大规模袭击基辅致15人死亡，恒大创始人许家印被判终身监禁",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国债务突破40万亿美元",
+        "summary": "美国国债总额首次突破40万亿美元，引发市场对财政可持续性的担忧。",
+        "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+        "source": "NPR"
+      },
+      {
+        "title": "俄罗斯大规模袭击基辅致至少15人死亡",
+        "summary": "乌克兰官员称，俄罗斯周四对基辅发动“大规模”导弹和无人机袭击，造成至少15人死亡，40多人受伤。",
+        "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "恒大创始人许家印被判终身监禁",
+        "summary": "中国恒大集团创始人许家印因欺诈罪被判处终身监禁，并没收全部个人财产。",
+        "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+        "source": "Guardian"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "朝鲜发射10枚导弹，此前特朗普缩减美韩军演",
+        "summary": "朝鲜向海上发射约10枚短程弹道导弹，此前美国决定缩减与韩国的联合军演，以重启外交。",
+        "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+        "source": "Guardian"
+      },
+      {
+        "title": "特朗普威胁对伊朗实施更严厉经济措施",
+        "summary": "特朗普誓言对伊朗及其支持者实施“经济D-Day”，此前60天停火协议到期，冲突未见缓和。",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "中非共和国金矿坍塌致100多人死亡",
+        "summary": "中非共和国西部一座手工金矿因山体滑坡坍塌，造成100多人死亡，当地官员预计死亡人数还会上升。",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "source": "Guardian"
+      },
+      {
+        "title": "澳大利亚对以色列不调查援助人员之死表示“愤慨”",
+        "summary": "澳大利亚外长召见以色列大使，对以色列决定不就加沙援助人员Zomi Frankcom之死展开刑事调查表示“侮辱”。",
+        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美国国债收益率反弹，抹去贝森特干预后的跌幅",
+        "summary": "国债收益率在周三大幅下跌后小幅走高，交易员消化财政部债务回购计划。",
+        "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "沃尔玛上调全年展望，称将利用巨额关税退款维持低价",
+        "summary": "沃尔玛预计周四公布第二财季财报，上调全年业绩指引，并表示将利用关税退款保持低价。",
+        "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普暂停对加拿大关税威胁，暗示重启Keystone XL管道",
+        "summary": "特朗普将50%关税推迟三天，并暗示可能重启Keystone XL输油管道项目。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+        "source": "Guardian"
+      },
+      {
+        "title": "债券市场发出警示信号，投资者关注经济前景",
+        "summary": "债券价格下跌引发投资者对美国经济的担忧，专家呼吁关注债券市场的信号。",
+        "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+        "source": "NPR"
+      }
+    ],
+    "科技": [
+      {
+        "title": "美光500亿美元博伊西扩建重塑家乡",
+        "summary": "美光在爱达荷州博伊西的AI驱动扩张创造了就业和财富，但也加剧了住房、交通和城市认同的压力。",
+        "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "默克被看好，强劲癌症药物管线抵消Keytruda专利到期",
+        "summary": "摩根士丹利表示，默克作为Keytruda的制造商，随着管线药物接近上市，其股价有望上涨。",
+        "url": "https://www.cnbc.com/2026/08/20/merck-is-finding-more-ways-to-boost-its-shares-morgan-stanley-says.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "沃尔玛财报发布",
+        "summary": "沃尔玛将于周四发布第二财季财报，提供消费者和经济状况的线索。",
+        "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Karmelo Anthony新审判听证会",
+        "summary": "Karmelo Anthony寻求新谋杀审判的听证会定于周四举行。",
+        "url": "https://abcnews.com/US/hearing-karmelo-anthonys-bid-new-trial-track-meet/story?id=135781537",
+        "source": "ABC News"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国债务突破40万亿美元，加剧财政可持续性担忧",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "俄罗斯大规模袭击基辅，地缘冲突升级",
+      "direction": "看空",
+      "asset_impact": "USO, GLD, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "朝鲜发射10枚导弹，半岛紧张局势加剧",
+      "direction": "看空",
+      "asset_impact": "FXI, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普威胁对伊朗实施更严厉经济措施",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普暂停对加拿大关税，并暗示重启Keystone XL管道",
+      "direction": "看多",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "恒大创始人被判终身监禁，中国房地产风险持续",
+      "direction": "看空",
+      "asset_impact": "FXI",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
