@@ -1,0 +1,162 @@
+{
+  "title": "🌍 全球简报 | 2026-08-21",
+  "headline": "特朗普宣布对伊朗经济战，全球市场动荡；中非金矿坍塌致百余人死亡；香港天安门集会组织者被判有罪",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "特朗普宣布对伊朗经济战，市场担忧加剧",
+        "summary": "特朗普宣布对伊朗实施经济战，以施压其重返谈判。伊朗官员回应称美国制裁已失败。",
+        "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+        "source": "NPR"
+      },
+      {
+        "title": "中非金矿坍塌致百余人死亡",
+        "summary": "中非共和国西部一处手工金矿因山体滑坡坍塌，造成百余人死亡，死亡人数可能进一步上升。",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "source": "Guardian"
+      },
+      {
+        "title": "香港天安门集会组织者被判‘煽动颠覆’罪",
+        "summary": "香港两名活动人士因组织纪念天安门事件的年度集会，被裁定‘煽动颠覆国家政权’罪名成立。",
+        "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+        "source": "Guardian"
+      },
+      {
+        "title": "美股遭遇抛售，道指创7月以来最大单日跌幅",
+        "summary": "周四道指下跌700点，创7月29日以来最大跌幅，投资者对债券收益率上升和债务担忧加剧。",
+        "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "以色列重新建立西岸定居点，无视国际抗议",
+        "summary": "以色列政府推动民族主义浪潮，三十个‘先驱家庭’迁入西岸定居点，引发巴勒斯坦居民担忧。",
+        "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国将20人驱逐至利比里亚，为特朗普协议下首批",
+        "summary": "美国根据与利比里亚的协议，首次将20名移民驱逐至该国，未来可能多达1200人。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+        "source": "Guardian"
+      },
+      {
+        "title": "西班牙允许500名休达移民儿童前往本土",
+        "summary": "西班牙政府改变立场，允许500名在休达的移民儿童转移到本土，此前曾表示将遣返非法入境者。",
+        "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+        "source": "Guardian"
+      },
+      {
+        "title": "巴基斯坦前总理伊姆兰·汗在检查后重返监狱",
+        "summary": "伊姆兰·汗在法院命令的医院检查后，被重新收监。",
+        "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美国与加拿大接近达成最终贸易协议，特朗普关税期限临近",
+        "summary": "企业警告称，若特朗普的新50%关税生效，将严重打击美国销售。",
+        "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "黄金反弹，因债券担忧和美元走弱",
+        "summary": "黄金价格回升，投资者关注债券市场紧张、债务担忧和美元疲软。",
+        "url": "https://www.cnbc.com/2026/08/21/gold-rebounds-bond-jitters-debt-fears-weaker-dollar-revive-bullion-demand.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "沃尔玛遭遇四年来最差单日表现，摩根大通建议买入",
+        "summary": "沃尔玛股价周四因财报大跌，摩根大通认为其估值已具吸引力。",
+        "url": "https://www.cnbc.com/2026/08/21/walmart-just-had-its-worst-day-in-4-years-jpmorgan-says-buy-it-now.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国品牌在华失势：耐克、星巴克和通用汽车面临挑战",
+        "summary": "国内竞争对手、地缘政治和消费者偏好变化重塑中国市场，美国品牌份额下滑。",
+        "url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Roblox分享AI儿童安全工具",
+        "summary": "Roblox向其他平台分享AI模型，用于检测在线诱骗、个人信息请求和语音聊天违规。",
+        "url": "https://www.foxnews.com/science/roblox-shares-ai-child-safety-tools-parents-should-know",
+        "source": "Fox News"
+      },
+      {
+        "title": "茶党创始人发起‘数据中心反抗’运动",
+        "summary": "茶党创始人的‘人类优先’组织启动巴士之旅，抗议AI数据中心扩张，称居民补贴富企而无发言权。",
+        "url": "https://www.foxnews.com/media/tea-party-founder-launches-nationwide-data-center-revolt-against-ai-data-center-expansion",
+        "source": "Fox News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国与加拿大贸易协议谈判结果",
+        "summary": "特朗普关税期限临近，美加能否达成最终协议备受关注。",
+        "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗局势后续发展",
+        "summary": "特朗普宣布经济战后，伊朗的回应及市场反应值得关注。",
+        "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "特朗普宣布对伊朗经济战，地缘风险升级",
+      "direction": "看空",
+      "asset_impact": "USO, GLD, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国与加拿大接近达成贸易协议，关税威胁缓解",
+      "direction": "看多",
+      "asset_impact": "/ES, US10Y",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "中非金矿坍塌，黄金供应担忧",
+      "direction": "看多",
+      "asset_impact": "GLD",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美股因债券收益率上升遭抛售，市场情绪脆弱",
+      "direction": "看空",
+      "asset_impact": "/ES, US10Y, VIX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美元走弱，黄金反弹",
+      "direction": "看多",
+      "asset_impact": "GLD, EURUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "巴拿马运河因厄尔尼诺减少通行船只，影响航运",
+      "direction": "看空",
+      "asset_impact": "USO, 航运股",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
