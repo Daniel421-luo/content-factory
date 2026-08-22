@@ -1,0 +1,154 @@
+{
+  "title": "📈 美股简报 | 2026-08-22",
+  "headline": "美股周五反弹但周线收跌，比特币大涨，市场聚焦下周PCE与英伟达财报",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股周五反弹，但周线连跌",
+        "summary": "道指周五上涨500点，但周线连续第二周下跌，因国债收益率上升引发抛售。",
+        "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "比特币大涨逾9%",
+        "summary": "比特币周五上涨超过9%，触及79,455美元，为5月底以来最高，受机构需求、空头回补和Clarity Act进展推动。",
+        "url": "https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "国债收益率上升，财政部干预效果短暂",
+        "summary": "尽管财政部宣布债券回购，但国债收益率仍上升，经济学家担忧债务水平，美国国债已突破40万亿美元。",
+        "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "欧洲股票成价值洼地",
+        "summary": "欧洲公司刚刚经历多年来最佳财报季，投资者开始关注这一被忽视的市场。",
+        "url": "https://www.wsj.com/finance/stocks/stock-market-bargains-are-hiding-in-this-overlooked-place-6239c1ef?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "特斯拉在华召回300万辆汽车",
+        "summary": "特斯拉将在中国召回约300万辆汽车，涉及门把手安全和驾驶员监控系统缺陷。",
+        "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特斯拉获准在拉斯维加斯推出Robotaxi",
+        "summary": "特斯拉股价上涨，因公司获准在内华达州部署数千辆Cybercab，并计划在奥斯汀推出。",
+        "url": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "博通债务交易规模或达700亿美元",
+        "summary": "博通正洽谈筹集700亿至800亿美元债务，用于芯片融资交易。",
+        "url": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美国将对加拿大征收50%关税",
+        "summary": "美国计划对200亿美元加拿大产品征收50%关税，加拿大总理卡尼表示将“对等”回应。",
+        "url": "https://www.cbsnews.com/news/u-s-set-to-impose-50-percent-tariffs-on-canada-after-failed-talks/",
+        "source": "CBS"
+      },
+      {
+        "title": "贝森特债券回购引发通胀担忧",
+        "summary": "财政部长贝森特干预国债市场以降低借贷成本，但盈亏平衡利率升至两个月高位，引发通胀担忧。",
+        "url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "达利欧警告债务危机临近",
+        "summary": "达利欧表示贝森特的举措是债务危机临近的信号，建议配置黄金和比特币。",
+        "url": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "下周关注PCE、英伟达财报和杰克逊霍尔",
+        "summary": "下周将有PCE通胀数据、英伟达财报和杰克逊霍尔央行年会，可能引发市场波动。",
+        "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美加贸易谈判破裂，关税生效",
+        "summary": "美国与加拿大谈判未果，美国将于周六凌晨对加拿大商品征收50%关税，加拿大将报复。",
+        "url": "https://www.cbsnews.com/news/u-s-set-to-impose-50-percent-tariffs-on-canada-after-failed-talks/",
+        "source": "CBS"
+      },
+      {
+        "title": "国债收益率上升，债务担忧加剧",
+        "summary": "美国国债突破40万亿美元，收益率上升，财政部干预效果短暂，市场担忧债务危机。",
+        "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对加拿大征收50%关税，加拿大报复",
+      "direction": "看空",
+      "asset_impact": "FXI, KWEB",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "比特币大涨9%至79,455美元",
+      "direction": "看多",
+      "asset_impact": "BTC, COIN",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "博通计划发行700-800亿美元债务",
+      "direction": "中性",
+      "asset_impact": "AVGO",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特斯拉获准在拉斯维加斯推出Robotaxi",
+      "direction": "看多",
+      "asset_impact": "TSLA",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "特斯拉在华召回300万辆汽车",
+      "direction": "看空",
+      "asset_impact": "TSLA",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "达利欧建议配置黄金和比特币",
+      "direction": "看多",
+      "asset_impact": "GLD, BTC",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "下周PCE和英伟达财报可能引发波动",
+      "direction": "中性",
+      "asset_impact": "NVDA, SPY",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
