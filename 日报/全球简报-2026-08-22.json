@@ -1,0 +1,166 @@
+{
+  "title": "🌍 全球简报 | 2026-08-22",
+  "headline": "美加贸易谈判破裂，美国对加拿大商品征收50%关税，加拿大誓言对等报复；乌克兰袭击俄罗斯Ozon仓库；伊朗批评美国制裁。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美加贸易谈判破裂，美国对加拿大商品征收50%关税",
+        "summary": "美国与加拿大未能在最后期限前达成贸易协议，美国对价值200亿美元的加拿大商品征收50%关税，加拿大总理卡尼表示将“对等”报复。",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+        "source": "NPR"
+      },
+      {
+        "title": "乌克兰无人机袭击俄罗斯Ozon仓库",
+        "summary": "乌克兰无人机袭击了俄罗斯在线零售商Ozon的仓库，造成人员伤亡，这是对Ozon的首次打击。",
+        "url": "https://www.cnbc.com/2026/08/22/ukrainian-drones-kill-several-hit-warehouse-of-russian-online-retailer-ozon.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗批评美国制裁，称经济战已失败",
+        "summary": "伊朗高级官员表示，美国专注于经济战表明其在军事上已失败，并称多年制裁未能奏效。",
+        "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+        "source": "NPR"
+      },
+      {
+        "title": "TikTok将支付4亿美元解决儿童隐私诉讼",
+        "summary": "TikTok及其母公司字节跳动同意支付4亿美元，以解决2024年关于收集数百万13岁以下用户数据的诉讼。",
+        "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "以色列重新建立西岸定居点，无视国际抗议",
+        "summary": "以色列政府推动民族主义浪潮，30个“先驱家庭”已抵达，但附近巴勒斯坦居民感到恐惧。",
+        "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "乌克兰购物中心遭袭，泽连斯基谴责“卑鄙”打击",
+        "summary": "救援人员正在挖掘废墟，袭击造成130人受伤，包括儿童，仍有9人失踪。",
+        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国将20人驱逐至利比里亚，特朗普协议下首批",
+        "summary": "这是特朗普政府移民打击行动中最大规模第三国驱逐协议的一部分，预计将有1200人被送往利比里亚。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+        "source": "Guardian"
+      },
+      {
+        "title": "香港天安门守夜组织者被判“煽动颠覆”罪",
+        "summary": "香港活动人士李卓人和邹幸彤因组织年度守夜活动被判有罪，英国外交部谴责使用国安法。",
+        "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美加贸易战升级，市场担忧加剧",
+        "summary": "美国对加拿大商品征收50%关税，加拿大誓言对等报复，贸易战深化可能影响全球供应链。",
+        "url": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "投资者揭示最大市场风险及多元化策略",
+        "summary": "六位投资者认为市场面临不同风险，但普遍同意应多元化投资，避免过度集中于近期赢家。",
+        "url": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "下周市场关注PCE、英伟达财报和杰克逊霍尔会议",
+        "summary": "夏季即将结束，但下周将有大量可能影响市场的活动，包括PCE数据、英伟达财报和杰克逊霍尔全球央行年会。",
+        "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国对伊朗实施新制裁，伊朗批评“域外主权”",
+        "summary": "美国财政部长贝森特表示，拟议的经济措施可能无需重大军事行动，伊朗则批评美国制裁的“域外主权”。",
+        "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Meta面临法官Yvonne Gonzalez Rogers的审判",
+        "summary": "法官Yvonne Gonzalez Rogers主持了一系列具有里程碑意义的科技审判，目前正在审理可能对Meta未来产生巨大影响的案件。",
+        "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI艺术版权之争：'意大利脑腐'案可能定义AI生成内容的归属",
+        "summary": "一场关于卡通棍状人物的法律战可能为创作者是否拥有AI生成角色设定规则。",
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
+        "source": "NPR"
+      },
+      {
+        "title": "可口可乐创新实验室：自动化脏苏打和提神饮料",
+        "summary": "从麦当劳到温迪，长期客户正在扩展饮料产品以提高利润率，可口可乐的秘密实验室正在探索自动化。",
+        "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国PCE通胀数据发布",
+        "summary": "美联储偏爱的通胀指标将于下周发布，可能影响利率预期。",
+        "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达财报",
+        "summary": "英伟达将于下周公布财报，市场关注其AI芯片需求。",
+        "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "杰克逊霍尔全球央行年会",
+        "summary": "全球央行行长将齐聚杰克逊霍尔，讨论货币政策前景。",
+        "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美加贸易谈判破裂，美国对加拿大商品征收50%关税，加拿大誓言对等报复",
+      "direction": "看空",
+      "asset_impact": "CAD, /ES, US10Y",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国对伊朗实施新制裁，伊朗批评域外主权",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "乌克兰无人机袭击俄罗斯Ozon仓库，冲突升级",
+      "direction": "看空",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "TikTok支付4亿美元解决儿童隐私诉讼，科技监管压力持续",
+      "direction": "中性",
+      "asset_impact": "TECH, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国驱逐移民至利比里亚，移民政策收紧",
+      "direction": "中性",
+      "asset_impact": "USD, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
