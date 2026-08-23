@@ -1,0 +1,92 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-23",
+  "headline": "DeepMind 校友创办的 Inherent 发布 AI 智能体 Faraday，声称在复现科学论文任务上超越 Anthropic 和 OpenAI；OpenAI 转而支持加州强化 AI 安全法案。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "DeepMind 校友创办的 Inherent 发布 AI 智能体 Faraday，声称超越 Anthropic 和 OpenAI",
+        "summary": "英国 AI 实验室 Inherent 由 DeepMind 校友创立，其发布的 AI 智能体 Faraday 在复现科学论文方面表现优于 Anthropic 和 OpenAI 的模型，可能成为创新的垫脚石。",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "哈佛 699 美元创业训练营用 AI 化身提供反馈",
+        "summary": "哈佛商学院 Foundry 项目引入 AI 化身，在模拟路演和董事会会议中为学员提供反馈，以提升创业培训的互动性和可扩展性。",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Michael Polansky 用活体皮肤训练 AI 模型，开发护肤新化合物",
+        "summary": "Lady Gaga 的伴侣 Michael Polansky 悄然创办 AI 驱动初创公司，能在体外维持活体人类皮肤组织数周，用于发现新护肤成分，近日首次公开。",
+        "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google Pixel 11 Pro XL 评测：相机更灵敏，但升级有限",
+        "summary": "Pixel 11 Pro XL 带来更快的相机和实用的 AI 功能（如 Rambler），但整体迭代幅度不大，可能不足以吸引现有 Pixel 用户升级。",
+        "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 呼吁加州强化 AI 安全法案",
+        "summary": "OpenAI 一反此前反对立场，呼吁加州加强 SB 53 法案，表明对 AI 安全监管的态度转变。",
+        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TikTok 支付 4 亿美元和解美国司法部儿童隐私诉讼",
+        "summary": "美国司法部宣布 TikTok 将支付 4 亿美元，和解 2024 年提起的违反儿童在线隐私保护法的诉讼。",
+        "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+        "source": "The Verge"
+      },
+      {
+        "title": "LinkedIn 的“AI 垃圾”按钮被点击超百万次",
+        "summary": "LinkedIn 推出的“Seems like AI slop”按钮上线后，已有超过一百万人点击，用于标记疑似 AI 生成的低质量内容。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+        "source": "The Verge"
+      },
+      {
+        "title": "中国内蒙古小城成为 AI 数据中心枢纽",
+        "summary": "凭借廉价能源、充足土地和靠近北京的地理优势，内蒙古一座城市正成为数据中心的重要枢纽，支撑中国 AI 发展。",
+        "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+        "source": "Wired"
+      },
+      {
+        "title": "前沿 AI 实验室仍未说明如何控制失控模型",
+        "summary": "新研究发现，领先 AI 实验室缺乏公开的失控模型遏制计划，引发对 AI 系统意外危险行为的担忧。",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "当 AI 设计药物时，功劳归谁？",
+        "summary": "探讨 AI 生成药物分子的知识产权归属问题，以 Insilico Medicine 为例，其声称分子由生成式 AI 平台“发现”，引发学界和业界讨论。",
+        "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "空间反射镜计划可能危及夜空",
+        "summary": "新研究指出，美国公司 Reflect Orbital 计划从太空向地球反射阳光，可能无意中使夜空变亮，影响范围远超预期。",
+        "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "80% 开发者认为 AI 编程比帮助更让人上瘾",
+        "summary": "Coddy 开发者调查显示，AI 编程工具正导致新型倦怠，多数开发者表示难以停止使用。",
+        "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "DOJ 调查 a16z 是否会吓退其他风投？",
+        "summary": "最新一期 Equity 播客讨论司法部对风投董事会席位的调查，引发对风投行业影响的担忧。",
+        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
