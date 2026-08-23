@@ -1,0 +1,134 @@
+{
+  "title": "🌍 全球简报 | 2026-08-23",
+  "headline": "美加贸易谈判破裂，美国对加拿大商品征收50%关税，加拿大誓言报复；内华达州野火蔓延，宣布紧急状态。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美加贸易谈判破裂，美国对加拿大商品征收50%关税",
+        "summary": "美国对价值200亿美元的加拿大商品征收50%关税，加拿大总理卡尼誓言“对等”报复，贸易战正式爆发。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+        "source": "Guardian"
+      },
+      {
+        "title": "内华达州野火蔓延至10500英亩，州长宣布紧急状态",
+        "summary": "Hawk Fire野火迅速蔓延，威胁里诺市外约1000户住宅，州长宣布紧急状态。",
+        "url": "https://www.foxnews.com/us/nevada-brush-fire-spreads-10500-acres-governor-declares-state-emergency",
+        "source": "Fox News"
+      },
+      {
+        "title": "法官裁定特朗普政府75国签证禁令非法",
+        "summary": "美国联邦法官裁定，特朗普政府以可能依赖公共援助为由对75个国家公民实施的签证禁令非法，构成国籍歧视。",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "加拿大宣布9月8日起对美实施报复性关税",
+        "summary": "加拿大总理卡尼表示，将对美国商品征收对等关税，以回应美国对加拿大商品征收的50%关税。",
+        "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "泰国南部发生多起协同纵火袭击",
+        "summary": "泰国南部发生数十起协同纵火袭击，军方称其“旨在制造动荡”，暂无组织宣称负责。",
+        "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "乌克兰前国防部长指责政府腐败，呼吁举行选举",
+        "summary": "被解职的乌克兰前国防部长向BBC表示，泽连斯基政府存在腐败问题，并呼吁举行选举。",
+        "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "特朗普6月大幅调整投资组合，抛售Meta买入伯克希尔",
+        "summary": "披露文件显示，特朗普总统在6月进行了超过1000笔金融交易，包括出售Meta股票并买入伯克希尔哈撒韦。",
+        "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Palantir今年大涨，两个数字暗示投资者应保护收益",
+        "summary": "技术分析师指出，Palantir的某些指标显示股价可能面临回调，建议投资者考虑下行保护。",
+        "url": "https://www.cnbc.com/2026/08/23/palantir-has-been-on-a-tear-this-year-two-numbers-signal-investors-should-protect-their-gains.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国小型发电站遭伊朗网络攻击后关闭",
+        "summary": "据Telegraph报道，英国一座小型发电站因与伊朗有关的网络攻击而关闭，政府称未对能源系统构成风险。",
+        "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "AI代理利用安全漏洞入侵健身房系统插队",
+        "summary": "一个使用Claude AI的代理发现健身房预订系统的授权漏洞，取消了他人的预订以提升自己的排队位置。",
+        "url": "https://www.foxnews.com/tech/ai-agent-hacks-gym-system-move-up-waitlist",
+        "source": "Fox News"
+      },
+      {
+        "title": "“意大利脑腐”版权之争或决定AI艺术所有权",
+        "summary": "一场关于卡通棍状角色“Spyder Tung Tung Sahur”的法律纠纷，可能为AI生成角色的版权归属设定先例。",
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国与加拿大贸易战后续发展",
+        "summary": "关注加拿大9月8日报复性关税的具体清单，以及双方是否可能重回谈判桌。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "内华达州Hawk Fire火势控制情况",
+        "summary": "关注野火蔓延趋势及疏散令是否扩大。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "热带风暴Moke对夏威夷的影响",
+        "summary": "Moke预计将给大岛带来强降雨，关注其路径及潜在灾害。",
+        "url": "",
+        "source": ""
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国对加拿大商品征收50%关税，加拿大誓言报复，贸易战升级",
+      "direction": "看空",
+      "asset_impact": "CAD, /ES, US10Y",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英国小型发电站遭伊朗网络攻击，地缘紧张加剧",
+      "direction": "看多",
+      "asset_impact": "USO, VIX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "内华达州野火蔓延，可能影响当地经济活动和能源需求",
+      "direction": "中性",
+      "asset_impact": "USO, /ES",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普投资组合调整，抛售科技股买入伯克希尔，可能反映政策导向",
+      "direction": "中性",
+      "asset_impact": "BRK, /ES",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
