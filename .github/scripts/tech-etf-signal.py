@@ -191,11 +191,11 @@ def calc_v_signal(ticker, klines):
 
 
 def build_premarket_report():
-    """21:00 盘前决策底稿"""
+    """21:00 盘前决策底稿（手机友好纯文本，无 Markdown 表格线）"""
     now = beijing_now()
     lines = []
-    lines.append(f"🌙 盘前决策底稿 · {now.strftime('%m-%d %H:%M')} 北京")
-    lines.append(f"> {data_phase_note()}")
+    lines.append(f"🌙 盘前决策 · {now.strftime('%m-%d %H:%M')}")
+    lines.append(f"{data_phase_note()}")
     lines.append("")
 
     rows = []
@@ -209,21 +209,20 @@ def build_premarket_report():
         last_close = k[-1]["close"]
         sig = calc_v_signal(t, k)
 
-        # 盘前价
         pre_q = q
         pre_price = pre_q["price"] if pre_q and pre_q["price"] else None
         pre_chg = None
         if pre_price and last_close:
             pre_chg = (pre_price - last_close) / last_close * 100
 
-        # 交叉验证（盘前/实时）
         cross_note = ""
         if pre_q and pre_price:
             tq = us_quote_tencent(t)
             if tq and tq["price"]:
                 diff = abs(pre_price - tq["price"]) / pre_price * 100
                 if diff > 2:
-                    cross_note = f" ⚠️双源差{diff:.0f}%"
+                    cross_note = " 双源差"
+
         rows.append({
             "ticker": t, "sector": sector, "lev": lev, "pri": pri,
             "last_close": last_close,
@@ -233,54 +232,41 @@ def build_premarket_report():
             "cross_note": cross_note,
         })
         if pre_chg is not None and abs(pre_chg) >= PRE_JUMP_PCT:
-            anomalies.append((t, sector, pre_chg))
+            anomalies.append((t, sector, pre_chg, pre_price))
 
     rows.sort(key=lambda x: x["pri"])
 
-    # 表
-    lines.append("| 标的 | 赛道 | 昨收 | 盘前 | 盘前涨跌 | 5日趋势 | 状态 |")
-    lines.append("|---|---|---|---|---|---|---|")
+    # 每标的一行：代号(赛道) 昨收→盘前 涨跌 [状态]
     for r in rows:
-        pre_str = f"{r['pre_price']:.2f}" if r["pre_price"] else "—"
-        prechg_str = f"{r['pre_chg']:+.2f}%" if r["pre_chg"] is not None else "—"
-        status = "🔥昨V反" if r["v_reversal"] else "—"
-        lines.append(f"| {r['ticker']} | {r['sector']} | {r['last_close']:.2f} | {pre_str} | {prechg_str}{r['cross_note']} | {r['chg5']:+.1f}% | {status} |")
+        pre_arrow = f"{r['last_close']:.2f}→{r['pre_price']:.2f}" if r["pre_price"] else f"{r['last_close']:.2f}→—"
+        prechg = f"{r['pre_chg']:+.2f}%" if r["pre_chg"] is not None else "—"
+        vflag = " 🔥V反昨" if r["v_reversal"] else ""
+        trend5 = f"{r['chg5']:+.0f}%/5日"
+        lines.append(f"{r['ticker']}({r['sector']}{r['lev']}) {pre_arrow} {prechg} {trend5}{vflag}{r['cross_note']}")
 
     lines.append("")
-    lines.append("## 今晚 if-then（开盘 30 分钟内执行）")
-    lines.append("")
-
+    lines.append("【今晚怎么打 v14】")
     if anomalies:
-        lines.append("### ⚡ 盘前异动（跳空 ≥3%）")
-        for t, sector, chg in anomalies:
+        for t, sector, chg, price in anomalies:
             direction = "高开" if chg > 0 else "低开"
-            lines.append(f"- {t}({sector}) 盘前{direction} {chg:+.1f}%")
-        lines.append("")
+            lines.append(f"⚡ {t}({sector}) 盘前{direction} {chg:+.1f}% ({price:.2f})")
     else:
-        lines.append("### 盘前无异动（无标的跳空 ≥3%）")
-        lines.append("")
-
-    lines.append("### 买入规则（严格按 v14，不追高不接刀）")
-    lines.append("```")
-    lines.append("开盘 30 分钟（21:30→22:00）观察，10:00 前后才决策：")
-    lines.append("IF  某标的涨 ≥ +8% 且 量 ≥ 2x 60日均量 且 昨日下跌（真 V 反）")
-    lines.append("    → 买该标的 CALL（短 DTE OTM），仓位 ≤15%，当天/次日了结")
-    lines.append("ELSEIF  某标的跌 ≥ -5% 且 放量（破位下杀）")
-    lines.append("    → 不动。下跌中继不接飞刀，宁可错过")
-    lines.append("ELSE")
-    lines.append("    → 不动。$377 的优势是「等得起」")
-    lines.append("```")
+        lines.append("盘前无跳空≥3%，正常开局")
+    lines.append("开盘30分钟内只看不动，10点后：")
+    lines.append("· 涨≥8%+量≥2x+昨日跌 → 买CALL(短DTE,≤15%)")
+    lines.append("· 跌≥5%放量 → 不接飞刀")
+    lines.append("· 其他 → 不动，等得起")
     lines.append("")
-    lines.append(f"⚠️ 数据时点：昨收=上周五收盘，盘前=新浪实时盘前价（量小易变，仅方向参考）。精确下单用手机 App 实时价。")
+    lines.append("⚠️ 盘前价易变，落单用券商App实时价")
     return "\n".join(lines)
 
 
 def build_open30_report():
-    """22:05 开盘半小时信号"""
+    """22:05 开盘半小时信号（手机友好纯文本）"""
     now = beijing_now()
     lines = []
-    lines.append(f"⚡ 开盘半小时信号 · {now.strftime('%m-%d %H:%M')} 北京")
-    lines.append(f"> {data_phase_note()}")
+    lines.append(f"⚡ 开盘半小时 · {now.strftime('%m-%d %H:%M')}")
+    lines.append(f"{data_phase_note()}")
     lines.append("")
 
     rows = []
@@ -299,45 +285,41 @@ def build_open30_report():
         if pre_open and price and pre_open:
             chg_from_open = (price - pre_open) / pre_open * 100
 
-        # 量能（实时量 vs 60日均量，开盘半小时量是全天约1/13，这里用成交量比值粗判）
         sig = calc_v_signal(t, k)
-        avg_vol_daily = sum(kk["volume"] for kk in k[-61:-1]) / 60 if len(k) >= 62 else 0
-        vol_now = q["volume"] if q["volume"] else 0
-
         rows.append({
             "ticker": t, "sector": sector, "lev": lev, "pri": pri,
             "last_close": last_close, "price": price, "chg": chg,
-            "chg_from_open": chg_from_open, "vol_now": vol_now,
+            "chg_from_open": chg_from_open,
             "prev_down": sig and (k[-2]["close"] < k[-3]["close"]),
         })
-        # 开盘半小时触发判断：涨幅>5% 且 从开盘价继续上攻
         if chg is not None and chg >= 5.0 and chg_from_open is not None and chg_from_open > 0:
             triggered.append((t, sector, lev, chg, chg_from_open))
 
     rows.sort(key=lambda x: x["pri"])
 
-    lines.append("| 标的 | 赛道 | 昨日收盘 | 现价 | 涨跌% | 开盘后 | 状态 |")
-    lines.append("|---|---|---|---|---|---|---|")
     for r in rows:
         price_str = f"{r['price']:.2f}" if r["price"] else "—"
         chg_str = f"{r['chg']:+.2f}%" if r["chg"] is not None else "—"
         coa = f"{r['chg_from_open']:+.1f}%" if r["chg_from_open"] is not None else "—"
-        status = "🟢上攻" if r["chg_from_open"] is not None and r["chg_from_open"] > 0 else ("🔴破位" if r["chg_from_open"] is not None and r["chg_from_open"] < -1 else "—")
-        lines.append(f"| {r['ticker']} | {r['sector']} | {r['last_close']:.2f} | {price_str} | {chg_str} | {coa} | {status} |")
+        if r["chg_from_open"] is not None and r["chg_from_open"] > 0.3:
+            arrow = "🟢"
+        elif r["chg_from_open"] is not None and r["chg_from_open"] < -0.3:
+            arrow = "🔴"
+        else:
+            arrow = "⚪"
+        lines.append(f"{arrow} {r['ticker']}({r['sector']}{r['lev']}) {price_str} {chg_str} 开盘后{coa}")
 
     lines.append("")
     if triggered:
-        lines.append("## 🚨 开盘半小时上攻（涨幅≥5%且开盘后继续走高）")
+        lines.append("【上攻候选】")
         for t, sector, lev, chg, coa in triggered:
-            lines.append(f"- 🔥 {t}({sector} {lev}) 涨 {chg:+.1f}%，开盘后 {coa:+.1f}% → 关注，但不等于可买")
-        lines.append("")
-        lines.append("> 注意：开盘半小时量未放足，需等 22:30 后量能确认。涨幅≥8%+量≥2x 才是真 V 反。")
+            lines.append(f"🔥 {t}({sector}{lev}) 涨{chg:+.1f}% 开盘后{coa:+.1f}%")
+        lines.append("注意：量还没放足，等22:30后确认。涨≥8%+量≥2x才是真V反")
     else:
-        lines.append("## 开盘半小时：无标的触发上攻信号")
-        lines.append("")
-        lines.append("> 继续等。不追高、不接刀。真正的 V 反信号是「涨≥8% + 量≥2x + 昨日下跌」，半小时内通常走不完。")
+        lines.append("【结论】无上攻信号，继续等")
+        lines.append("不追高、不接飞刀。真V反=涨≥8%+量≥2x+昨跌，半小时走不完")
     lines.append("")
-    lines.append("⚠️ 数据延时约 15 分钟，方向/涨跌可靠，精确下单用手机 App 实时价。")
+    lines.append("⚠️ 数据延时约15分钟，落单用券商App实时价")
     return "\n".join(lines)
 
 
