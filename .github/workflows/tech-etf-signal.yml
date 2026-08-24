@@ -75,9 +75,17 @@ jobs:
           fi
           # 标题 = 第一行（去掉 emoji/装饰）
           HEADLINE=$(head -1 /tmp/report.md | sed 's/🌙 //; s/⚡ //' | head -c 120)
-          curl -s -o /dev/null -w "%{http_code}" "https://api.day.app/${BARK_KEY}/${EMOJI}%20${PREFIX}/${HEADLINE}?group=%E7%A7%91%E6%8A%80ETF"
-          echo ""
-          echo "✅ Bark 已推送: ${EMOJI} ${PREFIX}"
+          python3 - "$EMOJI" "$PREFIX" "$HEADLINE" << 'PYEOF'
+          import os, sys, urllib.parse
+          emoji, prefix, headline = sys.argv[1], sys.argv[2], sys.argv[3]
+          key = os.environ["BARK_KEY"]
+          path = f"{emoji} {prefix}/{headline}"
+          url = f"https://api.day.app/{key}/" + urllib.parse.quote(path) + "?group=" + urllib.parse.quote("科技ETF")
+          import requests
+          r = requests.get(url, timeout=20)
+          print(f"Bark HTTP {r.status_code}")
+          print("✅ Bark 已推送" if r.status_code == 200 else f"❌ Bark 失败: {r.text[:100]}")
+          PYEOF
 
       - name: 💬 飞书消息推送 (直推手机)
         env:
