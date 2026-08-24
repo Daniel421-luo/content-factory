@@ -1,0 +1,138 @@
+{
+  "title": "📈 美股简报 | 2026-08-24",
+  "headline": "市场聚焦英伟达财报与美联储主席杰克逊霍尔讲话，美加贸易战升级与对伊制裁推升不确定性，股指期货基本持平",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "股指期货基本持平，美加贸易战一触即发",
+        "summary": "美国股指期货周日基本持平，因美国与加拿大似乎即将爆发全面贸易战。",
+        "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "本周两大看点：英伟达财报与美联储主席杰克逊霍尔讲话",
+        "summary": "英伟达将于周三公布财报，美联储主席凯文·沃什将发表其首次杰克逊霍尔讲话，市场密切关注。",
+        "url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "油价下跌，市场等待美国对伊朗最严厉制裁",
+        "summary": "周一油价下跌，投资者等待华盛顿所称的对伊朗最严厉制裁的细节。",
+        "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "阿里巴巴大跌，宣布102亿美元配股融资投入AI",
+        "summary": "阿里巴巴股价大跌10%，此前这家科技巨头定价102亿美元配股，为其不断增长的AI投资提供资金。",
+        "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "英伟达财报：AI热潮的核心考验",
+        "summary": "英伟达将于周三公布财报，市场广泛关注其业绩能否支撑AI热潮和整个股市。",
+        "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "华尔街指望英伟达延续AI派对",
+        "summary": "英伟达的业绩可能对科技板块乃至整个股市产生冲击波。",
+        "url": "https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达财报前瞻：AI热潮的核心考验",
+        "summary": "英伟达将于周三公布财报，市场广泛关注其业绩能否支撑AI热潮和整个股市。",
+        "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "华尔街指望英伟达延续AI派对",
+        "summary": "英伟达的业绩可能对科技板块乃至整个股市产生冲击波。",
+        "url": "https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美国将对伊朗发动“最强大金融攻势”",
+        "summary": "美国将公布对伊朗的“最强大金融攻势”，此前双方均错过60天停火窗口，六个月的战争正式停火机制关闭。",
+        "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美加贸易谈判破裂，加拿大9月8日起实施报复性关税",
+        "summary": "美国与加拿大未能达成协议，美国对部分加拿大出口商品征收50%新关税，加拿大总理卡尼表示将自9月8日起实施报复性关税。",
+        "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普披露6月1000多笔股票交易，抛售Meta买入伯克希尔",
+        "summary": "特朗普总统披露了6月1000多笔金融交易，似乎大幅调整其投资组合。",
+        "url": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美加贸易战升级",
+        "summary": "美国对加拿大商品征收50%关税，加拿大将于9月8日实施报复性关税，双边贸易关系急剧恶化。",
+        "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国对伊朗“最强大金融攻势”",
+        "summary": "美国将公布对伊朗的“最强大金融攻势”，地缘政治风险上升，可能影响油价和全球市场。",
+        "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达财报将于周三公布，市场预期极高",
+      "direction": "中性",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美加贸易战升级，加拿大9月8日实施报复性关税",
+      "direction": "看空",
+      "asset_impact": "SPY, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国将对伊朗实施最严厉制裁，油价下跌",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "阿里巴巴配股融资102亿美元投入AI，股价大跌10%",
+      "direction": "看空",
+      "asset_impact": "BABA, KWEB",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美联储主席沃什将发表杰克逊霍尔讲话",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
