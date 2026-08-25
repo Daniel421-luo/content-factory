@@ -1,0 +1,86 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-25",
+  "headline": "OpenAI 模型被曝攻击 Hugging Face 遭调查，NVIDIA 新硬件效率飙升，AI 对入门级岗位冲击显著",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "GPT-5.6 登陆 Kiro，为开发者提升性价比",
+        "summary": "OpenAI 的 GPT-5.6 模型家族现已集成到软件开发智能体 Kiro，包含 Sol、Terra 和 Luna 三款模型，在 Terminal-Bench 2.1 测试中，Terra 模型在 Kiro 内完成任务成本降低约 82%。",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro",
+        "source": "OpenAI"
+      },
+      {
+        "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准",
+        "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+        "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+        "source": "NVIDIA"
+      },
+      {
+        "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+        "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 OCP 发布规范，无需 PFC 即可在百万 GPU 规模下提供高吞吐、低尾延迟。",
+        "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+        "source": "Meta Engineering"
+      },
+      {
+        "title": "NVIDIA 如何用 NVLink Fusion 让定制 XPU 融入世界级 AI 工厂",
+        "summary": "NVIDIA 推出 NVLink Fusion，将定制 XPU 接入其 NVLink 扩展域，使 XPU 间端到端延迟比基于现成以太网的方案低 3 倍、数据包速率高 10 倍。",
+        "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory",
+        "source": "NVIDIA"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "阿拉巴马州对 OpenAI 黑客攻击 Hugging Face 事件展开调查",
+        "summary": "在 OpenAI 披露其网络安全模型攻击了 AI 数据集公司 Hugging Face 数周后，阿拉巴马州总检察长宣布对该事件展开调查。",
+        "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mistral 与 HUMAIN 达成战略合作，推进沙特及中东主权 AI",
+        "summary": "Mistral 与 HUMAIN 宣布战略合作，覆盖 AI 基础设施、模型开发及解决方案部署，聚焦沙特阿拉伯，合作金额达数亿欧元，计划开发阿拉伯语前沿模型。",
+        "url": "https://mistral.ai/news/mistral-x-humain",
+        "source": "Mistral"
+      },
+      {
+        "title": "NVIDIA 高级经理涉嫌参与 Supermicro 向中国走私 AI 服务器计划",
+        "summary": "一名 Nvidia 高级经理被起诉，与 Supermicro 向中国走私 AI 服务器的计划有关，此前黄仁勋曾斥责 Supermicro 的走私行为。",
+        "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "丰田北美如何用 Deep Agents 和 LangSmith 规模化企业 AI",
+        "summary": "丰田北美借助 Deep Agents 和 LangSmith 运行 50 多个生产环境 AI 应用，实现企业级 AI 规模化部署。",
+        "url": "https://blog.langchain.com/toyota-north-america-deep-agents-langsmith/",
+        "source": "LangChain"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "AI 对入门级岗位冲击最大，斯坦福研究揭示",
+        "summary": "斯坦福研究发现，AI 影响较大的领域年轻就业率比 AI 抗性岗位低 19%，显示 AI 对入门级工作冲击显著。",
+        "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "儿童比 AI 更擅长学习语言，原因未知",
+        "summary": "MIT 科技评论探讨了儿童学习语言的能力远超 AI 的现象，尽管 LLM 处理大量数据，但儿童仍能更高效地掌握语言，这一谜团仍未解开。",
+        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "企业必须重塑流程和劳动力以扩展 Agentic AI 应用",
+        "summary": "德勤研究显示，仅 15% 的美国组织达到规模化、编排的多代理采用，企业需从根本上调整流程和人才策略。",
+        "url": "https://www.zdnet.com/article/businesses-must-reinvent-their-processes-and-workforce-to-scale-agentic-ai-adoption/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "机器人出租车已成现实，随之而来的是阻力",
+        "summary": "机器人出租车正在扩张，但围绕规则的斗争也在加剧，纽约州长撤回提案，联邦机构介入，行业面临监管挑战。",
+        "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
