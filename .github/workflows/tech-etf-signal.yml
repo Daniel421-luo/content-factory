@@ -5,12 +5,11 @@ permissions:
 
 on:
   schedule:
-    # 北京时间 21:00（UTC 13:00）→ 盘前决策底稿（美股 21:30 开盘前 30 分钟）
-    - cron: '0 13 * * 1-5'
-    - cron: '5 13 * * 1-5'    # 冗余，防漏跑
-    # 北京时间 22:05（UTC 14:05）→ 开盘半小时信号（21:30 开盘后 35 分钟）
-    - cron: '5 14 * * 1-5'
-    - cron: '15 14 * * 1-5'   # 冗余，防漏跑
+    # 北京时间 20:55（UTC 12:55）→ 盘前决策底稿（美股 21:30 开盘前 35 分钟）
+    # 提前 5 分钟 + 冗余一条，补偿 GitHub Actions cron 约 5 分钟天然延迟，
+    # 确保 Daniel 21:00 前稳定收到（只保留盘前决策，开盘半小时已废弃）。
+    - cron: '55 12 * * 1-5'
+    - cron: '58 12 * * 1-5'   # 冗余，防漏跑
   workflow_dispatch:
     inputs:
       mode:
@@ -18,9 +17,7 @@ on:
         required: true
         type: choice
         options:
-          - auto
           - premarket
-          - open30
 
 jobs:
   signal:
@@ -37,23 +34,11 @@ jobs:
       - name: 安装依赖
         run: pip install requests
 
-      - name: 判断时段（北京）
+      - name: 判断模式（仅盘前决策）
         id: slot
         run: |
-          HOUR=$(TZ='Asia/Shanghai' date +%H)
-          MIN=$(TZ='Asia/Shanghai' date +%M)
-          NOW_MIN=$((10#$HOUR * 60 + 10#$MIN))
-
-          if [ "${{ inputs.mode }}" = "premarket" ]; then
-            MODE="premarket"
-          elif [ "${{ inputs.mode }}" = "open30" ]; then
-            MODE="open30"
-          elif [ "$NOW_MIN" -ge 1310 ]; then
-            MODE="open30"           # 晚于 21:10 一律判为开盘后
-          else
-            MODE="premarket"
-          fi
-
+          # 只保留盘前决策模式，固定 premarket，不再按时段分流
+          MODE="premarket"
           echo "mode=${MODE}" >> $GITHUB_OUTPUT
           echo "🎯 本趟信号: ${MODE} (北京 $(TZ='Asia/Shanghai' date +%H:%M))"
 
@@ -67,12 +52,7 @@ jobs:
         env:
           BARK_KEY: ${{ secrets.BARK_KEY }}
         run: |
-          MODE="${{ steps.slot.outputs.mode }}"
-          if [ "$MODE" = "premarket" ]; then
-            EMOJI="🌙"; PREFIX="盘前决策"
-          else
-            EMOJI="⚡"; PREFIX="开盘信号"
-          fi
+          EMOJI="🌙"; PREFIX="盘前决策"
           # 标题 = 第一行（去掉 emoji/装饰）
           HEADLINE=$(head -1 /tmp/report.md | sed 's/🌙 //; s/⚡ //' | head -c 120)
           python3 - "$EMOJI" "$PREFIX" "$HEADLINE" << 'PYEOF'
@@ -93,12 +73,7 @@ jobs:
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_OPEN_ID: ${{ secrets.FEISHU_OPEN_ID }}
         run: |
-          MODE="${{ steps.slot.outputs.mode }}"
-          if [ "$MODE" = "premarket" ]; then
-            EMOJI="🌙"; PREFIX="盘前决策"
-          else
-            EMOJI="⚡"; PREFIX="开盘信号"
-          fi
+          EMOJI="🌙"; PREFIX="盘前决策"
           BODY=$(cat /tmp/report.md)
           python3 - "$EMOJI" "$PREFIX" "$BODY" << 'PYEOF'
           import json, os, requests, sys

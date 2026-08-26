@@ -3,25 +3,27 @@
 """
 科技主线 2x/3x ETF 决策辅助引擎
 ================================
-为 Daniel 的期权交易服务，两个模式：
+为 Daniel 的期权交易服务，单一模式：
 
   premarket (21:00 北京)  → 盘前决策底稿：昨收 + 盘前方向 + if-then 今晚怎么打
-  open30    (22:05 北京)  → 开盘半小时信号：开盘30分钟方向+量能，判断 V 反是否触发
+
+  （open30 开盘半小时模式已于 2026-08-26 废弃：开盘初期 open 价不可靠
+    + GitHub Actions cron 延迟 45-60 分钟，导致「开盘半小时」信号失真，
+    拿盘前价冒充开盘价，对决策有害。已移除。）
 
 核心原则（Daniel 真金白银，不容有坑）：
   1. 只给"方向 + 强弱 + if-then 规则"，不报精确到应该用哪个价位落单
      —— 精确下单用手机券商 App 实时价，数据延时不影响方向判断
   2. 信号用"方向 + 相对量能"，不用"绝对价"，对 15 分钟延时天然不敏感
-  3. 所有判断标注数据时点（昨收 / 盘前 / 开盘30分钟）
+  3. 所有判断标注数据时点（昨收 / 盘前）
   4. 数据交叉验证：新浪 + 腾讯双源，对不上标 ⚠️
 
 数据源：
   - 昨日收盘：新浪日K (us_stock_kline_sina)，稳定可靠
-  - 盘前/实时：新浪 gb_XXXX（盘前时段字段[1]自动切盘前价），腾讯 usXXXX 交叉验证
+  - 盘前/实时：新浪 gb_XXXX（盘前时段字段[21]），腾讯 usXXXX 交叉验证
 
 用法：
-  python tech-etf-signal.py premarket
-  python tech-etf-signal.py open30
+  python tech-etf-signal.py
 
 输出：print Markdown（供 workflow 抓取推送到 Bark/飞书）
 """
@@ -318,70 +320,9 @@ def build_premarket_report():
 
 
 def build_open30_report():
-    """22:05 开盘半小时信号（手机友好纯文本）"""
-    now = beijing_now()
-    lines = []
-    lines.append(f"⚡ 开盘半小时 · {now.strftime('%m-%d %H:%M')}")
-    lines.append(f"{data_phase_note()}")
-    lines.append("")
-
-    rows = []
-    triggered = []
-    for t in TICKERS:
-        k = us_stock_kline_sina(t, 120)
-        q = us_quote_sina(t)
-        sector, lev, pri = TICKERS[t]
-        if not k or not q:
-            continue
-        last_close = k[-1]["close"]
-        pre_open = q["open"]
-        price = q["price"]
-        chg = q["chg_pct"]  # 盘中相对昨收涨跌
-        chg_from_open = None
-        if pre_open and price and pre_open:
-            chg_from_open = (price - pre_open) / pre_open * 100
-
-        sig = calc_v_signal(t, k)
-        rows.append({
-            "ticker": t, "sector": sector, "lev": lev, "pri": pri,
-            "last_close": last_close, "price": price, "chg": chg,
-            "chg_from_open": chg_from_open,
-            "prev_down": sig and (k[-2]["close"] < k[-3]["close"]),
-        })
-        if chg is not None and chg >= 5.0 and chg_from_open is not None and chg_from_open > 0:
-            triggered.append((t, sector, lev, chg, chg_from_open))
-
-    rows.sort(key=lambda x: x["pri"])
-
-    for r in rows:
-        price_str = f"{r['price']:.2f}" if r["price"] else "—"
-        chg_str = f"{r['chg']:+.2f}%" if r["chg"] is not None else "—"
-        coa = f"{r['chg_from_open']:+.1f}%" if r["chg_from_open"] is not None else "—"
-        if r["chg_from_open"] is not None and r["chg_from_open"] > 0.3:
-            arrow = "🟢"
-        elif r["chg_from_open"] is not None and r["chg_from_open"] < -0.3:
-            arrow = "🔴"
-        else:
-            arrow = "⚪"
-        lines.append(f"{arrow} {r['ticker']}({r['sector']}{r['lev']}) {price_str} {chg_str} 开盘后{coa}")
-
-    lines.append("")
-    if triggered:
-        lines.append("【上攻候选】")
-        for t, sector, lev, chg, coa in triggered:
-            lines.append(f"🔥 {t}({sector}{lev}) 涨{chg:+.1f}% 开盘后{coa:+.1f}%")
-        lines.append("注意：量还没放足，等22:30后确认。涨≥8%+量≥2x才是真V反")
-    else:
-        lines.append("【结论】无上攻信号，继续等")
-        lines.append("不追高、不接飞刀。真V反=涨≥8%+量≥2x+昨跌，半小时走不完")
-    lines.append("")
-    lines.append("⚠️ 数据延时约15分钟，落单用券商App实时价")
-    return "\n".join(lines)
+    pass  # 已废弃：开盘半小时模式因开盘初期 open 价不可靠 + cron 延迟，数据失真，于 2026-08-26 移除
 
 
 if __name__ == "__main__":
-    mode = sys.argv[1] if len(sys.argv) > 1 else "premarket"
-    if mode == "open30":
-        print(build_open30_report())
-    else:
-        print(build_premarket_report())
+    # 只保留盘前决策模式。open30 已废弃。
+    print(build_premarket_report())
