@@ -1,0 +1,61 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-26",
+  "headline": "OpenAI 再失数据中心高管，Stability AI 获 7600 万美元新融资，Anthropic 合并 Claude 与 Cowork 记忆功能",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Anthropic 的 Claude 与 Cowork 将共享记忆，除非用户选择退出",
+        "summary": "Anthropic 正在合并 Claude 聊天和 Cowork 的记忆功能，引发关于 AI 记忆隐私的讨论。",
+        "url": "https://www.zdnet.com/article/anthropic-claude-and-cowork-share-memories-now-unless-you-opt-out/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Instagram 推出“First Draft”功能，简化 Reels 编辑",
+        "summary": "该功能可在 10 秒内生成视频初稿，为创作者节省大量编辑时间，降低视频制作门槛。",
+        "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "谷歌抗晕车“Motion Assist”功能在 Android 上推出",
+        "summary": "该功能通过屏幕边缘的移动圆点帮助缓解乘车时的晕车感，目前仅在 Pixel 设备上可用。",
+        "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+        "source": "Ars Technica"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 再失数据中心高管，离职潮持续",
+        "summary": "OpenAI 基础设施部门高管 Malone 离职，此前该部门已进行重组，Katti 接任负责人。",
+        "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Stability AI 获 7600 万美元新融资",
+        "summary": "Stable Diffusion 开发商 Stability AI 完成新一轮融资，总融资额达 2.32 亿美元。",
+        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "机器人初创公司 Generalist 估值达 30 亿美元",
+        "summary": "Generalist 完成 2 亿美元融资，估值从 20 亿美元升至 30 亿美元。",
+        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X 向开源项目 Nitter 发送停止函，指控其抓取数据",
+        "summary": "X 要求 Nitter 移除其实例和代码库，称其涉嫌抓取数据。",
+        "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "世界人形机器人运动会：纪录与火焰并存",
+        "summary": "机器人赛跑打破纪录，但家务挑战仍显不足，引发对机器人实用性的思考。",
+        "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
