@@ -1,0 +1,154 @@
+{
+  "title": "🌍 全球简报 | 2026-08-26",
+  "headline": "尼泊尔山洪致数百人失踪，巴基斯坦医院火灾夺14名新生儿生命，美加贸易战升级",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "尼泊尔山洪引发洪灾，数百人失踪",
+        "summary": "尼泊尔山洪引发洪灾，已致8人死亡，数百人失踪，其中包括至少3名美国游客。",
+        "url": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
+        "source": "NPR"
+      },
+      {
+        "title": "巴基斯坦医院新生儿病房火灾致14名婴儿死亡",
+        "summary": "巴基斯坦首都一家医院的新生儿病房发生火灾，造成14名婴儿死亡，目击者称病房门被锁。",
+        "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "加拿大宣布对美国实施对等报复性关税",
+        "summary": "加拿大宣布将对美国商品实施“对等”报复性关税，税率最高达50%，涉及钢铁、家具等。",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国核心PCE通胀率7月同比上涨3.3%",
+        "summary": "美联储青睐的通胀指标显示，7月核心PCE价格指数同比上涨3.3%，低于预期。",
+        "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "中国建议公民离开台湾邦交国斯威士兰",
+        "summary": "中国以“安全风险”为由，建议本国公民离开斯威士兰，该国是台湾在非洲的唯一邦交国。",
+        "url": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "以色列极右翼议员用大锤破坏巴勒斯坦纪念碑",
+        "summary": "以色列议员兹维·苏科特的行为引发广泛谴责，包括以色列总理内塔尼亚胡。",
+        "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "海地帮派袭击致47人死亡，数十人被绑架",
+        "summary": "海地首都附近一社区遭帮派袭击，至少47人遇害，50多人被绑架，帮派头目威胁杀害人质。",
+        "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
+        "source": "Guardian"
+      },
+      {
+        "title": "尼日利亚清真寺绑架案视频显示数百人被扣押",
+        "summary": "武装分子发布视频，显示上周尼日利亚中部一座清真寺袭击中约600名妇女、儿童和老人被绑架。",
+        "url": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美加贸易战推高卫生纸价格",
+        "summary": "美加贸易谈判破裂后，纸制品成为受冲击最严重的行业之一，关税估计在25%-50%之间。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+        "source": "Guardian"
+      },
+      {
+        "title": "伊朗称美国阻碍霍尔木兹海峡协议",
+        "summary": "伊朗与阿曼接近达成确保霍尔木兹海峡安全通行的协议，但伊朗指责美国从中作梗。",
+        "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "波士顿科学遭网络攻击，股价下跌",
+        "summary": "医疗设备制造商波士顿科学遭遇网络攻击，产品运输中断，恢复时间不明。",
+        "url": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "现代汽车在美国增长最快，计划扩大产能",
+        "summary": "现代汽车在佐治亚州投资76亿美元的新工厂将提高产量，以获取更多市场份额。",
+        "url": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "FBI结束针对全球网络犯罪的行动",
+        "summary": "FBI局长称“Riptide行动”摧毁了从美国人手中窃取超过200亿美元的全球网络犯罪网络。",
+        "url": "https://www.foxnews.com/us/fbi-wraps-cybercrime-operation-targeting-global-networks-preying-americans",
+        "source": "Fox News"
+      },
+      {
+        "title": "德国机场工人因飞机携带蚊子感染疟疾死亡",
+        "summary": "德国最繁忙机场一名工人死于疟疾，另有五名工人接受治疗，疑似由飞机携带的蚊子传播。",
+        "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国最高法院支持特朗普限制邮寄投票计划",
+        "summary": "美国最高法院支持特朗普限制邮寄投票的计划，可能影响中期选举。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
+        "source": "Guardian"
+      },
+      {
+        "title": "德国总理就无人机事件发出警告",
+        "summary": "德国总理默茨表示，莱比锡机场无人机袭击凸显国家面临的“非常真实的威胁”，攻击者将“付出代价”。",
+        "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "加拿大宣布对美国商品实施最高50%的报复性关税，贸易战升级",
+      "direction": "看空",
+      "asset_impact": "CADUSD, US10Y, /ES",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国核心PCE通胀7月同比上涨3.3%，低于预期",
+      "direction": "看多",
+      "asset_impact": "/ES, US10Y, DXY",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "伊朗称美国阻碍霍尔木兹海峡协议，地缘风险上升",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "尼泊尔山洪灾害造成人员伤亡和失踪，可能影响区域稳定",
+      "direction": "中性",
+      "asset_impact": "GLD",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "海地帮派袭击造成重大伤亡，社会动荡加剧",
+      "direction": "看空",
+      "asset_impact": "GLD, USO",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
