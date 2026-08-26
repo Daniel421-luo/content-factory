@@ -1,0 +1,152 @@
+{
+  "title": "📈 美股简报 | 2026-08-26",
+  "headline": "市场聚焦通胀数据与英伟达财报，油价因美国对伊朗转向经济施压而下跌，加拿大宣布对200亿美元美国商品征收报复性关税。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "期货小幅波动，市场等待通胀数据与英伟达财报",
+        "summary": "美股期货周三小幅波动，交易员等待即将公布的美国通胀数据及英伟达最新季度业绩，两者均将于周三发布。",
+        "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科技股领涨，基准国债收益率创6月以来最大跌幅",
+        "summary": "周二科技股领涨主要指数，基准国债收益率创下自6月以来的最大单日跌幅。",
+        "url": "https://www.wsj.com/finance/stocks/tech-stocks-lead-major-indexes-higher-6291aac9?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "油价下跌，美国对伊朗转向经济施压",
+        "summary": "周三油价下跌，因投资者评估美国转向经济制裁而非军事打击以对伊朗施压。",
+        "url": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "加拿大宣布对200亿美元美国商品征收报复性关税",
+        "summary": "加拿大公布对美国商品征收最高50%的报复性关税，涉及约200亿美元，贸易战升级。",
+        "url": "https://www.cbsnews.com/news/canada-imposes-tariffs-us-imports/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "迪克体育用品暴跌，拖累鞋类巨头",
+        "summary": "迪克体育用品股价遭遇史上最大单日跌幅，因利润和销售不及预期，且全年展望被下调，拖累其他鞋类巨头。",
+        "url": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "英伟达成为AI繁荣的银行家，引发风险担忧",
+        "summary": "英伟达利用金融工程维持营收增长，但可能引入风险，最终导致实际损失。",
+        "url": "https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "Meta股价可能因被忽视的AI王牌上涨50%",
+        "summary": "持续的算力短缺可能为Meta提供以高溢价出售其算力的机会，从而推动股价上涨。",
+        "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "惠普与华为合作，授权其WiFi技术",
+        "summary": "尽管美国限制华为与美国供应商合作，但惠普与华为达成WiFi技术授权合作，显示华为技术在海外的采用。",
+        "url": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Wolfspeed：在波动中前行",
+        "summary": "Wolfspeed面临波动，但公司正在应对，可能对半导体行业产生影响。",
+        "url": "https://seekingalpha.com/article/4940182-wolfspeed-q4-riding-out-the-volatility?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普与沙特核协议提交国会，专家警告扩散风险",
+        "summary": "部分民主党议员和防扩散倡导者批评该协议未包含永久禁止铀浓缩或后处理。",
+        "url": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国对伊朗实施“经济D-Day”，伊朗称“完全准备”应对",
+        "summary": "美国对伊朗实施扩大制裁，称为“经济D-Day”，伊朗表示已制定计划应对。",
+        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "富达称结构性通胀正在重塑市场，推荐股票应对",
+        "summary": "富达表示，政府赤字、AI投资、低失业率、贸易壁垒和能源中断推动的结构性通胀正在重塑市场。",
+        "url": "https://www.cnbc.com/2026/08/26/fidelity-says-this-phenomenon-is-reshaping-markets.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "加拿大报复性关税生效",
+        "summary": "加拿大对200亿美元美国商品征收最高50%关税，贸易战升级可能影响市场情绪。",
+        "url": "https://www.cbsnews.com/news/canada-imposes-tariffs-us-imports/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "美国通胀数据与英伟达财报公布在即",
+        "summary": "周三将公布关键通胀数据及英伟达财报，可能引发市场波动。",
+        "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "加拿大宣布对200亿美元美国商品征收报复性关税，贸易战升级",
+      "direction": "看空",
+      "asset_impact": "SPY, XLI",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国对伊朗转向经济施压，油价下跌",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英伟达财报即将公布，市场预期高",
+      "direction": "中性",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Meta因AI算力短缺可能上涨50%",
+      "direction": "看多",
+      "asset_impact": "META",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "惠普与华为合作，显示华为技术采用增加",
+      "direction": "中性",
+      "asset_impact": "HPQ, 华为概念",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "富达称结构性通胀重塑市场，推荐股票应对",
+      "direction": "看多",
+      "asset_impact": "TIPS, 通胀受益股",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
