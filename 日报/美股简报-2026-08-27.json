@@ -1,0 +1,184 @@
+{
+  "title": "📈 美股简报 | 2026-08-27",
+  "headline": "英伟达财报超预期提振AI信心，纳指大涨，但美联储官员鹰派言论与半导体关税传闻构成压力",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "纳指期货受英伟达财报提振上涨",
+        "summary": "英伟达强劲的营收指引缓解了投资者对AI泡沫的担忧，纳指期货走高，软件股也因Salesforce业绩而上涨。",
+        "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-buoyed-by-nvidia-earnings-software-as-oil-falls-ff5cea2d?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "英伟达财报后股价大涨7%",
+        "summary": "英伟达周四股价上涨7%，其营收指引让市场相信AI需求依然强劲。",
+        "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "网络安全板块因AI威胁激增而大涨",
+        "summary": "Okta飙升20%，CrowdStrike大涨15%，因AI采用推动客户增加网络安全支出。",
+        "url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "软件股因Salesforce业绩而上涨",
+        "summary": "Salesforce的强劲业绩和指引引发软件股反弹，市场认为AI并未扼杀传统软件，反而带来合作机会。",
+        "url": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "铜价创历史新高，ETF月涨幅近20%",
+        "summary": "铜价创下新纪录，跟踪铜的ETF在8月上涨近20%，有望创下最佳月度表现。",
+        "url": "https://www.marketwatch.com/story/bond-jitters-ai-demand-and-tariff-threats-inside-the-new-darling-of-the-hard-asset-trade-copper-944fb585?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "英伟达财报：营收翻倍，指引超预期",
+        "summary": "英伟达季度营收达960亿美元，同比增长一倍，超过预期，AI硬件需求持续加速。",
+        "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "Salesforce AI转型见效，高盛看好",
+        "summary": "Salesforce周三公布强劲的季度业绩和指引，高盛认为其AI转型开始见效，提振了增长信心。",
+        "url": "https://www.cnbc.com/2026/08/27/salesforces-ai-pivot-is-starting-to-pay-off-goldman-sachs-says.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达拟以129亿美元收购Hugging Face",
+        "summary": "据报道，英伟达同意以129亿美元收购开源AI平台Hugging Face，进一步深入AI生态系统。",
+        "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达财报后大涨7%，AI需求强劲",
+        "summary": "英伟达股价周四上涨7%，其营收指引让市场相信AI需求依然强劲。",
+        "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国考虑对半导体征收新一轮关税",
+        "summary": "据报道，美国正在考虑对半导体实施新一轮关税，以在AI基础设施竞赛中对抗中国。",
+        "url": "https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达优化中国AI模型支持，警告白宫打压风险",
+        "summary": "英伟达正在优化对DeepSeek和Qwen等中国开源AI模型的硬件支持，同时警告美国可能对中国模型实施限制，可能损害其业务。",
+        "url": "https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达供应链豪赌2790亿美元",
+        "summary": "英伟达利用其财务实力赢得供应战，但这带来了一些负面影响。",
+        "url": "https://www.wsj.com/tech/ai/nvidias-279-billion-supply-chain-gamble-cbe316d2?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美联储官员哈马克称'现在是加息的时候'",
+        "summary": "美联储官员哈马克表示，现在需要采取行动应对通胀，通胀正在给家庭预算带来压力。",
+        "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "堪萨斯城联储主席施密德称通胀'顽固'",
+        "summary": "施密德表示通胀'顽固'且'粘性'，政策利率并不具有限制性，但未明确呼吁加息。",
+        "url": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国考虑对半导体征收新关税",
+        "summary": "据报道，美国正在考虑对半导体实施新一轮关税，以在AI基础设施竞赛中对抗中国。",
+        "url": "https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美联储官员鹰派言论",
+        "summary": "哈马克和施密德均发表鹰派言论，暗示可能加息，这可能对市场构成压力。",
+        "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国可能对半导体征收新关税",
+        "summary": "美国考虑对半导体征收新一轮关税，可能影响全球供应链和科技股。",
+        "url": "https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "地缘政治紧张：CIA局长密访莫斯科",
+        "summary": "据报道，CIA局长拉特克利夫秘密访问莫斯科，警告俄罗斯不要攻击北约，俄乌冲突升级风险增加。",
+        "url": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达财报超预期，营收翻倍，股价大涨7%",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国考虑对半导体征收新关税",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美联储官员哈马克和施密德发表鹰派言论",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "网络安全股因AI威胁激增而大涨",
+      "direction": "看多",
+      "asset_impact": "CRWD, OKTA",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "英伟达拟收购Hugging Face，深化AI生态",
+      "direction": "看多",
+      "asset_impact": "NVDA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "铜价创历史新高，ETF月涨幅近20%",
+      "direction": "看多",
+      "asset_impact": "COPX, CU",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "CIA局长密访莫斯科，地缘紧张升级",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
