@@ -1,0 +1,174 @@
+{
+  "title": "🌍 全球简报 | 2026-08-28",
+  "headline": "美联储主席沃什暗示可能加息，尼泊尔-西藏洪灾死亡人数持续攀升，特朗普签署行政令将安大略湖更名为“美国湖”引发外交争端。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美联储主席沃什暗示可能加息以应对通胀",
+        "summary": "美联储主席凯文·沃什在杰克逊霍尔发表讲话，表示通胀仍过高，未来数月可能需加息，市场反应剧烈。",
+        "url": "https://abcnews.com/Business/wireStory/fed-chair-warsh-signals-rate-hikes-needed-inflation-136030025",
+        "source": "ABC News"
+      },
+      {
+        "title": "尼泊尔-西藏洪灾死亡人数持续攀升，数千人失踪",
+        "summary": "周三发生的特大洪水摧毁了尼泊尔-西藏边境地区，死亡人数已数百，近2000人失踪，救援工作面临挑战。",
+        "url": "https://abcnews.com/International/hundreds-dead-1000-remain-missing-massive-nepal-tibet/story?id=136022919",
+        "source": "ABC News"
+      },
+      {
+        "title": "特朗普签署行政令将安大略湖更名为“美国湖”",
+        "summary": "特朗普总统签署行政令，将安大略湖更名为“美国湖”，加拿大及美国多州州长表示反对，加剧美加贸易战紧张局势。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+        "source": "The Guardian"
+      },
+      {
+        "title": "美国与伊朗战争进入第六个月，前景不明",
+        "summary": "特朗普曾预测战争持续四到五周，但现已六个月，美国民众关注战争影响及未来走向。",
+        "url": "https://abcnews.com/Politics/us-marks-6-months-war-iran-means-americans/story?id=135980363",
+        "source": "ABC News"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美国财政部制裁伊朗关联的埃及银行阿联酋分行",
+        "summary": "美国财政部对埃及银行Banque Misr阿联酋分行实施制裁，因其为伊朗影子银行网络处理约18亿美元交易。",
+        "url": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗呼吁全球反对美国制裁，称外交“并非不可能”",
+        "summary": "伊朗表示加沙冲突必须结束，以色列需从黎巴嫩撤军并停止对叙利亚的袭击，同时呼吁国际社会抵制美国制裁。",
+        "url": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "挪威国王去世，奥斯陆市长取消婚礼仪式",
+        "summary": "挪威国王去世后，奥斯陆市长安妮·林德博取消了原定于周五举行的婚礼仪式，以示哀悼。",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "荷兰法院判处卢旺达种族灭绝罪犯终身监禁",
+        "summary": "海牙法院判处一名66岁男子终身监禁，罪名是战争罪和种族灭绝罪，涉及1994年卢旺达种族灭绝。",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美联储主席沃什发表鹰派讲话，2年期美债收益率跳涨",
+        "summary": "沃什在杰克逊霍尔表示美联储可能“有工作要做”，投资者解读为加息信号，2年期美债收益率上升。",
+        "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "高盛估计海湾石油出口恢复至伊朗战前水平60%以上",
+        "summary": "高盛估计，海湾地区石油出口已恢复至伊朗战争前水平的60%以上，但市场仍关注供应不确定性。",
+        "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普政府阻止超过16亿美元不当医疗保险实验室付款",
+        "summary": "CMS使用AI标记可疑账单模式，阻止了超过16亿美元的潜在不当医疗保险实验室付款。",
+        "url": "https://www.foxnews.com/politics/trump-admin-blocks-1-6b-potentially-improper-medicare-lab-payments-agency-says",
+        "source": "Fox News"
+      },
+      {
+        "title": "Affirm股价大涨，CEO称高油价打击美国消费者",
+        "summary": "Affirm发布强劲展望，但CEO指出全国平均油价达每加仑4.09美元，影响消费者支出。",
+        "url": "https://www.cnbc.com/2026/08/28/affirm-stock-earnings-levchin-gas-prices.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "NASA即将发射罗曼太空望远镜，有望改变我们对宇宙的认识",
+        "summary": "南希·格蕾丝·罗曼太空望远镜将于8月30日发射，任务包括探索暗能量和超新星等宇宙奥秘。",
+        "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+        "source": "NPR"
+      },
+      {
+        "title": "X平台发现大规模中国机器人农场进行美国“影响力行动”",
+        "summary": "X平台发现20万个中国虚假账户，在美国能源政策辩论中推动反AI和反数据中心叙事。",
+        "url": "https://www.foxnews.com/politics/massive-chinese-bot-farm-caught-conducting-us-influence-operations-pushing-coordinated-online-narrative",
+        "source": "Fox News"
+      },
+      {
+        "title": "Meta美国和解协议可能影响全球，其他索赔仍在进行",
+        "summary": "Meta与美国达成和解，但其他国家的诉讼仍在进行，包括肯尼亚和荷兰，和解可能引发全球效仿。",
+        "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
+        "source": "The Guardian"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "热带风暴多莉逼近加勒比海，可能引发洪水",
+        "summary": "热带风暴多莉正快速穿越大西洋，预计本周末接近背风群岛，可能带来强降雨和洪水。",
+        "url": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean",
+        "source": "The Guardian"
+      },
+      {
+        "title": "NASA罗曼太空望远镜发射倒计时",
+        "summary": "罗曼太空望远镜定于8月30日发射，将探索暗能量、系外行星等宇宙奥秘。",
+        "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+        "source": "NPR"
+      },
+      {
+        "title": "美国中期选举临近，密歇根州选情受关注",
+        "summary": "特朗普的加拿大贸易战对底特律等城市造成影响，中期选举中密歇根州可能决定国会控制权。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+        "source": "The Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美联储主席沃什暗示可能加息，市场鹰派预期升温",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES, VIX",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国制裁伊朗关联银行，地缘风险加剧",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "尼泊尔-西藏洪灾造成重大伤亡，可能影响区域稳定",
+      "direction": "中性",
+      "asset_impact": "FXI, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普签署行政令更名安大略湖，美加贸易战升级",
+      "direction": "看空",
+      "asset_impact": "CADUSD, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "高盛估计海湾石油出口恢复至战前60%以上，供应担忧缓解",
+      "direction": "看空",
+      "asset_impact": "USO",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国与伊朗战争进入第六个月，不确定性持续",
+      "direction": "看多",
+      "asset_impact": "GLD, USO, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
