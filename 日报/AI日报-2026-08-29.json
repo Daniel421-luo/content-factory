@@ -1,0 +1,98 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-29",
+  "headline": "Anthropic 研究员展示自我改进 AI，同时法院裁定特朗普政府将其列入黑名单违法，AI 治理与自主性成为焦点。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Anthropic 新硬件标准让 AI 代理控制物理世界",
+        "summary": "Anthropic 推出标准化驱动接口，旨在让设备与 AI 及彼此通信，使 AI 代理能控制物理设备。",
+        "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Meta 调整 AI 眼镜，限制非自愿录制",
+        "summary": "Meta 修复 AI 眼镜，当用户遮挡安全灯时停止录制，以减少隐私风险，但仍有隐患。",
+        "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "DLSS 5 泄露，模组制作者将 Nvidia AI 效果应用于多款游戏",
+        "summary": "Nvidia 的 DLSS 5 代码出现在 NBA 2K27 早期版本中，模组制作者已将其提取并应用于《天际》《赛博朋克 2077》等游戏。",
+        "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "a16z 设立 11 亿美元‘机器时代’基金，加速 AI 物理基础设施建设",
+        "summary": "a16z 创建 11 亿美元基金，专注于 AI 硬件和物理基础设施，从软件投资转向硬件。",
+        "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "开放权重 AI 公司成为硅谷最热收购目标",
+        "summary": "大量资本涌入开放权重模型业务，这些公司成为收购热点。",
+        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta 推动数据中心机器人应用",
+        "summary": "Meta 正在测试机器人执行更换线缆、重置服务器等任务，引发工人对失业的担忧。",
+        "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+        "source": "Wired"
+      },
+      {
+        "title": "特朗普政府将 Anthropic 列入黑名单被裁定违法",
+        "summary": "联邦法官裁定，特朗普政府因 Anthropic 拒绝支持致命自主武器和监控而将其列入黑名单的行为非法。",
+        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "EPA 拟允许数据中心隐藏空气污染",
+        "summary": "美国环保署计划废除要求数据中心公开污染并征求公众意见的联邦规则，引发社区担忧。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Anthropic 研究员展示自我改进 AI",
+        "summary": "Anthropic 研究员展示自动化系统在 10 个特定错误行为基准上均提升性能，且不损害整体性能，预示自我改进 AI 的潜力。",
+        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "source": "TechCrunch"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "企业 AI 的真正风险不是自主代理，而是代理间的复杂性",
+        "summary": "企业部署多个 AI 代理时，代理间交互的复杂性成为隐患，需关注治理。",
+        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+        "source": "VentureBeat"
+      },
+      {
+        "title": "当代理自主行动时，治理必须存在于数据层",
+        "summary": "随着 AI 代理获得更多自主权，治理需嵌入数据层，确保代理执行未授权操作时可控。",
+        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+        "source": "VentureBeat"
+      },
+      {
+        "title": "AI 让人类医生自问：我们还能做什么？",
+        "summary": "一篇论文认为 AI 在医疗上常优于医生，引发医生对职业未来的讨论。",
+        "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+        "source": "Wired"
+      },
+      {
+        "title": "三项调查揭示采用代理式 AI 的尴尬真相",
+        "summary": "调查显示，企业扩展 AI 的障碍更多在于问责、治理和人机关系，而非技术。",
+        "url": "https://www.zdnet.com/article/3-surveys-uncomfortable-adopting-agentic-ai/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "91% 专业人士称公司 AI 应用仍不足，如何改进",
+        "summary": "研究显示 AI 雄心与现实存在差距，专业人士可通过扎实探索和实际用例来弥合。",
+        "url": "https://www.zdnet.com/article/thomson-reuters-report-ai-value-gap-business/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
