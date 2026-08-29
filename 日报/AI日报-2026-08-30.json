@@ -1,0 +1,110 @@
+{
+  "title": "🤖 AI 日报 | 2026-08-30",
+  "headline": "Nvidia 优势超越 GPU，Anthropic 展示自改进 AI，腾讯混元与 GLM 开源新模型",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+        "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
+        "source": "AIHOT"
+      },
+      {
+        "title": "GLM-5.3 开源权重，智能体编码与网防最强",
+        "summary": "GLM-5.3 现已开放权重，号称最强大的智能体编码与网络防御模型，可供下载、运行和定制。",
+        "url": "https://x.com/Zai_org/status/2093354097122455713",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Open ASR 排行榜新增首个全球南方语言：印地语与印度英语评测集",
+        "summary": "Voice Arena 与 Hugging Face 合作，为 Open ASR 排行榜引入印地语和印度英语评测集，印地语是该排行榜多语言板块首个非欧洲语言。",
+        "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Claude Code v2.1.251 发布：新增模型切换钩子与远程控制流式输出",
+        "summary": "Claude Code 更新至 v2.1.251，新增模型切换钩子事件，支持远程控制实时流式查看工具调用，并修复多项安全与稳定性问题。",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.251",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Google 进一步将搜索结果埋入 AI 模式",
+        "summary": "Google 自动扩展部分搜索的 AI 摘要，将传统链接列表推得更远，引发用户对搜索结果可见性的担忧。",
+        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Neocloud Lambda 获 10 亿美元债务融资以购买更多芯片",
+        "summary": "Neocloud Lambda 通过私募债务融资 10 亿美元，用于购买 Nvidia AI 芯片并租给微软，凸显 AI 热潮的高成本。",
+        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "开放权重 AI 公司成为硅谷最热收购目标",
+        "summary": "大量资本涌入免费提供模型的公司，开放权重 AI 公司成为收购热点。",
+        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "中国车企追随特斯拉押注人形机器人",
+        "summary": "技术进步促使一批中国车企涌入人形机器人领域，期望复制特斯拉的利润前景。",
+        "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "特朗普政府将 Anthropic 列入黑名单被联邦法官判为非法",
+        "summary": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单的行为非法，因 Anthropic 拒绝支持致命自主武器和监控。",
+        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "美国环保署拟允许数据中心隐藏空气污染",
+        "summary": "EPA 计划废除要求数据中心公开污染通知的联邦规则，引发社区担忧。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Anthropic 研究员展示自改进 AI",
+        "summary": "Anthropic 研究员展示了自动化系统在 10 个基准上自我改进，且不降低整体性能，为自改进 AI 提供一瞥。",
+        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "裸盖菇素可能让大脑活在当下",
+        "summary": "一项神经影像研究发现，裸盖菇素能使大脑活动更与周围世界连接，而非脱离现实。",
+        "url": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
+        "source": "Wired"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Nvidia 的 AI 优势正在超越 GPU",
+        "summary": "新一代数据中心系统通过更智能的流量控制提高效率，而不仅仅是增加处理器周期。",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "3 项调查揭示采用代理式 AI 的尴尬真相",
+        "summary": "在业务中扩展 AI 更多关乎问责、治理和人机健康关系，而非技术本身。",
+        "url": "https://www.zdnet.com/article/3-surveys-uncomfortable-adopting-agentic-ai/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "DLSS 5 泄露，模组制作者将 Nvidia 的 AI 效果应用于一切",
+        "summary": "Nvidia DLSS 5 代码泄露后，模组制作者在《天际》《赛博朋克 2077》等游戏中尝试非官方版本。",
+        "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+        "source": "The Verge"
+      },
+      {
+        "title": "音乐人变侦探，追捕 AI 骗子",
+        "summary": "随着音频生成工具日益复杂，音乐人开始联手识别和揭露 AI 生成的音乐欺诈。",
+        "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
