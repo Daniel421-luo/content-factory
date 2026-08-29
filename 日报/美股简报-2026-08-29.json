@@ -1,0 +1,162 @@
+{
+  "title": "📈 美股简报 | 2026-08-29",
+  "headline": "美联储主席沃什在杰克逊霍尔发表鹰派言论，市场加息预期升温，美股承压；特朗普宣布与委内瑞拉达成石油协议，油价波动。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "沃什鹰派讲话推升加息预期，美股期货承压",
+        "summary": "美联储主席沃什在杰克逊霍尔强调通胀风险，市场加息预期升温，债券收益率上升，美股期货小幅下跌。",
+        "url": "https://www.wsj.com/finance/investing/markets-brace-for-possible-rate-hike-after-kevin-warshs-hawkish-turn-f2611e6f?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "VIX触及年内低点，市场情绪谨慎乐观",
+        "summary": "Cboe波动率指数（VIX）跌至14.1，为年内最低，显示市场恐慌情绪缓解，但投资者仍关注通胀与加息风险。",
+        "url": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "农产品价格飙升，农业板块受关注",
+        "summary": "玉米和小麦期货价格创三年多新高，但上涨原因不同，可能影响相关农业股和食品板块。",
+        "url": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普与委内瑞拉达成石油协议，能源板块或受益",
+        "summary": "美国获得委内瑞拉超650亿桶石油储备的控制权，可能影响全球石油供应，利好能源股。",
+        "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "微软股价创年内最长连涨纪录，AI软件担忧消退",
+        "summary": "微软股价连续上涨，分析师指出其软件能力对AI至关重要，市场对AI软件需求担忧缓解。",
+        "url": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "苹果上调Apple TV和Apple One订阅价格",
+        "summary": "苹果在美国上调Apple TV和Apple One的订阅价格，此前7月已上调Apple Music价格，可能影响服务业务收入。",
+        "url": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达营收预期巨大，SpaceX或为主要推手",
+        "summary": "华尔街猜测英伟达巨额营收预期部分来自SpaceX的芯片采购，SpaceX宣布将只购买英伟达芯片，但其他公司需求也在增长。",
+        "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Andreessen Horowitz推出‘机器时代’基金，聚焦AI硬件",
+        "summary": "该基金将扩大对芯片、机器人等硬件的投资，以应对AI供应链瓶颈，利好半导体设备与芯片股。",
+        "url": "https://www.wsj.com/finance/investing/andreessen-horowitz-hardware-fund-ai-supply-chain-887774c5?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "沃什在杰克逊霍尔强化通胀警告，暗示可能加息",
+        "summary": "美联储主席沃什在杰克逊霍尔发表讲话，明确表示若通胀不降，可能加息，债券市场相信其言论，收益率上升。",
+        "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日本与美国联合干预汇市，创纪录支出987亿美元支撑日元",
+        "summary": "日本政府数据显示，过去一个月为支撑日元花费987亿美元，为历史最高，由美国财政部长贝森特支持。",
+        "url": "https://www.wsj.com/finance/currencies/japan-spent-record-98-7-billion-to-prop-up-yen-in-past-month-ddb03c64?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "美国财政部制裁阿联酋埃及银行分行，涉伊朗关系",
+        "summary": "美国财政部对埃及银行在阿联酋的分行实施制裁，因其为伊朗影子银行网络处理约18亿美元交易。",
+        "url": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美联储加息预期升温，可能引发市场波动",
+        "summary": "沃什鹰派讲话后，市场加息预期上升，若通胀数据持续高企，加息可能提前，对股市构成压力。",
+        "url": "https://www.wsj.com/finance/investing/markets-brace-for-possible-rate-hike-after-kevin-warshs-hawkish-turn-f2611e6f?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "特朗普政府与伊朗紧张关系持续，地缘风险未消",
+        "summary": "伊朗呼吁全球抵制美国制裁，并称外交并非不可能，但中东局势仍紧张，可能影响油价和风险偏好。",
+        "url": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美联储主席沃什发表鹰派讲话，暗示可能加息",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, 国债",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "日本创纪录干预汇市，日元获支撑",
+      "direction": "看多",
+      "asset_impact": "日元, 日经ETF",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普与委内瑞拉达成石油协议，美国控制超650亿桶储备",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英伟达营收预期巨大，SpaceX或为主要客户",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "微软股价创年内最长连涨，AI软件担忧消退",
+      "direction": "看多",
+      "asset_impact": "MSFT",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "苹果上调Apple TV和Apple One订阅价格",
+      "direction": "中性",
+      "asset_impact": "AAPL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Andreessen Horowitz推出AI硬件基金，聚焦芯片和机器人",
+      "direction": "看多",
+      "asset_impact": "NVDA, AMD, SOXX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "玉米和小麦期货创三年新高，农产品价格飙升",
+      "direction": "看多",
+      "asset_impact": "WEAT, CORN",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
