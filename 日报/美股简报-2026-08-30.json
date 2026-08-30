@@ -1,0 +1,140 @@
+{
+  "title": "📈 美股简报 | 2026-08-30",
+  "headline": "美联储主席沃什转鹰引发加息担忧，美股承压；特朗普与委内瑞拉达成石油协议，油价波动加剧",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "加息担忧升温，美股期货承压",
+        "summary": "美联储主席沃什发表鹰派言论，强调通胀风险，市场加息预期上升，债券收益率走高，美股期货小幅下跌。",
+        "url": "https://www.wsj.com/finance/investing/markets-brace-for-possible-rate-hike-after-kevin-warshs-hawkish-turn-f2611e6f?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "AI建设并非零和游戏，科技股仍有空间",
+        "summary": "本周Salesforce、CrowdStrike和英伟达等公司财报均超预期，表明AI投资浪潮仍在扩大，而非此消彼长。",
+        "url": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科技抵制情绪高涨，AI焦虑与社交媒体担忧交织",
+        "summary": "数据中心问题成为选举议题，Meta达成里程碑式和解，科技行业面临更严格的审查和监管压力。",
+        "url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Meta以高达171亿美元和解社交媒体成瘾诉讼",
+        "summary": "Meta同意支付最高171亿美元，以解决其社交媒体平台具有成瘾性的指控，此举可能对TikTok和YouTube等竞争对手产生示范效应。",
+        "url": "https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "OpenAI将终止对Cursor的模型访问",
+        "summary": "在SpaceX以600亿美元收购编码初创公司Cursor后，OpenAI计划于11月12日终止通过Cursor提供的模型访问，理由是担忧。",
+        "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达财报超预期，AI建设持续利好",
+        "summary": "英伟达本周财报表现强劲，再次证明AI基础设施投资需求旺盛，股价获得支撑。",
+        "url": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "分析师看好英伟达AI价值创造",
+        "summary": "Seeking Alpha文章建议买入英伟达，认为市场对其AI价值创造的理解存在偏差，长期增长潜力巨大。",
+        "url": "https://seekingalpha.com/article/4941549-buy-nvidia-thinking-differently-about-ai-value-creation?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "沃什鹰派言论引发加息担忧",
+        "summary": "美联储主席沃什表示若通胀持续高企，可能加息，市场加息概率上升，债券收益率走高。",
+        "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "日本创纪录干预汇市，与美联手支撑日元",
+        "summary": "日本政府数据显示，过去一个月为支撑日元与美联手干预，花费创纪录的987亿美元。",
+        "url": "https://www.wsj.com/finance/currencies/japan-spent-record-98-7-billion-to-prop-up-yen-in-past-month-ddb03c64?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "特朗普宣布与委内瑞拉达成石油协议",
+        "summary": "美国获得超过650亿桶委内瑞拉石油储量的多数控制权，可能影响全球石油供应格局。",
+        "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美联储加息风险",
+        "summary": "沃什鹰派言论可能引发市场对加息的重新定价，若通胀数据持续高企，加息概率上升，可能打压股市。",
+        "url": "https://www.wsj.com/finance/investing/markets-brace-for-possible-rate-hike-after-kevin-warshs-hawkish-turn-f2611e6f?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "伊朗战争影响油价与供应链",
+        "summary": "伊朗战争导致柴油价格飙升，学校等机构成本增加，油价波动可能加剧通胀压力。",
+        "url": "https://www.cbsnews.com/video/school-district-faces-tens-of-thousands-of-dollars-in-extra-fuel-costs-as-diesel-price-soars/",
+        "source": "CBS MoneyWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美联储主席沃什发表鹰派言论，加息预期升温",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国与委内瑞拉达成石油协议，控制650亿桶储量",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, CVX, XOM",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "Meta以171亿美元和解诉讼，科技监管压力加大",
+      "direction": "看空",
+      "asset_impact": "META, SNAP, GOOGL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "英伟达财报超预期，AI建设需求强劲",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX, AMD",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "日本创纪录干预汇市，日元获支撑",
+      "direction": "中性",
+      "asset_impact": "FXY, UUP",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "OpenAI终止对Cursor的模型访问，AI生态竞争加剧",
+      "direction": "中性",
+      "asset_impact": "MSFT, GOOGL, AI",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
