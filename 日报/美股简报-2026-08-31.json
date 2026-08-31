@@ -1,0 +1,166 @@
+{
+  "title": "📈 美股简报 | 2026-08-31",
+  "headline": "美伊冲突再度升级，油价上涨，美联储鹰派言论推高加息预期，美股期货承压",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货下跌，伊朗冲突与加息预期施压",
+        "summary": "美国股指期货周日下跌，投资者评估美联储加息可能性上升以及美伊新冲突的影响。道指8月上涨2.1%，有望连续第五个月上涨。",
+        "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价上涨超1%，美军袭击伊朗火箭发射器",
+        "summary": "周一油价上涨，因美国军队周日袭击了伊朗拉拉克岛上的两个火箭发射器，加剧供应中断担忧。",
+        "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "杰克逊霍尔会议后加息概率上升",
+        "summary": "美联储主席凯文·沃什的鹰派立场强化了9月FOMC会议相对紧缩政策的预期，可能使美联储与财政部产生矛盾。",
+        "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块受地缘风险提振",
+        "summary": "美伊冲突升级及特朗普威胁打击伊朗哈尔克岛石油枢纽，油价上涨，能源股或受益。",
+        "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "华尔街动量交易突然瓦解",
+        "summary": "押注上涨赢家的“自我实现预言”突然变成亏损游戏，动量策略面临挑战。",
+        "url": "https://www.wsj.com/finance/stocks/the-sudden-unraveling-of-wall-streets-momentum-trade-fe79b4fa?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Meta以171亿美元和解社交媒体成瘾诉讼",
+        "summary": "Meta同意支付最高171亿美元，以解决其社交媒体平台具有成瘾性的指控。",
+        "url": "https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit/",
+        "source": "CBS"
+      },
+      {
+        "title": "Aon接近以170亿美元收购USI保险经纪公司",
+        "summary": "据WSJ报道，Aon接近达成约170亿美元（含债务）的交易，从KKR手中收购保险经纪公司USI。",
+        "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Jio Platforms获IPO监管批准",
+        "summary": "印度最大数字和电信运营商Jio Platforms获得IPO监管批准，但另一大型IPO国家证券交易所仍在等待监管许可。",
+        "url": "https://www.cnbc.com/2026/08/31/jio-ipo-nse-india-shares-meta-google.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "BE半导体：混合键合成为AI下一个瓶颈",
+        "summary": "分析指出混合键合技术正成为AI发展的下一个瓶颈，可能影响先进封装供应链。",
+        "url": "https://seekingalpha.com/article/4941614-be-semiconductor-hybrid-bonding-is-becoming-ais-next-bottleneck?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "科技股九月反弹，加仓软件和芯片股",
+        "summary": "有分析建议在九月科技股反弹中增加软件和芯片股配置。",
+        "url": "https://seekingalpha.com/article/4941611-tech-rallies-in-september-im-adding-software-and-chip-stocks?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "中国8月制造业活动连续第二个月收缩",
+        "summary": "中国制造业活动连续第二个月收缩，但收缩幅度小于预期，给北京带来支持经济的压力。",
+        "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普称美国控制委内瑞拉650亿桶石油储备",
+        "summary": "特朗普宣布达成协议，美国获得委内瑞拉已探明石油储备中超过600亿桶的控制权。",
+        "url": "https://www.cbsnews.com/news/trump-venezuela-oil-u-s-majority-control-65-billion-barrels/",
+        "source": "CBS"
+      },
+      {
+        "title": "美加贸易战影响两国",
+        "summary": "美加贸易战在边境两侧都产生影响。",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊冲突升级风险",
+        "summary": "特朗普威胁打击伊朗哈尔克岛石油枢纽，美军已袭击拉拉克岛目标，油价波动风险高。",
+        "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储加息预期升温",
+        "summary": "沃什鹰派言论推高9月加息概率，可能引发市场波动。",
+        "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美军袭击伊朗拉拉克岛，油价上涨超1%",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储主席沃什鹰派言论，加息概率上升",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国制造业PMI连续收缩但好于预期",
+      "direction": "中性",
+      "asset_impact": "FXI, ASHR",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Meta以171亿美元和解诉讼",
+      "direction": "中性",
+      "asset_impact": "META",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Aon接近170亿美元收购USI",
+      "direction": "看多",
+      "asset_impact": "AON",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特朗普称美国控制委内瑞拉650亿桶石油",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "混合键合成为AI下一个瓶颈",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
