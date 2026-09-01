@@ -1,0 +1,148 @@
+{
+  "title": "📈 美股简报 | 2026-09-01",
+  "headline": "中东局势紧张推高油价，美债收益率攀升，股指期货下跌；英伟达与联发科达成35亿美元AI芯片合作",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "股指期货下跌，债券收益率攀升",
+        "summary": "日本10年期国债收益率触及3%，美债收益率走高，股指期货承压下跌。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "油价上涨，中东紧张局势加剧",
+        "summary": "伊朗袭击美军基地，特朗普誓言强硬回应，霍尔木兹海峡新冲突推动油价上涨。",
+        "url": "https://www.wsj.com/finance/investing/flaring-middle-east-tensions-push-oil-prices-up-a1dc32bb?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块受油价上涨提振",
+        "summary": "中东冲突升级，油价上涨，能源股有望受益。",
+        "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "新兴市场获青睐，或迎资金流入",
+        "summary": "分析师认为，美国国债回购计划削弱美元，支持套利交易，新兴市场可能吸引大量资本。",
+        "url": "https://www.cnbc.com/2026/09/01/emerging-markets-dollar-carry-trade.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Shein港股上市首日大跌",
+        "summary": "快时尚巨头Shein在香港上市首日股价下跌9%，因劳工和道德问题遭抵制。",
+        "url": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "亚马逊遭FTC及22州起诉",
+        "summary": "监管机构指控亚马逊在广告定价上存在数十亿美元的隐性费用，股价承压。",
+        "url": "https://www.cbsnews.com/news/ftc-22-states-sue-amazon-alleged-ad-scheme/",
+        "source": "CBS"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达与联发科达成35亿美元AI芯片合作",
+        "summary": "联发科股价大涨10%，双方将整合英伟达技术与联发科定制AI芯片业务，并拓展PC和汽车领域。",
+        "url": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国芯片驱动Hugging Face机器人热销",
+        "summary": "Hugging Face法国子公司Pollen Robotics的'Microduck'机器人自周四发布以来已售出超1万台，采用中国芯片。",
+        "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "日本借贷成本创30年新高",
+        "summary": "日元兑美元贬至160，日本10年期国债收益率触及3%，贝森特表示东京可能干预汇市。",
+        "url": "https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普与9家药企达成降价协议",
+        "summary": "白宫称协议将降低帕金森病、黄斑变性等疾病的治疗成本。",
+        "url": "https://www.cbsnews.com/news/trump-pharmaceutical-deal-drug-prices/",
+        "source": "CBS"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东冲突升级",
+        "summary": "伊朗袭击美军基地，特朗普誓言报复，霍尔木兹海峡紧张局势推高油价，可能影响全球市场。",
+        "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI引发经济衰退担忧",
+        "summary": "英国央行行长贝利警告AI可能因能源冲击导致全球经济衰退，G20会议关注AI波动性。",
+        "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达与联发科达成35亿美元AI芯片合作",
+      "direction": "看多",
+      "asset_impact": "NVDA, MDTK, SOXX",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "中东冲突升级，油价上涨",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "日本10年期国债收益率触及3%，日元贬值",
+      "direction": "看空",
+      "asset_impact": "EWJ, 日经ETF",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "亚马逊遭FTC及22州起诉，指控广告费用欺诈",
+      "direction": "看空",
+      "asset_impact": "AMZN",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Shein港股上市首日大跌9%",
+      "direction": "看空",
+      "asset_impact": "SHEIN（港股）",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "新兴市场或迎资金流入",
+      "direction": "看多",
+      "asset_impact": "EEM, VWO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普与药企达成降价协议",
+      "direction": "看空",
+      "asset_impact": "XLV, 制药股",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
