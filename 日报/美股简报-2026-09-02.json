@@ -1,0 +1,152 @@
+{
+  "title": "📈 美股简报 | 2026-09-02",
+  "headline": "美伊冲突升级推高油价，全球债券收益率飙升，美股承压",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美伊冲突升级，油价大涨",
+        "summary": "美国对伊朗发动新一轮打击，油价大幅上涨，全球股市承压。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "全球债券收益率飙升",
+        "summary": "日本10年期国债收益率创三十年新高，美国国债收益率也大幅上升。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "美股期货下跌",
+        "summary": "受地缘政治和债券市场影响，美股期货承压。",
+        "url": "https://www.cnbc.com/2026/09/02/iran-markets-doom-loop.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块走强",
+        "summary": "油价上涨推动能源股表现强劲。",
+        "url": "https://www.wsj.com/finance/investing/middle-east-conflict-sends-oil-up-bonds-down-a4923bec?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "科技板块承压",
+        "summary": "纳斯达克指数下跌，科技股受债券收益率上升影响。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "戴尔AI服务器需求强劲",
+        "summary": "戴尔财报超预期，AI服务器需求加速，积压订单达950亿美元。",
+        "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Palo Alto Networks财报超预期但股价下跌",
+        "summary": "尽管AI网络安全需求强劲，但股价在财报后回落。",
+        "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Shein香港上市",
+        "summary": "Shein在港交所上市，估值达260亿美元。",
+        "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "AI资本支出超铁路建设",
+        "summary": "会计巨头称AI建设规模将超过美国和英国铁路建设成本，凸显AI投资热潮。",
+        "url": "https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "全球债券收益率飙升",
+        "summary": "全球债券市场抛售，收益率创2008年以来新高，对政府借贷构成挑战。",
+        "url": "https://www.wsj.com/finance/investing/bond-yields-around-the-world-soar-in-challenge-to-government-borrowing-c519c53f?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "美国10年期国债收益率处于危险区",
+        "summary": "债券市场持续抛售，10年期国债收益率可能进入危险区。",
+        "url": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "澳大利亚GDP超预期",
+        "summary": "澳大利亚第二季度GDP增长2.1%，超预期，为央行加息提供空间。",
+        "url": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美伊冲突升级",
+        "summary": "美国对伊朗发动新一轮打击，地缘政治风险加剧。",
+        "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "全球债券市场抛售",
+        "summary": "债券收益率飙升可能引发市场动荡。",
+        "url": "https://www.wsj.com/finance/investing/oil-prices-push-global-bond-market-closer-to-the-edge-13135ed4?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美伊冲突升级，美国对伊朗发动新一轮打击",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "全球债券收益率飙升，日本10年期国债收益率创三十年新高",
+      "direction": "看空",
+      "asset_impact": "TLT, IEF",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "戴尔AI服务器需求强劲，积压订单达950亿美元",
+      "direction": "看多",
+      "asset_impact": "DELL, NVDA",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Palo Alto Networks财报超预期但股价下跌",
+      "direction": "中性",
+      "asset_impact": "PANW",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "AI资本支出预计将超过铁路建设成本",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Shein香港上市，估值260亿美元",
+      "direction": "中性",
+      "asset_impact": "KWEB",
+      "confidence": 2,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    }
+  ]
+}
