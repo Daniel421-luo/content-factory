@@ -1,0 +1,182 @@
+{
+  "title": "🌍 全球简报 | 2026-09-02",
+  "headline": "尼泊尔-西藏洪水死亡人数超1100，美加贸易战升级，美国国债收益率创近三年新高",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "尼泊尔-西藏洪水死亡人数超1100，数万人失踪",
+        "summary": "尼泊尔总理表示政府将重点转向“重建”，救援工作持续进行，联合国称正加紧向村庄空运援助。",
+        "url": "https://abcnews.com/International/nepal-tibet-flood-death-toll-tops-1100-tens/story?id=136136947",
+        "source": "ABC News"
+      },
+      {
+        "title": "加拿大总理卡尼敦促美国“认真对待”贸易战",
+        "summary": "加拿大总理马克·卡尼批评特朗普政府，并准备对美关税进行报复，同时执政的自由党在补选中大获全胜，显示民众支持。",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国10年期国债收益率创2023年11月以来新高",
+        "summary": "通胀担忧引发全球借贷成本上升，美债收益率持续攀升，ADP报告显示8月私人就业增长不及预期。",
+        "url": "https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "以色列禁止批评以政策的美国公民入境",
+        "summary": "律师称，美国及其他国家旅客因与巴勒斯坦活动人士的联系、计划访问约旦河西岸或对以观点而遭拒绝入境。",
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普暗示重新评估对福克兰群岛主权的支持",
+        "summary": "特朗普表示可能利用福克兰群岛争端施压英国提高国防开支和北约贡献，此举或使美英“特殊关系”紧张。",
+        "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands",
+        "source": "Guardian"
+      },
+      {
+        "title": "美国被指干预巴西选举，引发冷战联想",
+        "summary": "有指控称特朗普和卢比奥试图影响巴西选举结果，与1962年中央情报局干预有相似之处。",
+        "url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
+        "source": "Guardian"
+      },
+      {
+        "title": "乌克兰无人机行动升级，泽连斯基呼吁航空公司避开俄罗斯领空",
+        "summary": "中国和海湾国家航空公司仍在使用俄罗斯领空，俄罗斯则称将加强对乌克兰的袭击。",
+        "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "几内亚比绍公投通过新宪法，扩大总统权力",
+        "summary": "初步结果显示70%选民支持新宪法，该宪法将在12月选举前减少议会席位并规定总统候选人新规则。",
+        "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美国能源部长：周一霍尔木兹海峡石油过境量超1700万桶",
+        "summary": "能源部长克里斯·赖特告诉CNBC，尽管地区紧张，霍尔木兹海峡石油运输保持高位。",
+        "url": "https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "ADP报告：8月私人就业增长3.8万，远低于预期",
+        "summary": "就业增长虽保持正值，但8月增幅为1月以来最小，反映劳动力市场放缓。",
+        "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "加拿大央行考虑特朗普关税冲击，准备利率决定",
+        "summary": "美加贸易争端持续，加拿大央行在利率决策中权衡关税影响。",
+        "url": "https://www.cnbc.com/2026/09/02/bank-of-canada-mulls-trump-tariff-shock-as-it-readies-interest-rates-decision.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "G20创新部长会议：白宫准备对半导体征收关税",
+        "summary": "美国商务部长卢特尼克告诉CNBC，G20会议第二天讨论AI、政策和贸易，半导体关税成焦点。",
+        "url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "OpenAI遭新诉讼：高管将形象置于安全之上",
+        "summary": "诉讼称在加拿大大规模枪击案中，OpenAI全球事务团队否决了向警方报警的建议，OpenAI否认指控。",
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
+        "source": "NPR"
+      },
+      {
+        "title": "伯克希尔CEO：数据中心建设面临“更多阻力”",
+        "summary": "格雷格·阿贝尔告诉CNBC，全国范围内对数据中心的抵制正在加剧。",
+        "url": "https://www.cnbc.com/2026/09/02/there-is-a-lot-more-pushback-on-data-center-construction-berkshire-ceo-greg-abel-tells-cnbc.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "MapQuest应用登顶美国苹果下载榜，拒绝改名安大略湖",
+        "summary": "MapQuest因拒绝特朗普改名命令而成为美国最受欢迎的导航应用，超越谷歌和苹果地图。",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
+        "source": "Guardian"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国8月非农就业报告",
+        "summary": "在ADP数据不及预期后，非农报告将提供更全面的劳动力市场图景，影响美联储政策预期。",
+        "url": "",
+        "source": "CNBC"
+      },
+      {
+        "title": "加拿大央行利率决议",
+        "summary": "在贸易战背景下，加拿大央行将公布利率决定，市场关注其对关税冲击的应对。",
+        "url": "",
+        "source": "CNBC"
+      },
+      {
+        "title": "G20创新部长会议闭幕",
+        "summary": "会议将讨论AI、贸易政策，可能发布联合声明，影响科技股和半导体行业。",
+        "url": "",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美加贸易战升级，加拿大总理卡尼强硬回应，并获补选支持",
+      "direction": "看空",
+      "asset_impact": "CAD, /ES, US10Y",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国10年期国债收益率创2023年11月以来新高，通胀担忧升温",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES, GLD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "ADP就业数据远低于预期，劳动力市场放缓迹象明显",
+      "direction": "看空",
+      "asset_impact": "/ES, US10Y, DXY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "霍尔木兹海峡石油过境量保持高位，能源部长确认超1700万桶/日",
+      "direction": "看多",
+      "asset_impact": "USO, CL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普暗示重新评估福克兰群岛主权支持，美英关系紧张",
+      "direction": "中性",
+      "asset_impact": "GBP, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国被指干预巴西选举，地缘政治风险上升",
+      "direction": "看空",
+      "asset_impact": "EWZ, BRL",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "G20会议白宫准备对半导体征收关税，科技贸易摩擦加剧",
+      "direction": "看空",
+      "asset_impact": "SMH, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
