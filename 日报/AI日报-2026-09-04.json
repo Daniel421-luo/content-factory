@@ -1,0 +1,104 @@
+{
+  "title": "🤖 AI 日报 | 2026-09-04",
+  "headline": "Nvidia 确认以 129 亿美元收购 Hugging Face，成为开源 AI 领域最大并购案",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google 在 Gmail、Docs 和 Keep 中推出 AI 语音功能",
+        "summary": "用户现在可以通过对话式语音搜索邮件或起草文档，提升办公效率。",
+        "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google 发布 AI 天气模型 WeatherNext 3",
+        "summary": "该模型将用于搜索、地图和 Gemini 中的天气信息，让天气预报更精准。",
+        "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Claude 支持后台操作电脑",
+        "summary": "Claude Cowork 和 Claude Code 新增后台使用电脑的能力，可像人一样点击、输入和打开应用。",
+        "url": "https://x.com/claudeai/status/2095226833293685100",
+        "source": "X (Claude)"
+      },
+      {
+        "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
+        "summary": "Cursor 允许云智能体的工具执行迁移到企业网络内的机器，同时保持推理和规划在云端，增强安全性和可控性。",
+        "url": "https://cursor.com/blog/self-hosted-machines",
+        "source": "Cursor Blog"
+      },
+      {
+        "title": "美团 LongCat-2.0 上线 Cline 免费试用",
+        "summary": "美团发布 LongCat-2.0，并已在 Cline 中提供免费试用。",
+        "url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
+        "source": "X (美团 LongCat)"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Nvidia 确认以 129 亿美元收购 Hugging Face",
+        "summary": "Nvidia 宣布收购 Hugging Face，交易金额 129 亿美元，Hugging Face 拥有超过 300 万个模型和 1800 万开发者，成为开源 AI 领域最大并购。",
+        "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 因 Elon Musk 收购 Cursor 而放弃年收入超 10 亿美元的客户",
+        "summary": "据 Wired 报道，OpenAI 估计与 Cursor 的合作年收入将超 10 亿美元，但在 SpaceX 收购 Cursor 后选择终止合作，以避免与 Musk 的关联。",
+        "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+        "source": "Wired"
+      },
+      {
+        "title": "Nvidia 推出免费工具 PAIR，将闲置电脑组成个人 AI 数据中心",
+        "summary": "Nvidia 发布 Personal AI Router (PAIR)，一个开源工具，可同步家庭电脑用于本地 AI 推理任务，支持 Ollama 和 LM Studio。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+        "source": "The Verge"
+      },
+      {
+        "title": "美国法院裁定 Google 无需出售广告交易所",
+        "summary": "尽管法院认定 Google 违反反垄断法，但未要求其出售广告交易所，DOJ 未能获得重大胜利。",
+        "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 模型",
+        "summary": "Google DeepMind 推出两款新模型，进一步扩展 Flash 系列，提升性能和安全性。",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+        "source": "Google DeepMind"
+      },
+      {
+        "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+        "summary": "Meta 发布 Muse Spark 1.3，这是五个月内第四个版本，xhigh 版在 Artificial Analysis Intelligence Index 得分 61。",
+        "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+        "source": "X (Alexandr Wang)"
+      },
+      {
+        "title": "通义千问发布 Qwen3.8-Max-0902，登顶 Code Arena",
+        "summary": "Qwen3.8-Max-0902 在 Code Arena: WebDev 以 1691 分排名第一，并以 $5/MToken 成为 Pareto 前沿上得分最高的模型。",
+        "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
+        "source": "X (Alibaba Qwen)"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Nvidia 收购 Hugging Face：129 亿美元押注开源 AI",
+        "summary": "分析认为，这笔交易将让 Nvidia 获得庞大的开源模型库，并推动其 AI 芯片生态。",
+        "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+        "source": "Wired"
+      },
+      {
+        "title": "丑陋的 AI 食物照片只是开始",
+        "summary": "文章探讨 AI 生成的菜单图片对餐饮业的影响，以及 AI 如何更深入地改变菜单设计。",
+        "url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/",
+        "source": "Wired"
+      },
+      {
+        "title": "特朗普可能被迫披露联邦 AI 安全测试的秘密规则",
+        "summary": "诉讼称特朗普对前沿 AI 模型的秘密审查可能隐藏腐败，法院可能要求其披露规则。",
+        "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
