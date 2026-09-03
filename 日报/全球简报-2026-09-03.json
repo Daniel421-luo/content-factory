@@ -1,0 +1,188 @@
+{
+  "title": "🌍 全球简报 | 2026-09-03",
+  "headline": "伊朗攻击美军基地、中国领导人访埃及、Gloria Steinem去世，全球地缘政治与气候风险升温",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "伊朗声称袭击美军在科威特和阿联酋的基地",
+        "summary": "霍尔木兹海峡仍是冲突主要爆发点，地区紧张局势持续升级。",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582",
+        "source": "ABC News"
+      },
+      {
+        "title": "习近平访问埃及，中国寻求扩大中东影响力",
+        "summary": "这是习近平十年来首次访问埃及，正值美国因伊朗战争影响力减弱之际。",
+        "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
+        "source": "NPR"
+      },
+      {
+        "title": "女权主义偶像Gloria Steinem去世，享年92岁",
+        "summary": "Steinem在纽约家中安详离世，她一生致力于挑战性别刻板印象，倡导平等与生育自由。",
+        "url": "https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies",
+        "source": "NPR"
+      },
+      {
+        "title": "联合国警告“超级”厄尔尼诺现象，全球准备应对影响",
+        "summary": "世界气象组织警告，这一自然天气现象可能扰乱全球经济。",
+        "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "俄罗斯袭击摩尔多瓦边境附近，引发对普京东翼计划的担忧",
+        "summary": "摩尔多瓦国家安全顾问称，俄袭击旨在切断通往欧洲市场的关键粮食出口走廊。",
+        "url": "https://www.foxnews.com/world/russias-strikes-near-moldova-raise-alarm-over-putins-plans-europes-eastern-flank",
+        "source": "Fox News"
+      },
+      {
+        "title": "特朗普盟友为委内瑞拉石油协议辩护，批评者称“枪口外交”",
+        "summary": "美国能源部长否认华盛顿试图夺取委内瑞拉石油，称协议是两国关系的转变。",
+        "url": "https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright",
+        "source": "Guardian"
+      },
+      {
+        "title": "印度莫迪与伊朗会面，美国警告制裁伊朗贸易伙伴",
+        "summary": "特朗普政府的制裁威胁印度与伊朗的商业和能源关系，考验印美关系。",
+        "url": "https://www.foxnews.com/world/indias-modi-iran-meeting-comes-amid-us-warnings-sanctions-tehrans-trading-partners",
+        "source": "Fox News"
+      },
+      {
+        "title": "列支敦士登议员投票通过堕胎合法化，尽管君主威胁否决",
+        "summary": "公民倡议组织称有民众支持，但拥有绝对权力的君主表示将否决该立法。",
+        "url": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美联储理事沃勒暗示支持9月维持利率不变",
+        "summary": "沃勒的言论与主席凯文·沃什上周的表态形成对比，他对当前通胀趋势表示信心。",
+        "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "世界似乎进入高利率时代，谁将付出代价？",
+        "summary": "债券抛售源于政府债务发行高企、油价冲击重燃通胀担忧以及利率预期上升。",
+        "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普1美元硬币成为百年来首位出现在美国货币上的在世总统",
+        "summary": "美国铸币局特别版硬币印有特朗普肖像，并刻有“自由”和“我们信靠上帝”字样。",
+        "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "苹果地图将安大略湖更名为“美国湖”，遵循特朗普命令",
+        "summary": "苹果在美加贸易争端中屈服于特朗普的行政命令，为美国用户更改湖名。",
+        "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
+        "source": "Guardian"
+      }
+    ],
+    "科技": [
+      {
+        "title": "英伟达接近以130亿美元收购Hugging Face",
+        "summary": "英伟达CEO黄仁勋表示，收购将“扩大全球开发者和机构获取AI的机会”。",
+        "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Anthropic的“蒸馏”之战转向暗网，中国担忧加剧",
+        "summary": "外国对手非法访问美国AI系统以训练竞争技术，并以低价出售仿制版本。",
+        "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "环保署提案可能让公众对数据中心计划一无所知",
+        "summary": "该提案可能使公众更难了解和评论拟建的AI数据中心，这些中心已引发社区反弹并成为选举议题。",
+        "url": "https://abcnews.com/US/wireStory/epa-proposal-leave-public-dark-data-center-plans-136167246",
+        "source": "ABC News"
+      },
+      {
+        "title": "Meta将如何大规模改变其社交媒体应用",
+        "summary": "Meta解决了儿童安全案件，现在面临实施平台变革的挑战。",
+        "url": "https://www.cnbc.com/2026/09/03/meta-teen-app-changes.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国8月非农就业报告发布",
+        "summary": "市场将关注就业数据以判断美联储9月利率决定。",
+        "url": "",
+        "source": "CNBC"
+      },
+      {
+        "title": "G20峰会开幕",
+        "summary": "全球领导人将讨论经济与地缘政治议题。",
+        "url": "",
+        "source": "Reuters"
+      },
+      {
+        "title": "苹果公司年度新品发布会",
+        "summary": "预计发布新款iPhone和Apple Watch。",
+        "url": "",
+        "source": "Bloomberg"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗攻击美军基地，霍尔木兹海峡紧张升级",
+      "direction": "看空",
+      "asset_impact": "USO, /ES, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储理事沃勒支持9月维持利率不变",
+      "direction": "中性",
+      "asset_impact": "US10Y, DXY",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "全球债券收益率上升，高利率时代预期",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES, GLD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "联合国警告超级厄尔尼诺，东南亚有毒雾霾蔓延",
+      "direction": "看空",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英伟达收购Hugging Face，AI行业整合加速",
+      "direction": "看多",
+      "asset_impact": "NVDA, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国与委内瑞拉石油协议引发争议",
+      "direction": "看空",
+      "asset_impact": "USO",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国领导人访埃及，扩大中东影响力",
+      "direction": "中性",
+      "asset_impact": "FXI, CNY",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
