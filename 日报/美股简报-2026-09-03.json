@@ -1,0 +1,180 @@
+{
+  "title": "📈 美股简报 | 2026-09-03",
+  "headline": "中东局势紧张但股市反弹，债券市场企稳，AI相关个股表现分化",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "股市反弹，债券市场企稳",
+        "summary": "随着中东紧张局势有所缓和，股市上涨，债券市场趋于稳定，投资者关注日元干预可能性。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "油价回落，缓解通胀担忧",
+        "summary": "油价下滑，有助于缓解因伊朗冲突引发的通胀担忧，但债券市场仍面临多重压力。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "航运股处于十字路口",
+        "summary": "霍尔木兹海峡危机推动航运股创下数十年来最佳涨势，但未来走势面临不确定性。",
+        "url": "https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Evercore ISI推荐对冲策略",
+        "summary": "鉴于9月股市开局不稳，Evercore ISI列出数十只负贝塔的标普500股票，以帮助投资者抵御波动。",
+        "url": "https://www.cnbc.com/2026/09/02/stocks-stumble-out-of-the-gate-in-september-use-these-hedges-evercore-isi-says.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "博通财报超预期但股价下跌",
+        "summary": "博通最新季度业绩超出预期，但股价仍下跌，延续了投资者的沮丧情绪。",
+        "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Snowflake股价飙升，AI驱动业绩超预期",
+        "summary": "Snowflake因AI驱动的强劲营收增长和乐观预测，股价大幅上涨。",
+        "url": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "HPE业绩大超预期，受益AI服务器需求",
+        "summary": "HPE跟随戴尔步伐，凭借AI服务器热潮实现业绩大幅超预期，企业客户利润状况更佳。",
+        "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Palantir股价下跌，估值压力重现",
+        "summary": "Palantir股价遭遇自2月以来最大跌幅，债券收益率上升和谷歌AI进展可能是原因。",
+        "url": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达股价上涨，AI客户基础扩大",
+        "summary": "戴尔财报显示AI硬件需求不仅限于大型云提供商，增强了投资者对英伟达的信心，股价上涨。",
+        "url": "https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "韩国半导体出口同比激增三倍",
+        "summary": "韩国半导体出口同比大幅增长，但引发对过度依赖的担忧，若行业放缓可能拖累韩国经济。",
+        "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
+        "source": "CNBC"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "伊朗袭击科威特，特朗普称中东冲突不会持续太久",
+        "summary": "伊朗对科威特发动导弹和无人机袭击，特朗普表示冲突不会持续太久，市场关注地缘风险。",
+        "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "全球进入高利率时代",
+        "summary": "债券抛售源于政府债务发行高企、油价冲击重燃通胀担忧以及利率预期上升。",
+        "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普与习近平将在华盛顿会晤",
+        "summary": "特朗普与习近平的峰会预计在美国大选前不到六周举行，但观察人士预期不高。",
+        "url": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "荷兰央行将黄金从美国加拿大转移至英国",
+        "summary": "荷兰央行以“危机准备”为由，将黄金储备转移至英国，以便在严重危机时更快部署。",
+        "url": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东冲突升级风险",
+        "summary": "伊朗袭击科威特，尽管特朗普称冲突不会持续太久，但地缘风险仍可能影响市场。",
+        "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "债券收益率上升压力",
+        "summary": "战争、财政担忧、新美联储主席和AI债券发行等四重力量推高收益率，可能压制股市估值。",
+        "url": "https://www.wsj.com/finance/investing/there-are-four-forces-pressuring-bonds-war-is-no-1-68d3ace9?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗袭击科威特，中东冲突持续",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "债券收益率上升压力，全球高利率时代",
+      "direction": "看空",
+      "asset_impact": "TLT, SPY",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "博通财报超预期但股价下跌",
+      "direction": "中性",
+      "asset_impact": "AVGO",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Snowflake AI预测强劲，股价飙升",
+      "direction": "看多",
+      "asset_impact": "SNOW",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "HPE业绩超预期，AI服务器需求强劲",
+      "direction": "看多",
+      "asset_impact": "HPE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "英伟达股价上涨，AI客户基础扩大",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "韩国半导体出口激增，但担忧过度依赖",
+      "direction": "中性",
+      "asset_impact": "SOXX, MU",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Palantir股价下跌，估值压力",
+      "direction": "看空",
+      "asset_impact": "PLTR",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
