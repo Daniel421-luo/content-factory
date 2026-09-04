@@ -1,0 +1,208 @@
+{
+  "title": "📈 美股简报 | 2026-09-04",
+  "headline": "美联储官员放鸽提振股市，但全球债券抛售与通胀担忧仍笼罩市场",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美联储理事沃勒暗示支持维持利率不变，美股大涨",
+        "summary": "沃勒表示若通胀数据支持，他将支持维持利率不变，道指大涨624点，债券市场同步反弹。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "全球债券抛售或未结束，通胀风险警报拉响",
+        "summary": "经济学家埃尔-埃里安表示债券抛售可能尚未结束，并批评美国财政部干预过度；全球债券收益率因债务、关税和能源冲击而飙升。",
+        "url": "https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "挪威主权基金计划削减美国国债持仓",
+        "summary": "全球最大主权财富基金（2.3万亿美元）表示将削减美债持仓，以分散至更高风险和回报的领域。",
+        "url": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "债券收益率上升，高利率时代来临",
+        "summary": "全球债券抛售源于政府债务发行高企、油价冲击重燃通胀担忧以及加息预期，高负债实体将首当其冲。",
+        "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "能源价格飙升，柴油逼近历史高位",
+        "summary": "劳动节前汽油价格上涨，柴油价格距纪录高位仅一步之遥，能源成本上升加剧通胀压力。",
+        "url": "https://www.cbsnews.com/news/diesel-fuel-prices-record-gas-august/",
+        "source": "CBS"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Snowflake AI助手推动股价大涨",
+        "summary": "Snowflake的AI驱动编码助手带来强劲销售动能，推动股价大幅上涨。",
+        "url": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Adobe宣布新任CEO，股价下跌",
+        "summary": "Adobe任命Anil Chakravarthy为新CEO，但另一长期业务负责人离职，引发领导层变动担忧，股价承压。",
+        "url": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Lululemon销售下滑，转型前景受质疑",
+        "summary": "Lululemon押注“离身”裤装，但分析师对其时尚品类和令人失望的前景表示担忧，股价下跌。",
+        "url": "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "特斯拉Cybercab发布在即，投资者期待",
+        "summary": "特斯拉将于周四举行Cybercab自动驾驶汽车发布活动，但细节稀少，股价已有所上涨。",
+        "url": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达129亿美元收购Hugging Face",
+        "summary": "英伟达达成129亿美元协议收购AI平台Hugging Face，获得领先的开源AI平台和开发者社区。",
+        "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "Sivers Semiconductors：光子学爬坡机会",
+        "summary": "Sivers Semiconductors在股价下跌后，提供进入2027年下半年光子学爬坡的入场点。",
+        "url": "https://seekingalpha.com/article/4943028-sivers-semiconductors-a-post-crash-entry-into-an-h2-2027-photonics-ramp?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美国“经济孤立”行动升级，欧盟加入制裁伊朗",
+        "summary": "欧盟正式加入美国主导的对伊朗制裁行动，韩国考虑军事支持以重开霍尔木兹海峡。",
+        "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "副总统万斯呼吁美联储降息",
+        "summary": "万斯表示“降息会很好”，言论发生在FOMC会议前不到两周。",
+        "url": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "加拿大总理卡尼反击，称准备好时再谈贸易",
+        "summary": "加拿大对美国50%关税实施“对等”报复，卡尼表示“当美国人准备好时”再恢复贸易谈判。",
+        "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国汽车制造商敦促国会禁止中国汽车销售",
+        "summary": "美国汽车制造商集团警告中国汽车可收集数据并传至北京，呼吁禁止销售。",
+        "url": "https://www.cbsnews.com/news/automakers-urge-congress-ban-chinese-vehicles/",
+        "source": "CBS"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "全球债券抛售持续，通胀风险上升",
+        "summary": "债券收益率飙升，通胀预期升温，可能引发市场波动。",
+        "url": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "地缘政治紧张：伊朗制裁升级，阿根廷马岛争端",
+        "summary": "欧盟加入对伊朗制裁，韩国考虑军事支持；阿根廷威胁制裁石油公司并重申马岛主权，地缘风险加剧。",
+        "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "波音Spirit交易亏损扩大",
+        "summary": "波音收购Spirit AeroSystems后发现巨额负债，交易亏损严重。",
+        "url": "https://www.wsj.com/business/boeings-8-4-billion-deal-is-bleeding-red-ink-6a7bfb69?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美联储理事沃勒暗示支持维持利率不变，提振市场情绪",
+      "direction": "看多",
+      "asset_impact": "SPY, QQQ, 道指",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "全球债券抛售持续，收益率上升，通胀担忧加剧",
+      "direction": "看空",
+      "asset_impact": "TLT, 债券市场",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "挪威主权基金计划削减美债持仓，增加美债供应压力",
+      "direction": "看空",
+      "asset_impact": "TLT, 美元",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "欧盟加入对伊朗制裁，地缘紧张升级，油价可能上涨",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英伟达129亿美元收购Hugging Face，强化AI平台布局",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "副总统万斯呼吁降息，增加政策不确定性",
+      "direction": "中性",
+      "asset_impact": "SPY, 利率期货",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "加拿大对美国关税实施报复，贸易紧张升级",
+      "direction": "看空",
+      "asset_impact": "工业股, 汽车股",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国汽车制造商呼吁禁止中国汽车销售，影响汽车行业",
+      "direction": "中性",
+      "asset_impact": "F, GM, TSLA",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "特斯拉Cybercab发布在即，股价已上涨",
+      "direction": "看多",
+      "asset_impact": "TSLA",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "波音Spirit交易亏损扩大，财务压力增加",
+      "direction": "看空",
+      "asset_impact": "BA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    }
+  ]
+}
