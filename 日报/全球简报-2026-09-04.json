@@ -1,0 +1,150 @@
+{
+  "title": "🌍 全球简报 | 2026-09-04",
+  "headline": "美国8月非农就业远超预期，柴油价格创历史新高；欧盟加入对伊朗制裁，地缘紧张升级；德国极右翼政党有望在州选举中获胜。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国8月非农就业远超预期",
+        "summary": "8月非农就业增加16.2万人，远超预期的5.3万人，失业率维持在4.1%，为美联储利率决策提供关键参考。",
+        "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "欧盟加入美国对伊朗制裁，韩国考虑军事支持",
+        "summary": "欧盟正式加入美国主导的对伊制裁，韩国表示正考虑军事角色以协助重开霍尔木兹海峡。",
+        "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "德国极右翼AfD有望在州选举中掌权",
+        "summary": "AfD在萨克森-安哈尔特州的崛起引发担忧，德国可能迎来二战后首位极右翼州长。",
+        "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+        "source": "NPR"
+      },
+      {
+        "title": "美国柴油价格创历史新高",
+        "summary": "自2月底伊朗冲突以来，柴油价格飙升，反映批发油价上涨。",
+        "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "俄罗斯改变战术，昼夜攻击基辅",
+        "summary": "俄罗斯无人机和导弹袭击加剧，持续空袭警报扰乱日常生活。",
+        "url": "https://abcnews.com/International/wireStory/russia-shifts-tactics-round-clock-attacks-kyiv-disrupting-136194285",
+        "source": "ABC News"
+      },
+      {
+        "title": "阿根廷总统称福克兰群岛主权有“变革之风”支持",
+        "summary": "米莱引用特朗普可能重新考虑美国立场的言论，威胁对英国石油利益实施更快速制裁。",
+        "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+        "source": "Guardian"
+      },
+      {
+        "title": "英国回应阿根廷福克兰群岛主张，立场“坚定不移”",
+        "summary": "英国大臣回应阿根廷总统言论，强调英国对福克兰群岛的主权立场不变。",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
+        "source": "Guardian"
+      },
+      {
+        "title": "欧洲夏季遭遇破坏活动，俄罗斯是主要嫌疑人",
+        "summary": "德国指责俄罗斯袭击莱比锡机场，其他可疑事件也接连发生。",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "挪威主权财富基金计划削减美国国债持有",
+        "summary": "2.3万亿美元的挪威基金表示可分散投资于风险更高、回报更大的新领域。",
+        "url": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "全球债券抛售可能尚未结束，El-Erian表示",
+        "summary": "著名经济学家还称美国财政部市场干预“过头了”。",
+        "url": "https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国柴油价格创历史新高",
+        "summary": "自2月底伊朗冲突以来，柴油价格飙升，反映批发油价上涨。",
+        "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "科学家绘制与重度自闭症相关的关键蛋白质相互作用图谱",
+        "summary": "发表在《科学》杂志上的研究揭示了重度自闭症生物学理解的“缺失环节”，并为药物开发提供新靶点。",
+        "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
+        "source": "NPR"
+      },
+      {
+        "title": "猪肾移植在人体内创纪录存活271天",
+        "summary": "一名男子在等待人类移植期间，带着移植猪肾存活了创纪录的九个月。",
+        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "联合国大会投票表决新世界地图决议",
+        "summary": "多哥提议逐步淘汰传统墨卡托地图，采用更准确显示非洲规模的地图。",
+        "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+        "source": "Guardian"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国8月非农就业远超预期，经济韧性增强",
+      "direction": "看多",
+      "asset_impact": "/ES, US10Y, DXY",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "欧盟加入对伊朗制裁，地缘紧张升级",
+      "direction": "看多",
+      "asset_impact": "USO, GLD, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国柴油价格创历史新高，通胀压力上升",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "挪威主权财富基金计划削减美国国债持有",
+      "direction": "看空",
+      "asset_impact": "US10Y, DXY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "阿根廷重申福克兰群岛主权，英国立场坚定",
+      "direction": "中性",
+      "asset_impact": "GBPUSD, ARS",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "俄罗斯加强对基辅的昼夜攻击，乌克兰局势持续",
+      "direction": "看空",
+      "asset_impact": "EURUSD, /ES, VIX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
