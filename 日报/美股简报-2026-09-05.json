@@ -1,0 +1,186 @@
+{
+  "title": "📈 美股简报 | 2026-09-05",
+  "headline": "强劲非农数据重燃加息担忧，美股承压；特朗普施压美联储降息，地缘局势持续紧张",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "非农远超预期，加息担忧升温",
+        "summary": "8月非农新增就业16.2万人，远超预期的5.3万人，失业率维持在4.1%，强化美联储加息预期，美股期货承压。",
+        "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普施压美联储降息，威胁切断贸易",
+        "summary": "特朗普要求美联储大幅降息，否则将切断与贸易逆差国家的贸易，加剧市场不确定性。",
+        "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美债收益率飙升，股市下跌",
+        "summary": "强劲就业数据后，短期美债收益率攀升，股市下跌，投资者关注下周通胀数据。",
+        "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块受油价上涨提振",
+        "summary": "柴油价格创历史新高，汽油价格飙升，能源板块或受益。",
+        "url": "https://www.cbsnews.com/news/gas-prices-surge-labor-day-diesel-record-high/",
+        "source": "CBS"
+      },
+      {
+        "title": "标普500指数调整，Bloom Energy入选",
+        "summary": "Bloom Energy被纳入标普500指数，而Molson Coors、Builders FirstSource和Trade Desk将被剔除。",
+        "url": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "特斯拉Cybercab更新不及预期，股价下跌",
+        "summary": "特斯拉长期期待的Cybercab更新未能打动投资者，股价下跌6%。",
+        "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "大众汽车批准再裁员5万人",
+        "summary": "大众汽车董事会批准再裁员5万人，计划到2030年总共裁员10万人。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "甲骨文财报前瞻，分析师看好",
+        "summary": "分析师认为甲骨文股价在财报前具有吸引力，受益于定价趋势改善。",
+        "url": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达收购Hugging Face，布局AI生态",
+        "summary": "英伟达以129亿美元收购Hugging Face，旨在保护其开源AI生态系统，加深与开发者联系。",
+        "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美光加大AI内存芯片投入",
+        "summary": "美光据报道正增加高利润AI内存产品的产能，有望大幅受益。",
+        "url": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "特朗普威胁切断贸易，要求美联储降息",
+        "summary": "特朗普要求美联储降息，否则将切断与贸易逆差国家的贸易，引发市场担忧。",
+        "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国8月非农就业远超预期",
+        "summary": "8月非农就业增加16.2万人，远超预期，失业率维持4.1%，强化加息预期。",
+        "url": "https://www.cbsnews.com/news/august-jobs-report-us-labor-market/",
+        "source": "CBS"
+      },
+      {
+        "title": "挪威主权基金计划减持美债",
+        "summary": "全球最大主权财富基金计划削减美国国债持有量，以分散投资。",
+        "url": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国对伊朗制裁升级，欧盟加入",
+        "summary": "欧盟正式加入美国主导的对伊朗制裁行动，韩国考虑军事支持以重开霍尔木兹海峡。",
+        "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美联储加息预期升温",
+        "summary": "强劲非农数据后，市场对美联储加息的预期增强，可能引发市场波动。",
+        "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普贸易威胁",
+        "summary": "特朗普威胁切断与贸易逆差国家的贸易，增加全球贸易不确定性。",
+        "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "地缘政治紧张局势",
+        "summary": "美国对伊朗制裁升级，欧盟加入，韩国考虑军事支持，地缘风险加剧。",
+        "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "8月非农就业远超预期，加息预期升温",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普威胁切断贸易，要求美联储降息",
+      "direction": "看空",
+      "asset_impact": "SPY, DXY, USO",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "特斯拉Cybercab更新不及预期，股价下跌6%",
+      "direction": "看空",
+      "asset_impact": "TSLA",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "英伟达收购Hugging Face，强化AI生态",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美光加大AI内存芯片投入",
+      "direction": "看多",
+      "asset_impact": "MU, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "柴油价格创历史新高，能源板块受益",
+      "direction": "看多",
+      "asset_impact": "XLE, USO",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "欧盟加入对伊朗制裁，地缘风险加剧",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, SPY",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "挪威主权基金计划减持美债",
+      "direction": "看空",
+      "asset_impact": "TLT, DXY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
