@@ -1,0 +1,148 @@
+{
+  "title": "📈 美股简报 | 2026-09-06",
+  "headline": "美国8月非农就业超预期，加息预期升温，美股承压；美伊冲突升级推高油价，特朗普施压美联储降息",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货下跌，国债收益率攀升",
+        "summary": "8月非农就业新增16.2万，远超预期，市场对美联储加息的押注增加，股指期货承压，短期国债收益率上行。",
+        "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "特朗普呼吁降息，与加息预期相左",
+        "summary": "在强劲就业数据公布后，特朗普总统呼吁降低利率，而市场预期可能加息，政策博弈加剧。",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块受地缘冲突提振",
+        "summary": "美国袭击伊朗油轮，油价飙升，柴油价格创历史新高，能源股或受益。",
+        "url": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "汽车制造商拓展国防与能源业务",
+        "summary": "通用汽车和福特寻求军事合同和储能业务，以开辟新增长领域。",
+        "url": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "高盛推荐逢低买入五只股票",
+        "summary": "高盛认为近期部分股票下跌提供了买入机会，建议投资者在反弹前介入。",
+        "url": "https://www.cnbc.com/2026/09/05/buy-the-dip-in-these-five-stocks-before-its-too-late-goldman-says.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "沃尔玛进军外卖配送领域",
+        "summary": "沃尔玛与Dunkin'达成配送合作，此前已与Subway合作，目标直指Uber Eats和DoorDash。",
+        "url": "https://www.cnbc.com/2026/09/05/walmart-dunkin-subway-delivery-uber-eats-doordash.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "Credo Technology回调或蕴含AI机遇",
+        "summary": "分析认为Credo的抛售可能忽略了更大的AI机会，其股价或具吸引力。",
+        "url": "https://seekingalpha.com/article/4943386-credos-selloff-is-missing-the-bigger-ai-opportunity?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "8月非农就业远超预期",
+        "summary": "美国8月新增就业16.2万，几乎是预期的三倍，失业率稳定在4.1%，强化了加息预期。",
+        "url": "https://www.cbsnews.com/news/august-jobs-report-us-labor-market/",
+        "source": "CBS"
+      },
+      {
+        "title": "特朗普施压美联储停止加息",
+        "summary": "在美联储会议前十天，特朗普政府全力施压，试图阻止加息。",
+        "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国袭击伊朗油轮，地缘风险升级",
+        "summary": "美国在伊朗哈格岛附近袭击三艘伊朗油轮，此前伊朗导弹瞄准美海军舰艇，油价应声上涨。",
+        "url": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美联储9月加息风险",
+        "summary": "强劲就业数据提升加息概率，若加息可能引发市场波动。",
+        "url": "https://www.wsj.com/finance/stocks/rates-climb-stocks-dip-after-strong-u-s-jobs-data-a71b1a23?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "美伊冲突升级影响油价",
+        "summary": "美国袭击伊朗油轮，油价飙升，柴油价格创历史新高，可能加剧通胀压力。",
+        "url": "https://www.cbsnews.com/news/diesel-fuel-prices-record-gas-august/",
+        "source": "CBS"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国8月非农就业新增16.2万，远超预期，加息预期升温",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, TLT",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普施压美联储停止加息，政策博弈加剧",
+      "direction": "中性",
+      "asset_impact": "SPY, DXY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国袭击伊朗油轮，地缘冲突升级，油价飙升",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, OIH",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "柴油价格创历史新高，能源板块或受益",
+      "direction": "看多",
+      "asset_impact": "XLE, VLO, MPC",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "高盛推荐逢低买入五只股票",
+      "direction": "看多",
+      "asset_impact": "个股",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "沃尔玛进军外卖配送，与Dunkin'合作",
+      "direction": "看多",
+      "asset_impact": "WMT, DASH, UBER",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Credo Technology回调或蕴含AI机遇",
+      "direction": "看多",
+      "asset_impact": "CRDO, NVDA, AI",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
