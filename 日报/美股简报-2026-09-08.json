@@ -1,0 +1,146 @@
+{
+  "title": "📈 美股简报 | 2026-09-08",
+  "headline": "美加贸易战升级、中东局势推高油价，美股期货承压，诺华制药暴跌拖累道指。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货承压，道指受诺华拖累",
+        "summary": "道指期货表现显著弱于标普500，因瑞士制药商诺华心血管药物试验失败，股价暴跌10%。",
+        "url": "https://www.marketwatch.com/story/why-the-dow-is-being-dragged-down-by-a-swiss-companys-bad-news-7d3eaa06?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "美债收益率走高，关注本周经济数据",
+        "summary": "美国国债收益率上涨，投资者等待本周更多关键经济数据发布。",
+        "url": "https://www.cnbc.com/2026/09/08/us-treasury-yields-bonds.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "能源板块受中东局势提振",
+        "summary": "布伦特原油逼近100美元，因沙特能源设施遭袭，WTI和布伦特原油期货此前触及近七周高位。",
+        "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "航运业警告贸易中断风险",
+        "summary": "18个海事机构警告地缘政治紧张和影子船队威胁国际航运，可能削弱全球贸易。",
+        "url": "https://www.cnbc.com/2026/09/08/global-shipping-iran-war-hormuz-rules.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "诺华制药暴跌10%，创纪录最差单日表现",
+        "summary": "诺华股价周二暴跌10%，因del-desiran药物试验结果令人失望，三项试验受挫，拖累道指。",
+        "url": "https://www.cnbc.com/2026/09/08/novartis-novn-del-desiran-drug-trial.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Mistral获三星投资，估值达240亿美元",
+        "summary": "欧洲AI公司Mistral获三星领投，估值达240亿美元，押注开放权重AI模型与OpenAI等竞争。",
+        "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达供应商纬创宣布15亿美元增发，股价下跌",
+        "summary": "纬创宣布15亿美元全球股票发售，股价周二下跌，该公司是英伟达供应商。",
+        "url": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "芯片股图表警告进一步疲软",
+        "summary": "美国芯片股投资者应关注汇率市场，以判断资金流向芯片股的信号，图表可能预示进一步走弱。",
+        "url": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "加拿大报复性关税生效，贸易战升级",
+        "summary": "加拿大对价值276亿美元的美国商品征收报复性关税，钢铝产品关税提高至50%，美加贸易战加深。",
+        "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普威胁禁止加拿大庞巴迪飞机在美销售",
+        "summary": "特朗普威胁禁止加拿大庞巴迪公司飞机在美销售，贸易战进一步升级。",
+        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "夏季股市平静期结束，投资者需警惕",
+        "summary": "美联储和通胀重新成为焦点，投资者面临市场波动加剧的时期。",
+        "url": "https://www.wsj.com/finance/stocks/the-stock-markets-breezy-summer-is-over-investors-beware-fb110133?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中东局势升级，油价飙升",
+        "summary": "美国与伊朗周末互相打击，沙特能源设施遭袭，布伦特原油逼近100美元，地缘风险加剧。",
+        "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美加贸易战持续，影响双边贸易",
+        "summary": "加拿大对276亿美元美国商品征收报复性关税，特朗普威胁禁止庞巴迪飞机，贸易战可能持续。",
+        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "诺华制药药物试验失败，股价暴跌10%",
+      "direction": "看空",
+      "asset_impact": "NVS, DIA",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "加拿大对美报复性关税生效，贸易战升级",
+      "direction": "看空",
+      "asset_impact": "SPY, DIA, CAT, BA",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "中东局势紧张，沙特能源设施遭袭，油价上涨",
+      "direction": "看多",
+      "asset_impact": "XLE, USO, XOM, CVX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英伟达供应商纬创宣布15亿美元增发，股价下跌",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Mistral获三星投资，估值240亿美元",
+      "direction": "中性",
+      "asset_impact": "AI, MSFT, GOOGL",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美债收益率走高，关注经济数据",
+      "direction": "看空",
+      "asset_impact": "TLT, SPY",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
