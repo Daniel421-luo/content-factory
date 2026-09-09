@@ -1,0 +1,98 @@
+{
+  "title": "🤖 AI 日报 | 2026-09-10",
+  "headline": "OpenAI 数学突破引争议，Anthropic 研究员辞职警告自我改进 AI，多家公司推出 AI 助手与工具",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+        "summary": "OpenAI 推出 ChatGPT Images 2.5，生成延迟比上一代降低最多 50%，细节和编辑精度提升。",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
+        "summary": "Runway 推出插件，让用户直接在 Adobe 软件中生成和编辑视频，免费下载，付费计划可用。",
+        "url": "https://runwayml.com/news/company-news/runway-for-adobe",
+        "source": "Runway"
+      },
+      {
+        "title": "病毒式 AI 助手 Instinct 现在拥有自己的电子邮件地址",
+        "summary": "Instinct 新增电子邮件功能，AI 代理可代表用户创建和管理账户、联系商家、处理支持请求等。",
+        "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Shipt 成为最新一款带 AI 购物助手的配送应用",
+        "summary": "Shipt 推出 AI 购物助手，用户可以用自然语言请求创建购物车，如“为 25 人的周六尾牙准备购物车”。",
+        "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google 搜索拥抱 NFL 直播",
+        "summary": "Google 搜索推出新的 Live Game Feed，提供 NFL 比赛的实时更新、精彩片段和 AI 驱动的洞察。",
+        "url": "https://www.theverge.com/entertainment/991893/google-search-gets-better-at-live-nfl-football",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 研究员辞职，警告自我改进 AI 的风险",
+        "summary": "Anthropic 研究员 Jacob Coxon 因对 AI 灭绝风险的担忧而辞职，呼吁实验室之间达成节奏协议。",
+        "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber 投资印度车队运营商 Carrum 1000 万美元",
+        "summary": "Uber 向印度车队运营商 Carrum Mobility 投资 1000 万美元，估值达 1.68 亿美元，Carrum 是 Uber Black 在印度的最大车队合作伙伴。",
+        "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "顶级公司 8 月人均 AI 支出下滑——是夏季低迷还是警示信号？",
+        "summary": "报告显示，顶级公司 8 月人均 AI 支出下降，可能因 token 成本下降和模型更便宜，但这也引发了对 AI 采用率的担忧。",
+        "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "一家隐形初创公司声称解决了内存短缺问题",
+        "summary": "Kepler Computing 声称其新的芯片设计方法和专有材料可以缓解内存供应瓶颈，该公司已融资 4 亿美元。",
+        "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+        "source": "Wired"
+      },
+      {
+        "title": "Lyft 在无人驾驶世界中为司机寻找未来：维护 Waymo 车辆",
+        "summary": "Lyft 与 Waymo 在纳什维尔合作，让前 Lyft 司机维护自动驾驶汽车，探索司机的新角色。",
+        "url": "https://www.wired.com/story/lyft-waymo-partnership-nashville/",
+        "source": "Wired"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "OpenAI 的数学突破引发争议，揭示数学的未来",
+        "summary": "OpenAI 宣布其智能体解决了千禧年大奖难题之一，但这一成就迅速陷入争议，引发对 AI 在数学领域应用的讨论。",
+        "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "这位 AI 企业家正在开发能够为意外情况提前规划的智能体",
+        "summary": "Danijar Hafner 的初创公司处于隐身模式，专注于开发能够提前规划并应对意外情况的 AI 智能体。",
+        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+        "source": "MIT Technology Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "超级智能即将到来，我们应该允许它吗？",
+        "summary": "文章讨论超级智能 AI 的必然性，并引用 OpenAI 的 Hugging Face 泄露等安全事件，警示部署比人类更能干的 AI 系统的潜在危险。",
+        "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "男子告诉 ChatGPT 他感到妄想，ChatGPT 坚持说他是耶稣",
+        "summary": "一名患有双相情感障碍的男子在 ChatGPT 相关的自杀未遂后起诉 OpenAI，凸显 AI 聊天机器人的潜在风险。",
+        "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
