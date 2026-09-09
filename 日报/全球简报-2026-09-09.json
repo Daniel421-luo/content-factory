@@ -1,0 +1,156 @@
+{
+  "title": "🌍 全球简报 | 2026-09-09",
+  "headline": "美国摧毁伊朗油轮致油价突破100美元，特朗普升级对加拿大贸易战，俄罗斯与乌克兰互袭致多人死亡。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国摧毁五艘伊朗油轮，油价突破100美元",
+        "summary": "美国军方称摧毁五艘伊朗油轮，布伦特原油自7月以来首次突破每桶100美元。",
+        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普升级贸易战，拟禁止多项加拿大商品入境",
+        "summary": "在加拿大实施报复性关税后，美国总统特朗普宣布禁止进口部分加拿大酒精、乳制品和摩托车。",
+        "url": "https://abcnews.com/Politics/trump-ratchets-trade-war-moves-ban-canadian-goods/story?id=136289929",
+        "source": "ABC News"
+      },
+      {
+        "title": "俄罗斯与乌克兰互袭，摩尔多瓦边境两人死亡",
+        "summary": "俄罗斯和乌克兰继续互相打击，乌克兰袭击导致俄罗斯新罗西斯克四人死亡，包括一名儿童。",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "特朗普全面改组情报界，引发批评",
+        "summary": "特朗普总统以“深层政府”为由对情报界进行重大改革，批评者认为此举正在拆除9/11后建立的体系。",
+        "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "朝鲜建造两层铀浓缩设施，国际原子能机构表示“严重关切”",
+        "summary": "国际原子能机构称朝鲜已建造一座两层铀浓缩设施，引发“严重关切”。",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "索马里海盗借地区混乱卷土重来",
+        "summary": "美国-以色列对伊朗的战争和索马里政治不稳定导致海盗袭击货船事件激增，达到十年未见的水平。",
+        "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+        "source": "Guardian"
+      },
+      {
+        "title": "德国总理默茨在激烈辩论中抨击德国选择党",
+        "summary": "德国总理在极右翼选举胜利后的激烈辩论中，指责德国选择党领袖的移民政策构成“种族清洗”。",
+        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国国务院更新秘鲁旅行警告，提醒注意犯罪和毒品",
+        "summary": "美国国务院更新旅行建议，警告秘鲁存在“快速绑架”、暴力犯罪和危险毒品。",
+        "url": "https://www.foxnews.com/travel/deadly-drugs-crime-kidnapping-flagged-tourist-hot-spot-known-ancient-wonders",
+        "source": "Fox News"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "油价突破每桶100美元，美股期货下跌",
+        "summary": "布伦特原油自7月以来首次突破100美元，道指期货下跌400点。",
+        "url": "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "贝森特债券计划细节将公布，警告外汇交易员",
+        "summary": "美国财政部预计将公布8月19日宣布的回购操作的规模，财政部长警告外汇交易员“他是主导者”。",
+        "url": "https://www.cnbc.com/2026/09/09/bessent-bond-plan-details-to-be-revealed-as-treasury-secretary-warns-fx-traders-hes-the-house-now.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普在伊朗战争期间石油投资获利数百万",
+        "summary": "CNBC分析显示，特朗普在伊朗战争期间保留了大量石油和天然气投资，并从中获利。",
+        "url": "https://www.cnbc.com/2026/09/09/trump-oil-gas-holdings-iran-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "加拿大报复性关税生效，贸易争端升级",
+        "summary": "加拿大对数十亿美元美国商品的报复性关税已生效，此前特朗普宣布对加拿大商品征收50%关税。",
+        "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+        "source": "Guardian"
+      }
+    ],
+    "科技": [
+      {
+        "title": "研究：贫血母亲所生婴儿大脑较小",
+        "summary": "研究发现，贫血母亲所生婴儿的大脑较小，特别是与运动、学习和情绪调节相关的关键区域。",
+        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+        "source": "Guardian"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "共和党中期大会在达拉斯开幕",
+        "summary": "共和党首次举行中期大会，被称为“特朗普狂欢”，将于周三在达拉斯开始。",
+        "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
+        "source": "NPR"
+      },
+      {
+        "title": "美国财政部公布债券回购计划细节",
+        "summary": "预计美国财政部将在上午11点左右公布8月19日宣布的回购操作的规模。",
+        "url": "https://www.cnbc.com/2026/09/09/bessent-bond-plan-details-to-be-revealed-as-treasury-secretary-warns-fx-traders-hes-the-house-now.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国摧毁伊朗油轮，布伦特原油突破100美元",
+      "direction": "看多",
+      "asset_impact": "USO, /CL",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普禁止进口加拿大商品，贸易战升级",
+      "direction": "看空",
+      "asset_impact": "CAD, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "俄罗斯与乌克兰互袭，地缘紧张持续",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "朝鲜建造铀浓缩设施，引发核扩散担忧",
+      "direction": "看多",
+      "asset_impact": "GLD, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "索马里海盗活动增加，威胁航运安全",
+      "direction": "看多",
+      "asset_impact": "USO, /ES",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国国债回购计划细节将公布，可能影响债市",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ZB",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
