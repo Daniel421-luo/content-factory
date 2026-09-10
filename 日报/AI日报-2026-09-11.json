@@ -1,0 +1,98 @@
+{
+  "title": "🤖 AI 日报 | 2026-09-11",
+  "headline": "OpenAI 发布 GPT-6 Astra 并宣称解决纳维-斯托克斯千禧年难题，引发学术界对研究抢先发布的争议。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
+        "summary": "OpenAI 推出新一代模型 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 上线，定价为每百万输入 token 10 美元、输出 token 50 美元，主打专业工作场景。",
+        "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 1,999 美元",
+        "summary": "Apple 正式推出首款折叠屏手机 iPhone Duo，展开为 7.6 英寸内屏，搭载 A20 Pro 芯片和蒸汽室散热，10 月 16 日开启预购、10 月 23 日发售，起售价 1,999 美元。",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
+        "summary": "Apple 推出 iPhone 18 Pro 系列，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
+        "source": "AIHOT"
+      },
+      {
+        "title": "OpenRouter 推出美国区域路由，保障数据驻留",
+        "summary": "OpenRouter 上线 US In-Region Routing，请求经 us.openrouter.ai 在美国境内解密并只路由到美国 provider 端点，与去年上线的 EU 路由配套，满足数据驻留合规需求。",
+        "url": "https://openrouter.ai/blog/announcements/us-in-region-routing",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Meta 推出 Muse AI 助手，主打生产力场景",
+        "summary": "Meta 发布其首个 AI 生产力工具 Muse，官方称能帮用户处理在线购物、邮件和行程规划等事务，但实际体验被评价为功能可用却令人不安。",
+        "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "纽约大学教授质疑 OpenAI 借助其研究抢先发布纳维-斯托克斯问题证明",
+        "summary": "纽约大学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 使用 Codex 和 Claude 在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后 OpenAI 公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于 9 月 1 日，总计消耗 3000 亿个输出 Token。",
+        "url": "https://www.ithome.com/1/000/353.htm",
+        "source": "AIHOT"
+      },
+      {
+        "title": "Bending Spoons 以 13.6 亿美元收购 Miro，估值较 2022 年缩水 90%",
+        "summary": "Bending Spoons 宣布以 13.6 亿美元收购协作工具 Miro，后者在 2021 年底估值曾达 175 亿美元，此次交易价格大幅缩水，反映协作软件赛道估值回调。",
+        "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Maven Robotics 结束隐身，获 1 亿美元 A 轮融资",
+        "summary": "机器人部署公司 Maven Robotics 今日结束隐身状态，宣布完成 1 亿美元 A 轮融资，并已有活跃的机器人部署项目，瞄准企业机器人落地市场。",
+        "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Universal Music 与 ElevenLabs 合作推出 AI 音乐平台",
+        "summary": "环球音乐集团宣布与 ElevenLabs 达成多年授权合作，将推出 AI 音乐平台，允许用户基于其正版曲库创作混音、串烧和改编作品。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+        "source": "The Verge"
+      },
+      {
+        "title": "六家中国 AI 公司被指激进复制美国前沿模型",
+        "summary": "美国方面指控六家中国 AI 公司“激进复制”美国前沿模型，并敦促美国 AI 企业识别中国用户后秘密将其切换至能力较弱的模型，引发技术出口与合规争议。",
+        "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "OpenAI 称其智能体解决纳维-斯托克斯问题，数学界争议升温",
+        "summary": "OpenAI 宣称其智能体解决了数学领域最重要的开放问题之一——纳维-斯托克斯方程的存在性与光滑性，但纽约大学教授质疑其研究被抢先发布，围绕 AI 在数学发现中的角色与署名伦理展开争论。",
+        "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+        "source": "MIT Tech Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "为 AI 供电是一个架构问题",
+        "summary": "MIT Tech Review 分析指出，2026 年 7 月弗吉尼亚州 Ashburn 一条输电线路故障瞬间让电网损失超过 3 吉瓦负荷，暴露 AI 数据中心集群的供电架构脆弱性，电力基础设施需要系统性重构。",
+        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "医疗 AI 的下一个考验是整合",
+        "summary": "文章指出，大型 AI 公司进入医疗领域加速了技术基础建设，但真正的挑战在于将 AI 整合进临床工作流，而非单纯提升模型能力。",
+        "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "AI 智能体正涌入公共服务系统",
+        "summary": "研究发现大量 AI 智能体自动向公共服务提交申请，其中绝大多数是符合资格的人正常申领福利，但自动化流量给公共系统带来新的处理压力。",
+        "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
