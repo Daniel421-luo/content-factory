@@ -1,0 +1,164 @@
+{
+  "title": "🌍 全球简报 | 2026-09-10",
+  "headline": "美国原油价格突破每桶100美元，10年期美债收益率升至4.9%，市场对伊朗战争长期化及通胀前景担忧加剧。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国原油价格突破100美元，市场准备迎接持久伊朗战争",
+        "summary": "由于担心中东紧张局势进一步加剧供应中断，油价持续走高。",
+        "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "10年期美债收益率突破4.9%，创2023年以来最高，油价飙升引发通胀担忧",
+        "summary": "美国原油价格触及每桶100美元，推动国债收益率走高。",
+        "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普承诺若共和党赢得中期选举，每位美国成年人将获得5000美元",
+        "summary": "总统在党代会上发表讲话，但未提供该计划如何运作或资金从何而来的细节。",
+        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "特朗普称伊朗战争要到11月关键选举后才会结束",
+        "summary": "总统还表示油价在11月选举前不会下降，并声称伊朗希望影响选举。",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "中国称希望与美国“尽早”就关税削减达成协议",
+        "summary": "中国政府发言人表示，中美希望很快达成降低进口税的协议。",
+        "url": "https://abcnews.com/International/wireStory/china-hopes-agree-us-tariff-reductions-early-date-136328623",
+        "source": "ABC News"
+      },
+      {
+        "title": "美国禁止加拿大乳制品、酒精饮料和摩托车，贸易战升级",
+        "summary": "在加拿大实施200亿美元报复性关税后，白宫宣布了上述禁令。",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
+        "source": "Guardian"
+      },
+      {
+        "title": "菲律宾渡轮起火，5人死亡86人失踪",
+        "summary": "火灾发生时，该船正接近巴拉望省旅游热点科隆的目的地。",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "中国东部货船起火，25人死亡",
+        "summary": "据央视报道，船上42人中，17人已被疏散。",
+        "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "8月生产者价格指数上涨0.4%，符合预期",
+        "summary": "根据道琼斯共识预测，PPI预计上涨0.4%。",
+        "url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "梅西百货发布强劲业绩，上调指引，转型初见成效",
+        "summary": "梅西百货公布了强劲的2026财年第二季度业绩，并上调了全年指引。",
+        "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "苹果新任CEO以1999英镑的首款折叠iPhone开启大胆赌注",
+        "summary": "苹果在活动中展示了近20年来iPhone首次重大设计变革。",
+        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "浮动太阳能电池板可为城市节省数百万美元，你的城镇会是下一个吗？",
+        "summary": "俄亥俄州利马市在双湖水库安装了3120块浮动太阳能电池板，预计可节省近1000万美元电费。",
+        "url": "https://www.foxnews.com/tech/floating-solar-panels-could-save-cities-millions-is-your-town-next",
+        "source": "Fox News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国初请失业金人数",
+        "summary": "每周就业数据将提供劳动力市场最新状况。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "美国CPI数据",
+        "summary": "关键通胀指标可能影响美联储政策预期。",
+        "url": "",
+        "source": ""
+      },
+      {
+        "title": "欧洲央行利率决议",
+        "summary": "市场关注欧洲央行对通胀和增长前景的评估。",
+        "url": "",
+        "source": ""
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国原油价格突破100美元，中东紧张局势加剧供应担忧",
+      "direction": "看多",
+      "asset_impact": "USO, WTI, Brent",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "10年期美债收益率突破4.9%，油价飙升引发通胀担忧",
+      "direction": "看空",
+      "asset_impact": "US10Y, TLT",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普承诺若共和党赢得中期选举将发放5000美元，可能增加财政压力",
+      "direction": "看空",
+      "asset_impact": "US10Y, DXY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国禁止加拿大乳制品、酒精和摩托车，贸易战升级",
+      "direction": "看空",
+      "asset_impact": "CAD, FXI",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国希望与美国尽早达成关税削减协议",
+      "direction": "看多",
+      "asset_impact": "FXI, CNY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "8月PPI上涨0.4%符合预期，通胀压力温和",
+      "direction": "中性",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "苹果发布首款折叠iPhone，设计重大变革",
+      "direction": "看多",
+      "asset_impact": "AAPL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
