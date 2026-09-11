@@ -1,0 +1,192 @@
+{
+  "title": "🌍 全球简报 | 2026-09-11",
+  "headline": "美国8月核心通胀超预期叠加伊朗制裁升级与胡塞武装夺取也门关键港口，油价剧烈波动，全球市场承压",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美国8月CPI同比涨0.4%符合预期，核心通胀高于预估",
+        "summary": "美国8月消费者物价指数环比上涨0.4%，与道琼斯预期一致；但剔除食品和能源的核心CPI涨幅高于市场预估，显示潜在通胀压力仍存。",
+        "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国柴油价格突破每加仑6美元创纪录，伊朗战争扰乱全球燃料供应",
+        "summary": "美国柴油均价史上首次突破每加仑6美元，华盛顿与伊朗的冲突持续扰乱全球燃料流通，推高货运和日用品成本。",
+        "url": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
+        "source": "NPR"
+      },
+      {
+        "title": "伊朗支持的胡塞武装夺取也门关键港口，逼近另一石油咽喉要道",
+        "summary": "胡塞武装占领也门摩卡港并继续推进，威胁曼德海峡附近航运安全，该水道连接红海与亚丁湾，是全球能源运输要道。",
+        "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国纪念9·11事件25周年，全国多地举行悼念活动",
+        "summary": "美国迎来9·11恐怖袭击25周年，各地举行纪念仪式悼念近3000名遇难者，联邦机构发布安全公告称恐怖组织仍持续煽动袭击。",
+        "url": "https://abcnews.com/US/live-updates/911-25th-anniversary-live-updates-families-gather-ceremonies/?id=136027765",
+        "source": "ABC News"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "普京、习近平与伊朗总统齐聚印度出席金砖峰会",
+        "summary": "俄罗斯、中国和伊朗领导人齐聚新德里参加金砖国家峰会，印度在乌克兰战争和中东冲突背景下寻求平衡各方利益。",
+        "url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
+        "source": "Fox News"
+      },
+      {
+        "title": "以色列称摧毁真主党大型地下基地，爆炸震级达4.1级",
+        "summary": "以色列军方宣布摧毁真主党一处重要地下基地，美国地质调查局记录到爆炸产生相当于4.1级地震的震动。",
+        "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "加拿大向乌克兰提供防空支持，泽连斯基访问卡尔加里",
+        "summary": "加拿大总理卡尼在卡尔加里接待泽连斯基，加方承诺帮助乌克兰增强防空能力并补充无人机库存，两国同意深化联盟关系。",
+        "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+        "source": "Guardian"
+      },
+      {
+        "title": "香港天安门活动人士被判最高七年监禁",
+        "summary": "香港法院对多名参与纪念1989年事件的活动人士判处最高七年有期徒刑，香港曾是中华人民共和国境内唯一可公开悼念该事件的地方。",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "油价从百元上方大幅回落，此前连续多日上涨",
+        "summary": "布伦特和WTI原油期货在连续多日上涨后大幅下跌，此前油价曾突破每桶100美元并录得两位数周涨幅。",
+        "url": "https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wt",
+        "source": "CNBC"
+      },
+      {
+        "title": "美财长贝森特称下周一将制裁一家大型银行，系伊朗策略一部分",
+        "summary": "美国财政部长贝森特表示，作为对伊朗施压策略的一部分，将于下周一宣布制裁一家大型银行。",
+        "url": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美加贸易战冲击汽车零部件供应链",
+        "summary": "数十年来紧密交织的美加汽车供应链正因贸易战面临瓦解风险，汽车零部件制造商承受日益增大的压力。",
+        "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+        "source": "NPR"
+      },
+      {
+        "title": "亚洲股市下跌，油价维持108美元上方，追随华尔街跌势",
+        "summary": "亚洲股市追随华尔街下跌，油价维持在每桶108美元上方，市场持续消化通胀数据和地缘紧张局势。",
+        "url": "https://abcnews.com/Business/wireStory/oil-prices-stay-108-asian-shares-decline-tracking-136357240",
+        "source": "ABC News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Anthropic阻止疑似利用AI制造生物武器的企图",
+        "summary": "Anthropic在其威胁情报报告中披露，已阻止一起可能利用人工智能制造生物武器的尝试，此前该公司一名前高级研究员曾警告AI对人类的风险。",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "《华尔街日报》出版商在香港被判阻挠记者担任工会职务罪成",
+        "summary": "香港法院裁定道琼斯公司阻挠记者Selina Cheng担任香港记者协会职务罪名成立，但第二项指控不成立，此案引发对香港新闻自由的关注。",
+        "url": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+        "source": "Guardian"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国财政部将于下周一宣布制裁一家大型银行",
+        "summary": "美财长贝森特表示，作为伊朗策略的一部分，下周一将对一家大型银行实施制裁，市场关注制裁对象及潜在金融影响。",
+        "url": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "金砖国家峰会在新德里持续举行",
+        "summary": "普京、习近平和伊朗总统佩泽什基安齐聚新德里出席金砖峰会，关注峰会联合声明及双边会晤成果。",
+        "url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
+        "source": "Fox News"
+      },
+      {
+        "title": "也门曼德海峡航运安全局势持续演变",
+        "summary": "胡塞武装夺取摩卡港后继续推进，关注红海-亚丁湾航运是否受到进一步干扰及国际社会回应。",
+        "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国核心通胀高于预期，强化美联储维持高利率预期",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES, GLD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国柴油价格突破6美元/加仑创纪录，伊朗冲突扰乱燃料供应",
+      "direction": "看多",
+      "asset_impact": "USO, /ES",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "胡塞武装夺取也门关键港口，威胁曼德海峡航运安全",
+      "direction": "看多",
+      "asset_impact": "USO, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国将于下周一制裁一家大型银行，升级对伊朗金融施压",
+      "direction": "中性",
+      "asset_impact": "GLD, US10Y",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "金砖峰会普京习近平伊朗总统齐聚新德里，地缘阵营分化加剧",
+      "direction": "中性",
+      "asset_impact": "FXI, GLD, US10Y",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "以色列摧毁真主党大型地下基地，中东冲突持续升级",
+      "direction": "看多",
+      "asset_impact": "USO, GLD, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美加贸易战冲击汽车供应链，北美制造业成本上升",
+      "direction": "看空",
+      "asset_impact": "/ES, FXI",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "加拿大承诺增强乌克兰防空能力并补充无人机库存",
+      "direction": "中性",
+      "asset_impact": "USO, GLD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "Anthropic阻止AI制造生物武器企图，AI安全监管压力上升",
+      "direction": "中性",
+      "asset_impact": "NVDA, /ES",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
