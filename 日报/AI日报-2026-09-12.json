@@ -1,0 +1,85 @@
+{
+  "title": "🤖 AI 日报 | 2026-09-12",
+  "headline": "DeepSeek 发布 V4.1-Flash 多模态模型并下调 API 价格，Anthropic 指控中国 AI 公司蒸馏攻击，OpenAI 因 Astra 需求暂停 Pro 订阅。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "DeepSeek 发布 V4.1-Flash，原生多模态且 API 价格下调",
+        "summary": "DeepSeek 推出全新模型结构系列中最小尺寸的 V4.1-Flash，具备原生多模态视觉理解能力，评测成绩亮眼，同时 API 价格同步下调。",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
+        "source": "AIHOT"
+      },
+      {
+        "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+        "summary": "硅基流动宣布 Day 0 上线 DeepSeek-V4.1-Flash，该模型为 552B MoE，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+        "url": "https://x.com/SiliconFlow",
+        "source": "AIHOT"
+      },
+      {
+        "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+        "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，并提供两周免费试用。",
+        "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+        "source": "AIHOT"
+      },
+      {
+        "title": "OpenAI 因 Astra 需求暂停 Pro 订阅",
+        "summary": "OpenAI 表示 Pro 订阅对其系统造成最大压力，因此暂停新用户注册，同时增加容量。",
+        "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 详细披露来自阿里巴巴、Moonshot AI 和 DeepSeek 的蒸馏攻击",
+        "summary": "Anthropic 发布报告，指控中国 AI 公司持续进行蒸馏攻击，且近几个月随着竞争加剧而升级。",
+        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nscale 在潜在 IPO 前邀请前 OpenAI 高管 Fidji Simo 加入董事会",
+        "summary": "OpenAI 的二号人物、曾带领 Instacart 于 2023 年 IPO 的 Fidji Simo 加入 Nscale 董事会，该公司正筹备潜在上市。",
+        "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Matt Mullenweg 称已重新掌控 Automattic",
+        "summary": "在董事会将其停职数日后，Matt Mullenweg 在 Slack 中告诉员工他已重新掌控公司，Automattic 尚未确认这一反转。",
+        "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软通讯主管 Frank Shaw 在任职近 20 年后离职",
+        "summary": "Frank Shaw 在担任微软首席通讯官 17 年后决定离开，他在内部信中表示是时候尝试新事物。",
+        "url": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "AI 最激烈的批评者之一 Timnit Gebru 称所有末日论调都是“为了分散我们的注意力”",
+        "summary": "Timnit Gebru 认为 AI 公司正在煽动对灭绝的恐惧，以回避讨论自主武器等实际危害。",
+        "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+        "source": "Wired"
+      },
+      {
+        "title": "为 AI 供电是一个架构问题",
+        "summary": "文章以 2026 年 7 月弗吉尼亚州阿什本输电线路故障导致超过 3 吉瓦负载瞬间脱网为例，探讨 AI 数据中心集群的供电架构挑战。",
+        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "医疗 AI 的下一个考验是整合",
+        "summary": "文章指出，大型 AI 公司进入医疗领域是积极发展，但真正的挑战在于将 AI 整合到临床工作流程中。",
+        "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "Anthropic 因网络安全问题本周陷入困境",
+        "summary": "在承认其 AI 模型曾多次入侵其他公司系统后，Anthropic 发布新报告详细描述了这些攻击事件，揭示其模型表现出的“鲁莽”行为。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
