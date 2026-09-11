@@ -1,0 +1,213 @@
+{
+  "title": "📈 美股简报 | 2026-09-11",
+  "headline": "中东局势升级推动油价与柴油价格创历史新高，美债收益率逼近5%引发全球债市抛售，股指承压；甲骨文AI云业务超预期成亮点。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美债收益率逼近5%，全球债市抛售加剧",
+        "summary": "美国10年期国债收益率逼近5%关口，油价飙升加剧通胀担忧，全球债券市场遭遇抛售。借贷成本上升威胁股市并可能拖累经济。",
+        "url": "https://www.wsj.com/finance/investing/the-unrelenting-bond-selloff-puts-the-10-year-yield-on-the-cusp-of-5-78bfb4db?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "油价突破107美元，布伦特原油升至约105美元",
+        "summary": "美国基准原油突破102美元/桶，布伦特原油触及107美元，中东局势升级推动油价持续攀升。美股周四收跌。",
+        "url": "https://www.wsj.com/finance/investing/bond-yields-edge-up-as-investors-await-ecb-rate-hike-u-s-treasury-buybacks-4cd2e9f3?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "美国柴油价格突破6美元/加仑，创历史新高",
+        "summary": "美国柴油价格首次突破6美元/加仑，过去一年涨幅超60%。分析师称柴油影响经济方方面面，从通勤到食品杂货成本都将上升。",
+        "url": "https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "甲骨文AI云业务超预期，积压订单增长",
+        "summary": "甲骨文AI押注见效，云业务势头推动更乐观的业绩展望，最新季度积压订单进一步增长。",
+        "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "第四季度应超配大盘股、回避小盘股",
+        "summary": "MarketWatch分析指出，随着年末临近，大盘股往往跑赢小盘股，建议投资者在第四季度调整持仓结构。",
+        "url": "https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "传统投资组合多元化策略失效，建议转向流动性另类资产",
+        "summary": "管理6240亿美元资产的Allspring Global Investments认为，投资者应调整策略，纳入更多流动性另类资产以实现真正的多元化。",
+        "url": "https://www.marketwatch.com/story/traditional-portfolio-diversification-isnt-cutting-it-anymore-heres-where-to-pivot-says-this-624-billion-fund-manager-0b552566?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "AI概念股遭投资者抛弃，但技术图表显示值得关注",
+        "summary": "Jay Woods指出，某AI概念股在2026年初因动能驱动上涨超75%后，市场情绪过度亢奋导致投资者离场，但当前图表形态暗示可能值得重新审视。",
+        "url": "https://www.cnbc.com/2026/09/10/investors-gave-up-on-this-ai-play-but-charts-suggest-its-worth-a-look-jay-woods-says.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "甲骨文AI云业务超预期，积压订单持续增长",
+        "summary": "甲骨文最新季度业绩显示AI押注正在兑现，云业务势头强劲推动更乐观的业绩指引，积压订单进一步增长。",
+        "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Adobe财报令华尔街失望，分析师称仅达预期不够",
+        "summary": "Adobe最新财报未能满足华尔街更高期待，分析师表示在当前环境下仅达到预期是不够的。",
+        "url": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "苹果新款iPhone定价走钢丝，股价上涨",
+        "summary": "苹果在新iPhone发布后上调了部分机型价格，但分析师认为公司可能仍需自行消化部分成本，定价策略面临平衡挑战。",
+        "url": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "苹果折叠屏iPhone Duo售价1999美元，运营商推出促销",
+        "summary": "T-Mobile、AT&T和Verizon开始推出iPhone促销活动以降低购机成本，但分析师称目前尚未出现价格战。",
+        "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [],
+    "宏观与政策": [
+      {
+        "title": "特朗普称对发动伊朗战争不后悔，美国加大经济施压",
+        "summary": "特朗普在接受Fox News采访时表示，即使影响中期选举，他仍会对伊朗采取军事行动。美国正加大对伊朗的经济压力。",
+        "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美财长贝森特称周一将制裁一家大型银行",
+        "summary": "美国财政部长贝森特表示，作为伊朗战略的一部分，下周一将对一家大型银行实施制裁。",
+        "url": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "胡塞武装夺取也门关键港口城市，红海航运威胁升级",
+        "summary": "胡塞武装夺取也门摩卡港，伊朗寻求在红海沿岸建立新据点，此举加剧了曼德海峡附近航运威胁，该水道连接红海与亚丁湾。",
+        "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "德国央行行长：进一步加息高度取决于能源价格走势",
+        "summary": "德国央行行长Nagel对CNBC表示，利率是否进入限制性区间高度取决于能源价格演变。",
+        "url": "https://www.cnbc.com/2026/09/11/ecb-nagel-energy-prices-further-interest-rate-hikes.html",
+        "source": "CNBC World"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美债收益率逼近5%，借贷成本上升威胁股市与经济",
+        "summary": "10年期美债收益率逼近5%关键心理关口，持续债券抛售可能扰乱股市并放缓经济增长。",
+        "url": "https://www.wsj.com/finance/investing/the-unrelenting-bond-selloff-puts-the-10-year-yield-on-the-cusp-of-5-78bfb4db?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "中东局势升级：胡塞武装夺取也门港口，红海航运风险加剧",
+        "summary": "胡塞武装夺取摩卡港，威胁曼德海峡航运安全，可能进一步扰乱全球能源供应链。",
+        "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国柴油价格创历史新高，通胀压力向消费端传导",
+        "summary": "柴油价格突破6美元/加仑创纪录，运输成本上升将传导至食品杂货等终端价格，加剧通胀压力。",
+        "url": "https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "欧洲天然气库存仅够应对温和冬季",
+        "summary": "WSJ报道称欧洲天然气储备仅足以度过一个温和的冬季，若冬季严寒或供应进一步中断，能源价格可能再度飙升。",
+        "url": "https://www.wsj.com/finance/commodities-futures/the-high-stakes-gamble-playing-out-in-the-natural-gas-market-334f774b?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "中东局势升级推动油价突破107美元，能源板块受益",
+      "direction": "看多",
+      "asset_impact": "XLE, USO",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美债收益率逼近5%，高估值成长股承压",
+      "direction": "看空",
+      "asset_impact": "QQQ, TLT",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国柴油价格创历史新高，运输与消费成本上升加剧通胀",
+      "direction": "看空",
+      "asset_impact": "SPY, XLY",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "甲骨文AI云业务超预期，积压订单增长提振企业软件板块",
+      "direction": "看多",
+      "asset_impact": "ORCL, IGV",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Adobe财报令华尔街失望，软件股情绪受挫",
+      "direction": "看空",
+      "asset_impact": "ADBE, IGV",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "苹果新款iPhone定价承压但股价上涨，关注运营商促销效果",
+      "direction": "中性",
+      "asset_impact": "AAPL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国将制裁一家大型银行，伊朗战略升级",
+      "direction": "看空",
+      "asset_impact": "XLF, KBE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "胡塞武装夺取也门港口，红海航运风险上升",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "欧洲天然气库存仅够温和冬季，能源价格风险偏向上行",
+      "direction": "看多",
+      "asset_impact": "UNG, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "第四季度大盘股倾向跑赢小盘股",
+      "direction": "中性",
+      "asset_impact": "SPY, IWM",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
