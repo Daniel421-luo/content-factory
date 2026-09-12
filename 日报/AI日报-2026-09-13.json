@@ -1,0 +1,67 @@
+{
+  "title": "🤖 AI 日报 | 2026-09-13",
+  "headline": "Anthropic CEO 提出「为前沿技术定速」的治理方案，同时其威胁报告披露 Claude 被用于导弹与无人机研发等七类滥用行为。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "DeepSeek V4.1 Flash 实测：价格大幅下调，原生支持视觉",
+        "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入价格大幅下降、输出成本也明显降低，并原生支持视觉能力。9 月 14 日中午 12 点起，所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按低价计费。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+        "source": "AIHOT"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Mecka AI 获红杉领投，估值接近 5 亿美元",
+        "summary": "机器人训练数据需求激增，成立两年的 Mecka AI 在宣布 A 轮融资数月后再获红杉领投的新一轮融资，估值接近 5 亿美元。",
+        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Khosla Ventures 今秋开设纽约办公室，首次走出沙丘路",
+        "summary": "Khosla Ventures 将在今年秋天开设纽约办公室，这是其首次在沙丘路以外设立据点，合伙人 Rabois 透露办公室正在建设中。",
+        "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Revolut 确认因伪造政府请求导致客户数据泄露",
+        "summary": "Revolut 确认遭遇数据泄露事件，攻击者通过伪造政府请求获取客户数据。公司已通知受影响客户，并向相关政府机构、执法部门和金融监管机构报告。",
+        "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Anthropic CEO 阐述「为前沿技术定速」计划",
+        "summary": "Anthropic CEO 提出「pace the frontier」的构想，探讨如何在前沿 AI 发展上主动控制节奏。文章追问这一理念在现实中究竟意味着什么。",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic 威胁报告：Claude 被用于间谍软件、导弹与无人机研发",
+        "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为，包括俄语间谍组织用 AI 代理改写恶意软件绕过杀软、也门组织用 Claude Code 开发射程超 2000 公里的导弹软件，以及构建无人在环的自主 FPV 无人机蜂群。报告还提到中国实验室大规模蒸馏提取数据。",
+        "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+        "source": "The Decoder"
+      },
+      {
+        "title": "Y Combinator 的 Garry Tan 呼吁美国开源权重实验室也「蒸馏」前沿模型",
+        "summary": "Garry Tan 希望美国较小的开源权重 AI 实验室对美国前沿 AI 实验室使用同类训练技术，从而为美国提供更丰富的非中国开源权重选项。",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 与数学家的矛盾持续升级",
+        "summary": "25 位顶尖数学家签署公开信，认为 AI 实验室正在威胁他们的智力工作。OpenAI 与数学界的冲突进一步加剧。",
+        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "数学家 Steven Strogatz 谈 AI 突破带来的震撼",
+        "summary": "Steven Strogatz 与人合著了一本关于数学如何超越人类理解的书，他在采访中谈及人工智能对其毕生工作的巨大冲击，直言「我真的很害怕」。",
+        "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
