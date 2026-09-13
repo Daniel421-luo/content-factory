@@ -1,0 +1,184 @@
+{
+  "title": "🌍 全球简报 | 2026-09-13",
+  "headline": "印尼渡轮倾覆致6死130失踪，伊朗战争与BRICS博弈持续，AI监管呼声高涨",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "印尼渡轮在爪哇海倾覆，至少6人死亡130人失踪",
+        "summary": "一艘载有243人的渡轮在爪哇海遭遇恶劣天气倾覆，救援人员已救出107人，至少6人死亡，约130人失踪。",
+        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "伊朗战争重塑金砖国家关系，暴露内部分歧",
+        "summary": "金砖国家成员一致认为需要新的全球秩序，但在如何实现及替代方案上存在分歧。伊朗和阿联酋支持联合声明呼吁克制。",
+        "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "OpenAI排除今年IPO，AI领袖警告发展过快",
+        "summary": "OpenAI CEO Altman表示今年不会IPO，Anthropic的Amodei公开呼吁放缓AI发展步伐，多位AI领袖对技术风险发出警告。",
+        "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普称伊朗战争将在中期选举后结束，预测油价将大幅下跌",
+        "summary": "特朗普表示伊朗战争将很快结束，预测油价随后将大幅下跌。油价周五因谈判希望回落，但本周仍大幅上涨，一度突破每桶100美元。",
+        "url": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
+        "source": "CNBC World"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普与沙特王储通话，称一切都会‘顺利解决’",
+        "summary": "在伊朗冲突持续之际，特朗普与沙特王储MBS通话，表示一切都会‘顺利解决’。霍尔木兹海峡仍是主要冲突热点。",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-plans-new-restricted-zone/?id=136249116",
+        "source": "ABC News"
+      },
+      {
+        "title": "中国国家主席习近平呼吁金砖国家推动中东和平",
+        "summary": "习近平表示中国作为伊朗最大贸易伙伴，愿意与金砖国家合作推动中东地区和平。",
+        "url": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "瑞典大选：俄罗斯、特朗普与福利之争笼罩选情",
+        "summary": "俄罗斯战争、永久性更高的国防开支以及对美国承诺的不确定性，正在缩小瑞典大选获胜者面临的选择空间。",
+        "url": "https://www.cnbc.com/2026/09/12/sweden-election-russia-trump-welfare-defense.html",
+        "source": "CNBC World"
+      },
+      {
+        "title": "特朗普关于统一爱尔兰的言论或针对大西洋彼岸受众",
+        "summary": "特朗普表示希望看到统一的爱尔兰，这一言论成为当日全球头条，分析认为其可能针对美国国内受众。",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "拉里·埃里森取消出售最多75亿美元甲骨文股票的计划",
+        "summary": "甲骨文创始人拉里·埃里森取消了出售最多75亿美元公司股票的计划。",
+        "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "高盛挑选中国医疗保健股作为‘后AI时代’交易",
+        "summary": "高盛表示，其追踪的中国股票盈利以五年来最快季度速度增长，并挑选中国医疗保健股作为后AI时代的交易标的。",
+        "url": "https://www.cnbc.com/2026/09/13/goldman-picks-china-healthcare-stocks-for-a-post-ai-trade.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "NFL和中期选举为预测市场带来关键秋季",
+        "summary": "2025年橄榄球赛季和2024年总统选举将预测市场推向今日的显著地位，NFL和中期选举将再次成为关键推动力。",
+        "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "前Anthropic研究员称AI员工‘真正恐惧’人类未来",
+        "summary": "一名前Anthropic研究员告诉BBC，AI公司员工对人类的未来感到‘真正的恐惧’。此前该公司老板呼吁放缓技术发展， citing ‘严重’风险。",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "习近平称中国将牵头促进金砖国家AI与科技合作",
+        "summary": "习近平表示，中国将牵头帮助促进发展中经济体之间的人工智能合作与发展。",
+        "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "奥巴马对AI表示谨慎，敦促民主党应对",
+        "summary": "据《纽约时报》报道，美国前总统奥巴马对人工智能表示谨慎，并敦促民主党人应对这一问题。",
+        "url": "https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "瑞典大选结果",
+        "summary": "瑞典周日举行大选，俄罗斯战争、国防开支和福利问题成为关键议题，结果将影响欧洲政治格局。",
+        "url": "https://www.cnbc.com/2026/09/12/sweden-election-russia-trump-welfare-defense.html",
+        "source": "CNBC World"
+      },
+      {
+        "title": "印尼渡轮搜救进展",
+        "summary": "印尼救援人员继续搜索爪哇海倾覆渡轮的约130名失踪人员，死亡人数可能进一步上升。",
+        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "伊朗战争与油价走势",
+        "summary": "特朗普预测伊朗战争将很快结束且油价将大幅下跌，市场关注谈判进展及霍尔木兹海峡局势。",
+        "url": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
+        "source": "CNBC World"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "印尼渡轮倾覆致130人失踪，搜救持续",
+      "direction": "中性",
+      "asset_impact": "无直接可交易资产影响",
+      "confidence": 1,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "伊朗战争可能结束，特朗普预测油价大幅下跌",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "金砖国家呼吁中东和平，伊朗和阿联酋支持联合声明",
+      "direction": "看多",
+      "asset_impact": "GLD, US10Y",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "AI领袖警告发展过快，OpenAI排除今年IPO",
+      "direction": "看空",
+      "asset_impact": "QQQ, NVDA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国将牵头金砖国家AI合作，习近平呼吁中东和平",
+      "direction": "看多",
+      "asset_impact": "FXI, MCHI",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "高盛推荐中国医疗保健股作为后AI交易",
+      "direction": "看多",
+      "asset_impact": "FXI, KURE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "瑞典大选聚焦俄罗斯威胁与国防开支",
+      "direction": "中性",
+      "asset_impact": "EURSEK",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "拉里·埃里森取消出售甲骨文股票计划",
+      "direction": "看多",
+      "asset_impact": "ORCL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
