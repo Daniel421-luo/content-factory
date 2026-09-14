@@ -1,0 +1,190 @@
+{
+  "title": "🌍 全球简报 | 2026-09-14",
+  "headline": "AI行业领袖集体呼吁放缓开发引发科技股大跌，10年期美债收益率突破5%创三年新高，伊朗在霍尔木兹海峡击落美军无人机推升油价。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "AI领袖集体呼吁放缓开发，全球科技股应声大跌",
+        "summary": "Anthropic、OpenAI和SpaceX的CEO联合呼吁放缓“鲁莽的”AI开发，引发亚洲科技股和纳斯达克期货下挫。特朗普随后表态称无需更多AI监管，并抨击Anthropic CEO。",
+        "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+        "source": "Guardian"
+      },
+      {
+        "title": "10年期美债收益率突破5%，创2023年以来新高",
+        "summary": "在美联储本周利率决议前，10年期美债收益率升至5%上方，为2023年以来首次。三大股指承压下跌，纳斯达克跌1%。",
+        "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗称在霍尔木兹海峡击落美军先进无人机",
+        "summary": "伊朗宣布在霍尔木兹海峡上空摧毁一架美国先进无人机，美伊双方互相发出警告并实施打击，局势无缓和迹象。油价应声上涨。",
+        "url": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "瑞典大选结果胶着，左翼阵营以微弱优势领先",
+        "summary": "超过90%选票已清点，左翼阵营领先约2万票，选举结果仍难以判定。",
+        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "俄罗斯袭击乌克兰火车站，鲍里斯·约翰逊刚离开",
+        "summary": "俄罗斯对波兰边境附近一座乌克兰火车站发动袭击，前英国首相鲍里斯·约翰逊及欧洲高级官员刚从此站离开。约翰逊谴责普京的“扭曲逻辑”。",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "伊朗-海湾外交受挫，阿曼会谈推迟",
+        "summary": "伊朗与海湾国家在阿曼的会谈被推迟，外交进程遭遇挫折。",
+        "url": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
+        "source": "NPR"
+      },
+      {
+        "title": "中国回击Anthropic CEO限制中国AI发展的呼吁",
+        "summary": "中国外交部驳斥Anthropic CEO关于中国AI发展危险的警告，称其为“散布恐慌”。中美领导人将于本月晚些时候在华盛顿会晤。",
+        "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "墨西哥锡那罗亚州数千人抗议卡特尔暴力",
+        "summary": "锡那罗亚卡特尔两个敌对派系爆发冲突以来，库利亚坎暴力事件激增，数千人走上街头要求结束暴力。",
+        "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "特朗普指责乌克兰推高柴油价格",
+        "summary": "特朗普呼吁乌克兰停止袭击俄罗斯炼油厂，称这些攻击导致柴油短缺和价格上涨。",
+        "url": "https://abcnews.com/video/136410719/",
+        "source": "ABC News"
+      },
+      {
+        "title": "非洲首富Dangote炼油厂启动非洲最大IPO",
+        "summary": "Aliko Dangote的尼日利亚炼油业务公开上市，有望成为非洲史上最大IPO，其个人净资产可能因此增长三分之二至近600亿美元。",
+        "url": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
+        "source": "Guardian"
+      },
+      {
+        "title": "摩根大通双级上调数据中心股票评级",
+        "summary": "摩根大通将一只与英伟达达成交易的数据中心AI基础设施股票从“减持”双级上调至“增持”。",
+        "url": "https://www.cnbc.com/2026/09/14/jpmorgan-double-upgraded-a-data-center-stock-that-struck-a-deal-with-nvidia.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "微软为未来AI模型设定限制",
+        "summary": "在行业整体放缓前沿开发的背景下，微软为未来AI模型设定限制，以展示其负责任AI的立场。",
+        "url": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "OpenAI CEO Altman详解AI行业为何要放缓：“我们可能失去控制”",
+        "summary": "Sam Altman详细阐述了AI安全框架和放缓机制如何运作，行业正团结一致表达担忧。",
+        "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI放缓呼吁对Anthropic即将到来的IPO意味着什么",
+        "summary": "在Anthropic与潜在投资者会面筹备历史性上市之际，CEO Dario Amodei却在推动AI放缓，形成微妙平衡。",
+        "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普称无需更多AI监管，抨击Anthropic CEO",
+        "summary": "在Anthropic CEO Dario Amodei紧急呼吁AI放缓后，特朗普公开抨击其立场，称不需要更多AI监管。",
+        "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美联储利率决议",
+        "summary": "美联储将于本周公布利率决定，10年期美债收益率已突破5%，市场高度关注政策信号。",
+        "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "瑞典大选最终结果",
+        "summary": "瑞典大选计票接近完成，左翼阵营以约2万票微弱领先，最终结果仍待确认。",
+        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "中美领导人华盛顿会晤筹备",
+        "summary": "中美领导人预计本月晚些时候在华盛顿会晤，AI竞争与贸易议题预计成为焦点。",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "AI行业领袖联合呼吁放缓开发，科技股承压下跌",
+      "direction": "看空",
+      "asset_impact": "/ES, QQQ, NVDA",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "10年期美债收益率突破5%创三年新高，美联储决议前市场紧张",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES, TLT",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "伊朗击落美军无人机，霍尔木兹海峡紧张局势升级",
+      "direction": "看多",
+      "asset_impact": "USO, GLD, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普呼吁乌克兰停止袭击俄炼油厂，柴油价格成焦点",
+      "direction": "中性",
+      "asset_impact": "USO, 柴油期货",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国回击Anthropic CEO言论，中美AI竞争升温",
+      "direction": "看空",
+      "asset_impact": "FXI, KWEB, USDCNH",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "瑞典大选结果胶着，左翼微弱领先",
+      "direction": "中性",
+      "asset_impact": "EURSEK, 瑞典国债",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Dangote炼油厂启动非洲最大IPO，尼日利亚资产受关注",
+      "direction": "看多",
+      "asset_impact": "尼日利亚股市, 非洲相关ETF",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "摩根大通双级上调数据中心AI股票评级",
+      "direction": "看多",
+      "asset_impact": "AI基础设施个股",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
