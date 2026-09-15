@@ -1,0 +1,202 @@
+{
+  "title": "📈 美股简报 | 2026-09-15",
+  "headline": "10年期美债收益率突破5%叠加美联储加息预期升温，AI板块因行业领袖呼吁放缓而承压，油价因中东冲突逼近108美元",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "10年期美债收益率突破5%，创2007年以来最高",
+        "summary": "美国国债抛售加深，10年期国债收益率升至5%以上，为2007年以来最高水平。交易员定价本周加息概率超过92%，12月再次加息概率超过75%。股指期货走低，布伦特原油升至108美元/桶。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "AI行业领袖呼吁放缓，科技股承压",
+        "summary": "Anthropic联合创始人等AI行业领袖警告AI模型可能实现递归自我改进，呼吁放缓开发。纳斯达克周一收盘下跌147点。特朗普总统将AI安全担忧称为'骗局'，拒绝加强监管的呼吁。",
+        "url": "https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "油价延续涨势，布伦特原油逼近108美元",
+        "summary": "胡塞武装对沙特阿拉伯发动新一轮袭击，伊朗在波斯湾攻击船只，油价延续涨势。即期原油溢价扩大，市场对全球供应中断的担忧加剧。",
+        "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "软件股历史性跑赢芯片股",
+        "summary": "CrowdStrike和Palo Alto Networks领涨软件板块，软件行业以历史性幅度跑赢芯片板块。在AI担忧加剧的背景下，资金从半导体轮动至软件。",
+        "url": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "芯片股从AI安全标的变为市场痛点",
+        "summary": "芯片股此前被视为AI的安全投资标的，如今已转变为市场的'痛点交易'。AI开发放缓不一定削减支出，但半导体投资者可能需要采取更谨慎的态度。",
+        "url": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "AI末日担忧在股市最糟糕的时刻到来",
+        "summary": "AI交易的最新裂痕出现在投资者面临美债收益率飙升和美联储加息预期的关键时刻，市场情绪脆弱。",
+        "url": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "AI领袖呼吁放缓但华尔街继续买入",
+        "summary": "关于AI可能毁灭人类的讨论令部分股票受损、另一些受益，主要美国股指小幅走低。华尔街对AI的买入热情与行业领袖的警告形成分歧。",
+        "url": "https://www.wsj.com/finance/stocks/ai-leaders-are-calling-for-a-slowdown-but-wall-street-keeps-on-buying-7c671903?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "Arista Networks获看好：AI网络和EOS驱动多年增长",
+        "summary": "Seeking Alpha分析文章指出Arista Networks的AI网络差异化优势和园区扩展支持多年增长。",
+        "url": "https://seekingalpha.com/article/4946344-arista-networks-ai-networking-eos-differentiation-and-campus-expansion-support-multi-year-growth?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "芯片股成为市场痛点交易",
+        "summary": "芯片股此前被视为AI的安全投资，现已转变为市场的'痛点交易'。AI开发放缓不一定削减支出，但半导体投资者可能需要更谨慎。",
+        "url": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "软件股历史性跑赢芯片股",
+        "summary": "CrowdStrike和Palo Alto Networks领涨软件板块，软件行业以历史性幅度跑赢芯片板块，显示资金从半导体轮出。",
+        "url": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "美联储面临艰难抉择，经济学家警告可能犯错",
+        "summary": "部分知名经济学家呼吁美联储在加息前等待，担心经济表面之下可能脆弱。交易员定价本周加息概率超过92%，12月再次加息概率超过75%。",
+        "url": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "特朗普拒绝AI监管呼吁，称安全担忧为'骗局'",
+        "summary": "特朗普总统将AI安全担忧称为'骗局'，拒绝行业领袖加强监管的呼吁。Anthropic联合创始人Jack Clark对BBC表示AI'终止开关'可能需要强制实施。",
+        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国制裁俄罗斯VTB银行，加大对伊朗施压",
+        "summary": "美国财政部对俄罗斯VTB银行实施额外制裁，旨在迫使外国银行切断与该机构的联系，作为对伊朗施压行动的一部分。",
+        "url": "https://www.wsj.com/finance/regulation/u-s-sanctions-russian-bank-in-latest-target-for-campaign-against-iran-080a1422?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "中国8月零售销售不及预期，投资下滑加深",
+        "summary": "中国8月零售销售增长进一步放缓且不及预期，投资下滑加深，工业产出则超出预期。北京警告供需失衡问题。",
+        "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美联储加息决议临近，市场定价概率超92%",
+        "summary": "美联储本周预计加息，交易员定价概率超过92%，12月再次加息概率超过75%。经济学家警告可能犯错，市场波动性预计持续。",
+        "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中东冲突升级，油价逼近108美元",
+        "summary": "胡塞武装袭击沙特阿拉伯，伊朗在波斯湾攻击船只，油价延续涨势。即期原油溢价扩大，全球供应中断风险上升。",
+        "url": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "AI泡沫担忧加剧，部分经济学家称正在漏气",
+        "summary": "部分华尔街分析师认为AI驱动的股市繁荣可能即将结束。AI行业领袖呼吁放缓开发，与华尔街持续买入形成分歧。",
+        "url": "https://www.cbsnews.com/news/ai-bubble-leaking-air-economists-investors/",
+        "source": "CBS MoneyWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "10年期美债收益率突破5%，创2007年以来最高，加息预期升温",
+      "direction": "看空",
+      "asset_impact": "TLT, SPY, QQQ",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美联储本周加息概率超92%，12月再次加息概率超75%",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, GLD",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI行业领袖呼吁放缓开发，纳斯达克周一下跌147点",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD, SOXX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "软件股历史性跑赢芯片股，资金从半导体轮出",
+      "direction": "看多",
+      "asset_impact": "CRWD, PANW, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "胡塞武装袭击沙特，伊朗攻击波斯湾船只，布伦特原油逼近108美元",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, ERX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普称AI安全担忧为'骗局'，拒绝加强监管",
+      "direction": "看多",
+      "asset_impact": "NVDA, MSFT, GOOGL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国制裁俄罗斯VTB银行，加大对伊朗施压",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国8月零售销售不及预期，投资下滑加深",
+      "direction": "看空",
+      "asset_impact": "FXI, KWEB, ASHR",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "经济学家警告美联储可能犯下严重错误，呼吁等待",
+      "direction": "中性",
+      "asset_impact": "SPY, TLT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI泡沫担忧加剧，部分分析师认为涨势即将结束",
+      "direction": "看空",
+      "asset_impact": "NVDA, QQQ, SOXX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
