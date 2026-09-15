@@ -1,0 +1,182 @@
+{
+  "title": "🌍 全球简报 | 2026-09-15",
+  "headline": "霍尔木兹海峡油轮遇袭推升油价与美债收益率，北约在立陶宛击落无人机，AI 概念股因行业领袖呼吁放缓而重挫。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "霍尔木兹海峡油轮遇袭，两名船员失踪",
+        "summary": "一艘油轮在霍尔木兹海峡遭袭起火，阿曼称两名船员失踪。伊朗称船只触雷，美国则称其遭导弹和无人机打击。特朗普表示美国对与伊朗达成协议持开放态度。",
+        "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "北约战机在立陶宛击落无人机",
+        "summary": "两架意大利台风战机在北约指挥下击落一架进入立陶宛领空的无人机，当局称其可能来自白俄罗斯。北约秘书长吕特称俄罗斯行为日益鲁莽。",
+        "url": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+        "source": "NPR"
+      },
+      {
+        "title": "AI 相关股票大跌，科技领袖呼吁放缓开发",
+        "summary": "Anthropic、OpenAI 和 SpaceX 的负责人呼吁放缓“鲁莽”的 AI 开发，AI 相关股票周一应声下跌。特朗普将加强 AI 管控的呼吁斥为“病态阴谋论”。",
+        "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+        "source": "Guardian"
+      },
+      {
+        "title": "10 年期美债收益率升至 2007 年以来最高",
+        "summary": "美国国债抛售加深，投资者日益预期本周将加息。CNBC 调查显示，美联储预计将在未来一年内至少加息两次。",
+        "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "丹麦称俄罗斯军舰向军用直升机发射照明弹",
+        "summary": "丹麦首相指责俄罗斯行为“鲁莽”，克里姆林宫尚未置评。",
+        "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "美国首次确认已部署太空武器",
+        "summary": "美国空军部长表示，这些武器是防御敌方行动所必需的。",
+        "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "伊朗外长将赴中国会谈，五角大楼披露战争财务成本",
+        "summary": "伊朗外长阿拉格奇将于周三访问中国。五角大楼同时披露了与伊朗冲突相关的弹药和飞机成本。",
+        "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "荷兰铁路遭疑似破坏，多条线路中断",
+        "summary": "周二多个地点发现轨道上有物体，导致列车取消或延误。",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "CNBC 调查：美联储未来一年至少加息两次",
+        "summary": "约四分之三的受访者认为通胀问题比能源价格更广泛，油价上涨是改变预期的主要原因。",
+        "url": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "富国银行警告股市可能即将大幅下跌",
+        "summary": "富国银行对股市能否从当前水平继续走高持怀疑态度。",
+        "url": "https://www.cnbc.com/2026/09/15/a-sharp-stock-market-decline-could-lie-around-the-corner-wells-f",
+        "source": "CNBC"
+      },
+      {
+        "title": "巴拿马运河因厄尔尼诺干旱再度削减通行量",
+        "summary": "运河计划再次削减海上交通，进一步堵塞这条全球最重要的航运通道之一。运河处理全球 5% 的海上贸易。",
+        "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+        "source": "Guardian"
+      },
+      {
+        "title": "非洲首富丹格特炼油厂启动非洲最大 IPO",
+        "summary": "尼日利亚炼油业务公开上市可能使丹格特的净资产增加三分之二，至近 600 亿美元。",
+        "url": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
+        "source": "Guardian"
+      }
+    ],
+    "科技": [
+      {
+        "title": "特朗普称 AI 安全担忧是“骗局”，拒绝加强保障",
+        "summary": "Anthropic 联合创始人杰克·克拉克此前对 BBC 表示，AI“终止开关”可能需要强制实施。",
+        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "桑德斯与班农将同台推动限制 AI",
+        "summary": "美国政治两极人物将在华盛顿“亲人类大会”上共同呼吁国会加快行动，遏制 AI 的影响。",
+        "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+        "source": "NPR"
+      },
+      {
+        "title": "特斯拉 Cybercab 禁止 13 岁以下儿童乘坐",
+        "summary": "Cybercab 在奥斯汀推出，无方向盘和踏板，但隐藏的年龄限制和缺失的安全功能可能令乘客震惊。",
+        "url": "https://www.foxnews.com/tech/tesla-cybercab-bars-kids-under-13-scrutiny-grows",
+        "source": "Fox News"
+      },
+      {
+        "title": "NASA 匆忙撤离工程师，或危及未来太空任务",
+        "summary": "NASA 员工表示，在机构过去数月突然搬迁期间，他们丢失了制造精密航天器所需的关键设备和人员。",
+        "url": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "伊朗外长阿拉格奇访问中国",
+        "summary": "伊朗外长将于周三访问中国，与北京官员会谈。",
+        "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储利率决议",
+        "summary": "市场普遍预期美联储本周将加息，10 年期美债收益率已升至 2007 年以来最高。",
+        "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "霍尔木兹海峡油轮遇袭，地缘风险溢价上升",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储加息预期升温，10 年期美债收益率升至 2007 年以来最高",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI 行业领袖呼吁放缓开发，AI 概念股承压",
+      "direction": "看空",
+      "asset_impact": "/ES, QQQ",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "北约在立陶宛击落无人机，俄罗斯与北约紧张升级",
+      "direction": "看多",
+      "asset_impact": "GLD, EURUSD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "巴拿马运河因干旱再度削减通行量，航运成本上升",
+      "direction": "看多",
+      "asset_impact": "USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "富国银行警告股市可能大幅下跌",
+      "direction": "看空",
+      "asset_impact": "/ES, VIX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普政府推动废除拜登时期碳污染标准",
+      "direction": "中性",
+      "asset_impact": "USO",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
