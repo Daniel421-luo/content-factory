@@ -1,0 +1,178 @@
+{
+  "title": "🌍 全球简报 | 2026-09-16",
+  "headline": "美联储三年来首次加息在即，欧盟提议加拿大成为首个准成员国，沙特指控胡塞武装袭击麦加。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美联储预计三年来首次加息",
+        "summary": "市场预期美联储今日将基准利率上调25个基点，交易员押注概率超过90%。这是三年来首次加息，旨在应对顽固通胀。",
+        "url": "https://www.cnbc.com/2026/09/16/fed-meeting-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "欧盟提议加拿大成为首个准成员国",
+        "summary": "欧盟委员会主席冯德莱恩周三提议让加拿大成为欧盟首个准成员国。在特朗普关税压力下，加拿大正寻求与欧洲建立更紧密关系。",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
+        "source": "NPR"
+      },
+      {
+        "title": "沙特称击落胡塞武装无人机，指控其试图袭击麦加",
+        "summary": "沙特阿拉伯称在麦加以南击落一架胡塞武装无人机，指责伊朗支持的胡塞武装试图攻击伊斯兰圣城。胡塞武装否认 targeting 麦加。",
+        "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "加沙战争受损建筑倒塌致21人死亡",
+        "summary": "加沙一栋去年遭以色列空袭的建筑倒塌，救援人员称已造成21人死亡，其中包括8名儿童。约10个家庭曾居住于此，数十人仍被埋在废墟下。",
+        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "五角大楼监察长确认伊朗战争导致美国弹药短缺",
+        "summary": "五角大楼监察长发现美国在伊朗战争中存在弹药短缺和补给瓶颈，尽管特朗普总统声称美国供应“几乎无限”。",
+        "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "科索沃前总统塔奇因战争罪被判25年",
+        "summary": "欧盟支持的法院判定科索沃前总统哈希姆·塔奇在独立战争期间犯下战争罪，判处其25年监禁。",
+        "url": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
+        "source": "NPR"
+      },
+      {
+        "title": "美国对部分南非人实施签证限制",
+        "summary": "美国宣布对部分南非人实施签证限制，特朗普政府继续声称南非政府存在针对白人的种族歧视。此举基于特朗普关于“白人种族灭绝”的不实指控。",
+        "url": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
+        "source": "Guardian"
+      },
+      {
+        "title": "萨赫勒地区伊斯兰极端暴力今年将创历史新高",
+        "summary": "冲突监测机构汇编的数据显示，与基地组织和伊斯兰国有关联的团体发动一系列攻势后，非洲萨赫勒地区的伊斯兰极端暴力事件将创下历史新高。",
+        "url": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "新西兰主权财富基金警告美股即将回调",
+        "summary": "全球表现最佳的主权财富基金之一——新西兰540亿美元养老基金警告美国股市面临回调风险。该基金在截至6月的一年中回报率为14.2%。",
+        "url": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "J.B. Hunt股价暴跌10%，警告三季度盈利下滑",
+        "summary": "J.B. Hunt股价周三暴跌超过10%，此前该公司警告第三季度盈利将下降5%至10%。",
+        "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普牛肉进口计划冲击红州牧场主",
+        "summary": "红州牧场主表示，特朗普的30万公吨牛肉进口计划导致市场波动，每头牛给他们造成重大损失。",
+        "url": "https://www.foxnews.com/politics/trumps-beef-import-scheme-wreaks-havoc-fed-up-red-state-cattle-ranchers",
+        "source": "Fox News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "OpenAI投资者就新一轮融资接洽公司",
+        "summary": "OpenAI投资者已就新一轮融资接洽该公司。OpenAI正准备明年进行备受期待的IPO，此前已于6月秘密提交招股说明书。",
+        "url": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "OpenAI CEO称世界“有权害怕”但应信任AI公司",
+        "summary": "萨姆·奥尔特曼和其他科技CEO表示，存在限制AI发展的激励因素。随着对AI威胁人类担忧的加剧，他们呼吁公众信任AI公司。",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "AI生成政治广告在竞选季泛滥",
+        "summary": "数据显示，今年许多候选人采用AI来提升自身形象并贬低对手。但AI广告能否真正推动选民投票尚不清楚。",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5953990/ai-political-ads-2026-midterms",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美联储利率决议及新闻发布会",
+        "summary": "美联储将于北京时间周四凌晨公布利率决议，市场普遍预期加息25个基点。主席新闻发布会将提供未来政策路径指引。",
+        "url": "https://www.cnbc.com/2026/09/16/fed-meeting-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国参议院卫生官员提名确认听证会",
+        "summary": "参议院卫生委员会周三举行听证会，审议包括卫生局局长在内的三名高级卫生官员提名。妮可·萨菲尔博士是特朗普第三次提名的卫生局局长人选。",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美联储三年来首次加息，市场押注概率超90%",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES, GLD",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "欧盟提议加拿大成为首个准成员国，美加关系趋冷",
+      "direction": "中性",
+      "asset_impact": "USDCAD, FXI",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "沙特指控胡塞武装袭击麦加，中东紧张局势升级",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "五角大楼确认伊朗战争导致弹药短缺",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "新西兰主权财富基金警告美股回调风险",
+      "direction": "看空",
+      "asset_impact": "/ES, VIX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国对部分南非人实施签证限制，地缘摩擦加剧",
+      "direction": "中性",
+      "asset_impact": "USDZAR",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "OpenAI投资者接洽新一轮融资，IPO预期升温",
+      "direction": "看多",
+      "asset_impact": "QQQ",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普牛肉进口计划引发市场波动，农产品价格承压",
+      "direction": "看空",
+      "asset_impact": "USO, DBA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
