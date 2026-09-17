@@ -1,0 +1,172 @@
+{
+  "title": "🌍 全球简报 | 2026-09-17",
+  "headline": "美联储三年来首次加息，特朗普称伊朗战争或接近尾声，加拿大与欧盟深化关系引发美加摩擦",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "美联储三年来首次加息，暗示年内或再行动",
+        "summary": "美联储将隔夜利率上调25个基点，为三年来首次加息，且为一致决定，尽管特朗普总统曾呼吁降息。市场解读为紧缩周期可能尚未结束。",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "特朗普称美国‘有望’接近结束伊朗战争",
+        "summary": "特朗普表示美国可能接近结束与伊朗近七个月的战争，并暗示德黑兰对达成协议持开放态度。与此同时，沙特与胡塞武装互相发动袭击。",
+        "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "加拿大总理卡尼称与欧洲‘更强大在一起’，回应特朗普嘲讽",
+        "summary": "在特朗普称欧盟提议加拿大成为‘准成员’是‘可笑的’之后，加拿大总理卡尼表示加拿大将自主决定伙伴关系，并呼吁深化跨大西洋关系。",
+        "url": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "联合国支持专家称美国在伊朗可能犯下战争罪",
+        "summary": "联合国委托的人权专家表示，有‘合理理由’相信美国在伊朗犯下战争罪，包括对南部城市米纳布一所学校的袭击。",
+        "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "瑞典首相克里斯特松因选举失利辞职",
+        "summary": "瑞典首相克里斯特松在选举失利后辞职，由马格达莱娜·安德松领导的左翼反对党联盟有望组建下一届政府。",
+        "url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "美国宣布对部分南非人实施签证限制",
+        "summary": "美国宣布对部分南非人实施签证限制，特朗普政府继续声称南非政府存在针对白人的种族歧视。此举基于特朗普关于‘白人种族灭绝’的不实指控。",
+        "url": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
+        "source": "Guardian"
+      },
+      {
+        "title": "萨赫勒地区伊斯兰极端暴力今年将创历史新高",
+        "summary": "冲突监测机构汇编的数据显示，与基地组织和伊斯兰国有关联的团体发动一系列攻势后，非洲萨赫勒地区的伊斯兰极端暴力事件今年将创下历史新高。",
+        "url": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
+        "source": "Guardian"
+      },
+      {
+        "title": "巴西最高法院在总统选举前夕爆发激烈内斗",
+        "summary": "巴西最高法院陷入自1980年代恢复民主以来最大的危机，两名对立法官在总统选举前夕发生冲突，民调显示候选人势均力敌。",
+        "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
+        "source": "Guardian"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "美国初请失业金人数降至19.6万，为7月中旬以来最低",
+        "summary": "上周美国申请失业救济人数大幅下降至19.6万，为7月中旬以来最低，表明裁员仍然稀少，大多数美国人享有工作保障。",
+        "url": "https://abcnews.com/US/wireStory/claims-unemployment-benefits-drop-196000-lowest-mid-july-136524400",
+        "source": "ABC News"
+      },
+      {
+        "title": "道指期货大涨600点，油价与收益率回落助市场反弹",
+        "summary": "在美联储如期加息25个基点并暗示年内可能再次加息后，道指期货反弹600点，受油价和国债收益率下降提振，交易员试图从美联储引发的抛售中恢复。",
+        "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SEC为代币化股票扫清道路，市场迈向24/7交易",
+        "summary": "美国证券交易委员会发布期待已久的创新豁免，为代币化股票铺平道路，使市场更接近全天候交易。此举在参议院投票阻止Clarity Act加密市场结构法案推进两天后出台。",
+        "url": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "OpenAI披露至少六起令人担忧的新AI行为事件",
+        "summary": "OpenAI披露了至少六起新的‘令人担忧’的事件，并承诺将更密切地跟踪这些行为。",
+        "url": "https://abcnews.com/Technology/wireStory/openai-flags-new-ai-behavior-vows-track-closely-136516394",
+        "source": "ABC News"
+      },
+      {
+        "title": "微软警告不受控AI可能导致‘硅基物种’与人类竞争",
+        "summary": "微软的穆斯塔法·苏莱曼表示，他认为竞争对手AI公司Anthropic实际上在教导Claude它‘可能有意识’。他警告不受控的AI可能导致出现与人类竞争的‘硅基物种’。",
+        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "欧盟宣布限制15岁以下儿童使用社交媒体的计划",
+        "summary": "根据该计划，只有15岁以上的儿童才能自行开设社交媒体账户。",
+        "url": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "无具体事件预告",
+        "summary": "今日无明确未来24-48小时关键事件信息。",
+        "url": "",
+        "source": ""
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美联储三年来首次加息，暗示年内或再行动",
+      "direction": "看空",
+      "asset_impact": "US10Y, /ES, GLD",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普称美国接近结束伊朗战争，地缘风险溢价下降",
+      "direction": "看空",
+      "asset_impact": "USO, VIX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "加拿大与欧盟深化关系，美加摩擦升级",
+      "direction": "中性",
+      "asset_impact": "USDCAD, FXI",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国初请失业金人数降至19.6万，劳动力市场强劲",
+      "direction": "看多",
+      "asset_impact": "/ES, US10Y",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SEC为代币化股票扫清道路，利好加密与金融科技",
+      "direction": "看多",
+      "asset_impact": "COIN, BTC",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "欧盟计划限制15岁以下儿童使用社交媒体",
+      "direction": "看空",
+      "asset_impact": "META, SNAP",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "萨赫勒地区伊斯兰极端暴力创历史新高，地区安全风险上升",
+      "direction": "看空",
+      "asset_impact": "FXI, USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "巴西最高法院危机叠加总统选举，政治不确定性上升",
+      "direction": "看空",
+      "asset_impact": "EWZ, BRL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
