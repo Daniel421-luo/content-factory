@@ -1,0 +1,74 @@
+{
+  "title": "🤖 AI 日报 | 2026-09-18",
+  "headline": "华为计划2027年初推出新一代AI芯片挑战英伟达，同时谷歌、英伟达、Anthropic联合成立Emerald AI以解决数据中心电网容量问题。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "华为计划2027年初推出新一代AI芯片Ascend 960DT，挑战英伟达",
+        "summary": "华为加速推出下一代Ascend 960DT AI芯片，旨在与英伟达竞争并缩小中国在AI算力上与美国的差距。",
+        "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic将Claude聊天与Cowork合并，并推出Claude Docs",
+        "summary": "Anthropic将Claude聊天和Cowork功能整合，同时推出全新的Claude Docs，简化用户体验。",
+        "url": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Roku推出Labs中心，将实验性应用带上大屏幕",
+        "summary": "Roku最新OS更新引入Roku Labs，一个实验性应用中心，并在更多市场推出个性化主页和流媒体订阅捆绑包。",
+        "url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "苹果被曝正为AI构建搭载M系列Ultra芯片的服务器",
+        "summary": "苹果据报道正在开发一款搭载M系列Ultra芯片的服务器，计划2029年推出，这可能是苹果几十年来首款企业级服务器。",
+        "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+        "source": "Ars Technica"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "谷歌、英伟达、Anthropic联合成立Emerald AI，为数据中心寻找电网容量",
+        "summary": "新联盟Emerald AI旨在为新建数据中心寻找100吉瓦的电网容量，以应对AI算力激增带来的能源挑战。",
+        "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lucid Motors与Bolt合作，探索欧洲Robotaxi市场",
+        "summary": "Lucid Motors与出行平台Bolt合作，可能成为其欧洲Robotaxi合作伙伴，但目前尚未下达车辆订单。",
+        "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "研究人员将人类脑细胞移植到小鼠皮层，但效果有限",
+        "summary": "一项研究将人类脑细胞替换小鼠皮层，但结果显示仅比完全缺失该脑区略有改善，引发伦理和科学讨论。",
+        "url": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "微软AI CEO称AI威胁真实存在，并指责Anthropic加剧问题",
+        "summary": "微软AI CEO Mustafa Suleyman在播客中表示AI安全威胁真实，并批评Anthropic在监管辩论中的立场。",
+        "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+        "source": "The Verge"
+      },
+      {
+        "title": "全球调查显示人们普遍担心AI摧毁就业",
+        "summary": "皮尤研究中心对37个国家4.2万人的调查显示，多数受访者认为AI将导致失业，并加剧收入不平等。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+        "source": "The Verge"
+      },
+      {
+        "title": "欧盟拟立法限制儿童使用聊天机器人",
+        "summary": "欧盟AI Kids Act旨在限制面向未成年人的聊天机器人功能，ChatGPT、Character.ai和Snapchat的My AI可能受到影响。",
+        "url": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
