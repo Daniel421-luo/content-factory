@@ -1,0 +1,214 @@
+{
+  "title": "📈 美股简报 | 2026-09-18",
+  "headline": "美联储加息后市场情绪修复，AI与芯片股强势反弹，但油价三连跌与地缘风险仍构成扰动",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "股指期货在美联储加息后企稳",
+        "summary": "周四美股在美联储三年多来首次加息后反弹，主要股指收涨，盘前期货变动不大，市场继续消化加息影响。",
+        "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "标普500与纳指创六周最大单日涨幅",
+        "summary": "投资者重新转向科技与AI板块，标普500和纳斯达克综合指数录得六周来最大单日涨幅，10年期美债收益率在油价回落后跌破5%。",
+        "url": "https://www.wsj.com/finance/investing/the-s-p-500-and-nasdaq-post-biggest-gains-in-six-weeks-d3ccd84e?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "油价连续第三日下跌，美油一度跌破100美元",
+        "summary": "沙特额外原油供应缓解了供应中断担忧，油价周五继续走低，美国原油盘中一度跌破每桶100美元。",
+        "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+        "source": "CNBC"
+      }
+    ],
+    "板块轮动": [
+      {
+        "title": "AI与科技股重获资金青睐",
+        "summary": "投资者从通胀担忧中回神，重新买入AI相关股票，推动标普500和纳指创六周最大单日涨幅。",
+        "url": "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5?mod=rss_markets_main",
+        "source": "WSJ"
+      },
+      {
+        "title": "芯片股延续强势反弹",
+        "summary": "美光、英特尔等芯片股继续强劲反弹，投资者对AI支出放缓和加息的担忧正在消退。",
+        "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "私募股权面临加息压力",
+        "summary": "美联储加息预计将令本已难以出售资产和返还现金的私募股权基金雪上加霜。",
+        "url": "https://www.wsj.com/finance/investing/rising-rates-will-make-private-equitys-bad-year-a-lot-worse-255daf59?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "特斯拉产品密集发布期或令投资者失望",
+        "summary": "专家指出，Robotaxi进展慢于预期仍是主要担忧，特斯拉即将到来的产品潮可能无法满足市场期待。",
+        "url": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "塔吉特借宝可梦30周年庆吸引客流",
+        "summary": "瑞穗分析师指出，宝可梦30周年卡牌套装引发排队和售罄，塔吉特有望从中受益。",
+        "url": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "芯片股强势反弹，美光与英特尔领涨",
+        "summary": "美光、英特尔等芯片股延续强劲反弹势头，市场对AI支出放缓及加息的担忧缓解。",
+        "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "SK海力士被视为AI系统共同架构师",
+        "summary": "Seeking Alpha分析指出SK海力士在AI系统中扮演共同架构师角色，具备较强超额收益潜力。",
+        "url": "https://seekingalpha.com/article/4947748-sk-hynix-co-architect-of-ai-systems-with-strong-alpha-potential?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "英特尔评论带动芯片股大涨",
+        "summary": "WSJ报道称，英特尔的评论推动芯片股飙升，同时SEC为代币化股票交易扫清障碍。",
+        "url": "https://www.wsj.com/finance/stocks/stocks-rally-shaking-off-feds-rate-hike-aebb2c0b?mod=rss_markets_main",
+        "source": "WSJ"
+      }
+    ],
+    "宏观与政策": [
+      {
+        "title": "日本央行加息至31年新高",
+        "summary": "日本央行以7比2的投票结果加息，两名委员反对，央行同时对通胀表示担忧。",
+        "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日本市场反应反常：日元走弱、日经上涨",
+        "summary": "加息后日元兑美元跌破157，10年期日本国债收益率下滑，日经225指数上涨1.5%。",
+        "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国央行维持利率不变但暗示可能加息",
+        "summary": "英国央行连续第六次维持利率不变，但表示高能源价格使未来加息可能性上升。",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "特朗普政府推进向沙特出售243亿美元战机",
+        "summary": "在胡塞武装升级对沙特袭击并寻求控制曼德海峡之际，特朗普政府推进向沙特出售价值243亿美元的战斗机。",
+        "url": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "特朗普-习近平会晤或引发市场波动",
+        "summary": "Seeking Alpha警告，特朗普与习近平的高风险会晤可能引发市场波动，投资者需做好准备。",
+        "url": "https://seekingalpha.com/article/4947746-the-high-stake-trump-xi-meeting-brace-for-volatility?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "华尔街对伊朗的TACO交易可能失效",
+        "summary": "过去六个月投资者押注特朗普在伊朗问题上总会退让，但9月这一策略开始失效，若继续失效可能引发市场动荡。",
+        "url": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "美国汽油和柴油价格飙升",
+        "summary": "伊朗战争和俄乌冲突导致全球炼油产能受损，分析师称美国司机短期内看不到油价缓解迹象。",
+        "url": "https://www.cbsnews.com/news/gas-prices-diesel-rising-overseas-wars/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "10年期美债经历百年来最差走势",
+        "summary": "10年期美债收益率持续攀升，创下百年来最差连跌纪录，但部分投资者仍选择买入债券。",
+        "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美联储加息后市场情绪修复，AI与科技股获资金回流",
+      "direction": "看多",
+      "asset_impact": "QQQ, NVDA, MSFT",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "芯片股延续强势反弹，美光与英特尔领涨",
+      "direction": "看多",
+      "asset_impact": "MU, INTC, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "油价连续第三日下跌，美油一度跌破100美元",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "日本央行加息至31年新高，日元走弱日经上涨",
+      "direction": "中性",
+      "asset_impact": "EWJ, FXY",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普-习近平会晤临近，市场波动风险上升",
+      "direction": "看空",
+      "asset_impact": "FXI, KWEB, SPY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特斯拉Robotaxi进展慢于预期，产品潮或令投资者失望",
+      "direction": "看空",
+      "asset_impact": "TSLA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "私募股权面临加息压力，资产出售与现金返还难度加大",
+      "direction": "看空",
+      "asset_impact": "BX, KKR, APO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国汽油和柴油价格因战争导致的炼油产能受损而飙升",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, VLO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "10年期美债收益率攀升至5%附近，债券投资者仍选择买入",
+      "direction": "中性",
+      "asset_impact": "TLT, IEF",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SK海力士被视为AI系统共同架构师，具备超额收益潜力",
+      "direction": "看多",
+      "asset_impact": "SOXX, NVDA",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
