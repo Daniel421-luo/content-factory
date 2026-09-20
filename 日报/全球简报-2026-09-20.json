@@ -1,0 +1,190 @@
+{
+  "title": "🌍 全球简报 | 2026-09-20",
+  "headline": "乌克兰发动战争以来最大规模无人机与导弹袭击莫斯科，击中炼油厂；德国大选投票，默茨政治前途面临考验。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "乌克兰对莫斯科发动最大规模无人机与导弹袭击",
+        "summary": "莫斯科市长称俄方击落450架无人机，为首都遭遇的最大规模袭击，袭击导致两人死亡，一座炼油厂和一处住宅楼受损。泽连斯基称乌方使用了新型弹道导弹。",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "德国大选投票，默茨总理命运悬于一线",
+        "summary": "德国周日举行选举，总理默茨面临巨大政治压力，若其政党表现不佳，压力将进一步加剧。",
+        "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "北约欢迎格陵兰协议，特朗普称美国获永久安全控制",
+        "summary": "丹麦与美国在特朗普数月威胁吞并该领土后达成协议，北约对此表示欢迎，特朗普称协议将赋予美国对格陵兰的永久安全控制。",
+        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "胡塞武装称以弹道导弹袭击沙特首都利雅得",
+        "summary": "据报道，利雅得机场一处燃料库遭袭导致周六航班延误，沙特称已击落一枚瞄准首都的弹道导弹。",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美国财长贝森特与中国何立峰将就AI、贸易和关键矿产举行会谈",
+        "summary": "据路透社报道，美国财政部长贝森特与中国副总理何立峰将就人工智能、贸易及关键矿产议题举行会谈。",
+        "url": "https://www.cnbc.com/2026/09/20/bessent-chinas-he-to-hold-talks-on-ai-trade-minerals-reuters.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "智利前总统巴切莱特退出联合国秘书长竞选",
+        "summary": "智利前总统米歇尔·巴切莱特在安理会意向性投票中支持率崩溃后宣布退出联合国秘书长竞选，目前仍有七名候选人。",
+        "url": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
+        "source": "Guardian"
+      },
+      {
+        "title": "被美国驱逐男子在赤道几内亚拘留酒店遭捆绑殴打",
+        "summary": "律师称，被特朗普政府驱逐至赤道几内亚的两名男子在Bamy酒店被捆绑、头套袋子、殴打并被推下楼梯，其他人目睹了全过程，人权组织对恶劣条件表示担忧。",
+        "url": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
+        "source": "Guardian"
+      },
+      {
+        "title": "记者被拒进入白宫，特朗普封禁部分媒体机构",
+        "summary": "CNN、MS NOW和Politico的记者白宫记者证被没收，此前特朗普禁止部分媒体机构进入。",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "关税、燃料成本飙升和利率上升挤压美国企业",
+        "summary": "关税、燃料价格和利率正在挤压美国企业，尤其是制造商、汽车供应商、零售商和运输企业。",
+        "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "法国葡萄酒产量逼近70年低点，酿酒商面临艰难抉择",
+        "summary": "法国葡萄酒产业到达危机临界点，主要参与者正考虑开拓新市场。",
+        "url": "https://www.cnbc.com/2026/09/20/france-wine-production-nears-70-year-low.html",
+        "source": "CNBC World"
+      },
+      {
+        "title": "拉美投资顺风为数十年来最佳",
+        "summary": "以iShares拉美40 ETF衡量，该地区今年迄今上涨15%，跑赢标普500指数的11%涨幅。",
+        "url": "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "巴西卢拉在大选前宣布提高福利支付和免费减肥针",
+        "summary": "巴西总统卢拉宣布将主要现金转移计划提高15%，并提供免费减肥注射，批评者称此举出于选举动机，距离巴西大选仅两周。",
+        "url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+        "source": "Guardian"
+      }
+    ],
+    "科技": [
+      {
+        "title": "英伟达CEO黄仁勋成为特朗普在AI安全辩论中的首要盟友",
+        "summary": "作为全球市值最高公司的领导人，黄仁勋在AI最重要议题上赢得了特朗普的倾听。",
+        "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国为何反击美国对快速AI发展的警告",
+        "summary": "北京认为放缓呼吁旨在锁定美国优势，正寻求在安全与速度之间取得不同平衡。",
+        "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+        "source": "Guardian"
+      },
+      {
+        "title": "SpaceX路易斯安那站点附近居民对数千次计划发射和协议条款感到担忧",
+        "summary": "州官员称新SpaceX站点将带来1000亿美元投资并发射数千枚火箭，立法者帮助放宽监管，谈判受保密协议约束。",
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "德国大选结果及联合政府组建前景",
+        "summary": "德国大选投票结束，关注默茨政党表现及对欧洲政策走向的影响。",
+        "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "美中高层AI与贸易会谈后续",
+        "summary": "美国财长贝森特与中国副总理何立峰会谈，关注AI、贸易和关键矿产领域是否取得进展。",
+        "url": "https://www.cnbc.com/2026/09/20/bessent-chinas-he-to-hold-talks-on-ai-trade-minerals-reuters.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "莫斯科遇袭后俄罗斯回应及能源设施影响",
+        "summary": "乌克兰大规模袭击莫斯科并击中炼油厂，关注俄罗斯后续军事回应及对全球能源供应的潜在影响。",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "乌克兰大规模袭击莫斯科炼油厂，俄能源基础设施风险上升",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "胡塞武装袭击沙特利雅得机场燃料库，中东紧张局势加剧",
+      "direction": "看多",
+      "asset_impact": "USO, VIX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美中高层就AI、贸易和关键矿产举行会谈，贸易关系或缓和",
+      "direction": "看多",
+      "asset_impact": "FXI, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "德国大选投票，默茨政治前途不确定，欧洲政策风险上升",
+      "direction": "中性",
+      "asset_impact": "EURUSD, /ES",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国关税、燃料成本和利率挤压企业利润，制造业和运输业承压",
+      "direction": "看空",
+      "asset_impact": "/ES, US10Y",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "北约欢迎格陵兰协议，美国获永久安全控制，地缘风险溢价下降",
+      "direction": "中性",
+      "asset_impact": "GLD, EURUSD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "拉美投资顺风为数十年来最佳，区域股市跑赢标普500",
+      "direction": "看多",
+      "asset_impact": "ILF, FXI",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "巴西大选前卢拉提高福利支出，财政扩张风险上升",
+      "direction": "看空",
+      "asset_impact": "BRL, ILF",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
