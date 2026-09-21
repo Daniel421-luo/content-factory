@@ -1,0 +1,196 @@
+{
+  "title": "🌍 全球简报 | 2026-09-21",
+  "headline": "联合国大会在乌克兰与中东战火中开幕，特朗普媒体禁令引发诉讼，德国执政党州选惨败，油价跌破100美元，比特币创年内新高。",
+  "sections": {
+    "头条新闻": [
+      {
+        "title": "联合国大会开幕：战争阴影下的外交困局",
+        "summary": "世界领导人齐聚纽约参加联合国大会，乌克兰和中东战争持续，古特雷斯迎来任内最后一次大会，全球机构面临深刻分歧。",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+        "source": "NPR"
+      },
+      {
+        "title": "CNN、MS NOW、Politico起诉特朗普政府白宫禁令",
+        "summary": "三家媒体因被禁止进入白宫而起诉特朗普政府，称禁令是对第一修正案的'直接攻击'。白宫电视记者团随后暂停对特朗普活动的联合报道。",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "德国执政党州选惨败，默茨誓言维持联盟",
+        "summary": "德国总理默茨承认州选举结果对政治中间派是'灾难'，但承诺继续推进税收和福利改革议程，誓言维护'民主未来'。",
+        "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "油价跌破100美元，特朗普称愿与伊朗对话",
+        "summary": "油价周一回落至100美元/桶以下，交易员关注沙特阿拉伯供应恢复情况，同时中东紧张局势持续升级。",
+        "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "英国首相伯纳姆将在联合国首次会晤特朗普",
+        "summary": "英国首相安迪·伯纳姆将在纽约联合国大会期间与美国总统特朗普进行首次会面。",
+        "url": "https://abcnews.com/International/wireStory/britains-burnham-set-meet-trump-time-new-york-136611594",
+        "source": "ABC News"
+      },
+      {
+        "title": "马克龙与卡尼宣布加强法加关系，应对特朗普紧张局势",
+        "summary": "法国总统马克龙与加拿大总理卡尼在加拿大附近法国领土会晤，承诺在地缘政治紧张、气候变化和民主价值观侵蚀背景下加强双边关系。",
+        "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+        "source": "Guardian"
+      },
+      {
+        "title": "联合国报告：美国打击涉嫌贩毒船只或构成反人类罪",
+        "summary": "联合国报告指出，美国对涉嫌贩毒船只的至少68次打击并非自卫行为，可能构成反人类罪。",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      },
+      {
+        "title": "俄罗斯选举结果无意外，克里姆林宫如何利用成关键",
+        "summary": "普京预计将利用选举结果宣称大多数俄罗斯人支持对乌克兰的'特别军事行动'。",
+        "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC"
+      }
+    ],
+    "市场与经济": [
+      {
+        "title": "比特币突破85,000美元，创1月以来新高",
+        "summary": "比特币周一升破85,000美元，延续近日涨势，市场争论'加密寒冬'是否已经结束。",
+        "url": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储或已启动新一轮紧缩周期",
+        "summary": "美联储上周三年来首次上调隔夜利率，分析师警告这可能意味着短期内股市面临不利局面。",
+        "url": "https://www.cnbc.com/2026/09/21/a-new-fed-tightening-cycle-may-have-just-begun-if-thats-the-case-buckle-up.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美股上涨，油价和收益率回落",
+        "summary": "华尔街在经历涨跌互现的一周后，周一主要股指走高，油价和美国国债收益率回落。",
+        "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日产考虑增加美国产量，新款Rogue混动上市",
+        "summary": "日产在田纳西州Smyrna装配厂已有两班生产，增加第三班可能意味着数百甚至数千个新工作岗位。",
+        "url": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
+        "source": "CNBC"
+      }
+    ],
+    "科技": [
+      {
+        "title": "美财长贝森特：特朗普政府不会给AI领导者'责任保护盾'",
+        "summary": "贝森特在接受CNBC采访时谈及AI安全担忧以及本周中美领导人峰会。",
+        "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国为何反击美国对AI快速发展的警告",
+        "summary": "北京认为放缓呼吁旨在锁定美国优势，正在安全与速度之间寻求不同平衡。",
+        "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+        "source": "Guardian"
+      },
+      {
+        "title": "数据中心反弹正在重塑美国政治",
+        "summary": "围绕数据中心的广泛争论以惊人速度成为美国社区的分界线，跨越政党界限并形成意外联盟。",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "联合国大会一般性辩论继续",
+        "summary": "世界各国领导人将在纽约继续发表讲话，乌克兰和中东局势预计成为焦点。",
+        "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
+        "source": "NPR"
+      },
+      {
+        "title": "特朗普与伯纳姆首次会晤",
+        "summary": "英国首相伯纳姆与美国总统特朗普在联合国大会期间举行首次双边会晤。",
+        "url": "https://abcnews.com/International/wireStory/britains-burnham-set-meet-trump-time-new-york-136611594",
+        "source": "ABC News"
+      },
+      {
+        "title": "台风'杜娟'逼近日本伊豆群岛",
+        "summary": "热带风暴'杜娟'沿日本海岸移动，预计将再次增强为台风并影响伊豆群岛。",
+        "url": "https://www.theguardian.com/environment/2026/sep/21/weather-tracker-japan-typhoon-dujuan",
+        "source": "Guardian"
+      },
+      {
+        "title": "德国州选后政治格局演变",
+        "summary": "默茨在州选惨败后面临压力，关注其联盟稳定性和政策议程推进情况。",
+        "url": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "油价跌破100美元，特朗普称愿与伊朗对话，中东供应风险溢价回落",
+      "direction": "看空",
+      "asset_impact": "USO, /CL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储三年来首次加息，或启动新一轮紧缩周期",
+      "direction": "看空",
+      "asset_impact": "/ES, US10Y",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "比特币突破85,000美元创年内新高，加密市场情绪回暖",
+      "direction": "看多",
+      "asset_impact": "BTC, COIN",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "德国执政党州选惨败，政治不确定性上升",
+      "direction": "看空",
+      "asset_impact": "EURUSD, DAX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "联合国大会召开，乌克兰和中东战争持续，地缘风险维持高位",
+      "direction": "看多",
+      "asset_impact": "GLD, VIX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普政府不会给AI领导者责任保护盾，AI监管不确定性增加",
+      "direction": "中性",
+      "asset_impact": "NVDA, QQQ",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "法国与加拿大加强双边关系，应对特朗普贸易紧张",
+      "direction": "中性",
+      "asset_impact": "EURUSD, FXC",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国国债收益率回落，股市上涨，风险偏好短期改善",
+      "direction": "看多",
+      "asset_impact": "/ES, US10Y",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
