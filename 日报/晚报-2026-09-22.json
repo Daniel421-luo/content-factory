@@ -1,0 +1,222 @@
+{
+  "title": "🌙 晚报 | 2026-09-22",
+  "headline": "美威胁周三起关闭伊朗所有航空公司，油价反弹；纳斯达克创纪录新高，Meta与AI芯片股领涨，阿里发布新AI芯片。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "油价反弹，美财长警告周三起关闭伊朗所有航空公司",
+        "summary": "美国财长贝森特对CNBC表示，所有伊朗航空公司将从周三起被关闭，美方正对伊朗施加空前压力。受此影响，原油价格扭转此前跌势走高。",
+        "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "阿里巴巴港股大涨3%，发布新AI芯片并宣布全球数据中心扩建",
+        "summary": "阿里巴巴在港股上涨3%，公司发布新款AI芯片并公布大幅扩张全球数据中心产能的计划。",
+        "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "标普500逼近纪录高位，但市场广度堪忧",
+        "summary": "标普500指数接近历史新高，但约60%的成分股较其历史高点下跌超过20%，表面之下的疲软迹象明显。",
+        "url": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "纳斯达克创纪录收盘，油价下跌点燃AI股行情",
+        "summary": "纳斯达克综合指数创纪录收盘，AI股走高，原油价格下跌超过3%，风险偏好回升。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "比特币创8个月新高，释放风险偏好信号",
+        "summary": "比特币升至8个月高位，尽管加密监管框架仍不明朗，投资者对美国规则明朗化仍抱有期待。",
+        "url": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "瑞银：全球收益率高企下，亚洲新兴市场债券存机会",
+        "summary": "瑞银指出，在全球债券收益率处于高位的环境下，亚洲新兴市场债券可能提供投资机会。",
+        "url": "https://www.cnbc.com/2026/09/22/heres-where-ubs-says-to-invest-with-global-yields-elevated.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伯恩斯坦：印度大盘股困于'过时经济时代'，外资撤离",
+        "summary": "伯恩斯坦表示，印度大型企业难以自我革新，外国投资者缺乏投资理由，资金正流出印度市场。",
+        "url": "https://www.cnbc.com/2026/09/22/foreign-investors-bernstein-india-tata-reliance.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Meta股价迎13年来最佳月份，Muse AI助手下载量激增",
+        "summary": "Meta的Muse AI个人助手工具在发布后约5天和13天内分别获得73万和250万次下载，推动股价创13年来最佳月度表现。",
+        "url": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-company-s-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "派拉蒙与12州达成反垄断和解，1100亿美元华纳兄弟并购扫清障碍",
+        "summary": "派拉蒙与12位州检察长达成和解，协议包括每年制作30部电影，否则将被迫出售部分业务，为1100亿美元收购华纳兄弟探索铺平道路。",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "BNP分析师：AT&T是无线板块最明智的押注",
+        "summary": "BNP分析师对AT&T股票持积极看法，认为投资者在移动业务方面'几乎无可挑剔'。",
+        "url": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "AI与芯片股大幅领涨",
+        "summary": "AI和芯片类股票大幅走高，成为市场上涨的主要推动力。",
+        "url": "https://www.wsj.com/finance/stocks/ai-and-chip-stocks-race-ahead-5cbdea7d?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "阿里巴巴发布新AI芯片，加码数据中心建设",
+        "summary": "阿里巴巴发布新款AI芯片并宣布大幅扩张全球数据中心产能，港股股价上涨3%。",
+        "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美威胁关闭伊朗所有航空公司，胡塞武装加大对石油航线压力",
+        "summary": "美国财长贝森特表示，华盛顿正以前所未有的力度施压伊朗，所有伊朗航空公司将从周三起被关闭。与此同时，胡塞武装加大对石油运输航线的压力。",
+        "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普与习近平寻求贸易稳定，但AI、关税与伊朗问题悬而未决",
+        "summary": "特朗普在中期选举前面临经济支持率偏低的压力，有额外动力在与中国国家主席习近平的峰会上以贸易成果示人，但AI、关税和伊朗议题仍是重大障碍。",
+        "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国与格陵兰达成安全协议，获'永久安全控制权'",
+        "summary": "特朗普表示，与格陵兰和丹麦达成的协议将使美国获得对该丹麦岛屿领土的'永久安全控制权'，美方将向丹麦狗拉雪橇前哨站派遣部队并重开冷战基地。",
+        "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "加拿大不列颠哥伦比亚省起诉OpenAI，涉Tumbler Ridge校园枪击案",
+        "summary": "不列颠哥伦比亚省指控OpenAI未能向执法部门报告枪手与ChatGPT的可疑互动。",
+        "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "英国借贷激增，预算前财政大臣承压",
+        "summary": "英国8月借贷高于预期，通胀在预算案前对政府构成压力。",
+        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "美国主要机场因施工切断电缆导致航班延误",
+        "summary": "美国主要机场因施工人员切断电缆出现航班延误，交通部长表示电缆已修复，机场正恢复正常运营。",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国对伊朗航空公司关闭令周三生效",
+        "summary": "美国财长贝森特宣布所有伊朗航空公司将从周三起被关闭，市场关注油价与中东局势进一步演变。",
+        "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "联合国大会一般性辩论持续，特朗普与英国首相会晤",
+        "summary": "世界领导人齐聚联合国大会，乌克兰与海湾地区战争持续，特朗普与英国首相伯纳姆的会晤受关注。",
+        "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shootin",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国威胁周三起关闭伊朗所有航空公司，中东紧张升级",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "纳斯达克创纪录收盘，AI与芯片股领涨",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX, QQQ",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Meta的Muse AI助手下载量激增，股价创13年最佳月度表现",
+      "direction": "看多",
+      "asset_impact": "META",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "阿里巴巴发布新AI芯片并扩张数据中心，港股上涨3%",
+      "direction": "看多",
+      "asset_impact": "BABA, FXI, KWEB",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "比特币创8个月新高，风险偏好回升",
+      "direction": "看多",
+      "asset_impact": "BTC, COIN",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "派拉蒙与12州和解，1100亿美元华纳兄弟并购扫清障碍",
+      "direction": "看多",
+      "asset_impact": "PARA, WBD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "标普500逼近纪录高位但约60%成分股较历史高点跌超20%，市场广度恶化",
+      "direction": "看空",
+      "asset_impact": "SPY, RSP",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "伯恩斯坦称外资撤离印度，大盘股缺乏投资吸引力",
+      "direction": "看空",
+      "asset_impact": "INDA, EPI",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "瑞银建议在全球收益率高企下配置亚洲新兴市场债券",
+      "direction": "看多",
+      "asset_impact": "EMB, EMLC",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普与习近平峰会寻求贸易稳定，但AI与关税分歧仍大",
+      "direction": "中性",
+      "asset_impact": "FXI, KWEB, SPY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
