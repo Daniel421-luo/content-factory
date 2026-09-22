@@ -1,18 +1,16 @@
-name: 📰 三报自动生成
+name: 📰 两报自动生成
 
 permissions:
   contents: write
 
 on:
   schedule:
-    # 主 cron（3 个时段）+ 冗余 cron（防 GitHub 漏跑）
-    - cron: '0 0 * * *'     # UTC 00:00 → 北京 08:00 → 🤖 AI Daily
+    # 主 cron（2 个时段）+ 冗余 cron（防 GitHub 漏跑）
+    - cron: '0 0 * * *'     # UTC 00:00 → 北京 08:00 → 🤖 晨报·AI
     - cron: '0 4 * * *'     # UTC 04:00 → 北京 12:00 → 🔄 补报检查（AI 没跑则补）
-    - cron: '0 8 * * *'     # UTC 08:00 → 北京 16:00 → 📈 Wall Street Brief（主力）
-    - cron: '30 8 * * 1-5'  # UTC 08:30 → 北京 16:30 → 📈 冗余（仅交易日，防 08:00 漏跑）
-    - cron: '0 9 * * 1-5'   # UTC 09:00 → 北京 17:00 → 📈 二次冗余
-    - cron: '0 12 * * *'    # UTC 12:00 → 北京 20:00 → 🌍 Global Brief + 补报检查
-    - cron: '0 13 * * *'    # UTC 13:00 → 北京 21:00 → 🔄 最终补报（兜底）
+    - cron: '0 10 * * *'    # UTC 10:00 → 北京 18:00 → 🌙 晚报（市场+全球）
+    - cron: '30 10 * * 1-5' # UTC 10:30 → 北京 18:30 → 🌙 冗余（仅交易日，防 18:00 漏跑）
+    - cron: '0 11 * * *'    # UTC 11:00 → 北京 19:00 → 🔄 最终补报（兜底）
   workflow_dispatch:
     inputs:
       report_type:
@@ -21,8 +19,7 @@ on:
         type: choice
         options:
           - ai
-          - us_market
-          - global
+          - evening
 
 jobs:
   generate-report:
@@ -47,33 +44,27 @@ jobs:
 
           # 检查今天已生成的报告
           AI_EXISTS=$([ -f "日报/AI日报-${TODAY}.md" ] && echo 1 || echo 0)
-          US_EXISTS=$([ -f "日报/美股简报-${TODAY}.md" ] && echo 1 || echo 0)
-          GLOBAL_EXISTS=$([ -f "日报/全球简报-${TODAY}.md" ] && echo 1 || echo 0)
+          EVE_EXISTS=$([ -f "日报/晚报-${TODAY}.md" ] && echo 1 || echo 0)
 
-          echo "📊 已有报告: AI=$AI_EXISTS US=$US_EXISTS GLOBAL=$GLOBAL_EXISTS (北京时间 ${HOUR}:00)"
+          echo "📊 已有报告: AI=$AI_EXISTS 晚报=$EVE_EXISTS (北京时间 ${HOUR}:00)"
 
           if [ "${{ inputs.report_type }}" != "" ]; then
             # 手动触发 — 使用传入的类型
             TYPE="${{ inputs.report_type }}"
-          elif [ "$HOUR" -ge 8 ] && [ "$AI_EXISTS" -eq 0 ]; then
+          elif [ "$HOUR" -ge 8 ] && [ "$HOUR" -lt 18 ] && [ "$AI_EXISTS" -eq 0 ]; then
             TYPE="ai"                                    # 🔄 补报：AI 8点该跑没跑
-          elif [ "$HOUR" -ge 16 ] && [ "$US_EXISTS" -eq 0 ]; then
-            TYPE="us_market"                             # 🔄 补报：美股简报 16 点该跑没跑
-          elif [ "$HOUR" -ge 20 ] && [ "$GLOBAL_EXISTS" -eq 0 ]; then
-            TYPE="global"                                # 🔄 补报：全球简报 20 点该跑没跑
+          elif [ "$HOUR" -ge 18 ] && [ "$EVE_EXISTS" -eq 0 ]; then
+            TYPE="evening"                               # 🔄 补报：晚报 18 点该跑没跑
           elif [ "$HOUR" -lt 12 ]; then
             TYPE="ai"
-          elif [ "$HOUR" -lt 18 ]; then
-            TYPE="us_market"
           else
-            TYPE="global"
+            TYPE="evening"
           fi
 
           # 如果该类型今天已有报告，跳过
           case "$TYPE" in
-            ai)         [ "$AI_EXISTS" -eq 1 ] && echo "⏭️ AI 日报今天已有，跳过" && TYPE="skip" ;;
-            us_market)  [ "$US_EXISTS" -eq 1 ] && echo "⏭️ 美股简报今天已有，跳过" && TYPE="skip" ;;
-            global)     [ "$GLOBAL_EXISTS" -eq 1 ] && echo "⏭️ 全球简报今天已有，跳过" && TYPE="skip" ;;
+            ai)      [ "$AI_EXISTS" -eq 1 ]  && echo "⏭️ AI 日报今天已有，跳过" && TYPE="skip" ;;
+            evening) [ "$EVE_EXISTS" -eq 1 ] && echo "⏭️ 晚报今天已有，跳过"   && TYPE="skip" ;;
           esac
 
           echo "type=${TYPE}" >> $GITHUB_OUTPUT
@@ -83,10 +74,9 @@ jobs:
           ET_YESTERDAY=$(TZ='America/New_York' date -d 'yesterday' +%m/%d)
           BJT_NOW=$(TZ='Asia/Shanghai' date +%m/%d\ %H:%M)
           case "$TYPE" in
-            ai)         TIME_CONTEXT="📅 截至 ${BJT_NOW} 北京时间" ;;
-            us_market)  TIME_CONTEXT="📅 截至美股 ${ET_YESTERDAY} 收盘 · ${ET_TODAY} 盘前更新" ;;
-            global)     TIME_CONTEXT="📅 截至 ${BJT_NOW} 北京时间" ;;
-            skip)       TIME_CONTEXT="" ;;
+            ai)      TIME_CONTEXT="📅 截至 ${BJT_NOW} 北京时间" ;;
+            evening) TIME_CONTEXT="📅 截至 ${BJT_NOW} 北京时间 · 美股 ${ET_YESTERDAY} 收盘" ;;
+            skip)    TIME_CONTEXT="" ;;
           esac
           echo "time_context=${TIME_CONTEXT}" >> $GITHUB_OUTPUT
 
@@ -108,8 +98,7 @@ jobs:
           TODAY=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
           case "${{ steps.slot.outputs.type }}" in
             ai)         PREFIX="AI日报";   EMOJI="🤖" ;;
-            us_market)  PREFIX="美股简报"; EMOJI="📈" ;;
-            global)     PREFIX="全球简报"; EMOJI="🌍" ;;
+            evening)    PREFIX="晚报";     EMOJI="🌙" ;;
           esac
           FILE="日报/${PREFIX}-${TODAY}.md"
           BODY=$(python3 .github/scripts/extract-topics.py "$FILE" bark | python3 -c "import sys,urllib.parse; print(urllib.parse.quote(sys.stdin.read()))")
@@ -128,8 +117,7 @@ jobs:
           TODAY=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
           case "${{ steps.slot.outputs.type }}" in
             ai)         PREFIX="AI日报";   EMOJI="🤖" ;;
-            us_market)  PREFIX="美股简报"; EMOJI="📈" ;;
-            global)     PREFIX="全球简报"; EMOJI="🌍" ;;
+            evening)    PREFIX="晚报";     EMOJI="🌙" ;;
           esac
           FILE="日报/${PREFIX}-${TODAY}.md"
           TOPICS=$(python3 .github/scripts/extract-topics.py "$FILE" feishu)
@@ -165,6 +153,5 @@ jobs:
         run: |
           TODAY=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
           echo "📊 今日报告状态 ($TODAY):"
-          [ -f "日报/AI日报-${TODAY}.md" ]     && echo "  ✅ AI 日报"     || echo "  ❌ AI 日报 缺失"
-          [ -f "日报/美股简报-${TODAY}.md" ]   && echo "  ✅ 美股简报"    || echo "  ❌ 美股简报 缺失"
-          [ -f "日报/全球简报-${TODAY}.md" ]  && echo "  ✅ 全球简报"    || echo "  ❌ 全球简报 缺失"
+          [ -f "日报/AI日报-${TODAY}.md" ]  && echo "  ✅ 晨报·AI"    || echo "  ❌ 晨报·AI 缺失"
+          [ -f "日报/晚报-${TODAY}.md" ]    && echo "  ✅ 晚报"        || echo "  ❌ 晚报 缺失"

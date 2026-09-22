@@ -33,10 +33,16 @@ mkdir -p "$VAULT_PATH/日报"
 cp -r "$REPO_DIR/日报/"* "$VAULT_PATH/日报/" 2>/dev/null || true
 echo "  ✅ 日报"
 
-# 抖音素材库
+# 抖音素材库 (只同步已提炼内容，不覆盖本地管理的索引/收件箱)
 mkdir -p "$VAULT_PATH/抖音素材库"
-cp -r "$REPO_DIR/抖音素材库/"* "$VAULT_PATH/抖音素材库/" 2>/dev/null || true
-echo "  ✅ 抖音素材库"
+if [ -d "$REPO_DIR/抖音素材库/已提炼" ]; then
+  for d in "$REPO_DIR/抖音素材库/已提炼"/*/; do
+    cat_name=$(basename "$d")
+    mkdir -p "$VAULT_PATH/抖音素材库/已提炼/$cat_name"
+    cp -r "$d"* "$VAULT_PATH/抖音素材库/已提炼/$cat_name/" 2>/dev/null || true
+  done
+fi
+echo "  ✅ 抖音素材库（已提炼内容，跳过索引/收件箱）"
 
 # 内容发布
 mkdir -p "$VAULT_PATH/内容发布"
