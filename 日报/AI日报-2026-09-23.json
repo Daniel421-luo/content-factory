@@ -1,0 +1,104 @@
+{
+  "title": "🤖 AI 日报 | 2026-09-23",
+  "headline": "Snorkel AI 估值翻三倍至 35 亿美元，Anthropic 与 OpenAI 同日发布更便宜的新模型，AI 训练数据与推理成本战全面升温。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，成本降低 40%",
+        "summary": "Anthropic 推出最新 Claude 模型，主打更便宜、更快、更安全，并放宽了订阅用户的用量限制。与 OpenAI 同日发布的新模型一样，前沿 AI 竞争已进入「性价比」阶段。",
+        "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "高通发布骁龙 8 Elite Gen 6 及 Extreme 版本，主打端侧 AI",
+        "summary": "高通推出两款新手机芯片，其中顶配版本可在本地运行 300 亿参数的混合专家模型，将大模型推理能力进一步下放到智能手机端。",
+        "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rabbit 推出 OS3 智能体操作系统，不再依赖 R1 硬件",
+        "summary": "曾因 R1 硬件表现不佳而受挫的 Rabbit 卷土重来，发布跨平台 AI 智能体 OS3，可在 Windows、Mac 和 Linux 上本地运行，无需专用设备。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+        "source": "The Verge"
+      },
+      {
+        "title": "Adobe Premiere 登陆 Android，免费使用但 AI 功能需付费",
+        "summary": "iPhone 上最受欢迎的视频剪辑应用之一终于推出 Android 版，针对直板机和折叠屏做了专属布局，基础剪辑免费，AI 功能另行收费。",
+        "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Viture 发布 Vonder 智能眼镜：无摄像头，靠骨传导麦克风记录思绪",
+        "summary": "这款无显示屏的智能眼镜没有摄像头，转而通过骨传导麦克风私密记录用户的日常想法，主打「思维映射」概念，走了一条与主流 AI 眼镜不同的隐私友好路线。",
+        "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+        "source": "Wired"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Snorkel AI 完成 3.5 亿美元 E 轮融资，估值翻三倍至 35 亿美元",
+        "summary": "这家成立七年的初创公司主打「数据即服务」，随着 AI 训练数据需求爆发，估值在最新一轮融资中翻了三倍。",
+        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 成立独立数学家顾问小组，试图修复数学声誉危机",
+        "summary": "在连续发布引发争议的数学成果后，OpenAI 宣布组建由数学家组成的独立顾问小组，为公司及其他 AI 企业提供指导，试图找到一条不那么灾难性的前进路径。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+        "source": "The Verge"
+      },
+      {
+        "title": "微软捣毁 AI 辅助攻击平台 EvilTokens，涉及 1.2 万个账户被盗",
+        "summary": "该平台提供端到端的账户入侵服务，利用 AI 让大规模攻击变得更快更容易。微软已将其 disruption，但此类「犯罪即服务」模式的蔓延值得警惕。",
+        "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "不列颠哥伦比亚省起诉 OpenAI，要求为校园枪击案后新建学校买单",
+        "summary": "该省要求 OpenAI 支付新建学校的费用，并索取枪击案凶手的 ChatGPT 对话记录。这是又一起将 AI 平台责任与现实世界伤害直接挂钩的法律诉讼。",
+        "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "英国政府面临 Palantir 合同清算，新首相首道考验",
+        "summary": "新首相 Andy Burnham 曾将 Palantir 挡在大曼彻斯特之外，如今他面临是否切断该公司 3.3 亿英镑 NHS 合同的抉择，此举可能引发与大型科技公司及华盛顿的关系破裂。",
+        "url": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
+        "source": "Wired"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "用大鼠大脑构建的 AI 模型接近现实，生物计算登陆 AWS",
+        "summary": "The Biological Computing Company 将其生物计算工具带上亚马逊云服务，标志着这个曾被视为边缘领域的「自然与代码结合」方向获得主流云平台支持。",
+        "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+        "source": "Wired"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "别被这个夏天的 AI 炒作骗了",
+        "summary": "DAIR 执行主任 Timnit Gebru 与 Emily M. Bender 撰文指出，从 Anthropic 宣称 Claude Mythos 在漏洞发现上超越安全专家，到 OpenAI–Hugging Face 黑客事件，这个夏天 AI 的突破与恐惧可能更多是炒作而非现实。",
+        "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "丰田要求工人训练人形机器人，但承诺不裁员",
+        "summary": "在汽车制造商竞相开发和部署人形机器人的背景下，丰田的计划引发关注：让现有工人训练机器人，同时坚称人类不会被取代。这一模式能否成立，将影响整个制造业的自动化路径。",
+        "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Meta 承认 Muse 与 OpenClaw 的相似并非巧合",
+        "summary": "Meta 称 Muse 是从零构建的，但承认该 AI 助手「深受 OpenClaw 启发」——连部分工作区文件名和内容都如出一辙。这为 AI 产品间的「借鉴」边界再添争议。",
+        "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "a16z 开办学校，挑战硅谷对辍学的迷恋",
+        "summary": "这家面向优秀高中毕业生的学院介于职业学校、Y Combinator 和 Peter Thiel 奖学金之间，试图证明成功不必以放弃大学为代价。",
+        "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
