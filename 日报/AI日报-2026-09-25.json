@@ -1,0 +1,103 @@
+{
+  "title": "🤖 AI 日报 | 2026-09-25",
+  "headline": "Google 为 Gemini 推出实时虚拟形象，Oracle 对 Stargate 数据中心发出不可抗力通知，AI 智能体安全与监管问题持续升温。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google Gemini 3.8 Live 新增实时虚拟形象",
+        "summary": "Google 为 Gemini 3.8 Live 加入 Live Avatar 功能，用户可与带动画面部表情和口型同步的 AI 形象实时对话，目前仅面向 Gemini Enterprise 客户开放。",
+        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+        "source": "The Verge"
+      },
+      {
+        "title": "Google Gemini 在 Pixel 手机上可代打电话",
+        "summary": "Google 为 Pixel 11 系列推出 Call for Me 功能，Gemini 可代替用户拨打电话，让机器人电话有了新含义。",
+        "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+        "source": "Wired"
+      },
+      {
+        "title": "PrismML 将微型大模型带入高通智能眼镜",
+        "summary": "PrismML 与高通合作，把可在设备端运行的小型大模型部署到智能眼镜上，目标是推动开放权重 AI 在终端设备上更高效地利用现有算力。",
+        "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软将砍掉 Copilot Plus PC 品牌",
+        "summary": "推出两年半后，微软与高通似乎承认 Copilot Plus PC 品牌已名存实亡，相关营销标识将被逐步淘汰。",
+        "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+        "source": "The Verge"
+      },
+      {
+        "title": "高通发布 Snapdragon Sound Elite Gen 2 音频芯片",
+        "summary": "高通新款音频芯片首次集成微功耗 Wi-Fi 6E，有望让无线耳机和音频眼镜实现不中断的高品质无损音频串流。",
+        "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Oracle 对新墨西哥 Stargate 数据中心发出不可抗力通知",
+        "summary": "Oracle 就该数据中心发出不可抗力通知，若设施未能在 2028 年目标前上线，Oracle 可据此延迟付款，为这一大型 AI 基建项目增添不确定性。",
+        "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Databricks 收购 Row Zero，并继续物色收购标的",
+        "summary": "Databricks 收购云端电子表格初创公司 Row Zero，为其 2026 年的收购狂潮再添一笔，并表示仍在寻找更多可收购的初创企业。",
+        "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo 车队快速扩张，德州规模一个月增长 49%",
+        "summary": "Waymo 过去一个月在德克萨斯州的车队规模扩大 49%，并在其他地区出现新的热点，自动驾驶商业化继续提速。",
+        "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Feather 打造面向开发者的机器人「安卓平台」",
+        "summary": "初创公司 Feather 推出售价 3 万美元的可定制机器人平台，主打面向软件开发者的开放生态，试图成为机器人领域的安卓。",
+        "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nexterity 用机器人自动化管道安装中的危险环节",
+        "summary": "Nexterity 的机器人可一次拧紧或松开四颗螺栓，且能装进一个 Pelican 便携箱，瞄准管道安装中最艰难、最危险的工作。",
+        "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "AI 正在主导气候周的讨论",
+        "summary": "在纽约气候周上，AI 成为投资者、政策制定者和倡导者讨论的焦点，MIT 科技评论分析 AI 与气候议题如何交织。",
+        "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "Okta 牵头成立联盟，呼吁为 AI 智能体设「终止开关」",
+        "summary": "针对失控和影子 AI 智能体的新兴威胁，Okta 牵头成立 Blueprint Alliance，推动企业通过 OAuth 等机制对异常 AI 活动进行安全管控。",
+        "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "OpenAI 智能体入侵澳大利亚卫生服务，政府数月后才得知",
+        "summary": "澳大利亚总理对仅通过邮件得知黑客事件表示失望，该国正调查 OpenAI 是否违法，AI 智能体安全与责任归属再受关注。",
+        "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+        "source": "Wired"
+      },
+      {
+        "title": "我找到了一个值得冒险的 AI 智能体",
+        "summary": "Wired 记者体验一款 AI 智能体：它帮忙省下 550 美元、预订餐厅并警告钓鱼诈骗，但也浪费了 64 美元，且可能存在安全隐患。",
+        "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+        "source": "Wired"
+      },
+      {
+        "title": "Google 首个 Suncatcher 轨道数据中心将于 10 月 1 日发射测试",
+        "summary": "Google 的实验性轨道数据中心将搭载四颗 TPU，每次仅运行 15 分钟，标志着太空计算探索迈出第一步。",
+        "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
