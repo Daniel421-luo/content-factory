@@ -1,0 +1,234 @@
+{
+  "title": "🌙 晚报 | 2026-09-25",
+  "headline": "美债收益率续升但全球债市抛售放缓，伊朗提出7天内重开霍尔木兹海峡带动油价回落，特朗普与习近平国宴互释善意但实质议题进展有限。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美债收益率续升，全球债市抛售放缓",
+        "summary": "美国国债收益率周五继续走高，但全球债券抛售势头有所放缓。此前强劲的美国经济数据加剧了市场对通胀和利率前景的担忧。",
+        "url": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "霍尔木兹海峡有望重开，布伦特原油回落",
+        "summary": "伊朗提出在7天内重开霍尔木兹海峡并重启核谈判，市场对达成协议的预期升温，布伦特原油期货价格下跌。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "美股收复失地，债市波动与油价走势交织",
+        "summary": "美股在经历债市抛售后小幅回升，标普500指数收复部分跌幅。市场继续关注债券市场波动和原油价格走向。",
+        "url": "https://www.wsj.com/finance/stocks/stocks-climb-back-to-par-598f973c?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "美国经济强劲抵御加息与收益率上升冲击",
+        "summary": "AI驱动的增长似乎对借贷成本上升具有韧性，这一现象令美国国债投资者感到不安。强劲的经济数据与债券市场的抛售形成鲜明对比。",
+        "url": "https://www.wsj.com/finance/investing/us-economy-bond-market-0bfda8b3?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "摩根大通警告：即使无显著放缓，滞胀风险迹象仍存",
+        "summary": "摩根大通指出，即使经济没有出现显著放缓，投资者也应警惕滞胀风险的迹象。这一警告正值债券市场因通胀担忧而剧烈波动之际。",
+        "url": "https://www.cnbc.com/2026/09/25/an-absence-of-significant-economic-slowdown-doesnt-mean-no-signs-of-stagflation-risks-heres-why-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "抵押贷款利率突破7%，购房者转向浮动利率贷款",
+        "summary": "美国30年期抵押贷款利率自2024年5月以来首次突破7%。随着利率攀升，更多购房者开始寻求风险更高的可调利率抵押贷款。",
+        "url": "https://www.cbsnews.com/news/mortgage-rates-top-7-percent-mba/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "贝莱德投资组合以数字代币形式登陆区块链",
+        "summary": "贝莱德旗下三只模型投资组合将通过Ondo Finance进行代币化，持有ETF篮子并在区块链上发行数字代币。这标志着传统资产管理公司进一步拥抱区块链技术。",
+        "url": "https://www.wsj.com/finance/investing/blackrock-investment-portfolios-debut-on-the-blockchain-as-digital-tokens-c9df7ca6?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "好市多四季度业绩超预期，但投资者仍持谨慎态度",
+        "summary": "好市多第四季度利润超出预期，关税退款帮助提振了业绩。尽管如此，投资者对该公司前景仍持谨慎态度。",
+        "url": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "诺和诺德达成超10亿美元授权协议，瑞典公司股价飙升",
+        "summary": "在资本市场日令投资者失望数日后，丹麦制药巨头诺和诺德达成了一项价值超过10亿美元的授权协议，推动一家瑞典公司股价大幅上涨。",
+        "url": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Akamai与Anthropic达成120亿美元云服务协议，股价大涨",
+        "summary": "Akamai同意向Anthropic提供云计算服务，协议价值120亿美元。此举凸显了Akamai相对于传统云提供商的独特优势，公司股价应声上涨。",
+        "url": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "泳池零售商Leslie's准备申请破产保护",
+        "summary": "泳池用品零售商Leslie's预计最早下周在休斯顿申请第11章破产保护，公司将把控制权移交给贷款方。该公司此前在沉重债务和销售下滑中挣扎。",
+        "url": "https://www.wsj.com/pro/bankruptcy/leslies-prepares-chapter-11-filing-as-soon-as-next-week-in-houston-a2e04917?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美光科技下周财报前瞻：投资者需关注三大要点",
+        "summary": "美光科技下周将发布财报，Rosenblatt分析师预计将听到更多客户协议、价格上涨和股票回购的消息。随着AI叙事转变，美光已成为多空博弈的战场。",
+        "url": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "标普500最新科技股Everpure成为指数最佳表现者",
+        "summary": "数据存储公司Everpure的股价周四领涨标普500指数，成为该指数最新纳入的科技股中表现最佳的一只。",
+        "url": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗提出7天内重开霍尔木兹海峡并重启核谈判",
+        "summary": "伊朗提出在7天内重开霍尔木兹海峡并重启核谈判。与此同时，胡塞武装周五上午对沙特目标发动了新一波导弹和无人机袭击。",
+        "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "丹麦情报机构警告：俄罗斯可能在数月内攻击北约国家",
+        "summary": "丹麦情报机构发布新的威胁评估，警告俄罗斯可能在数月内攻击北约国家。这一评估与近期多位欧洲高级安全官员和议员发出的俄罗斯警告相呼应。",
+        "url": "https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普与习近平国宴互释善意，但关键议题进展有限",
+        "summary": "特朗普与习近平在国宴上互致善意并交换礼物，但在双方分歧的实质性议题上进展甚微。习近平承诺向亚特兰大动物园赠送两只大熊猫，重启熊猫外交。",
+        "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "瑞士就收紧中立政策举行公投",
+        "summary": "瑞士正在就收紧其著名的中立政策进行投票，此举可能重塑该国对俄罗斯及未来冲突的回应方式。",
+        "url": "https://www.npr.org/2026/09/25/nx-s1-5978905/swiss-referendum-neutrality-russia",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美国战略石油储备处于低位，引发能源安全担忧",
+        "summary": "美国在与伊朗战争后动用战略石油储备以压低汽油价格，目前储备水平较低。市场关注来自委内瑞拉的石油能否帮助补充储备。",
+        "url": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-p",
+        "source": "NPR"
+      },
+      {
+        "title": "美国农民面临又一年亏损，燃料和化肥成本飙升",
+        "summary": "种植大豆、玉米、棉花等作物的美国农民面临又一年亏损，燃料和化肥成本飙升抵消了收入增长。农业经济压力可能对相关商品和农村经济产生连锁影响。",
+        "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+        "source": "NPR"
+      },
+      {
+        "title": "债券市场动荡引发投资者对通胀和美联储加息的担忧",
+        "summary": "投资者对通胀上升越来越感到紧张，这可能迫使美联储加息。债券市场的剧烈波动正在向更广泛的金融市场传导。",
+        "url": "https://www.cbsnews.com/news/bond-market-treasury-yields-inflation-fed/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美光科技财报下周发布",
+        "summary": "美光科技将于下周发布财报，市场关注客户协议、价格走势和股票回购等关键信息。",
+        "url": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "霍尔木兹海峡重开谈判进展",
+        "summary": "伊朗提出7天内重开霍尔木兹海峡，市场将密切关注谈判进展及其对原油价格的影响。",
+        "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "伊朗提出7天内重开霍尔木兹海峡，地缘风险溢价下降",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美债收益率续升，全球债市抛售放缓但压力仍存",
+      "direction": "看空",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Akamai与Anthropic达成120亿美元云服务协议",
+      "direction": "看多",
+      "asset_impact": "AKAM",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美光科技下周财报，市场关注客户协议和价格走势",
+      "direction": "中性",
+      "asset_impact": "MU, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "丹麦情报警告俄罗斯可能数月内攻击北约国家",
+      "direction": "看空",
+      "asset_impact": "EURUSD, GLD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国抵押贷款利率突破7%，购房者转向浮动利率贷款",
+      "direction": "看空",
+      "asset_impact": "TLT, XHB",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "诺和诺德达成超10亿美元授权协议",
+      "direction": "看多",
+      "asset_impact": "NVO",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "贝莱德投资组合以数字代币形式登陆区块链",
+      "direction": "看多",
+      "asset_impact": "BLK",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美国战略石油储备处于低位，能源安全担忧升温",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "摩根大通警告滞胀风险迹象仍存",
+      "direction": "看空",
+      "asset_impact": "SPY, TLT",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
