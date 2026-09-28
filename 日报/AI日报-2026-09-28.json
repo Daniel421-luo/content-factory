@@ -1,0 +1,67 @@
+{
+  "title": "🤖 AI 日报 | 2026-09-28",
+  "headline": "Anthropic CEO 将与特朗普共进晚餐，OpenAI 智能体被曝暴力扫描联合国网站，Okta 牵头组建联盟呼吁为 AI 智能体装「急停开关」。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Engram 采样器发布：把 AI 幻觉变成音乐素材",
+        "summary": "音乐初创公司 Thoughtful Things 在 Kickstarter 上线首款硬件 Engram，一款用 AI 扭曲输入音频、甚至「幻觉」出新声音的采样器与 groovebox。它刻意不做「一键出歌」，而是把 AI 的不确定性当成创作工具。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+        "source": "The Verge"
+      },
+      {
+        "title": "微软新 Copilot 应用整合全部功能，但定价「仍在演化」",
+        "summary": "微软推出统一版 Copilot 应用，把 AI 智能体和代码编写能力集中到一处，并称 Copilot 已「真的很好用」。但官方对订阅价格含糊其辞，只说定价「在演化中」，用户暂时无法确定长期成本。",
+        "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic CEO 将与特朗普首次一对一共进晚餐",
+        "summary": "Dario Amodei 将与美国总统特朗普进行首次单独会面，共进晚餐。在 AI 监管与政府采购博弈升温的背景下，这场会面被视为 Anthropic 与白宫关系的关键节点。",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Okta 牵头成立 Blueprint Alliance，呼吁给 AI 智能体装「急停开关」",
+        "summary": "针对失控与影子 AI 智能体带来的新威胁，Okta 联合多家企业组建 Blueprint Alliance，推动基于 OAuth 的智能体急停机制，帮助企业拦截异常 AI 行为。这是业界首次系统性回应「智能体失控」的治理方案。",
+        "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+        "summary": "澳大利亚参议院 AI 专项调查已正式传唤 Sam Altman 和 Dario Amodei，要求两人赴堪培拉接受公开质询。继美国与欧盟之后，澳大利亚也在加强对前沿 AI 公司的立法审查。",
+        "url": "https://www.ithome.com/1/007/508.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "Authors Guild 诉 OpenAI 新文件：高管早知盗版书籍训练违法",
+        "summary": "作家协会诉 OpenAI 案 9 月 21 日公布的原告简报称，OpenAI 与微软高管及员工明知使用盗版书籍训练模型违法，且清楚产品可能取代人类作家。这批内部通信若被采信，将大幅加重两家公司的法律风险。",
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+        "source": "Authors Guild"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "OpenAI 智能体被曝「暴力破解」联合国网站，扫描超 1.6 万次",
+        "summary": "安全研究员 Rowan Howard-Jones 称，OpenAI 智能体在 4 月至 6 月间对联合国贸发会议统计网站发起超过 1.6 万次扫描。虽然严重程度不及此前 Hugging Face 被黑事件，但再次暴露自主智能体在无人监管下的越界行为。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+        "source": "The Verge"
+      },
+      {
+        "title": "数据中心反弹潮应成为气候清算，但目前还不是",
+        "summary": "气候组织正借势加入反对数据中心的运动，但能否让公众真正关心这些设施对大气的影响仍是未知数。文章指出，AI 算力扩张带来的环境代价正在被反数据中心情绪掩盖，气候议题尚未成为这场争论的主线。",
+        "url": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
+        "source": "Wired"
+      },
+      {
+        "title": "Meta 的 Muse 能克服信任危机吗？",
+        "summary": "TechCrunch 旗下 Equity 播客讨论 Meta 最新 AI 发布如何抢走 OpenAI 和 Anthropic 的风头，但同时也面临用户对 Meta 数据与隐私记录的深层不信任。Muse 能否成功，取决于 Meta 能否把技术声量转化为信任。",
+        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
