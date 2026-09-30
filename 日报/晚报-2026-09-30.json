@@ -1,0 +1,222 @@
+{
+  "title": "🌙 晚报 | 2026-09-30",
+  "headline": "30年期美债收益率触及2002年以来最高，长端利率高企压制美股；中国警告欧盟若限制中企将坚决反制，AI安全与IPO市场降温成焦点。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "30年期美债收益率升至2002年以来最高",
+        "summary": "美国30年期国债收益率触及2002年6月以来最高水平，长端利率持续上行，道指下跌逾100点，股指期货小幅走高。",
+        "url": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储核心通胀指标周三公布",
+        "summary": "市场预期数据将显示价格压力持续，但消费者支出仍具韧性，为利率路径提供关键线索。",
+        "url": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美光与耐克财报临近",
+        "summary": "美光将于周三盘后公布财报，耐克周四盘后公布，交易员关注两家公司业绩对科技与消费板块的指引。",
+        "url": "https://www.cnbc.com/2026/09/29/most-traders-are-looking-at-micron-into-earnings-but-dont-count-out-nike.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "长端美债收益率无视油价回落与鸽派讲话继续上行",
+        "summary": "尽管油价下跌且纽约联储主席表示加息“无需紧迫”，长期美债收益率仍触及24年高位，两年期收益率因官员释放耐心信号而回落。",
+        "url": "https://www.wsj.com/finance/investing/bond-yields-keep-rising-despite-drop-in-oil-price-dovish-fed-speech-49aeab91?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "对冲基金持有30万亿美元美债市场创纪录份额",
+        "summary": "对冲基金在美债市场中的占比升至历史高位，虽可提升流动性，但也可能带来金融稳定风险。",
+        "url": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "华尔街对秋季重磅IPO季的期望正在消退",
+        "summary": "市场波动与AI安全担忧令投资者却步，原本预期的一连串大型IPO陷入混乱。",
+        "url": "https://www.wsj.com/finance/stocks/wall-streets-hopes-for-a-blockbuster-ipo-season-are-starting-to-fade-1bb8f8db?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "派拉蒙为华纳兄弟收购融资遭遇高收益率阻力",
+        "summary": "派拉蒙的融资交易成为衡量2026年借贷成本上升背景下并购意愿的重要风向标。",
+        "url": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "AMD以80亿美元收购World Labs，真正价值在于人才",
+        "summary": "AMD获得前沿空间智能模型，但更重要的是引入能招募顶尖人才并推动现实世界AI应用的领导者李飞飞。",
+        "url": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Robinhood押注AI代理自动交易",
+        "summary": "Robinhood认为AI代理将成为个人投资者的未来，推出可在用户睡眠时自动交易的AI机器人。",
+        "url": "https://www.wsj.com/finance/investing/robinhoods-next-big-bet-ai-bots-that-trade-while-you-sleep-f9d40f62?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "花旗：星舰成功让SpaceX更接近长期900美元股价目标",
+        "summary": "花旗分析师认为近期星舰发射帮助SpaceX推进多项优先事项，长期股价有望达到900美元，公司估值或达12万亿美元。",
+        "url": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "Credo获看好，机会窗口打开",
+        "summary": "Seeking Alpha分析认为Credo迎来机遇，维持买入评级，关注其在高速连接领域的增长潜力。",
+        "url": "https://seekingalpha.com/article/4950859-credo-opportunity-is-knocking-maintain-buy?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "中国警告欧盟：若限制中企将坚决反制",
+        "summary": "中国商务部表示，若欧盟对中国企业或产品施加限制，中国必须“坚决回应”，中欧贸易压力升级。",
+        "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国对加拿大近10亿美元进口禁令生效",
+        "summary": "美国禁止近10亿美元加拿大进口商品，包括酒精饮料、乳制品和摩托车，贸易战持续升级。",
+        "url": "https://www.cbsnews.com/news/us-ban-canadian-imports-almost-1-billion-dollars-takes-effect/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "最高法院支持特朗普政府第三国遣返移民",
+        "summary": "最高法院允许特朗普政府恢复将移民遣返至其驱逐令未指明的国家，并将听取完整辩论。",
+        "url": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "中国AI工具被指可指导制造生物武器",
+        "summary": "Mindgard称7月发现Kimi模型K2.6和K3 Swarm可绕过开发者安全限制，AI安全风险引发关注。",
+        "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "AI代理或威胁银行低成本存款",
+        "summary": "AI代理可将现金转移至更高利率账户，可能威胁银行依赖的廉价存款基础。",
+        "url": "https://www.wsj.com/finance/banking/lazy-customers-are-great-for-banks-could-ai-change-that-220b4dc9?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "数据中心改变美国地貌，引发反弹",
+        "summary": "数百个数据中心正在美国农田、灌木地和森林上拔地而起，还有数千个在建，引发当地反对。",
+        "url": "https://www.cbsnews.com/news/ai-data-centers-changing-us-farmland-backlash/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美联储核心PCE通胀数据",
+        "summary": "周三公布的美联储主要通胀指标预计显示价格压力持续，是利率路径的关键参考。",
+        "url": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美光科技财报",
+        "summary": "美光周三盘后公布财报，市场关注存储芯片需求与AI相关指引。",
+        "url": "https://www.cnbc.com/2026/09/29/most-traders-are-looking-at-micron-into-earnings-but-dont-count-out-nike.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "耐克财报",
+        "summary": "耐克周四盘后公布财报，关注消费需求与库存状况。",
+        "url": "https://www.cnbc.com/2026/09/29/most-traders-are-looking-at-micron-into-earnings-but-dont-count-out-nike.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "30年期美债收益率触及2002年以来最高，长端利率高企",
+      "direction": "看空",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中国警告欧盟若限制中企将坚决反制，中欧贸易紧张升级",
+      "direction": "看空",
+      "asset_impact": "FXI, KWEB",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国对加拿大近10亿美元进口禁令生效，贸易战升级",
+      "direction": "看空",
+      "asset_impact": "DXY, USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "华尔街秋季IPO季期望消退，市场波动与AI安全担忧",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AMD以80亿美元收购World Labs，李飞飞加入",
+      "direction": "看多",
+      "asset_impact": "AMD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "花旗看好SpaceX长期估值达12万亿美元，星舰成功",
+      "direction": "看多",
+      "asset_impact": "SPX, NDX",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "AI代理或威胁银行低成本存款",
+      "direction": "看空",
+      "asset_impact": "XLF, KBE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "中国AI工具被指可指导制造生物武器，AI安全风险升温",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "数据中心扩张引发美国当地反弹",
+      "direction": "中性",
+      "asset_impact": "XLU, XLE",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美光财报临近，存储芯片需求受关注",
+      "direction": "中性",
+      "asset_impact": "MU, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    }
+  ]
+}
