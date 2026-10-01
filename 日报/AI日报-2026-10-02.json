@@ -1,0 +1,92 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-02",
+  "headline": "Shopify 推出对话式建站工具 Canvas，Amazon 发布自研决策模型 Strands Decider 2B，AI 智能体与决策模型赛道持续升温。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Shopify 推出 Canvas：与 AI 对话即可搭建网店",
+        "summary": "Shopify 发布 Canvas 建站工具，商家可通过与 AI 助手 Sidekick 对话来创建和定制在线商店，并实时看到页面变化。这意味着电商建站门槛进一步降低，AI 正从辅助工具变成核心生产力。",
+        "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon 发布自研决策模型 Strands Decider 2B",
+        "summary": "AWS 旗下 Strand Labs 推出类 Jev 决策模型 Strands Decider 2B，加入日益拥挤的决策模型赛道。大厂纷纷布局专用决策 AI，试图在智能体底层能力上占据先机。",
+        "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Audible 上线 AI 互动功能：探索书中世界、与角色对话",
+        "summary": "Audible 推出新功能，帮助听众追踪书中角色、探索地点与意象，甚至用生成式 AI 与角色互动。有声书正从单向收听转向沉浸式体验，AI 成为内容平台差异化的新抓手。",
+        "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Legato 推出 AI 助听眼镜",
+        "summary": "听力科技初创公司 Legato 发布 AI 助听眼镜，旨在解决传统助听器的成本、舒适度和污名化问题，让听力护理更易获得。可穿戴设备与 AI 结合正在打开无障碍科技的新场景。",
+        "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Photon 获 450 万美元融资，要用 AI 智能体取代移动应用",
+        "summary": "Photon 帮助开发者构建可在 iMessage、短信/RCS、邮件等消息平台上运行的 AI 智能体，押注消费者将越来越多地用智能体替代下载 App。该公司此前还为移动应用举办了一场“葬礼”，姿态鲜明。",
+        "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软 Office 与 Teams 负责人 Ryan Roslansky 离职",
+        "summary": "在 LinkedIn 和微软工作近 18 年后，Ryan Roslansky 即将离开。他此前担任 LinkedIn CEO，去年升任 Office 负责人，今年又接管 Teams，其离职引发新一轮领导层调整。",
+        "url": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
+        "source": "The Verge"
+      },
+      {
+        "title": "加州州长否决禁止“偷拍眼镜”秘密录像的法案",
+        "summary": "加州一项旨在惩罚使用带摄像头和麦克风的穿戴设备在公共场所秘密录像他人的法案被州长否决。在 AI 眼镜日益普及的背景下，隐私与可穿戴技术的监管边界再次引发争议。",
+        "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "AI“读心”工具仅凭脑扫描即可重建你看到的图像",
+        "summary": "一款新 AI 工具通过分析脑扫描，能以惊人精度重建受试者正在观看的图像，反向也能根据图像预测大脑活动。这项技术为脑机接口和视觉解码研究打开了新可能，同时也带来隐私伦理隐忧。",
+        "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "AI 首次在预算内击败史上最强 Stratego 玩家",
+        "summary": "研究人员通过引入第二个神经网络来猜测隐藏棋子的身份，让 AI 在信息大部分隐藏的 Stratego 游戏中达到顶尖水平，且计算成本可控。这为不完美信息博弈的 AI 研究提供了新思路。",
+        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Brian Chesky：AI 智能体需要自己的操作系统",
+        "summary": "Airbnb CEO Brian Chesky 在采访中谈论如何让 Airbnb 对智能体友好、消费级 AI 的现状，以及为什么世界需要一个 AI 原生操作系统。他认为智能体不应只是 App 的插件，而需要全新的底层平台。",
+        "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软 Copilot 大重构内幕：Nadella 向企业客户推销“工作操作系统”",
+        "summary": "微软 CEO Nadella 上周举办仅限受邀企业客户的小型活动，直接向核心客户阐述 Copilot 的未来愿景，将其重新定位为“工作操作系统”。这反映出微软在 AI 助手商业化上的焦虑与调整。",
+        "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+        "source": "The Verge"
+      },
+      {
+        "title": "PwC 调查：企业 AI 风险该由谁负责，业务与技术领导层分歧严重",
+        "summary": "PwC 研究发现，业务和技术领导者对谁该拥有 AI 风险责任无法达成一致，凸显企业 AI 治理的空白。是否需要设立“AI 首席”一职成为讨论焦点。",
+        "url": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "OpenAI 新智能体 Dots 剑指 Meta，但能拼过免费吗？",
+        "summary": "在 DevDay 上，OpenAI 发布由 GPT-6 Astra 驱动的智能体 Dots，直接对标 Meta 的 Muse 平台。文章分析认为，Meta 的免费策略和早期成功给 OpenAI 带来巨大压力，智能体大战的关键可能不在技术而在分发。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
