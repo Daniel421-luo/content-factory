@@ -1,0 +1,246 @@
+{
+  "title": "🌙 晚报 | 2026-10-05",
+  "headline": "美债收益率高企与美元走强压制风险偏好，乌克兰称摧毁俄过半炼油产能，中国关闭数百家村镇银行以加固金融体系。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货下跌，投资者消化高企收益率",
+        "summary": "美股期货走低，市场仍在消化上周国债收益率飙升与意外疲软的就业报告，后者缓解了对美联储再次加息的担忧。",
+        "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美元走强，投资者寻求避险",
+        "summary": "美元指数走强，欧元受法国财政困境拖累，避险情绪主导盘前交易。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "比特币出现三年来首个“金叉”",
+        "summary": "比特币技术面出现三年多来首个看涨“金叉”形态，市场关注其是否已进入长期上升趋势。",
+        "url": "https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "贝森特就“我就是庄家”言论作出回应",
+        "summary": "在国债收益率持续攀升后，美国财政部长贝森特接受Axios采访时为其部门在债市的表现辩护，并收回一个月前“我就是庄家”的表态。",
+        "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "渣打：债市抛售带来罕见投资机会",
+        "summary": "渣打银行首席投资办公室认为，债券和货币市场对美联储的定价过于鹰派，债市抛售为投资者提供了罕见的机会。",
+        "url": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "美国五年期抵押贷款利率三年来首次触及6%",
+        "summary": "由于贷款机构面临更高成本，新的固定利率抵押贷款成本近几周持续上升，五年期平均利率三年来首次达到6%。",
+        "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "抵押贷款利率创三年新高，房屋销售承压",
+        "summary": "抵押贷款利率升至三年高位，正在压低房屋销售。",
+        "url": "https://www.cbsnews.com/video/mortgage-rates-reach-3-year-highs-pushing-down-housing-sales/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "中国关闭数百家银行以加固金融体系",
+        "summary": "北京去年关闭了670家主要为农村的银行，旨在打造数量更少、规模更大、资本更充足的贷款机构。",
+        "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "摩根士丹利：富国银行迎来买入时机",
+        "summary": "摩根士丹利认为富国银行的前景正在改善，该行此前表现落后于竞争对手银行。",
+        "url": "https://www.cnbc.com/2026/10/05/wells-fargo-has-lagged-rival-banks-morgan-stanley-says-its-time-to-buy.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "施耐德电气230亿美元收购工业设计软件公司",
+        "summary": "受益于AI建设而蓬勃发展的电气设备制造商施耐德电气，周一以十年低估值达成230亿美元交易，收购一家工业设计软件公司。",
+        "url": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "摩根士丹利：平均美股正被悄然碾压，这些股票值得买入",
+        "summary": "投资者对工业等大量股票失去兴趣，摩根士丹利认为存在低价买入部分个股的机会。",
+        "url": "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "美光历史性现金盛宴将回馈投资者",
+        "summary": "美光的现金流入超过苹果和英伟达，即将通过股票回购向股东派发这笔资金。",
+        "url": "https://www.marketwatch.com/story/microns-historic-cash-bonanza-is-set-to-rain-down-on-investors-b61e6955?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "BT达成救援协议收购宽带运营商TalkTalk",
+        "summary": "该收购仍需监管机构批准，但将为TalkTalk数百万客户提供确定性。",
+        "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "Cerebras股价盘前上涨6%，此前奥特曼称其为“紧密合作伙伴”",
+        "summary": "OpenAI首席执行官山姆·奥特曼向投资者保证Cerebras是“紧密合作伙伴”，该芯片制造商股价盘前上涨6%。",
+        "url": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "乌克兰称袭击摧毁俄过半炼油产能",
+        "summary": "乌克兰表示其远程打击已使俄罗斯超过一半的炼油产能瘫痪。",
+        "url": "https://abcnews.com/International/wireStory/ukraine-claims-attacks-half-russias-oil-refining-capacity-136996326",
+        "source": "ABC News"
+      },
+      {
+        "title": "美国所有轰炸机因疑似恐袭阴谋撤离英国基地；中东更多油轮遇袭",
+        "summary": "出于对疑似恐怖阴谋的担忧，美国所有轰炸机撤离英国空军基地；伊朗重申条件，包括停止美国“侵略行为”、结束海上封锁和经济战以及释放伊朗资产。",
+        "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普施压韩国签署阿拉斯加LNG协议，否则“就多收费”",
+        "summary": "特朗普就阿拉斯加LNG加大对韩国施压，首尔对美国总统宣布的投资项目仍持谨慎态度。",
+        "url": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "西班牙首相桑切斯宣布提前大选",
+        "summary": "西班牙首相佩德罗·桑切斯在政府上周就住房危机紧急措施遭遇立法挫败后，于周一宣布提前大选。",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
+        "source": "NPR"
+      },
+      {
+        "title": "最高法院新任期开幕，审理重磅气候变化案",
+        "summary": "该案核心是地方政府能否就气候变化造成的本地损害追究大型能源公司的责任，其影响超出气候领域。",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "银行股受2023年阴影困扰",
+        "summary": "贷款机构在面临新一轮加息周期之际，资产负债表较此前更为强劲，但市场情绪仍受2023年银行业危机记忆影响。",
+        "url": "https://www.wsj.com/finance/banking/bank-stocks-are-haunted-by-the-ghosts-of-2023-a2a64725?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "沃伦与霍利就零赔付索赔调查保险公司",
+        "summary": "两位参议员——一位共和党人、一位民主党人——质疑保险公司是否通过“拖延付款的策略”来推动利润。",
+        "url": "https://www.wsj.com/finance/warren-and-hawley-to-probe-insurers-over-zero-payout-claims-4ee8d046?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "超级厄尔尼诺来袭",
+        "summary": "联邦预报员表示，今年地球可能经历有记录以来最强的厄尔尼诺事件。",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5981261/super-el-nino-floods-droughts",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "最高法院开庭审理特朗普相关案件",
+        "summary": "最高法院正式开启新任期，受理来自特朗普总统的一系列上诉，以及涉及枪支、宗教自由和气候变化的重要案件。",
+        "url": "https://abcnews.com/Politics/election-looms-supreme-court-reconvenes-new-wave-trump/story?id=136871786",
+        "source": "ABC News"
+      },
+      {
+        "title": "特朗普重申5000美元支票承诺，中期选举临近",
+        "summary": "特朗普在中期选举临近之际宣传两个已在进行的联邦支付项目，并重申取决于共和党保住国会的5000美元红利承诺。",
+        "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美债收益率高企与美元走强压制风险资产",
+      "direction": "看空",
+      "asset_impact": "TLT, SPY, QQQ",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "乌克兰称摧毁俄过半炼油产能，或收紧全球成品油供应",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国关闭数百家村镇银行以加固金融体系",
+      "direction": "中性",
+      "asset_impact": "FXI, KWEB",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美光现金流入超苹果英伟达，即将启动股票回购",
+      "direction": "看多",
+      "asset_impact": "MU",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "奥特曼称Cerebras为紧密合作伙伴，股价盘前上涨",
+      "direction": "看多",
+      "asset_impact": "CBRS",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "施耐德电气230亿美元收购工业设计软件公司",
+      "direction": "中性",
+      "asset_impact": "SBGSY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国五年期抵押贷款利率三年来首次触及6%，房屋销售承压",
+      "direction": "看空",
+      "asset_impact": "XHB, ITB",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普施压韩国签署阿拉斯加LNG协议",
+      "direction": "中性",
+      "asset_impact": "LNG, UNG",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "比特币出现三年多来首个金叉，技术面转多",
+      "direction": "看多",
+      "asset_impact": "BTC, COIN",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "西班牙提前大选，欧洲政治不确定性上升",
+      "direction": "看空",
+      "asset_impact": "EWP, EURUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
