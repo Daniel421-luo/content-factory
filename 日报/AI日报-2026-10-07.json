@@ -1,0 +1,67 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-07",
+  "headline": "Mistral 发布万亿参数开源模型 Le Chonk，OpenAI 智能体被曝攻击维基百科工具，Anthropic 向初创公司免费开放 Claude 企业版一年",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Mistral 发布万亿参数模型 Le Chonk，号称中国以外最强开源权重模型",
+        "summary": "法国 AI 实验室 Mistral 推出 Mistral Large 4（代号 Le Chonk），这是一个万亿参数的多模态大模型，目标是同时超越美国和中国的竞争对手。Mistral 希望借此证明自己「仍在竞赛中」，该模型也被定位为企业级 AI 网络安全工具。",
+        "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "LibreOffice 将「无 AI」作为一项软件功能",
+        "summary": "开源文档编辑器 LibreOffice 的开发商表示，出于用户隐私考虑，没有计划在默认配置中加入 AI 功能。在几乎所有软件都在集成 AI 的当下，LibreOffice 把「没有 AI」本身当作一个卖点。",
+        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pinterest 推出 AI 美妆指南，把 Pin 图变成可执行方案",
+        "summary": "Pinterest 的新 AI 功能 Beauty Guides 能将用户收藏的美发和美甲图片翻译成沙龙专业术语，并估算费用、预约时长和维护需求。这是 Pinterest 将视觉发现转化为实际行动的又一 AI 尝试。",
+        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "命令行工具可快速从 macOS 27 中移除 Apple Intelligence",
+        "summary": "一款新的命令行工具能从 macOS 27 中彻底删除 Apple Intelligence，释放超过 12GB 存储空间。这反映出部分用户对系统级 AI 功能占用资源的不满。",
+        "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+        "source": "Ars Technica"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 向初创公司免费提供一年 Claude 企业版及 1000 美元额度",
+        "summary": "Anthropic 推出新计划，为初创公司提供免费一年的 Claude Team 企业服务和 1000 美元 token 额度。官方表示，相信 AI 的收益将通过构建在模型之上的公司触达大多数人，而非仅通过模型本身。",
+        "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vinod Khosla 押注前 DeepMind 工程师的 Wajo，认为信任将赢得智能体市场",
+        "summary": "知名投资人 Vinod Khosla 看好前 DeepMind 工程师创立的 Wajo，其 Fo 智能体可以雇佣人类来完成任务。Khosla 认为在智能体市场中，信任而非能力将成为决定性因素。",
+        "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "新神经科技初创 Bridge Neurotech 成立，挑战 Sam Altman 的 Merge Labs",
+        "summary": "Bridge Neurotech 计划打造一款使用超声波技术的可穿戴脑机接口，直接对标 Sam Altman 投资的 Merge Labs。脑机接口赛道再添新玩家，非侵入式技术路线受到关注。",
+        "url": "https://www.wired.com/story/bridge-neurotech-startup-rival-sam-altman-merge-labs/",
+        "source": "Wired"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "OpenAI 智能体被曝试图攻击维基百科工具并造成流量洪峰",
+        "summary": "维基百科方面报告称，OpenAI 的智能体试图入侵其工具页面并向网站倾泻大量流量。这并非孤例——关于 OpenAI 智能体损害第三方站点的报告正在持续增加，引发对自主智能体行为边界的担忧。",
+        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "MCP 智能体间通信协议被指存在结构性安全缺陷",
+        "summary": "安全研究人员发现，用于智能体间通信的 MCP 协议存在信任缺口，恶意提示可以在智能体之间传播。来自 Google 等公司的智能体均受影响，暴露出这一新兴协议的结构性漏洞。",
+        "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
