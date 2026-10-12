@@ -1,0 +1,228 @@
+{
+  "title": "🌙 晚报 | 2026-10-12",
+  "headline": "特朗普宣布俄乌'能源停火'并推动俄罗斯柴油协议，油价承压；美股财报季即将开启，债市高收益率环境成焦点。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "油价下跌，特朗普宣布俄乌'能源停火'",
+        "summary": "特朗普宣布俄罗斯与乌克兰达成'能源停火'，泽连斯基表示等待华盛顿提供细节。油价随之下跌，市场关注该协议对全球能源供应的实际影响。",
+        "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "银行财报周二拉开帷幕，市场关注高收益率影响",
+        "summary": "大型银行将于周二率先发布财报，为市场提供高收益率环境下经济健康状况的首个读数。投资者高度关注三季度财报能否继续支撑股市。",
+        "url": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "经济学家预计高债券收益率将持续",
+        "summary": "WSJ季度调查显示，预测者认为通胀、美联储加息及债务因素将推动借贷成本在更长时间内维持高位。",
+        "url": "https://www.wsj.com/finance/investing/economists-bond-yields-forecast-aaa2ff5c?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "牛市迎来四周年，但收益率飙升可能搅局",
+        "summary": "美股牛市已持续四年，科技股一直是核心驱动力。但债券收益率的持续攀升可能对市场构成压力，分析师警告市场已'极度自满'。",
+        "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "中国创纪录进口黄金，推动金价",
+        "summary": "北京推动去美元化及中国家庭寻求储蓄安全港，推动中国黄金进口创纪录。这一趋势对金价构成支撑。",
+        "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国失业者找工作耗时延长",
+        "summary": "在当前经济环境下，失业者找到新工作的时间延长，近四成人在找到新工作前已耗尽失业救济金。",
+        "url": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+        "source": "NPR"
+      },
+      {
+        "title": "美联储官员Hammack：利率尚不足以遏制通胀",
+        "summary": "克利夫兰联储主席Beth Hammack表示，企业的定价能力和稳健的经济表明利率尚未高到足以驯服通胀。",
+        "url": "https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "三季度财报季即将开启，市场寄望盈利支撑股市",
+        "summary": "市场对三季度盈利的高期望暂时压过了对利率和油价的担忧，但专家警告市场已'极度自满'。银行股将于周二率先发布财报。",
+        "url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "房价松动对房屋建筑商不利",
+        "summary": "卖家开始对价格让步，买家竞争加剧，将迫使Lennar和KB Home等公司加大激励力度。",
+        "url": "https://www.wsj.com/economy/housing/homhome-prices-sellers-mortgage-ratese-sellers-are-starting-to-blink-on-prices-thats-bad-for-builders-9512512f?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "FTX旧比特币挖矿资产加入AI热潮",
+        "summary": "在Sam Bankman-Fried加密帝国崩溃后一度被认为已死的比特币挖矿业务，正被复活以服务于人工智能基础设施建设。",
+        "url": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "AI基础设施热潮带动相关企业，Comfort Systems USA成隐形赢家",
+        "summary": "Seeking Alpha分析指出，Comfort Systems USA在AI基础设施建设中成为隐形赢家，受益于数据中心建设需求。",
+        "url": "https://seekingalpha.com/article/4953378-comfort-systems-usa-a-sneaky-winner-in-the-ai-infrastructure-buildout?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普宣布俄乌'能源停火'，泽连斯基等待细节",
+        "summary": "特朗普宣布俄罗斯与乌克兰达成'能源停火'，泽连斯基表示支持停火但等待华盛顿提供细节。然而，俄罗斯随后袭击了乌克兰一座热电厂，至少两次。",
+        "url": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普推动进口俄罗斯柴油，面临两党 backlash",
+        "summary": "特朗普宣布俄罗斯同意在未来数月释放数百万吨柴油以平抑油价，此举在中期选举前数周宣布，遭到共和党和民主党议员的批评。泽连斯基称其为给普京的礼物。",
+        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "沙特机场遭袭致1死11伤，特朗普考虑加入打击胡塞武装",
+        "summary": "沙特利雅得哈立德国王国际机场遭'野蛮'袭击，造成1人死亡、11人受伤。特朗普表示将'考虑'加入沙特打击伊朗支持的胡塞武装。",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-us-attack-iran-ahead/?id=137063637",
+        "source": "ABC News"
+      },
+      {
+        "title": "乌克兰第三次袭击俄罗斯Yandex数据中心",
+        "summary": "乌克兰本周第三次针对俄罗斯科技巨头Yandex发动袭击，迫使其暂停运营。",
+        "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "司法部调查电视网络，白宫新闻准入之争升级",
+        "summary": "美国司法部表示正在审查白宫电视记者团是否违反《谢尔曼反托拉斯法》，此举加剧了特朗普与媒体的斗争。",
+        "url": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "伊朗战争威胁英国财政大臣预算计划",
+        "summary": "财政研究所警告称，伊朗战争的影响对英国政府的支出计划构成重大风险。",
+        "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "飓风Simon逼近墨西哥，风速达155英里/小时",
+        "summary": "飓风Simon位于墨西哥太平洋沿岸附近，预计将以极强风暴登陆，引发洪水担忧。",
+        "url": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+        "source": "NPR"
+      },
+      {
+        "title": "热带风暴Rachel降级，加州备战可能创纪录的厄尔尼诺",
+        "summary": "热带风暴Rachel带来强风和降雨后降级，预报员称这是加州可能面临的创纪录厄尔尼诺现象的预演。",
+        "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "大型银行财报周二发布",
+        "summary": "摩根大通等大型银行将于周二发布财报，为市场提供高收益率环境下经济健康状况的首个读数。",
+        "url": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "教皇利奥十四世本周接受肺部手术",
+        "summary": "教皇利奥十四世表示，医生在其肺部发现'局部结节'，他将于本周接受手术。",
+        "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "特朗普宣布俄乌能源停火，油价下跌",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "俄罗斯同意向美国出口柴油以平抑油价",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "中国创纪录进口黄金，去美元化趋势持续",
+      "direction": "看多",
+      "asset_impact": "GLD, GDX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "经济学家预计高债券收益率将持续",
+      "direction": "看空",
+      "asset_impact": "TLT",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "银行财报季开启，市场关注高收益率影响",
+      "direction": "中性",
+      "asset_impact": "XLF, JPM",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "AI基础设施热潮持续，数据中心建设受益",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "房价松动，房屋建筑商面临压力",
+      "direction": "看空",
+      "asset_impact": "LEN, KBH",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美国失业者找工作耗时延长，劳动力市场降温",
+      "direction": "看空",
+      "asset_impact": "SPY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "沙特机场遭袭，中东地缘风险升级",
+      "direction": "看多",
+      "asset_impact": "USO, GLD",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "乌克兰袭击Yandex数据中心，俄科技基础设施受扰",
+      "direction": "中性",
+      "asset_impact": "RSX",
+      "confidence": 2,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
