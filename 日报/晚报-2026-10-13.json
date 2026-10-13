@@ -1,0 +1,262 @@
+{
+  "title": "🌙 晚报 | 2026-10-13",
+  "headline": "IMF警告政府债券收益率可能无序飙升，亚洲芯片股跟随美股半导体抛售大跌，油价因俄柴油供应前景与中东冲突交织而回落。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "IMF警告债券收益率或无序飙升",
+        "summary": "IMF表示政府债券市场风险恶化，收益率可能急剧且无序跳升，债务与通胀风险加剧。",
+        "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "亚洲科技股跟随美股芯片抛售大跌",
+        "summary": "SK海力士、软银、三星电子等亚洲科技股下挫，美股半导体板块抛售蔓延至区域市场。",
+        "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价回落，交易员评估俄柴油供应与沙特-胡塞冲突",
+        "summary": "油价下跌，投资者在潜在供应中断与更多俄罗斯柴油进入全球市场的前景之间权衡。",
+        "url": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达、AMD下跌，新AI发布未能重振投资者",
+        "summary": "两家芯片商发布面向未来AI数据中心的硬件与软件设计，但分析师称收入潜力仍较遥远。",
+        "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "IMF：全球经济呈K型分化",
+        "summary": "IMF认为全球经济分化，受油价冲击较小且受益于AI需求的国家正在领先。",
+        "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "英国增长获上调，但能源价格与利率将在2027年施压",
+        "summary": "IMF报告发布之际，英国正为首相Andy Burham任内首份预算做最后准备。",
+        "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "散户期权交易接近2021年迷因股水平",
+        "summary": "个股期权合约交易量接近2021年水平，当时新一代散户投资者搅动了华尔街。",
+        "url": "https://www.wsj.com/finance/stocks/frenzied-stock-options-trading-shows-individual-investors-are-still-hungry-for-risk-89ed24e5?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "巴西股市突破，投资者寻求科技以外的机会",
+        "summary": "巴西总统选举提振该国股市乐观情绪，吸引担忧美股敞口过高的投资者关注。",
+        "url": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Bumble股价飙升，传公司进行10亿美元收购谈判",
+        "summary": "股价跳涨推动Bumble市值超过5.8亿美元，但仍远低于其逾140亿美元的峰值。",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "Six Flags股价盘后大跌，因过山车事故报道",
+        "summary": "周一盘后Six Flags股价跌超10%，此前有报道称其佐治亚州游乐园发生过山车致命事故。",
+        "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SpaceX威胁或长期笼罩AT&T股价，分析师警告",
+        "summary": "Bernstein分析师Laurent Yoon不再推荐任何主要电信股，警告未来波动加剧。",
+        "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Lam Research获看好，FY27布局强劲",
+        "summary": "Seeking Alpha分析认为Lam Research在Q1前具备强劲的FY27布局，是稳健押注。",
+        "url": "https://seekingalpha.com/article/4953637-lam-research-corporation-stock-strong-fy27-setup-makes-solid-bet-ahead-q1?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "SK海力士、软银、三星跟随美股芯片抛售下挫",
+        "summary": "美股半导体板块抛售蔓延至亚洲，SK海力士、软银、三星电子等科技股大跌。",
+        "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达、AMD新AI发布未能提振股价",
+        "summary": "两家公司发布面向未来AI数据中心的硬件与软件设计，但分析师称收入潜力仍遥远。",
+        "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普为俄罗斯柴油协议辩护，两党反弹",
+        "summary": "泽连斯基称美国放松对莫斯科制裁'正中俄罗斯下怀'，特朗普坚称'我做了正确选择'。",
+        "url": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "联邦探员搜查众议员Ilhan Omar住所",
+        "summary": "司法部称搜查是'正在进行的联邦调查'一部分，Omar称这是'针对政治对手的企图'。",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+        "source": "NPR"
+      },
+      {
+        "title": "印度反对党游行至最高法院，选民名单抗议升级",
+        "summary": "反对党称选民名单修订偏向莫迪政党，当局已从选民名册中移除逾1.3亿个名字。",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
+        "source": "NPR"
+      },
+      {
+        "title": "司法部对电视网络发起反垄断调查",
+        "summary": "司法部正调查多家电视网络可能违反反垄断法，同时特朗普施压乌克兰选出新领导人。",
+        "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "IMF警告债券市场无序飙升风险",
+        "summary": "IMF称政府债券市场风险恶化，收益率可能急剧且无序跳升，债务与通胀风险加剧。",
+        "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Fannie与Freddie信用评分切换搅动抵押贷款市场",
+        "summary": "特朗普政府与贷款机构称采用FICO竞争对手将降低抵押成本，但有人警告承销风险。",
+        "url": "https://www.wsj.com/finance/regulation/fannie-freddie-vantagescore-mortgages-85b41d3f?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "法国超市冰箱遭网络攻击",
+        "summary": "数百家门店遭隔夜黑客攻击，新鲜与冷冻食品受损，估计价值数百万欧元。",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "英国财政大臣面临350亿英镑预算缺口",
+        "summary": "财政研究所称，若政府要满足支出计划，将需要数十亿英镑的'追加'资金。",
+        "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "大型银行财报周二发布",
+        "summary": "银行财报周二拉开帷幕，市场关注高收益率对业绩的影响。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "IMF报告与英国预算准备",
+        "summary": "IMF发布全球经济报告，英国为首相Andy Burham任内首份预算做最后准备。",
+        "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "IMF警告政府债券收益率可能无序飙升",
+      "direction": "看空",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "亚洲芯片股跟随美股半导体抛售大跌",
+      "direction": "看空",
+      "asset_impact": "SOXX, NVDA, AMD",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "英伟达、AMD新AI发布未能重振投资者情绪",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "油价因俄柴油供应前景与中东冲突交织而回落",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普为俄罗斯柴油协议辩护，两党反弹",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "Bumble传进行10亿美元收购谈判，股价飙升",
+      "direction": "看多",
+      "asset_impact": "BMBL",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Six Flags过山车致命事故，股价盘后大跌",
+      "direction": "看空",
+      "asset_impact": "SIX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "SpaceX威胁或长期笼罩电信股，分析师警告",
+      "direction": "看空",
+      "asset_impact": "T, VZ",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "巴西股市突破，投资者寻求科技以外机会",
+      "direction": "看多",
+      "asset_impact": "EWZ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "散户期权交易接近2021年迷因股水平",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Fannie与Freddie信用评分切换搅动抵押贷款市场",
+      "direction": "中性",
+      "asset_impact": "FNF, MTG",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Lam Research获看好，FY27布局强劲",
+      "direction": "看多",
+      "asset_impact": "LRCX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    }
+  ]
+}
