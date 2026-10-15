@@ -1,0 +1,91 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-15",
+  "headline": "OpenAI 遭八州联合起诉指控 ChatGPT 危害儿童，Character.AI 破产引发用户数据保护调查，AI 行业监管压力持续升级。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Figma 发布新功能，定义 AI Agent 在平台上的协作方式",
+        "summary": "Figma 宣布一系列新功能，明确 AI Agent 在其设计平台上的工作方式，同时代码层功能进入公开测试。这意味着 Figma 正从设计工具向 AI 驱动的协作平台转型。",
+        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube 为 AI 生成歌曲添加「Made with AI」标签",
+        "summary": "YouTube 开始对「经 AI 修改或完全由 AI 生成」的音乐曲目添加标识，与视频端的 AI 标注方式类似。这是平台在 AI 内容透明度上的又一步。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+        "source": "The Verge"
+      },
+      {
+        "title": "Google 允许用户免费通过提示词创建个人 Android 应用",
+        "summary": "Google 在 AI Studio 中开放了免费创建自定义 Android 应用的能力，用户只需输入提示词即可生成所需应用，无需开发经验。这大幅降低了应用开发门槛。",
+        "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 遭美国八州联合起诉，指控 ChatGPT 危害儿童",
+        "summary": "爱荷华、堪萨斯、内布拉斯加等八个州分别对 OpenAI 提起诉讼，指控其危害未成年人并误导用户对 ChatGPT 安全性的认知。这是 OpenAI 面临的最新一波法律压力。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "source": "The Verge"
+      },
+      {
+        "title": "Character.AI 破产，纽约总检察长牵头调查用户数据去向",
+        "summary": "Character.AI 进入破产程序后，纽约总检察长 Letitia James 联合 40 位两党州检察长提交利益通知，要求对该公司出售的消费者数据施加保护。这引发了对 AI 陪伴类应用用户数据命运的广泛关注。",
+        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+        "source": "The Verge"
+      },
+      {
+        "title": "Ricursive Intelligence 押注 AI 设计芯片以缓解算力危机",
+        "summary": "这家初创公司正在开发能自主设计芯片、从每次迭代中学习并改进后续设计的 AI 系统，目标是自动化和加速芯片设计流程。在算力需求暴涨的背景下，这一方向受到关注。",
+        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "印度信实旗下 Jio 寻求 32 亿美元 IPO，或成印度史上最大规模",
+        "summary": "Ambani 旗下的 Jio 计划通过 IPO 募集资金主要用于偿还债务，同时向电信以外的领域扩张。若成功，这将是印度有史以来最大的 IPO。",
+        "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软联合日本捣毁发送超十亿条诈骗信息的网络犯罪市场",
+        "summary": "微软与日本国家警察厅合作， dismantle 了一个为全球诈骗者提供钓鱼短信服务的交易市场。这些诈骗信息涉及虚假停车罚单和包裹投递等常见套路。",
+        "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "AI 竞赛重新升温：Google 和 Meta 能否追上 Anthropic 与 OpenAI？",
+        "summary": "The Verge 分析指出，上周 Anthropic 和 OpenAI 看似已遥遥领先，但 Google 和 Meta 正在加速追赶，AI 竞赛远未结束。文章探讨了各家当前的竞争态势和关键变量。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+        "source": "The Verge"
+      },
+      {
+        "title": "Linus Torvalds 开始使用 AI 辅助开发 Linux 内核代码",
+        "summary": "Linux 创始人 Linus Torvalds 已开始借助 AI 编写内核补丁，这标志着他与 AI 关系的转折点。此举可能对开源开发社区产生示范效应。",
+        "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "AI 润色简历「完美到一模一样」，成为招聘方新压力源",
+        "summary": "Employ 最新报告显示，AI 正在同时帮助和伤害招聘行业——经过 AI 润色的简历高度雷同，让招聘人员难以区分候选人。这反映了 AI 工具对传统招聘流程的深层冲击。",
+        "url": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "麦肯锡让求职者与 AI 模拟客户对话，面试流程引入 AI 考核",
+        "summary": "麦肯锡将要求部分初级岗位候选人进行 10 分钟的 AI 模拟客户对话，该模拟旨在反映麦肯锡顾问 80% 的工作场景。这是顶级咨询公司用 AI 重塑招聘的最新案例。",
+        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "source": "The Verge"
+      },
+      {
+        "title": "Flock CEO 在争议中为监控技术辩护：「我们不应暂停进步」",
+        "summary": "在 TechCrunch Disrupt 上，Flock CEO Garrett Langley 面对全国性的隐私反弹，坚持认为其车牌识别监控技术的打击犯罪效益大于滥用风险。与此同时，佐治亚州一名男子起诉 Flock 和当地警长办公室，指控摄像头被用于无令状跟踪和报复。",
+        "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
