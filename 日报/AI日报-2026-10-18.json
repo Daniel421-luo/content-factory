@@ -1,0 +1,80 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-18",
+  "headline": "Meta 在舆论压力下删除允许抓取网站内容训练 AI 的条款，但法律专家指出商业账户仍默认同意数据被用于 AI 训练。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "HTC 推出 Vive Eagle 智能眼镜，主打隐私保护",
+        "summary": "HTC 发布新款智能眼镜，功能与 Meta 眼镜相近，但不绑定社交媒体平台，强调隐私保护。",
+        "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+        "source": "Wired"
+      },
+      {
+        "title": "Replit 改用 OpenAI 作为默认模型提供商",
+        "summary": "Replit CEO 确认 OpenAI 将取代 Anthropic 成为默认模型提供商，Claude 仍可供用户使用。",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Meta 删除可能允许抓取新闻网站训练 AI 的条款",
+        "summary": "在遭到批评后，Meta 更新商业条款，删除了暗示可抓取网站内容训练 AI 的表述，但发言人坚称抓取方式未变。",
+        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+        "source": "The Verge"
+      },
+      {
+        "title": "法律专家：Meta 商业账户默认同意 AI 抓取且无法退出",
+        "summary": "ZDNet 报道称，拥有 Meta 商业账户的用户已被默认同意其数据用于 AI 抓取，且没有退出选项。",
+        "url": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "新泽西州副检察长被控制作 AI 儿童性虐待材料",
+        "summary": "一名 Discord 用户因传播 AI 生成的儿童性虐待材料被捕，警方确认其为新泽西州副检察长。",
+        "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Anthropic 员工结构变化：资历提升、会议时间增加",
+        "summary": "Anthropic 报告称过去一年员工资历水平提高，花在会议上的时间显著增加，反映工作性质转变。",
+        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "研究：微塑料可与水反应，对生物学构成新风险",
+        "summary": "新研究发现微塑料并非完全惰性，能与水分子反应，可能对生物体产生未知影响。",
+        "url": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/",
+        "source": "Wired"
+      },
+      {
+        "title": "PRIMA 植入物可恢复黄斑变性患者视力",
+        "summary": "PRIMA 系统已获欧洲批准，可帮助地图状萎缩患者恢复视力，目前正在等待美国批准。",
+        "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+        "source": "MIT Tech Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "为什么 AI 还无法破解人类复杂的基因组",
+        "summary": "Wired 分析指出，DNA 是动态的，AI 模型缺乏足够数据来正确解码基因组，距离真正理解生命密码还有距离。",
+        "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+        "source": "Wired"
+      },
+      {
+        "title": "网站开始对 AI 代理关闭大门",
+        "summary": "The Verge 报道，随着自主 AI 代理越来越多地浏览网页，部分网站开始限制或屏蔽 AI 代理访问。",
+        "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+        "source": "The Verge"
+      },
+      {
+        "title": "AI 相关裁员地图：各州就业与工资损失追踪面板上线",
+        "summary": "CAIS 推出工资损失仪表板，按州追踪 AI 导致的裁员及其经济影响。",
+        "url": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
