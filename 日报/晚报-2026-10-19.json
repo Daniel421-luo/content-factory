@@ -1,0 +1,234 @@
+{
+  "title": "🌙 晚报 | 2026-10-19",
+  "headline": "特朗普豁免对俄制裁令油价回落，美股期货在AI板块抄底买盘下反弹，但法国抗议与BTIG看空芯片股构成双重扰动。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货反弹，AI板块出现抄底买盘",
+        "summary": "纳指期货上涨，标普500上周累跌近2%、纳指跌4.5%终结四周连涨后，投资者逢低买入AI相关股票。",
+        "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "油价回落：特朗普豁免对俄制裁提振供应预期",
+        "summary": "特朗普援引《格雷厄姆法案》国家利益豁免条款，暂停对俄商品及主要俄能源买家的新关税，油价随之下滑。",
+        "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "法国动荡拖累巴黎股债汇三杀",
+        "summary": "法国抗议活动加剧债务危机担忧，巴黎上市股票、法国国债与欧元同步下跌，有分析师称“要么债市暴动，要么民众暴动，或两者兼有”。",
+        "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "BTIG警告科技股：反弹是减仓机会",
+        "summary": "BTIG建议投资者利用半导体股潜在反弹削减敞口，预计下跌可能延续至2027年，称“有烟处必有火”。",
+        "url": "https://www.cnbc.com/2026/10/19/tech-semiconductor-chips-ai-stocks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "WSJ：AI股市摇晃提醒“这次不一样”并不成立",
+        "summary": "WSJ评论指出，AI基建热潮尚未证明能规避铁路、互联网等历史大型资本项目的老问题，市场波动是对AI交易风险的警醒。",
+        "url": "https://www.wsj.com/finance/stocks/the-ai-stock-market-wobble-is-a-reminder-this-time-isnt-different-d3ea7f07?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "中国增长加速，AI热潮提振出口",
+        "summary": "出口帮助抵消国内消费疲软，但贸易紧张与AI疑虑令前景蒙阴。",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "英国房屋卖家每日下调3000套房产要价",
+        "summary": "BBC获得的数据显示，下调要价的房产数量为15年来最多，反映英国楼市降温。",
+        "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "这些“意外”个股或成标普500盈利增长最大推手",
+        "summary": "波音、Meta与EchoStar去年同期录得大额费用与支出，预计使本季业绩同比显得格外强劲。",
+        "url": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "微软退出英国最大AI数据中心项目",
+        "summary": "Nscale表示仍致力于在埃塞克斯建设该站点，微软退出令英国AI基建前景添变数。",
+        "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "Anthropic承诺将5%股份投入公益基金",
+        "summary": "Claude开发商表示以LLC形式设立该基金将提供更大资金使用灵活性，此举正值其筹备重磅IPO之际。",
+        "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "ASML订单与利润率飙升，AI需求未见放缓",
+        "summary": "Seeking Alpha分析称ASML订单和利润率大幅增长，AI需求放缓迹象尚未出现。",
+        "url": "https://seekingalpha.com/article/4955127-asml-stock-no-ai-slowdown-in-sight-as-orders-margins-surge?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "BTIG：半导体反弹应减仓（详见市场与宏观经济）",
+        "summary": "BTIG看空芯片股的观点已在“市场与宏观经济”栏目收录，此处不重复。",
+        "url": "",
+        "source": ""
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "贝森特警告泽连斯基对“美国限制星链”说法“非常小心”",
+        "summary": "美国财长贝森特就星链问题向泽连斯基发出警告，星链对乌克兰防御至关重要。",
+        "url": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普背书内塔尼亚胡竞选连任",
+        "summary": "特朗普在社交媒体称内塔尼亚胡是“伟大的战士总理，更是打击伊朗伊斯兰共和国的更伟大和平伙伴”。",
+        "url": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+        "source": "NPR"
+      },
+      {
+        "title": "也门胡塞袭击利雅得后，华尔街领袖考虑缺席“沙漠达沃斯”",
+        "summary": "胡塞叛军近期袭击令美国高管对下周前往沙特参加未来投资倡议会议感到不安。",
+        "url": "https://www.wsj.com/finance/some-wall-street-leaders-are-weighing-bailing-on-davos-in-the-desert-after-attacks-on-riyadh-f0be73b4?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "欧盟对华关税波及乌克兰，钢铁老板发声",
+        "summary": "乌克兰最大钢铁企业之一负责人称，该国在遏制廉价进口的措施中被“捆绑在一起”。",
+        "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "法国动荡与债务危机担忧交织",
+        "summary": "抗议活动令法国股债汇承压，分析师警告债市与街头动荡可能同时爆发，欧洲风险溢价面临重估。",
+        "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "OpenAI窃听案嫌犯被捕前曾联系沙特王室",
+        "summary": "沙特籍嫌犯Alfozan被控在OpenAI旧金山总部高管会议室安装录音设备，联邦探员披露其在被捕前数日曾通过WhatsApp联系沙特王室成员。",
+        "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI诈骗“超级加速”，交易标准官员发警告",
+        "summary": "交易标准官员称AI正通过克隆和虚假网站“超级加速”现有骗局，提醒消费者防范。",
+        "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "英国预算案定于10月28日，银行预计被加税",
+        "summary": "财政大臣John Healey将于10月28日公布税收计划，市场关注银行加税与财政规则细节。",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "美国中期选举临近，密歇根消费者信心悲观",
+        "summary": "高油价与住房成本、工资跑输通胀令消费者信心处于现代史几乎最低水平，中期选举仅剩数周。",
+        "url": "https://www.cbsnews.com/news/in-michigan-consumer-sentiment-is-pessimistic-before-midterms/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "加州Prop 40亿万富翁税公投",
+        "summary": "加州选民将决定是否对亿万富翁财富征收新税，支持者与部分进步派对其效果存在分歧。",
+        "url": "https://www.cbsnews.com/news/proposition-40-californias-proposed-billionaire-tax-how-does-it-add-up/",
+        "source": "CBS MoneyWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "特朗普豁免对俄制裁，俄油供应预期上升",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, Brent",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "AI板块上周大跌后出现抄底买盘，纳指期货反弹",
+      "direction": "看多",
+      "asset_impact": "NVDA, QQQ, SOXX",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "BTIG建议利用半导体反弹减仓，看空延续至2027年",
+      "direction": "看空",
+      "asset_impact": "SOXX, NVDA, AMD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "法国抗议与债务担忧打压巴黎股债汇",
+      "direction": "看空",
+      "asset_impact": "EWQ, EURUSD, TLT",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "ASML订单与利润率飙升，AI需求未见放缓",
+      "direction": "看多",
+      "asset_impact": "ASML, SOXX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "微软退出英国最大AI数据中心项目",
+      "direction": "看空",
+      "asset_impact": "MSFT",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "中国增长加速，AI热潮提振出口",
+      "direction": "看多",
+      "asset_impact": "FXI, KWEB, ASHR",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "胡塞袭击利雅得后华尔街高管考虑缺席沙特FII会议",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英国房屋要价下调速度为15年最快",
+      "direction": "看空",
+      "asset_impact": "EWU",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Anthropic承诺5%股份投入公益基金，为IPO铺路",
+      "direction": "中性",
+      "asset_impact": "MSFT, AMZN",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    }
+  ]
+}
