@@ -1,0 +1,67 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-19",
+  "headline": "Anthropic 将 5% 股份捐给公益基金，并首次向外部 AI 监督机构开放「员工级」访问权限",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Disney 同意接收 Character.AI 大部分员工",
+        "summary": "Disney 在法庭文件中披露，已向 Character.AI 多数员工发出录用邀请，且绝大多数人已接受。不过这是「假马竞标」，其他公司仍可能提出更高报价。",
+        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TikTok 恢复马斯克纪录片广告账户",
+        "summary": "TikTok 表示已恢复一部关于 Elon Musk 的四小时纪录片的广告账户，此前该账户曾被永久封禁。",
+        "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 承诺将 5% 股份投入「公益基金」",
+        "summary": "Anthropic 宣布将公司 5% 的股份捐给一个公益基金，用于公共事业。具体运作方式和治理结构尚未披露。",
+        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic 首次给予外部 AI 监督机构「员工级」访问权限",
+        "summary": "Anthropic 允许外部监督机构以类似内部员工的权限访问其系统，且该机构可未经 Anthropic 批准自行发布调查结果，这在 AI 行业尚属首次。",
+        "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Anthropic 内部研究：初级技术岗位占比大幅下降，AI Agent 工时达员工六倍",
+        "summary": "Anthropic 内部研究显示，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%；同时 AI Agent 的工作时长达到员工的六倍。",
+        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+        "source": "The Decoder"
+      },
+      {
+        "title": "德国两家法院先后裁定 Google 须为 AI Overview 内容负责",
+        "summary": "慕尼黑地区法院裁定 Google 的 AI 搜索摘要属于公司自身陈述而非中立转述，须为错误内容担责；Google 上诉后以和解结案，未获上级法院裁决。",
+        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+        "source": "The Decoder"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Browser Use 详解浏览器智能体的工作原理与适用场景",
+        "summary": "Browser Use 发布科普文章，解释浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
+        "url": "https://browser-use.com/posts/browser-agents",
+        "source": "Browser Use"
+      },
+      {
+        "title": "OnlyFans 创作者不满 Meta 允许 Muse 进行性暗示对话",
+        "summary": "成人内容创作者质疑 Meta 为何允许其 AI 代理 Muse 进行性暗示聊天，却限制他们的社交媒体账户，认为存在双重标准。",
+        "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+        "source": "Wired"
+      },
+      {
+        "title": "数据中心行业的新公关策略：邀请孩子实地参观",
+        "summary": "面对日益增长的反对声浪，一些行业友好团体采用经典公关手段，通过组织儿童实地参观数据中心来争取公众好感。",
+        "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
