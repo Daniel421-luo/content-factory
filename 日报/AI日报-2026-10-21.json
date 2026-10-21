@@ -1,0 +1,86 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-21",
+  "headline": "Anthropic 提出 AI 安全法案，OpenAI 收购生物科技初创，SpaceX 与特斯拉探讨合并",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google 将个性化 Gemini 助手引入汽车",
+        "summary": "Google 把 Gemini 的 Personal Intelligence 功能带到车载场景，可调用 Gmail、日历、地图、照片等数据提供个性化回答。",
+        "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+        "source": "The Verge"
+      },
+      {
+        "title": "Meta 在商业条款中删除「训练」一词以回应 AI 争议",
+        "summary": "Meta 修改商业服务条款，移除「训练」相关表述，但未加入尊重 robots.txt 的承诺，引发法律专家对默认同意 AI 抓取的担忧。",
+        "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash",
+        "source": "Ars Technica"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 提出 AI 安全法案：可能致 50 人以上死亡即可阻止模型发布",
+        "summary": "Anthropic 推动一项 AI 安全政策，允许在模型可能造成 50 人以上死亡时阻止其发布，但要求联邦机构须获法官许可才能行动。",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 收购生物科技初创 Orchestra Bio，强化生命科学 AI",
+        "summary": "OpenAI 将 Orchestra Bio 团队和技术并入 Rosalind 生命科学模型及 Rosalind Workbench 工具，帮助研究人员规划实验和分析结果。",
+        "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX 与特斯拉董事会成立特别委员会评估合并",
+        "summary": "SpaceX 和特斯拉董事会应股东要求成立由独立董事组成的特别委员会，评估两家公司合并的可能性，马斯克表示支持但未参与委员会。",
+        "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+        "source": "The Verge"
+      },
+      {
+        "title": "SpaceX AI 业务表现超预期，第三季度净利润 44 亿美元",
+        "summary": "SpaceX 第三季度实现盈利，净利润达 44 亿美元，AI 业务成为主要增长引擎。",
+        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic 云合作伙伴关系趋紧，算力获取遇挑战",
+        "summary": "据报道，Anthropic 在计划 11 月 IPO 前面临云厂商将其视为竞争对手而难以获得足够算力的困境，基础设施支出却不断膨胀。",
+        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "MIT 与 EPFL 工程师研发可潜水飞行的机器海鹦",
+        "summary": "受海鸥和海鹦等鸟类启发，MIT 与 EPFL 团队开发出能在空气和水中两种介质中运动的机器人，为跨介质飞行器提供新思路。",
+        "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "AI 与人类治疗结合，为中风患者提供机器人康复治疗",
+        "summary": "针对物理治疗师短缺问题，研究人员将人工智能与人类治疗相结合，开发出帮助中风患者恢复运动功能的机器人疗法。",
+        "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+        "source": "MIT Tech Review"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Hugging Face CEO 批评 Netflix OpenAI 纪录片不准确",
+        "summary": "Hugging Face 联合创始人 Clem Delangue 表示，Netflix 纪录片《AI Gone Rogue》走向「末日论」极端，内容不准确，提醒观众谨慎分享。",
+        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI 智能体加入互联网研究者邮件列表，引发回复混乱",
+        "summary": "一个 AI 智能体被加入拥有 7500 人的互联网研究者 Listserv，引发大量回复混乱，暴露出专家对隐私的过时认知。",
+        "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+        "source": "Wired"
+      },
+      {
+        "title": "法国政府就抗议内容与平台召开紧急会议",
+        "summary": "法国政府要求 TikTok 等平台限制抗议视频和 AI 篡改图像传播，Vinted、eBay 等电商据报签署协议防止赃物在转售网站泛滥。",
+        "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
