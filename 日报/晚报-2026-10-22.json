@@ -1,0 +1,206 @@
+{
+  "title": "🌙 晚报 | 2026-10-22",
+  "headline": "中东局势升级与特斯拉财报拖累美股期货下挫，Meta因隐私案被罚250亿美元，中国CSI 300跌入熊市，全球市场避险情绪升温。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货下跌，投资者消化Meta与特斯拉财报",
+        "summary": "纳斯达克期货下跌1.8%，标普500期货亦走低。此前标普500已连续三日上涨，但Meta和特斯拉财报引发市场担忧。",
+        "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中东紧张局势升级，油价攀升",
+        "summary": "美国下令从沙特撤出非必要外交人员，此前胡塞武装袭击机场和油田，布伦特原油价格上涨。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "中国股市跌入熊市，CSI 300较峰值下跌20%",
+        "summary": "中国基准CSI 300指数已进入熊市区域，较6月高点下跌20%，内地股市持续抛售加深。",
+        "url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "全球最大主权财富基金第三季度亏损300亿美元",
+        "summary": "挪威银行投资管理公司（NBIM）因债券市场动荡录得300亿美元亏损，当前管理资产约2.3万亿美元。",
+        "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "巴克莱计划裁员5000人，押注AI提升效率",
+        "summary": "巴克莱宣布将裁减约5%的员工，利用人工智能承担后台任务，以节省成本。",
+        "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美债收益率或迎突破，美联储会议成催化剂",
+        "summary": "BMO资本市场指出，在美联储10月28日政策会议前，美债收益率可能蓄势突破。",
+        "url": "https://www.cnbc.com/2026/10/22/us-treasury-yields-breakout-fed-bmo-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "欧元小幅走高，美元走弱抵消法国担忧",
+        "summary": "尽管能源价格上涨且法国债务与内乱担忧加剧，欧元兑美元仍因美元疲软而上涨。",
+        "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "特斯拉股价下跌，马斯克未提供SpaceX合并新细节",
+        "summary": "特斯拉投资者关注SpaceX合并进展，但马斯克在周三未提供新信息，股价承压。",
+        "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Meta股价上涨，投资者看到超越广告业务的新机遇",
+        "summary": "Meta核心广告业务季度表现强劲，投资者关注Muse个人助手等新业务潜力。",
+        "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Meta因隐私案被新墨西哥州罚款250亿美元",
+        "summary": "陪审团认定Meta多年来在数据隐私政策上欺骗消费者，罚款金额为迄今最大，超过与加州达成的180亿美元和解。",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "亚马逊计划招聘30万名季节性工人",
+        "summary": "亚马逊大幅增加假日季招聘，岗位类型和薪资信息已公布。",
+        "url": "https://www.cbsnews.com/news/amazon-seasonal-jobs-holiday-hiring-pay/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "SpaceX、Anthropic和英伟达助力科技股反弹",
+        "summary": "AI产业链三个不同环节的积极信号帮助纳斯达克综合指数收复上周五大部分跌幅。",
+        "url": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美国从沙特撤出外交人员，据报准备中期选举后打击伊朗",
+        "summary": "美国下令非紧急工作人员撤离沙特，此前胡塞武装袭击机场和油田，地区冲突扩大担忧重燃。",
+        "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "朝鲜称将恢复对韩边境宣传广播",
+        "summary": "金正恩妹妹表示，朝鲜计划在重兵把守的边境恢复反韩宣传广播，重启心理战。",
+        "url": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts",
+        "source": "NPR"
+      },
+      {
+        "title": "AIPAC停止对候选人背书和直接捐款",
+        "summary": "亲以色列游说团体宣布不再背书候选人 nor 直接捐款，但其附属超级政治行动委员会将继续运作。",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "关键PHP安全漏洞引发全球警报，谷歌、OpenAI和亚马逊回应",
+        "summary": "PHP编程语言存在关键安全漏洞，被描述为AI发现的最严重漏洞，全球网站受影响，科技巨头紧急应对。",
+        "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "医疗保健股上涨，对市场其他部分发出警告",
+        "summary": "医疗保健板块因投资者寻求避险而溢价交易，AI担忧促使资金轮动。",
+        "url": "https://www.wsj.com/finance/stocks/healthcare-stocks-are-rallying-and-flashing-a-warning-for-the-rest-of-the-market-ae13aa0b?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "汇丰策略师警告散户追逐AI涨势",
+        "summary": "汇丰首席多资产策略师Maxx Kettner表示，投资者需理解AI投资的目标不断变化。",
+        "url": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美联储10月28日政策会议临近",
+        "summary": "市场关注美联储会议，BMO认为美债收益率可能突破。",
+        "url": "https://www.cnbc.com/2026/10/22/us-treasury-yields-breakout-fed-bmo-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国预算案10月28日公布",
+        "summary": "英国预算案临近，近期通胀数据加大压力。",
+        "url": "",
+        "source": ""
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "中东冲突升级，美国撤侨并准备打击伊朗",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "Meta因隐私案被罚250亿美元",
+      "direction": "看空",
+      "asset_impact": "META",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "特斯拉未提供SpaceX合并新细节，股价下跌",
+      "direction": "看空",
+      "asset_impact": "TSLA",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "中国CSI 300进入熊市",
+      "direction": "看空",
+      "asset_impact": "FXI, ASHR",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "巴克莱裁员5000人，AI效率推动",
+      "direction": "中性",
+      "asset_impact": "BCS",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美债收益率或突破，美联储会议成催化剂",
+      "direction": "看空",
+      "asset_impact": "TLT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "全球最大主权财富基金季度亏损300亿美元",
+      "direction": "中性",
+      "asset_impact": "GLD, TLT",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "关键PHP漏洞引发全球网络安全警报",
+      "direction": "看多",
+      "asset_impact": "CRWD, PANW",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
