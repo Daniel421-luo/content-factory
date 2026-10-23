@@ -1,0 +1,86 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-23",
+  "headline": "OpenAI 被曝以 1.25 万亿美元估值启动 300 亿美元新融资，同时 Rivian 收购世界模型初创加速自动驾驶。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Canva 推出自研 AI 图像模型 Canva Craft，先规划再生成",
+        "summary": "Canva 发布首个自研图像生成模型 Canva Craft，采用两阶段架构，先规划设计布局再生成图像，主打更高精度，直接对标 OpenAI、微软和谷歌的图像模型。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+        "source": "The Verge"
+      },
+      {
+        "title": "Arc 浏览器将于 12 月 22 日停止服务，公司全力转向 Dia",
+        "summary": "The Browser Company 宣布 Arc 浏览器于 12 月 22 日日落，结束这款小众挚爱产品，公司将集中资源发展 AI 浏览器 Dia。",
+        "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "亚马逊 Kindle Unlimited 更名为 Kindle+，新增 AI 有声书",
+        "summary": "亚马逊将 Kindle Unlimited 更名为 Kindle+，并引入由 AI 虚拟语音朗读的有声书，与 Audible 等真人朗读服务形成差异。",
+        "url": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Etsy 出台新规打击 AI 生成商品泛滥",
+        "summary": "Etsy 宣布更严格的 AI 使用规则，要求卖家披露 AI 生成内容，以回应买家难以辨别、原创卖家担忧被 AI 商品淹没的问题。",
+        "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 据悉以 1.25 万亿美元估值启动 300 亿美元新融资，筹备 IPO",
+        "summary": "OpenAI 正在推进新一轮 300 亿美元融资，估值达 1.25 万亿美元，若成真将刷新最高估值私营公司纪录，并为 IPO 铺路。",
+        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian 收购世界模型初创 Third Dimension，加速自动驾驶研发",
+        "summary": "Rivian 收购专注于用 AI 匹配物理世界的初创公司 Third Dimension，其技术结合 Rivian 海量数据可构建高价值模拟器，推动自动驾驶落地。",
+        "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Warhound 获 2 亿美元融资，用基因工程改造军犬并配备 Anduril 装备",
+        "summary": "由 Ben Lamm 和 Palmer Luckey 创立的 Warhound 结束隐身模式，融资 2 亿美元，致力于基因工程改造“精英工作犬”并配备先进装甲，面向军事和执法场景。",
+        "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "a16z Crypto 更名为 a16z Frontier，投资范围扩展至 AI 等领域",
+        "summary": "随着区块链投资热度下降，a16z 旗下加密部门在 Chris Dixon 带领下更名为 a16z Frontier，将投资视野拓宽至 AI 等前沿科技。",
+        "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "MIT 研究：13 个 AI 智能体被困虚拟荒岛后自发发明游戏、悼念丢失戒指",
+        "summary": "MIT 研究人员将 13 个 AI 智能体置于虚拟荒岛，在无事可做的情况下，它们自发创造游戏、为丢失的戒指举行悼念仪式，并最终提升了任务表现，为多智能体行为研究提供新视角。",
+        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "source": "TechCrunch"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "MIT 科技评论：企业 AI 的下一竞争优势在于服务框架而非模型选择",
+        "summary": "文章指出，企业 AI 的竞争重点正从模型能力转向围绕模型构建的服务框架，包括数据、工程、平台和治理的整合，这比选哪个模型更重要。",
+        "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "MIT 科技评论：AI 推理的隐性存储成本被忽视",
+        "summary": "文章提醒高管们，AI 成本不只是 GPU 和电力，模型响应后产生的大量后端数据存储费用同样惊人，却常被忽略。",
+        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "扎克伯格巧用新股票类别，为加州亿万富翁税未雨绸缪且不丢控制权",
+        "summary": "Meta 新推出的股票类别部分设计目的是帮助扎克伯格在加州亿万富翁税生效时缴税，同时保持对公司的控制权。",
+        "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
