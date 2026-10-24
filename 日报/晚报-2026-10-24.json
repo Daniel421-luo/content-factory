@@ -1,0 +1,246 @@
+{
+  "title": "🌙 晚报 | 2026-10-24",
+  "headline": "中东局势推高油价，道指重挫逾600点；AI基建融资压力浮现，Solidigm与SK海力士相继撤回IPO计划；法国骚乱推升国债收益率至24年高位。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "道指重挫逾600点，油价上涨与板块普跌施压",
+        "summary": "道琼斯工业平均指数周五下跌超过600点，中东紧张局势推升油价，市场抛售波及多数板块。",
+        "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美股波动收跌，通胀与AI焦虑拉锯",
+        "summary": "标普500等主要股指在通胀担忧与人工智能相关焦虑的拉锯中走低，结束波动剧烈的一周。",
+        "url": "https://www.wsj.com/finance/stocks/stocks-pulled-in-two-directions-fall-to-end-volatile-week-0c2042a8?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "法国骚乱推升国债收益率至24年高位",
+        "summary": "法国国内骚乱持续，投资者在更多抗议活动前权衡预算、增长与行业风险，法国国债收益率升至24年高位。",
+        "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "AI基建遭遇动荡：新云厂商承压、信用风险上升、Solidigm撤回IPO",
+        "summary": "本周新云厂商股价下挫、信用违约互换利差扩大，Solidigm撤回IPO，为超大规模云厂商财报季拉开紧张序幕。",
+        "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SK海力士取消闪存子公司美国IPO计划",
+        "summary": "SK海力士 scrapped 其闪存子公司在美国的IPO计划，成为AI相关融资环境收紧的最新迹象。",
+        "url": "https://www.wsj.com/finance/stocks/stock-selloff-continues-as-oil-surges-a6d20245?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "美国运通裁员5%",
+        "summary": "美国运通宣布裁减约5%的员工，成为最新一家调整人力成本的大型金融机构。",
+        "url": "https://www.wsj.com/finance/stocks/stock-selloff-continues-as-oil-surges-a6d20245?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "欧元区10月PMI初值：增长动能减弱，法国重陷衰退",
+        "summary": "欧元区10月综合PMI初值显示增长势头减弱，法国经济再度下滑且通胀压力居高不下。",
+        "url": "https://seekingalpha.com/article/4957183-eurozone-flash-pmi-growth-spurt-wanes-amid-renewed-french-downturn-elevated-inflation?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "英国10月PMI初值显示四季度强劲开局，但价格压力高企",
+        "summary": "英国10月PMI初值显示第四季度经济强劲开局，但投入和产出价格压力依然显著。",
+        "url": "https://seekingalpha.com/article/4957177-uk-flash-pmi-signals-strong-start-to-fourth-quarter-amid-elevated-price-pressures?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "苹果有望从英伟达手中夺回市值王冠，财报或成催化剂",
+        "summary": "苹果股价接近历史高位，市值逼近英伟达，即将公布的财报可能推动其登顶。",
+        "url": "https://www.cnbc.com/2026/10/23/apple-nvidia-market-cap-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Bloom Energy业绩超预期36%，但股价仍处低迷",
+        "summary": "燃料电池制造商Bloom Energy盈利超预期36%、营收超预期15%，但股价未获提振，数据中心需求仍是关键。",
+        "url": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "捷蓝航空债权人聘请重组顾问，股价与债券齐跌",
+        "summary": "捷蓝航空高级债权人正与财务顾问PJT Partners及律所Akin合作，公司股价和债券大幅下挫。",
+        "url": "https://www.wsj.com/pro/bankruptcy/jetblue-creditors-huddle-with-restructuring-adviser-as-bonds-shares-sink-43866c42?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "Meta的Muse AI代理下载量破千万，但变现路径不明",
+        "summary": "Meta旗下AI代理Muse上线一个多月下载量突破1000万次，但市场质疑其盈利模式。",
+        "url": "https://www.wsj.com/finance/stocks/metas-muse-is-going-gangbusters-but-where-is-the-payoff-648d310d?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "SpaceX移动业务野心再挫电信股",
+        "summary": "有报道称星链与铁塔运营商洽谈合作，Verizon、AT&T和T-Mobile股东对此作出反应。",
+        "url": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "杠杆半导体ETF上周创纪录流入后遭遇重挫",
+        "summary": "投资者上周向杠杆半导体ETF投入创纪录资金，但随着AI投资回报担忧重燃，本月芯片股多头损失惨重。",
+        "url": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "应用材料：AI背后的工程巨头，获买入评级",
+        "summary": "Seeking Alpha分析认为应用材料是AI浪潮背后的核心工程设备商，当前估值具吸引力。",
+        "url": "https://seekingalpha.com/article/4957171-applied-materials-buy-engineering-powerhouse-behind-ai?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普调整对加拿大关税：部分商品豁免，另一些加征",
+        "summary": "白宫宣布自10月30日起对部分加拿大商品（如某些机械）减免关税，同时对地毯等商品加征关税，中期选举前贸易政策再度调整。",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "也门塔伊兹市遭胡塞武装围困，饮用水供应枯竭",
+        "summary": "伊朗支持的胡塞武装收紧对也门西南部城市塔伊兹的包围，当地饮用水危机近几周急剧恶化。",
+        "url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "AI的“黑色十月”：PHP关键漏洞引发全球安全恐慌",
+        "summary": "PHP关键漏洞在网上泄露后，全球政府和企业紧急应对，谷歌、OpenAI和亚马逊均已回应。",
+        "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI代理被检测出现在客户银行账户内",
+        "summary": "银行发现客户账户中存在个人AI代理活动，专家警告过度分享信息的风险。",
+        "url": "https://www.cbsnews.com/news/ai-agents-customer-bank-accounts-security/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Anthropic的11月IPO面临时间压力",
+        "summary": "若市场压力持续，Anthropic可能选择推迟上市；关键文件提交窗口正在收窄。",
+        "url": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "五角大楼“负责任AI”准则未被完全遵守",
+        "summary": "国会监督机构报告显示，五角大楼在武器和项目中使用的AI能力并非总是遵守其自身准则。",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美联储10月28日政策会议临近",
+        "summary": "市场关注美联储下周政策会议，近期美债收益率大幅波动令政策信号尤为关键。",
+        "url": "",
+        "source": "综合"
+      },
+      {
+        "title": "英国预算案10月28日公布",
+        "summary": "英国财政大臣将公布预算案，其中包含1亿英镑的“全球首个”AI生物安全实验室投资。",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "超大规模云厂商财报季临近",
+        "summary": "在AI基建信用风险上升的背景下，大型云厂商即将公布的财报将成为市场焦点。",
+        "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "中东紧张局势升级推动油价上涨，道指重挫逾600点",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ, XLE, USO",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "AI基建融资压力浮现，新云厂商承压、信用利差扩大、Solidigm撤回IPO",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX, CRWV",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SK海力士取消闪存子公司美国IPO，存储芯片融资环境收紧",
+      "direction": "看空",
+      "asset_impact": "MU, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "法国骚乱推升国债收益率至24年高位，欧洲风险溢价上升",
+      "direction": "看空",
+      "asset_impact": "EWQ, EURUSD, TLT",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "苹果市值逼近英伟达，财报或推动其重夺市值王冠",
+      "direction": "看多",
+      "asset_impact": "AAPL, NVDA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "杠杆半导体ETF创纪录流入后遭重挫，芯片股多头损失惨重",
+      "direction": "看空",
+      "asset_impact": "SOXL, SOXX, NVDA",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "特朗普调整对加拿大关税，贸易政策不确定性延续",
+      "direction": "中性",
+      "asset_impact": "FXC, EWC",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "PHP关键漏洞引发全球安全恐慌，网络安全支出或增加",
+      "direction": "看多",
+      "asset_impact": "CIBR, PANW, CRWD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "欧元区PMI显示增长动能减弱，法国重陷衰退",
+      "direction": "看空",
+      "asset_impact": "EURUSD, EWQ, FXI",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英国预算案前PMI强劲但价格压力高企，英镑与英债承压",
+      "direction": "中性",
+      "asset_impact": "GBPUSD, EWU",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
