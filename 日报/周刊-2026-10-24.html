@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>视界 · 周刊 10/19 - 10/24</title>
+<style>
+    :root {
+        --page-bg: #fafaf7;
+        --card-bg: #ffffff;
+        --text: #1e293b;
+        --text-muted: #64748b;
+        --text-subtle: #94a3b8;
+        --border: #e2e8f0;
+        --shadow: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
+        --shadow-hover: 0 4px 12px rgba(0,0,0,0.06);
+        --radius: 12px;
+        --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+        --font-mono: "SF Mono", "Fira Code", "JetBrains Mono", monospace;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+        font-family: var(--font-sans);
+        background: var(--page-bg);
+        color: var(--text);
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    .page {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 40px 24px 80px;
+    }
+
+    /* ── Header ── */
+    .masthead {
+        text-align: center;
+        padding: 48px 0 40px;
+        border-bottom: 1px solid var(--border);
+        margin-bottom: 40px;
+    }
+
+    .masthead .brand {
+        font-size: 13px;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--text-subtle);
+        margin-bottom: 12px;
+    }
+
+    .masthead h1 {
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        color: var(--text);
+        margin-bottom: 8px;
+    }
+
+    .masthead .headline {
+        font-size: 17px;
+        color: var(--text-muted);
+        font-weight: 400;
+        max-width: 480px;
+        margin: 0 auto 16px;
+        line-height: 1.5;
+    }
+
+    .masthead .meta {
+        font-size: 13px;
+        color: var(--text-subtle);
+    }
+
+    .masthead .date-badge {
+        display: inline-block;
+        background: #f1f5f9;
+        border-radius: 20px;
+        padding: 4px 14px;
+        font-size: 12px;
+        font-weight: 500;
+        color: var(--text-muted);
+    }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+        display: flex;
+        justify-content: center;
+        gap: 32px;
+        margin-bottom: 48px;
+        flex-wrap: wrap;
+    }
+
+    .stat {
+        text-align: center;
+    }
+
+    .stat-value {
+        font-size: 28px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.02em;
+    }
+
+    .stat-label {
+        font-size: 12px;
+        color: var(--text-muted);
+        margin-top: 2px;
+    }
+
+    /* ── Sections ── */
+    .section-block {
+        margin-bottom: 48px;
+    }
+
+    .section-header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 20px;
+        padding-bottom: 12px;
+        border-bottom: 2px solid var(--border, #e2e8f0);
+    }
+
+    .section-icon {
+        font-size: 22px;
+    }
+
+    .section-header h2 {
+        font-size: 19px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.01em;
+        flex: 1;
+    }
+
+    .section-count {
+        font-size: 12px;
+        color: var(--text-subtle);
+        font-weight: 500;
+        background: #f1f5f9;
+        border-radius: 10px;
+        padding: 2px 10px;
+    }
+
+    /* ── Cards ── */
+    .cards {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .card {
+        background: var(--card-bg);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        display: grid;
+        grid-template-columns: 44px 1fr 200px;
+        gap: 0;
+        overflow: hidden;
+        transition: box-shadow 0.2s;
+    }
+
+    .card:hover {
+        box-shadow: var(--shadow-hover);
+    }
+
+    .card-number {
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 18px 0 0 0;
+        font-family: var(--font-mono);
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--text-subtle);
+    }
+
+    .card-body {
+        padding: 18px 16px;
+    }
+
+    .card-body h3 {
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 1.4;
+        margin-bottom: 6px;
+        color: var(--text);
+    }
+
+    .card-body h3 a {
+        color: inherit;
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s;
+    }
+
+    .card-body h3 a:hover {
+        border-bottom-color: var(--text);
+    }
+
+    .card-why {
+        font-size: 13px;
+        color: var(--text-muted);
+        margin-bottom: 4px;
+        line-height: 1.5;
+    }
+
+    .card-summary {
+        font-size: 13px;
+        color: var(--text-muted);
+        line-height: 1.6;
+        margin-bottom: 6px;
+    }
+
+    .card-action {
+        font-size: 12px;
+        color: var(--text);
+        background: var(--bg, #f8fafc);
+        border-radius: 6px;
+        padding: 6px 10px;
+        line-height: 1.4;
+    }
+
+    .card-meta {
+        margin-top: 8px;
+    }
+
+    .card-source {
+        font-size: 11px;
+        color: var(--text-subtle);
+    }
+
+    .card-take {
+        padding: 18px 16px;
+        border-left: 1px solid var(--border);
+        background: #fafbfc;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    .take-label {
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--text-subtle);
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        margin-bottom: 8px;
+    }
+
+    .take-placeholder {
+        font-size: 12px;
+        color: #cbd5e1;
+        font-style: italic;
+        line-height: 1.5;
+    }
+
+    /* ── Footer ── */
+    .footer {
+        text-align: center;
+        padding-top: 40px;
+        border-top: 1px solid var(--border);
+        margin-top: 20px;
+        color: var(--text-subtle);
+        font-size: 12px;
+    }
+
+    .footer a {
+        color: var(--text-muted);
+        text-decoration: none;
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 640px) {
+        .page {
+            padding: 20px 16px 60px;
+        }
+        .masthead {
+            padding: 28px 0 24px;
+            margin-bottom: 24px;
+        }
+        .masthead h1 {
+            font-size: 24px;
+        }
+        .card {
+            grid-template-columns: 36px 1fr;
+        }
+        .card-take {
+            display: none;
+        }
+        .stats-bar {
+            gap: 20px;
+            margin-bottom: 32px;
+        }
+        .stat-value {
+            font-size: 22px;
+        }
+    }
+
+    /* ── Print ── */
+    @media print {
+        body { background: white; }
+        .page { max-width: 100%; padding: 20px; }
+        .card { box-shadow: none; break-inside: avoid; border: 1px solid #e5e7eb; }
+        .card-take { background: white; }
+    }
+</style>
+</head>
+<body>
+<div class="page">
+
+    <header class="masthead">
+        <div class="brand">视界 · Weekly View</div>
+        <h1>10/19 - 10/24</h1>
+        <p class="headline">AI 竞争从模型转向服务框架与成本结构，OpenAI 断网训练与 Anthropic 开放监督，标志行业进入「可控性」与「隐性成本」的新战场。</p>
+        <span class="date-badge">2026-10-24 13:30 · 自动生成</span>
+    </header>
+
+    <div class="stats-bar">
+        <div class="stat">
+            <div class="stat-value">6</div>
+            <div class="stat-label">本周日报</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">12</div>
+            <div class="stat-label">精选条目</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">4</div>
+            <div class="stat-label">关注领域</div>
+        </div>
+    </div>
+
+    
+            <section class="section-block" style="--accent: #2563eb; --bg: #eff6ff; --border: #bfdbfe">
+                <div class="section-header">
+                    <span class="section-icon">🤖</span>
+                    <h2>AI × 商业变现</h2>
+                    <span class="section-count">5 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/" target="_blank" rel="noopener">OpenAI 以 1.25 万亿美元估值启动 300 亿美元新融资，筹备 IPO</a></h3>
+                        <div class="card-why">💡 刷新私营公司估值纪录，预示 AI 资本集中度加剧，影响创业公司融资环境与退出预期。</div>
+                        <p class="card-summary">OpenAI 正推进 300 亿美元新融资，估值达 1.25 万亿美元，若成真将成最高估值私营公司，并为 IPO 铺路。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>关注其 IPO 时间表与资金用途，评估对自身融资节奏和估值锚定的影响。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-23</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings" target="_blank" rel="noopener">Meta 发行无投票权新股为 AI 扩张融资，2027 年开始交易</a></h3>
+                        <div class="card-why">💡 大型科技公司开辟新融资渠道，可能引发效仿，改变 AI 军备竞赛的资本结构。</div>
+                        <p class="card-summary">Meta 在 Q3 财报中宣布创设新类别股票，用于 AI 投入、收购和员工薪酬，无投票权，2027 年交易。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>研究该融资工具对股权稀释和治理的影响，作为自身融资选项的参考。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-22</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/" target="_blank" rel="noopener">Anthropic 内部研究：初级技术岗位占比大幅下降，AI Agent 工时达员工六倍</a></h3>
+                        <div class="card-why">💡 直接揭示 AI 对组织人力结构的冲击，为创始人调整招聘和团队配置提供数据依据。</div>
+                        <p class="card-summary">Anthropic 技术部门初级岗位占比从 21% 降至 14%，新招初级占比从 27% 降至 9%，AI Agent 工时达员工六倍。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>重新评估初级岗位招聘计划，将 AI Agent 纳入工时与产出核算。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-19</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">04</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/" target="_blank" rel="noopener">Meta 的 AI 应用 Muse 用户突破 1000 万，购物成主要场景</a></h3>
+                        <div class="card-why">💡 消费级 AI 应用规模化的罕见数据点，验证购物场景的变现潜力。</div>
+                        <p class="card-summary">Meta 披露 Muse 用户超 1000 万，最常用于购物和个人效率管理。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>分析 Muse 的购物交互设计，思考如何将 AI 助手嵌入自身产品的交易环节。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-22</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">05</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model" target="_blank" rel="noopener">Canva 推出自研 AI 图像模型 Canva Craft，先规划再生成</a></h3>
+                        <div class="card-why">💡 垂直工具自研模型以提升精度，展示 AI 商业变现中「场景专用模型」的差异化路径。</div>
+                        <p class="card-summary">Canva Craft 采用两阶段架构，先规划设计布局再生成图像，直接对标 OpenAI、微软和谷歌的图像模型。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估自身业务是否适合自研垂直模型，或与通用模型合作以降低成本。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-23</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #dc2626; --bg: #fef2f2; --border: #fecaca">
+                <div class="section-header">
+                    <span class="section-icon">📈</span>
+                    <h2>交易与宏观</h2>
+                    <span class="section-count">4 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/" target="_blank" rel="noopener">OpenAI 宣布前沿模型训练不再接入实时互联网，构建离线测试环境</a></h3>
+                        <div class="card-why">💡 模型失控风险应对措施可能成为行业标准，影响 AI 公司合规成本与技术路线。</div>
+                        <p class="card-summary">OpenAI 称因重大风险，已构建离线测试环境，让模型与索引缓存网页交互而不影响外部系统。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>关注该措施对模型能力迭代速度的影响，评估自身 AI 应用的数据隔离策略。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-24</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/" target="_blank" rel="noopener">Anthropic 提出 AI 安全法案：可能致 50 人以上死亡即可阻止模型发布</a></h3>
+                        <div class="card-why">💡 监管框架雏形出现，可能改变 AI 模型发布节奏与责任归属，影响投资决策。</div>
+                        <p class="card-summary">Anthropic 推动 AI 安全政策，允许在模型可能造成 50 人以上死亡时阻止发布，但需法官许可。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>跟踪法案进展，评估对自身 AI 产品发布合规要求的影响。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-21</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/" target="_blank" rel="noopener">德国两家法院裁定 Google 须为 AI Overview 内容负责</a></h3>
+                        <div class="card-why">💡 确立 AI 生成内容的法律责任先例，影响所有提供 AI 摘要或建议的产品。</div>
+                        <p class="card-summary">慕尼黑地区法院裁定 Google 的 AI 搜索摘要属于公司自身陈述，须为错误内容担责，上诉后和解。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>审查自身 AI 生成内容的免责声明与审核机制，防范类似法律风险。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-19</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">04</div>
+                    <div class="card-body">
+                        <h3><a href="https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/" target="_blank" rel="noopener">特斯拉 Q3 利润暴跌 43%，同时启动 Optimus 机器人加州量产</a></h3>
+                        <div class="card-why">💡 反映 AI 与自动驾驶投入对财务的短期压力，为硬件+AI 创业公司的成本结构提供参照。</div>
+                        <p class="card-summary">特斯拉营收持平但支出飙升，利润同比大跌 43%，储能业务萎缩，仍推进 Optimus 量产。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>关注 Optimus 量产进展对 AI 机器人供应链的拉动效应。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-22</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #059669; --bg: #ecfdf5; --border: #a7f3d0">
+                <div class="section-header">
+                    <span class="section-icon">🔧</span>
+                    <h2>工具与方法</h2>
+                    <span class="section-count">4 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/" target="_blank" rel="noopener">MIT 科技评论：企业 AI 的下一竞争优势在于服务框架而非模型选择</a></h3>
+                        <div class="card-why">💡 指出竞争逻辑从选模型转向构建服务框架，直接影响技术栈投入方向。</div>
+                        <p class="card-summary">企业 AI 差异化越来越取决于围绕模型构建的服务框架，而非单纯选择哪个模型。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>审视自身 AI 服务框架的投入，将资源从模型选型转向 harness 与运维体系。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-24</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/" target="_blank" rel="noopener">MIT 科技评论：AI 推理的隐性存储成本被忽视</a></h3>
+                        <div class="card-why">💡 揭示 AI 总成本中被低估的一环，帮助创始人更准确核算 AI 产品毛利。</div>
+                        <p class="card-summary">多数高管只关注 GPU 和算力成本，但模型响应后产生的大量后端数据存储费用同样惊人。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>核算自身 AI 推理的存储开销，优化数据保留策略以控制成本。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-24</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://browser-use.com/posts/browser-agents" target="_blank" rel="noopener">Browser Use 详解浏览器智能体的工作原理与适用场景</a></h3>
+                        <div class="card-why">💡 提供浏览器智能体的技术拆解，为自动化工作流选型提供依据。</div>
+                        <p class="card-summary">浏览器智能体由模型、harness 和浏览器三部分组成，通过观察-动作-检查循环完成任务，可读取 DOM、无障碍树或截图。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估浏览器智能体在自身业务流程中的适用环节，如数据采集或重复操作。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-19</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">04</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/" target="_blank" rel="noopener">ServiceNow 与 Nvidia 联合推出企业 AI 智能体 Arc，多层实时安全检查</a></h3>
+                        <div class="card-why">💡 企业级智能体安全方案落地，为部署有执行权限的 Agent 提供参考架构。</div>
+                        <p class="card-summary">Arc 瞄准企业级部署，通过多层实时安全检查让智能体在拥有执行权限的同时不越界。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>研究 Arc 的安全检查机制，借鉴到自身智能体权限管理设计中。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-10-22</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+
+    <footer class="footer">
+        <p>由 AI Content Factory 自动策展 · 每周六上午生成</p>
+        <p style="margin-top:4px">在 Obsidian 中打开同名 .md 文件可编辑「我的看法」</p>
+    </footer>
+
+</div>
+</body>
+</html>
