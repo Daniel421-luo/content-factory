@@ -1,0 +1,228 @@
+{
+  "title": "🌙 晚报 | 2026-10-25",
+  "headline": "欧洲多国爆发大规模抗议、法国债市承压，AI融资模式与数据中心政治阻力成为市场新焦点。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "欧洲抗议浪潮蔓延多国，法国市场风险持续发酵",
+        "summary": "米兰、罗马、马德里、里斯本等地周六爆发大规模示威，士兵在米兰市中心警戒；法国骚乱已推动国债收益率升至24年高位，投资者关注预算、增长与板块风险。",
+        "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+        "source": "NPR"
+      },
+      {
+        "title": "盈利增长高度依赖少数AI巨头",
+        "summary": "WSJ指出，包括英伟达、美光在内的十家公司贡献了约三分之二的企业利润增长，市场集中度风险引发关注。",
+        "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "美股波动收跌，通胀与AI焦虑拉锯",
+        "summary": "美股在通胀担忧与人工智能板块焦虑的双重拉扯下震荡收低，结束波动剧烈的一周。",
+        "url": "https://www.wsj.com/finance/stocks/stocks-pulled-in-two-directions-fall-to-end-volatile-week-0c2042a8?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "法国骚乱冲击市场，投资者面临三大问题",
+        "summary": "法国骚乱将国债收益率推升至24年高位，投资者在更多抗议活动前权衡预算、增长与行业风险。",
+        "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普动用国防生产法推动燃料增产，专家存疑",
+        "summary": "特朗普政府称利用《国防生产法》资金将提高炼油产量并降低美国燃料价格，但专家对此持怀疑态度。",
+        "url": "https://www.cbsnews.com/news/trump-defense-production-act-gas-diesel-prices/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "加州选民或对亿万富翁征收“全球首个”财富税",
+        "summary": "加州选民即将决定是否对超级富豪征税数十亿美元，用于改善医疗保健。",
+        "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "安进公布肺癌联合疗法积极数据",
+        "summary": "安进表示，其药物联合阿斯利康免疫疗法可将侵袭性肺癌患者的死亡风险降低58%。",
+        "url": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Moderna投资者需为更多剧烈波动做好准备",
+        "summary": "WSJ分析称，即便经历最新一轮大幅下跌，Moderna股价仍隐含了极高的成功预期。",
+        "url": "https://www.wsj.com/health/pharma/moderna-investors-should-brace-for-more-whiplash-5c32f32d?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "捷蓝航空债权人聘请重组顾问，股价与债券齐跌",
+        "summary": "捷蓝航空高级债权人正与财务顾问PJT Partners及律所Akin合作，公司股价与债券同步下挫。",
+        "url": "https://www.wsj.com/pro/bankruptcy/jetblue-creditors-huddle-with-restructuring-adviser-as-bonds-shares-sink-43866c42?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "奥迪将在美国佐治亚州投资40亿美元建厂",
+        "summary": "特朗普宣布奥迪将在佐治亚州建设新组装厂，预计每年生产20万辆SUV。",
+        "url": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Humana与联合健康削减部分Medicare Advantage计划",
+        "summary": "两家大型私营保险公司因成本上升和利用率激增，正在终止部分Medicare Advantage计划，影响约100万老年人。",
+        "url": "https://www.cbsnews.com/news/humana-unitedhealthcare-end-medicare-advantage-plans/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达AI融资角色面临首次重大考验",
+        "summary": "随着英伟达从芯片制造商转变为行业融资方，新云厂商（neoclouds）遭遇市场冲击，投资者担忧其承担了与AI基建相关的过度风险。",
+        "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "乌克兰称星链服务恢复正常，马斯克指乌方违反协议",
+        "summary": "乌克兰表示星链和星盾限制已解除，快速移动军事系统连接恢复；马斯克则声称乌克兰违反了星链协议。",
+        "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "白宫在中期选举前调整对加拿大关税",
+        "summary": "自10月30日起，美国将对部分加拿大商品（包括某些机械）降低关税，同时对地毯等其他商品加征关税。",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "民主党与投票权组织挑战特朗普阻止阿拉斯加参议员认证",
+        "summary": "候选人Mary Peltola和一家投票权组织提起诉讼，挑战特朗普抢先阻止阿拉斯加民主党参议员胜利认证的努力。",
+        "url": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "AI数据中心遭遇两党政治阻力，中期选举前成焦点",
+        "summary": "CNBC调查显示选民广泛反对在住所附近建设AI数据中心；威斯康星州的数据中心问题已成为两党政治议题，可能影响AI基建推进节奏。",
+        "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI代理被检测出现在客户银行账户内",
+        "summary": "银行已检测到个人AI代理在客户账户内活动，专家警告过度分享信息给AI的风险。",
+        "url": "https://www.cbsnews.com/news/ai-agents-customer-bank-accounts-security/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "柴油价格创纪录冲击西部牧场主",
+        "summary": "俄勒冈州牧场主面临干旱、火灾和创纪录柴油价格的三重打击，燃料成本推高干草运输费用。",
+        "url": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "英国预算案与美联储会议临近",
+        "summary": "英国预算案将于10月28日公布，美联储10月28日政策会议亦将召开，市场关注财政与货币政策信号。",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "本周五家G10央行议息，新西兰与加拿大或加息",
+        "summary": "Seeking Alpha指出，本周将有五家G10央行召开会议，其中新西兰联储和加拿大央行最有可能加息。",
+        "url": "https://seekingalpha.com/article/4957297-5-g10-central-banks-meet-and-reserve-bank-of-new-zealand-and-bank-of-canada-most-likely-to-hike?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "英国预算将包含10亿英镑社会住房资金",
+        "summary": "英国预算将为社会和可负担住房提供10亿英镑，使十年计划总资金超过400亿英镑。",
+        "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "欧洲多国抗议蔓延，法国国债收益率升至24年高位",
+      "direction": "看空",
+      "asset_impact": "EWQ, TLT",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "英伟达作为AI融资方面临新云厂商市场冲击的首次重大考验",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "盈利增长高度集中于十家AI巨头，市场集中度风险上升",
+      "direction": "中性",
+      "asset_impact": "NVDA, MU, SPY",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI数据中心遭遇选民反对，中期选举前政治阻力加大",
+      "direction": "看空",
+      "asset_impact": "NVDA, SMCI, EQIX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "特朗普动用国防生产法推动炼油增产，或压制燃料价格",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "安进肺癌联合疗法降低死亡风险58%，利好其肿瘤管线",
+      "direction": "看多",
+      "asset_impact": "AMGN, AZN",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "捷蓝航空债权人聘请重组顾问，信用风险升温",
+      "direction": "看空",
+      "asset_impact": "JBLU",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Humana与联合健康削减Medicare Advantage计划，影响约100万老年人",
+      "direction": "看空",
+      "asset_impact": "HUM, UNH",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "白宫调整对加拿大关税，部分商品豁免、部分加征",
+      "direction": "中性",
+      "asset_impact": "FXC, EWC",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "本周五家G10央行议息，新西兰与加拿大或加息",
+      "direction": "中性",
+      "asset_impact": "NZDUSD, USDCAD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
