@@ -1,0 +1,67 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-27",
+  "headline": "Anthropic 正式递交 IPO 申请，成为首家冲刺上市的头部 AI 大模型公司",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Apple 发布新款 iPad mini：OLED 屏 + A20 Pro 芯片",
+        "summary": "苹果推出新一代 iPad mini，首次换上 OLED 显示屏并搭载更快的 A20 Pro 芯片，机身更薄更轻。对 AI 端侧应用来说，更强的 NPU 和显示素质意味着本地推理体验有望提升。",
+        "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla 联手 Turo 推广 FSD（监督版）",
+        "summary": "特斯拉与租车平台 Turo 合作，符合条件的车主可获一个月 FSD 免费试用，借此扩大自动驾驶软件的付费用户基数。这延续了特斯拉把软件订阅当作新利润引擎的思路。",
+        "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 正式递交 IPO 申请，拟登陆纳斯达克",
+        "summary": "Anthropic 向 SEC 提交 S-1 招股书，计划以代码「ANT」在纳斯达克上市，抢在 OpenAI 之前。文件披露了营收快速增长、亏损扩大、企业客户采用情况，以及一套旨在保留创始人对 AI 安全使命控制权的特殊治理结构。",
+        "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软向约 6 万名员工提供自愿离职补偿",
+        "summary": "微软在美国、英国、加拿大和印度向最多 6 万名员工开放自愿买断，称将提供财务支持与职业规划资源。这是微软在 AI 投入高企背景下持续压缩人力成本的最新动作。",
+        "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+        "source": "The Verge"
+      },
+      {
+        "title": "Matiks 融资 1000 万美元，扩展 AI 数学与解谜游戏平台",
+        "summary": "Matiks 获得 1000 万美元融资，用于扩展其数学与解谜游戏平台，并推出让用户用 AI 创建游戏的新功能。教育娱乐赛道正借助生成式 AI 降低内容创作门槛。",
+        "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Wired：Anthropic 的 IPO 招股书也是一份「末日论入门」",
+        "summary": "Wired 评论认为，Anthropic 把「闭环」视为通往 AI 成功的最佳路径，而这套叙事同时也构成了对人类「生存性」威胁的配方。招股书罕见地把安全风险写进公开融资文件，值得细读。",
+        "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+        "source": "Wired"
+      },
+      {
+        "title": "MIT 科技评论：只盯着 AI 灾难性风险，会忽视日常伤害",
+        "summary": "评论文章指出，科技政策把「成功」定义为聊天机器人不鼓励自杀、平台难买芬太尼等底线保护，但这些本应一直存在。作者呼吁把注意力从极端灾难场景转向算法歧视、隐私侵蚀等每天都在发生的普通伤害。",
+        "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "The Verge 播客：Kevin Roose 为何被 AGI「洗脑」",
+        "summary": "《纽约时报》前记者 Kevin Roose 带着新书《The AGI Chronicles》做客节目，讲述 AI 行业近年的爆炸式转变，以及他为何从谨慎观察者变成相信 AGI 即将到来的人。这是一份理解主流媒体 AI 叙事转向的一手材料。",
+        "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+        "source": "The Verge"
+      },
+      {
+        "title": "AI 能解决 COBOL 遗留代码危机吗？",
+        "summary": "IRS、银行、航空公司和政府基础设施仍在运行无人敢碰的老旧 COBOL 代码。OpenAI 和 Anthropic 都在推销用大模型做现代化迁移的方案，但文章提醒：真正的难点不在翻译代码，而在理解几十年积累的业务逻辑。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
