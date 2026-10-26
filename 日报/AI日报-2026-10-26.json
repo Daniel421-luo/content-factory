@@ -1,0 +1,49 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-26",
+  "headline": "Apollo 经济学家称 AI 对多数企业「零财务回报」，Grok 发布首段 AI 生成《奥德赛》影片，r/opensource 全面封禁 AI 项目。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Grok 发布首段七分钟 AI 生成《奥德赛》影片",
+        "summary": "Grok 放出了其 AI 生成《奥德赛》的前七分钟片段，画面尚可但缺乏艺术性与人文温度，更像是技术演示而非影视作品。",
+        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Kindle Unlimited 更名 Kindle+，新增 AI 有声书",
+        "summary": "亚马逊将 Kindle Unlimited 更名为 Kindle+，两大变化之一是引入 Virtual Voice 生成的 AI 有声书，与 Audible 真人朗读形成差异化。",
+        "url": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Apollo 经济学家：AI 对科技业外多数企业「零财务回报」",
+        "summary": "Apollo 经济学家直言，尽管 AI 投资巨大、炒作火热，但对科技行业以外的美国企业而言，这项技术迄今没有带来任何财务回报。",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "r/opensource 版块全面封禁 AI 相关项目",
+        "summary": "r/opensource 版主发布新规，禁止使用 AI、由 AI 生成或面向 AI 的项目投稿，理由是「当今的 AI 与开源理念不相容」，同时限制非英语发言者。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Google AI 搜索改版如何重塑网络出版业",
+        "summary": "The Stepback 专栏梳理 Google AI 搜索上线以来对数字出版行业的冲击，从流量结构到内容生产逻辑，出版商的生存空间正被重新定义。",
+        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+        "source": "The Verge"
+      },
+      {
+        "title": "美国数据中心抵制运动可以向海外学什么",
+        "summary": "《Hyperscale》作者 Paris Marx 追踪全球数据中心建设多年，指出美国反数据中心运动可以从爱尔兰、新西兰等地的经验中汲取教训。",
+        "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
