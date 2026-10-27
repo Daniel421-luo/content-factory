@@ -1,0 +1,73 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-28",
+  "headline": "Google 发布 Genie 4 世界模型，苹果为 iWork 套件加入 AI 聊天机器人",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google 发布 Genie 4 世界模型：更真实、可实时编辑、支持音频",
+        "summary": "Google 宣布推出 Genie 4 世界模型，能生成更逼真的交互体验，并支持用自然语言实时修改场景、生成音频，底层由 Gemini 3.8 驱动。",
+        "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+        "source": "The Verge"
+      },
+      {
+        "title": "苹果为 Pages、Keynote、Numbers 加入 AI 聊天机器人",
+        "summary": "苹果在 iWork 生产力套件中引入 AI 助手，基于苹果和 OpenAI 的模型，可理解文档上下文，完成设计幻灯片、润色文字等任务。",
+        "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+        "source": "The Verge"
+      },
+      {
+        "title": "苹果发布 iOS 27.2：Siri AI 升级，新增多语言支持",
+        "summary": "iOS 27.2 带来 Siri 的 AI 能力增强，新增多种语言支持，并允许用户限制 Siri 可访问的应用，同时包含安全修复。",
+        "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anduril 与高通推出 BlueChip：美国制造的笔记本电脑",
+        "summary": "Anduril 创始人 Palmer Luckey 与高通合作推出 BlueChip 笔记本，目标是将包括每个组件在内的计算机生产全部迁回美国，部分组件目前仅在中国制造。",
+        "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Meta AI 总监 Rohit Patel 离职创业，瞄准办公套件",
+        "summary": "在 Meta 工作八年的 AI 评估与强化学习总监 Rohit Patel 离职，其创业公司 Ndoc 将挑战微软 Office 和 Google Workspace。",
+        "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "英国议员 Jess Asato 因深度伪造起诉 xAI",
+        "summary": "英国议员 Jess Asato 在成为 Grok 深度伪造丑闻的受害者后，将 xAI 告上法庭，此案可能对 AI 生成内容的平台责任产生重要影响。",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+        "source": "Wired"
+      },
+      {
+        "title": "英国监管机构考虑调查内政部使用 OpenAI 工具处理庇护申请",
+        "summary": "英国政府监督机构正考虑调查内政部使用 ChatGPT 技术处理庇护申请一事，担忧工具准确性及使用透明度不足。",
+        "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+        "source": "Wired"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "AI 代理正成为媒体的新「受众」",
+        "summary": "随着 AI 代理普及，部分出版商开始尝试为 AI 而非人类定制内容并收费，这可能重塑媒体商业模式。",
+        "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+        "source": "Wired"
+      },
+      {
+        "title": "固态变压器能否支撑 AI 电力需求？",
+        "summary": "MIT 科技评论分析固态变压器技术，指出其可升级百年未变的电网设备，缓解 AI 数据中心带来的电力供应压力。",
+        "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "工业智能：制造业的下一个增长机会",
+        "summary": "MIT 科技评论探讨制造业如何利用工业智能整合老师傅的经验知识，将其转化为可复用的数字资产。",
+        "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+        "source": "MIT Tech Review"
+      }
+    ]
+  }
+}
