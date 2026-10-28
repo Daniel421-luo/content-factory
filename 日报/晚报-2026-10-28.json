@@ -1,0 +1,240 @@
+{
+  "title": "🌙 晚报 | 2026-10-28",
+  "headline": "SK海力士业绩超预期并宣布250亿美元股东回报，科技股延续涨势；美联储决议与英国预算案同日登场，伊朗战争成本据报升至470亿美元。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货涨跌互现，等待美联储决议与大型科技股财报",
+        "summary": "股指期货走势分化，此前周二科技股与半导体板块普遍上涨带动大盘走高。市场焦点转向美联储政策决议及大型科技公司财报。",
+        "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "SK海力士股价大涨逾8%，三季度利润超预期并宣布250亿美元回报计划",
+        "summary": "韩国芯片制造商SK海力士周三股价飙升逾8%，第三季度利润大幅超出预期，公司同时宣布将向投资者返还250亿美元。",
+        "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "散户逢低买入芯片股，Robinhood受加密市场拖累",
+        "summary": "Robinhood首席财务官表示，市场波动并未吓退交易者，散户持续买入他们做过研究的芯片股，但Robinhood自身受到加密市场波动的冲击。",
+        "url": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "三季度财报显示美国消费者仍具韧性，但压力迹象显现",
+        "summary": "从皇家加勒比到可口可乐和UPS，多家公司表示尽管通胀高企，消费者支出仍保持稳定，但部分领域已出现承压迹象。",
+        "url": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "十月市场风格切换：资金撤离大型科技股",
+        "summary": "人工智能交易在九月支撑了美股，但十月科技板块表现挣扎，市场其余板块正在接棒领涨。",
+        "url": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "英国预算案公布在即，最低工资将上调",
+        "summary": "财政大臣John Healey将在预算案中公布新的工资标准，并已宣布帮助家庭应对生活成本措施；18-20岁人群不会获得更大幅度加薪。",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "美国消费者面临史上最贵汽油价格年",
+        "summary": "在伊朗战争推高能源公司利润之际，美国消费者正经历有记录以来最昂贵的汽油价格年份，特朗普在中期选举前持续宣扬能源企业收益。",
+        "url": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "波音股价因财报重挫，737 Max交付不及预期",
+        "summary": "波音在财报后股价大幅下跌，公司737 Max交付量将不达标，令其扭亏计划受到质疑。",
+        "url": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Anthropic IPO文件揭示93页风险因素",
+        "summary": "Anthropic的IPO文件列出93页风险因素，专家称这并非普通的技术风险，投资者需认真评估AI失控等威胁。",
+        "url": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Anthropic调整后利润引发华尔街盈利游戏质疑",
+        "summary": "WSJ指出，Anthropic的亏损与亚马逊和Alphabet的巨大收益互为镜像，其“调整后”利润指标暴露了华尔街盈利口径的问题。",
+        "url": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "Dollar General因结账多收费遭FTC起诉",
+        "summary": "美国联邦贸易委员会及各州当局指控Dollar General多年来在结账时向顾客收取高于货架标价的价格。",
+        "url": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "Anthropic IPO文件重燃市场对AI持续支出的信心，CoreWeave等AI股上涨",
+        "summary": "投资者深入研读Anthropic的IPO文件后，看到了此前支撑AI股上涨的类似趋势，CoreWeave及其他AI相关股票随之走高。",
+        "url": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "印度散户通过本地交易应用涌入英伟达、SpaceX、苹果等美股",
+        "summary": "在本地市场受挫之际，印度主要券商向零售投资者开放美股投资渠道，英伟达、SpaceX和苹果成为热门标的。",
+        "url": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "博通CEO介入促成630亿美元Anthropic债务交易",
+        "summary": "WSJ报道，博通CEO亲自介入，促成了这笔为AI基础设施融资的史上最大规模债务交易，交易于周一宣布。",
+        "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普称伊朗战争“我想结束时才结束”，战争成本据报膨胀至470亿美元",
+        "summary": "特朗普表示伊朗战争的结束时机由他决定；据The Hill报道，这场冲突的成本已膨胀至470亿美元。",
+        "url": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "以色列大选无明确赢家，内塔尼亚胡与对手均远未获多数",
+        "summary": "出口民调显示，内塔尼亚胡阵营与Gadi Eisenkot反对派联盟均远未达到组建执政多数所需的席位，本次选举投票率创二十多年来新高。",
+        "url": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国将向Flávio Bolsonaro发放签证，其行踪仍不明",
+        "summary": "在洗钱调查背景下，Flávio Bolsonaro离开巴西前往美国，华盛顿同意向他及其家人发放签证。",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "硅谷知名多头展示AI泡沫担忧的种种理由",
+        "summary": "MarketWatch指出，一位硅谷知名看多人士的最新表态反而揭示了市场对AI泡沫的担忧理由。",
+        "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Weil Gotshal聘请破产律师，律所处境恶化",
+        "summary": "在周日马拉松式合伙人会议后，Weil Gotshal已聘请Davis Polk就潜在选项提供建议，这家华尔街知名律所正面临生存危机。",
+        "url": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "豪华邮轮因燃油成本飙升滞留柬埔寨",
+        "summary": "Villa Vie Odyssey因燃油成本飙升暂停航程，正与乘客协商“临时居住安排”，显示能源价格对消费服务业的冲击。",
+        "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美联储政策决议周三公布",
+        "summary": "美联储将于周三公布利率决议，主席Kevin Warsh已拒绝传统的 forward guidance，市场高度关注政策信号。",
+        "url": "https://www.cnbc.com/2026/10/27/how-investors-can-position-ahead-of-into-the-feds-next-policy-decision.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国预算案10月28日公布",
+        "summary": "英国财政大臣John Healey将公布预算案，包含最低工资上调及生活成本支持措施，市场关注财政纪律与增长前景。",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "大型科技股财报密集发布",
+        "summary": "市场等待大型科技公司财报，此前科技股在周二普遍上涨，财报表现将检验AI交易的持续性。",
+        "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "SK海力士三季度利润超预期并宣布250亿美元股东回报",
+      "direction": "看多",
+      "asset_impact": "MU, SOXX, NVDA",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Anthropic IPO文件缓解市场对AI资本开支可持续性的担忧",
+      "direction": "看多",
+      "asset_impact": "NVDA, AVGO, CRWV",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "博通CEO介入促成630亿美元Anthropic债务交易，强化AI基础设施融资",
+      "direction": "看多",
+      "asset_impact": "AVGO, NVDA",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伊朗战争成本膨胀至470亿美元且结束时机不确定",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, TLT",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国汽油价格创历史最贵年份，消费者承压",
+      "direction": "看空",
+      "asset_impact": "XLY, USO",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "波音737 Max交付不及预期，扭亏计划受质疑",
+      "direction": "看空",
+      "asset_impact": "BA",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "以色列大选无明确赢家，中东政策不确定性上升",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储决议前市场等待Warsh政策信号",
+      "direction": "中性",
+      "asset_impact": "TLT, SPY, DXY",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英国预算案公布，最低工资上调与生活成本措施",
+      "direction": "中性",
+      "asset_impact": "EWU, GBPUSD",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "印度散户通过本地应用涌入美股，增量资金利好大型科技股",
+      "direction": "看多",
+      "asset_impact": "NVDA, AAPL, QQQ",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
