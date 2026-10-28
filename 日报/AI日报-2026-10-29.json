@@ -1,0 +1,73 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-29",
+  "headline": "美国能源部向核电站提供 50 亿美元贷款，为 AI 数据中心供电；英伟达发布开源多语言转录模型；Opera 将在浏览器本地运行 AI 模型。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "英伟达发布开源语音转录模型，支持 40 种语言",
+        "summary": "英伟达推出免费语音转文字模型，可转录多达 40 种语言，但仅支持录音文件而非实时音频，适合会议和医疗转录场景。",
+        "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Opera 将本地运行 AI 模型，基于 WebAI 标准",
+        "summary": "Opera 宣布将在旗舰浏览器中内置本地 AI 模型，得益于新提出的 WebAI 网页标准，用户无需联网即可使用 AI 功能。",
+        "url": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "亚马逊推出 Alexa 相框、Echo 时钟等多款新设备",
+        "summary": "亚马逊发布 Alexa Photo Frame 和 Echo Time 智能时钟，并升级 Echo Dot、Echo Studio 和 Echo Show 16，其中 Echo Studio 新增摄像头以支持视觉智能功能。",
+        "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta 推出 AI 宠物应用 Waddle World",
+        "summary": "Meta 上线一款名为 Waddle World 的 AI 宠物应用，类似电子宠物 Tamagotchi 的 AI 版本，进一步探索消费级 AI 互动产品。",
+        "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "美国能源部向核电站提供 50 亿美元贷款，为 AI 数据中心供电",
+        "summary": "Constellation Energy 获得 50 亿美元政府贷款用于现代化核反应堆，大部分新增容量已承诺给谷歌、亚马逊和 Meta，凸显 AI 算力对电力的巨大需求。",
+        "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta 可能再次推迟争议性商业条款",
+        "summary": "面对出版商对 AI 训练数据使用的反对，Meta 通讯主管表示可能将新商业条款的实施推迟到 11 月 20 日之后，并承诺与行业充分协商。",
+        "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+        "source": "The Verge"
+      },
+      {
+        "title": "xAI 被曝买断居民房屋以规避数据中心噪音诉讼",
+        "summary": "马斯克旗下 xAI 的子公司提出收购密西西比州社区房屋，条件是居民不加入针对其数据中心和发电厂的诉讼，引发企业规避法律责任的争议。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+        "source": "The Verge"
+      },
+      {
+        "title": "特拉华州提案允许 AI 代理独立运营企业",
+        "summary": "特拉华州一项提案拟允许 AI 代理运营整个企业，且所有者可免除 AI “鲁莽”行为的责任，美国众议员 Comer 对此表示担忧。",
+        "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "AI 高管可能太脱节，难以打造大众产品",
+        "summary": "科技领袖炫耀用 AI 与家人沟通，暴露出他们对普通用户需求的理解偏差，引发对 AI 产品设计是否脱离大众的讨论。",
+        "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI 实验室从倒闭初创公司购买数据训练模型",
+        "summary": "MIT 科技评论报道，AI 实验室正从倒闭的初创公司购买数据用于模型训练，揭示了 AI 数据供应链中一个鲜为人知的环节。",
+        "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+        "source": "MIT Tech Review"
+      }
+    ]
+  }
+}
