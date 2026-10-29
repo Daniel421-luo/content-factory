@@ -1,0 +1,246 @@
+{
+  "title": "🌙 晚报 | 2026-10-29",
+  "headline": "美联储按兵不动、Alphabet因资本开支与搜索变现担忧重挫，微软云业务强劲提振科技股分化；油价仍站上100美元，英国预算案与中东战事持续扰动宏观。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "Alphabet重挫约10%，资本开支指引与搜索变现担忧主导",
+        "summary": "Alphabet三季度营收与盈利双双不及预期，为近四年来首次，并维持2026年资本开支不变、预计2027年显著增加，股价盘前大跌约10%，或创多年最大单日跌幅。",
+        "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "微软云业务强劲，盘前涨约4%",
+        "summary": "微软Azure营收同比增长48%，带动业绩超预期，股价盘前上涨约4%，与Alphabet形成鲜明分化。",
+        "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "三星电子创纪录利润仍遭抛售",
+        "summary": "三星电子公布三季度业绩，尽管录得创纪录利润，股价仍下跌，显示市场对存储周期与估值的谨慎。",
+        "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国科技股遭抛售，AI盈利质疑升温",
+        "summary": "中国科技板块 rally 受考验，投资者质疑AI利润能否支撑高估值，出现明显抛售。",
+        "url": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "美联储维持利率不变，Warsh暗示不急于加息",
+        "summary": "美联储本月按兵不动，此前9月为三年来首次加息；市场解读主席Warsh对激进加息持谨慎态度，股票与长期国债收益率小幅走高。",
+        "url": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "油价仍高于100美元/桶，尽管海湾供应充裕",
+        "summary": "WSJ报道称，尽管海湾原油供应大量涌出，油价仍顽固地维持在每桶100美元上方，加油站价格令消费者难见缓解。",
+        "url": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "英国首份预算案：能源账单补贴与银行税",
+        "summary": "财相Healey公布首份预算案，推出100英镑能源账单支持与银行税，以应对生活成本与全球动荡；反对党批评力度不足。",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "AI热潮推动银行贷款跳增，但银行家仍谨慎",
+        "summary": "大型与地区银行均受益于AI相关贷款浪潮，但业内人士对风险仍持谨慎态度。",
+        "url": "https://www.wsj.com/finance/banking/ai-boom-drives-a-jump-in-lending-but-bankers-still-sound-cautious-78bd7a58?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Alphabet财报不及预期，股价或创多年最大跌幅",
+        "summary": "Alphabet三季度营收与盈利均低于预期，云业务营收翻倍仍不足以安抚市场，投资者担忧AI侵蚀搜索变现能力。",
+        "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "微软业绩超预期，云增长与成本控制获认可",
+        "summary": "微软Azure营收增长48%，在控制支出的同时保持快速增长，成为股价上涨主因。",
+        "url": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "ServiceNow财报不及预期，AI展望上调难挽颓势",
+        "summary": "尽管百万美元级AI交易增加，ServiceNow盈利未达预期，股价下跌，软件板块怀疑情绪升温。",
+        "url": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Fortinet财报后重挫，网络安全板块普跌",
+        "summary": "Fortinet某一业务板块增长显著放缓，拖累股价大跌，并引发网络安全股广泛下跌。",
+        "url": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "Lumentum股价大涨，传Marvell拟收购",
+        "summary": "彭博报道Marvell与Lumentum可能最早下周达成协议，Lumentum股价受提振上涨。",
+        "url": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "三星电子Q3创纪录利润，股价仍下滑",
+        "summary": "三星电子公布三季度业绩，录得创纪录利润，但股价下跌，市场对存储周期与估值保持谨慎。",
+        "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普政府30亿美元入股逾40家公司，涵盖芯片与矿业",
+        "summary": "WSJ披露特朗普政府投资组合横跨40余家公司，30亿美元支出将用于获取芯片企业、矿业公司等股权。",
+        "url": "https://www.wsj.com/finance/investing/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-efae2bae?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗战争成本据报膨胀，特朗普称结束时机由他决定",
+        "summary": "特朗普表示伊朗战争“我想结束时才结束”，战争成本据报已膨胀至470亿美元，持续扰动能源与宏观预期。",
+        "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "巴西政治风波：败选候选人Flávio Bolsonaro抵美",
+        "summary": "巴西败选总统候选人Flávio Bolsonaro及家人抵达美国，此前巴西当局要求其交出护照，其面临多项调查。",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds",
+        "source": "NPR"
+      },
+      {
+        "title": "美司法部要求停止处理加州选票被法官驳回",
+        "summary": "联邦法官驳回司法部关于停止处理加州选票的史无前例要求，司法部已立即提出上诉。",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "DHS逾4.1万名官员信息疑遭大规模泄露",
+        "summary": "黑客组织“Distributed Denial of Secrets”曝光逾4.1万名DHS员工及ICE特工身份信息，CNBC称可访问该数据库。",
+        "url": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "欧洲天然气价格突破100欧元，供应担忧加剧",
+        "summary": "欧洲天然气价格升破每欧元100兆瓦时，供应担忧升温，可能推升欧洲能源成本与通胀。",
+        "url": "https://seekingalpha.com/article/4959053-commodities-european-gas-tops-eur100-as-supply-fears-grow?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Meta与Snap社交媒体成瘾案开始挑选陪审团",
+        "summary": "原告指控无限滚动等功能致人上瘾并损害心理健康，案件进入陪审团挑选阶段，监管与法律风险上升。",
+        "url": "https://www.cbsnews.com/news/meta-snap-social-media-addiction-trial/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "苹果首款折叠屏iPhone Duo被曝屏幕数小时内开裂",
+        "summary": "部分用户称iPhone Duo在购买后数小时内屏幕开裂，有人称“设置都没完成”，产品质量风险受关注。",
+        "url": "https://www.cbsnews.com/news/iphone-duo-owners-report-cracked-screens-apple-foldable/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "大型科技股财报继续，市场聚焦AI资本开支",
+        "summary": "在Alphabet与微软之后，市场继续关注其余大型科技股的业绩与AI支出指引。",
+        "url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "英国预算案后续解读与OBR经济预测",
+        "summary": "OBR称更高能源价格将影响物价、生活水平与经济增长，市场继续消化预算案细节。",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "Alphabet维持2026年资本开支不变并预警2027年显著增加，叠加搜索变现担忧",
+      "direction": "看空",
+      "asset_impact": "GOOGL, META",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "微软Azure营收增长48%，云业务强劲且成本受控",
+      "direction": "看多",
+      "asset_impact": "MSFT, QQQ",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美联储按兵不动且Warsh暗示不急于加息，长端收益率小幅上行",
+      "direction": "中性",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "油价维持100美元/桶上方，能源成本压力持续",
+      "direction": "看多",
+      "asset_impact": "XLE, USO",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "欧洲天然气突破100欧元，供应担忧推升能源价格",
+      "direction": "看多",
+      "asset_impact": "UNG, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "三星电子创纪录利润仍遭抛售，存储板块情绪谨慎",
+      "direction": "看空",
+      "asset_impact": "MU, SOXX",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Marvell拟收购Lumentum，光通信整合预期升温",
+      "direction": "看多",
+      "asset_impact": "MRVL, LITE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "中国科技股因AI盈利质疑遭抛售",
+      "direction": "看空",
+      "asset_impact": "KWEB, FXI",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "特朗普政府30亿美元入股芯片与矿业等40余家公司",
+      "direction": "看多",
+      "asset_impact": "SOXX, COPX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "英国预算案推出能源账单补贴与银行税，财政扩张与增税并行",
+      "direction": "中性",
+      "asset_impact": "EWU, GBPUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
