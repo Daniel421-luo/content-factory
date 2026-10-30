@@ -1,0 +1,220 @@
+{
+  "title": "🌙 晚报 | 2026-10-30",
+  "headline": "亚马逊与英特尔财报双双令市场失望，AI交易信心受挫；币安遭遇史上最大规模加密黑客攻击，涉及约63亿美元；日本央行维持利率不变并首次确认基础通胀达标。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "纳指期货下跌，亚马逊与英特尔财报后重挫",
+        "summary": "纳斯达克100期货走低，亚马逊与英特尔公布财报后股价大跌，AI交易情绪明显转弱。",
+        "url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英特尔盘后暴跌21%，PC业务拖累指引",
+        "summary": "英特尔将疲弱指引归咎于PC市场放缓，股价盘后重挫21%，或创两年来最大单日跌幅。",
+        "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "亚马逊自由现金流为负424亿美元，资本开支指引不变",
+        "summary": "亚马逊三季度盈利与营收均不及预期，自由现金流大幅转负至424亿美元，2026年资本开支指引维持不变。",
+        "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "日本央行维持利率不变，首次确认基础通胀达到2%目标",
+        "summary": "日本央行宣布基础通胀目标已达成，为2013年设定该目标以来首次，同时维持政策利率不变。",
+        "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美联储维持利率不变，经济仍在增长",
+        "summary": "美联储本月维持借贷成本不变，此前9月曾进行三年来首次加息；经济数据显示增长延续。",
+        "url": "https://www.cbsnews.com/news/federal-reserve-holds-interest-rates-steady-inflation/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "英国预算案后续：智库警告生活水平将下滑",
+        "summary": "预算预测显示英国生活水平增长几乎停滞，智库警告未来数年将“痛苦”，财政大臣的计划被指缺乏激进改革。",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Alphabet创纪录最大单日跌幅，市值蒸发5000亿美元",
+        "summary": "Alphabet股价跌至六个月低点，创公司史上最差单日表现，市值缩水5000亿美元，AI搜索摘要影响广告收入引发担忧。",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "DoorDash以170亿美元收购Instacart",
+        "summary": "DoorDash以每股65美元收购Instacart，交易对价170亿美元，将合并美国两大食品与杂货配送平台。",
+        "url": "https://www.cbsnews.com/news/doordash-buys-instacart-in-17-billion-deal/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Sandisk营收近五倍增长，拟进行股票拆分",
+        "summary": "Sandisk营收接近去年五倍，并宣布将进行股票拆分；自与西部数据分拆20个月以来股价累计上涨逾2600%。",
+        "url": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "星巴克转型初见成效但股价仍走低",
+        "summary": "星巴克关键销售指标超出预期，但股价仍下跌，市场认为转型见效速度不够快。",
+        "url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Thrive Holdings以76亿美元收购ADT",
+        "summary": "Josh Kushner旗下Thrive Holdings收购拥有150年历史的ADT，交易金额76亿美元，显示其超越传统风投的扩张野心。",
+        "url": "https://www.wsj.com/finance/investing/why-josh-kushners-firm-just-spent-7-6-billion-on-a-150-year-old-company-8bfdd9f8?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英特尔股价暴跌21%，内存涨价挤压PC需求",
+        "summary": "英特尔PC业务承压，内存芯片价格上涨抑制需求，企业IT团队笔记本预算减少，股价迈向两年来最差单日表现。",
+        "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "AI内存股与石油股的类比引发关注",
+        "summary": "WSJ分析将AI内存股与大型石油公司作类比，探讨内存周期股的估值与可持续性问题。",
+        "url": "https://www.wsj.com/finance/stocks/what-big-oil-tells-us-about-ai-memory-stocks-e32d4d00?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "以色列大选后组阁僵局，内塔尼亚胡阵营称选举被“窃取”",
+        "summary": "以色列大选无明确赢家，未来数周将进入联合政府谈判，反对党组建多数政府面临艰难挑战。",
+        "url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "全球多场选举考验特朗普海外影响力",
+        "summary": "与特朗普关联的领导人近期在巴西、塞尔维亚、匈牙利等地选举中受挫，引发对其全球右翼影响力的质疑。",
+        "url": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美司法部向加州选举工作人员发出大陪审团传票",
+        "summary": "司法部向洛杉矶县选举工作人员发出传票，特朗普政府与加州在选民名册问题上紧张升级。",
+        "url": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "币安遭遇史上最大加密黑客攻击，涉及约63亿美元",
+        "summary": "币安估计安全事件影响约63亿美元，约30亿美元资产被冻结，并承诺承担全部损失；交易所一度暂停交易。",
+        "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Poundland面临破产，拟任命管理人",
+        "summary": "英国零售商Poundland管理层提交任命管理人的意向通知，公司面临倒闭风险。",
+        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "AI深度伪造对消费者与选民构成风险",
+        "summary": "专家警告AI深度伪造技术正对消费者欺诈和政治选举诚信构成日益严重的威胁。",
+        "url": "https://www.cbsnews.com/news/deepfakes-artificial-intelligence-consumer-risks-fraud/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "加州Prop 40亿万富翁税公投",
+        "summary": "加州选民将于周二就Prop 40进行投票，该提案是财富税距离落地最近的一次尝试。",
+        "url": "https://www.wsj.com/finance/the-four-academics-who-dreamed-up-californias-billionaire-tax-b0d05dcc?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "美国中期选举临近，社保资金缺口成焦点",
+        "summary": "社保主要信托基金预计2032年耗尽，中期选举结果将影响国会解决资金缺口的政策路径。",
+        "url": "https://www.cbsnews.com/news/social-security-trust-fund-midterm-elections/",
+        "source": "CBS MoneyWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英特尔财报指引疲弱，PC需求受内存涨价挤压，股价盘后暴跌21%",
+      "direction": "看空",
+      "asset_impact": "INTC, SOXX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "亚马逊自由现金流为负424亿美元且盈利不及预期，AI资本开支担忧升温",
+      "direction": "看空",
+      "asset_impact": "AMZN, QQQ",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Alphabet因AI搜索摘要冲击广告收入创纪录暴跌，市值蒸发5000亿美元",
+      "direction": "看空",
+      "asset_impact": "GOOGL, QQQ",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "币安遭史上最大加密黑客攻击，涉及约63亿美元，加密市场情绪承压",
+      "direction": "看空",
+      "asset_impact": "COIN, BTC-USD",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "日本央行维持利率并首次确认基础通胀达标，日元与日债波动风险上升",
+      "direction": "中性",
+      "asset_impact": "USDJPY, EWJ",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "DoorDash以170亿美元收购Instacart，配送行业整合加速",
+      "direction": "看多",
+      "asset_impact": "DASH, CART",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Sandisk营收近五倍增长并宣布股票拆分，存储芯片需求强劲",
+      "direction": "看多",
+      "asset_impact": "SNDK, MU",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "AI交易情绪转弱，防御性板块获资金关注",
+      "direction": "中性",
+      "asset_impact": "XLU, XLP, TLT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "以色列大选后组阁僵局，中东政策不确定性延续",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
