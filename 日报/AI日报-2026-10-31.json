@@ -1,0 +1,67 @@
+{
+  "title": "🤖 AI 日报 | 2026-10-31",
+  "headline": "OpenAI 数学成果引发数学家焦虑，Altman 表示不会停止；Waymo 联手丰田推进日本 Robotaxi；币安遭朝鲜黑客窃取 63 亿美元创纪录。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Waymo 下一代 Robotaxi 选定丰田 bZ4X，2027 年落地东京",
+        "summary": "Waymo 宣布与丰田深化合作，将在日本组装 bZ4X 电动车用于东京 Robotaxi 服务，明年开始测试自动驾驶版本，后续还将供应英国市场。",
+        "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+        "source": "The Verge"
+      },
+      {
+        "title": "Google Home 应用获 42 项修复更新，改善音箱与摄像头体验",
+        "summary": "Google 针对 Home 应用及兼容设备推出 42 项修复，重点解决用户长期抱怨的连接与响应问题，并强化 Gemini 集成。",
+        "url": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "币安遭朝鲜黑客窃取 63 亿美元，创加密史上最大劫案",
+        "summary": "黑客通过入侵币安员工笔记本电脑，在约 20 分钟内盗走价值 63 亿美元的加密货币，多国追踪机构指认朝鲜黑客组织 TraderTraitor 为幕后黑手。",
+        "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DoorDash 透露 AI 代理下单仅数百单，仍持开放态度",
+        "summary": "DoorDash 表示目前通过 AI 代理完成的订单仅有“数百单”，但公司愿意与第三方代理开发商合作，探索这一新兴渠道。",
+        "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Runware 建厂量产预制 AI 数据中心，目标 48 小时交付",
+        "summary": "初创公司 Runware 正在建设流水线工厂，试图像造汽车一样批量生产预制化 AI 数据中心，真正的考验在于能否实现规模化交付。",
+        "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "Theranos 吹哨人警告：AI 热潮是“欺骗他人的绝佳机会”",
+        "summary": "Theranos 吹哨人 Tyler Shultz 指出，当前 AI 热潮与当年 Theranos 的炒作如出一辙，未盈利公司以万亿美元估值融资，提醒投资者警惕欺骗行为。",
+        "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "教皇利奥十四世呼吁“解除 AI 武装”，禁止致命自主武器",
+        "summary": "教皇在周五讲话中强调“机器是工具，不是人”，敦促联合国成员国采取具体步骤禁止致命自主武器，并呼吁人类对 AI 应用负起引导和拒绝的责任。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+        "source": "The Verge"
+      },
+      {
+        "title": "Altman 同情数学家，但 OpenAI 的数学攻势不会停",
+        "summary": "面对 AI 生成数学成果的洪流，Altman 表示理解研究者的困惑，但明确不会停止，并暗示公司储备中还有更多成果即将发布。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+        "source": "The Verge"
+      },
+      {
+        "title": "硅谷想让投资者为“奇迹”下注：Anthropic IPO 的风险叙事",
+        "summary": "The Verge 分析 Anthropic 递交的 S-1 文件，探讨投资者如何为一种可能带来“奇迹时代”也可能造成“灾难性存在风险”的技术定价。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
