@@ -1,0 +1,256 @@
+{
+  "title": "🌙 晚报 | 2026-10-31",
+  "headline": "科技股抛售加剧，纳指创6月以来最差单日表现，英特尔创数十年来最大跌幅；币安遭朝鲜关联黑客窃取约63亿美元，AI交易裂缝与加密安全风险同时升温。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "纳指重挫逾700点，科技股抛售创6月以来最差单日",
+        "summary": "受Alphabet、亚马逊和英特尔财报失望拖累，纳指周五下跌超过700点，创6月以来最差单日表现，并录得2025年3月以来最差月份。市场对AI资本开支回报的担忧集中爆发。",
+        "url": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "英特尔创数十年来最大单日跌幅，政府持股缩水约120亿美元",
+        "summary": "英特尔股价周五暴跌，创1970年代以来最差单日表现，市值蒸发约1400亿美元，美国政府所持股份价值缩水约120亿美元。PC业务受内存涨价和IT预算收紧双重挤压。",
+        "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI交易裂缝扩大，科技巨头资本开支逼近1万亿美元",
+        "summary": "BBC报道称美国科技股大幅下跌之际，AI相关支出正逼近1万亿美元。WSJ指出投资者对AI交易的焦虑达到新高，融资环境趋紧成为AI建设的新瓶颈。",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "黄金跌至一年最低，尽管伊朗局势再度紧张",
+        "summary": "避险资产黄金跌至一年来最低价位，即便市场对中期选举后中东可能爆发新袭击的担忧升温。传统避险逻辑在利率预期升温背景下失效。",
+        "url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "纳指创2025年3月以来最差月份，但标普500内部广度仍强",
+        "summary": "尽管大型科技股遭重创，标普500多数成分股10月仍录得上涨，等权重指数创1990年以来第二好月份。市场呈现科技股集中抛售与广泛个股走强并存的格局。",
+        "url": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "美联储官员释放加息信号，Warsh倾向少说话",
+        "summary": "美联储维持利率不变后，两位官员公开表示需要更多加息以对抗通胀，而主席Warsh则主张减少前瞻指引。政策路径不确定性上升。",
+        "url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "AI建设遭遇新瓶颈：廉价资金短缺",
+        "summary": "WSJ报道称，随着AI建设进入新阶段，贷款机构和投资者变得更加挑剔，要求更严格的条款。融资成本上升可能制约科技巨头的资本开支扩张。",
+        "url": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "美国财政部公布新I Bond利率5.51%",
+        "summary": "美国财政部宣布未来六个月Series I储蓄债券利率为5.51%，适用于至2027年4月。该利率水平反映通胀保值债券的吸引力变化。",
+        "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Reddit创上市以来最大单日跌幅，搜索推荐流量显著下滑",
+        "summary": "Reddit股价周五暴跌，创上市以来最大单日跌幅。公司称第三季度搜索推荐流量显著下降，分析师警告坏消息可能尚未结束。",
+        "url": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "标普将Meta展望下调至负面，担忧自由现金流与资本开支",
+        "summary": "标普全球评级将Meta展望调整为负面，理由是其巨额资本开支和对自由现金流的担忧。这是大型科技股AI支出压力在信用评级层面的最新体现。",
+        "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "微软赢得云战争，成为华尔街新宠",
+        "summary": "分析师指出，多项指标显示微软财务状况优于云竞争对手，在AI资本开支担忧蔓延之际，微软的云增长和成本控制获得市场认可。",
+        "url": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Okta将加入标普500指数，取代Kenvue",
+        "summary": "网络安全公司Okta将于下周三正式加入标普500指数，取代Kenvue。指数纳入通常带来被动资金流入。",
+        "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Meta就社交媒体成瘾诉讼达成和解，避免庭审",
+        "summary": "Meta与Snap就社交媒体成瘾诉讼达成和解，两名原告指控平台设计助长成瘾行为。和解避免了庭审带来的进一步法律和舆论风险。",
+        "url": "https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit-snapchat/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英特尔PC业务受内存涨价挤压，创纪录跌幅拖累半导体板块",
+        "summary": "英特尔PC业务面临内存芯片价格上涨侵蚀需求和IT团队笔记本预算收紧的双重压力。其创纪录单日跌幅成为半导体板块情绪恶化的核心触发因素。",
+        "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "AI交易裂缝加深，半导体股承压",
+        "summary": "WSJ报道称AI交易的裂缝在本周进一步扩大，英特尔创下有史以来最大单日跌幅，投资者焦虑达到新高。半导体板块成为科技抛售的重灾区。",
+        "url": "https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "币安遭约63亿美元黑客攻击，区块链情报公司指朝鲜所为",
+        "summary": "币安报告约63亿美元资产受影响，多家区块链情报公司将攻击归因于朝鲜。安全专家称其为“人类历史上最大银行抢劫”，资金追回难度极大。",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "乌克兰袭击俄罗斯炼油厂，中东局势因中期选举后担忧升温",
+        "summary": "WSJ报道乌克兰打击了俄罗斯一座炼油厂。同时市场对中期选举后中东可能爆发新袭击的担忧升温，地缘风险溢价面临重估。",
+        "url": "https://www.wsj.com/finance/stocks/cracks-in-ai-trade-power-sharp-tech-selloff-8e49471b?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "阿拉斯加参议院选举司法部要求隔离选票，共和党多数席位面临考验",
+        "summary": "美国司法部要求在阿拉斯加参议院选举中隔离所有选票，以处理第二名Sullivan候选人的问题。该席位归属可能决定共和党能否保住参议院多数。",
+        "url": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "对冲基金Arini被迫抛售8亿美元债务，亏损加深触发追加保证金",
+        "summary": "Hamza Lemssouguer旗下对冲基金Arini在多项投资暴跌后遭遇追加保证金，被迫出售8亿美元债务。信用市场压力信号值得关注。",
+        "url": "https://www.wsj.com/finance/investing/hedge-fund-arini-offloads-800-million-in-debt-as-losses-deepen-2d24626c?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "市场人士警告纳指走势与2000年互联网泡沫顶部惊人相似",
+        "summary": "MarketWatch指出周五的暴跌引发与互联网泡沫顶部的令人不安的类比。若AI资本开支回报持续存疑，科技股估值面临进一步重估风险。",
+        "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "中期选举临近，ICE活动激增引发市场对政策不确定性的关注",
+        "summary": "NPR报道全国范围内ICE活动在中期选举前激增，倡导者担忧其与选举时间过近。移民政策执行力度变化可能影响劳动力市场和消费板块。",
+        "url": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国中期选举周二举行，参议院控制权与社保资金缺口成焦点",
+        "summary": "中期选举将于下周二举行，阿拉斯加等关键参议院席位归属将决定国会控制权。社保信托基金预计2032年耗尽，成为选举核心议题之一。",
+        "url": "https://www.cbsnews.com/news/social-security-trust-fund-midterm-elections/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Okta周三正式加入标普500指数",
+        "summary": "Okta将于下周三开盘前正式纳入标普500指数，取代Kenvue。被动基金调仓可能带来短期交易机会。",
+        "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "科技股抛售加剧，纳指创6月以来最差单日，AI资本开支回报质疑升温",
+      "direction": "看空",
+      "asset_impact": "QQQ, NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "英特尔创数十年来最大单日跌幅，PC业务受内存涨价和IT预算收紧挤压",
+      "direction": "看空",
+      "asset_impact": "INTC, MU",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "标普将Meta展望下调至负面，自由现金流与资本开支担忧上升",
+      "direction": "看空",
+      "asset_impact": "META",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "微软云业务获市场认可，成为科技抛售中的相对避风港",
+      "direction": "看多",
+      "asset_impact": "MSFT",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "币安遭约63亿美元黑客攻击，朝鲜关联，加密市场安全风险骤升",
+      "direction": "看空",
+      "asset_impact": "COIN, BTC-USD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美联储官员释放更多加息信号，利率路径不确定性上升",
+      "direction": "看空",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "黄金跌至一年最低，尽管地缘紧张，传统避险逻辑失效",
+      "direction": "看空",
+      "asset_impact": "GLD, SLV",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI建设遭遇廉价资金短缺瓶颈，融资条件趋紧",
+      "direction": "看空",
+      "asset_impact": "NVDA, AVGO, SOXX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Okta将加入标普500指数，被动资金流入预期",
+      "direction": "看多",
+      "asset_impact": "OKTA",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Reddit搜索推荐流量显著下滑，创上市以来最大单日跌幅",
+      "direction": "看空",
+      "asset_impact": "RDDT",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "对冲基金Arini被迫抛售8亿美元债务，信用市场压力信号",
+      "direction": "看空",
+      "asset_impact": "HYG, JNK",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "中期选举临近，政策不确定性上升，等权重与价值股相对走强",
+      "direction": "中性",
+      "asset_impact": "RSP, QVAL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
