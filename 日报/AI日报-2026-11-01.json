@@ -1,0 +1,74 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-01",
+  "headline": "OpenAI 下调新一轮融资目标；Anthropic 的 Cursor 扩展被植入后门近 12 小时；AI 代理首次自主完成活体小鼠脑部注射。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Anthropic 的 VS Code 扩展在 Cursor 上被植入后门近 12 小时",
+        "summary": "攻击者通过 Anthropic 的已验证 Cursor 账户篡改了扩展，目前尚不清楚入侵方式。这暴露了 AI 编程工具供应链的脆弱性。",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "苹果 CEO 表态：不会为了 AI 而 AI",
+        "summary": "苹果新任 CEO 为公司在 AI 领域的当前定位辩护，强调不会为了追赶潮流而推出 AI 功能。这延续了苹果在生成式 AI 上相对克制的策略。",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 据报下调新一轮融资目标",
+        "summary": "OpenAI 的最新融资轮似乎未达预期，公司已降低募资目标。这可能反映投资者对高估值 AI 公司的态度趋于谨慎。",
+        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "法官允许 NAACP 就 xAI 数据中心污染提起诉讼",
+        "summary": "NAACP 指控 SpaceX 旗下的 xAI 违反《清洁空气法》，法官裁定诉讼可以继续推进。这是 AI 基础设施扩张面临环境监管挑战的最新案例。",
+        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Boom 超音速客机项目存疑，公司转向为 AI 数据中心供电",
+        "summary": "Boom 的超音速客机可能延期，其数据中心供电业务也失去了一位客户。这凸显了 AI 算力需求正在重塑航空等传统行业的商业决策。",
+        "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "数据中心成为美国中期选举议题，连布鲁克林也不例外",
+        "summary": "在选举日前五天的布鲁克林中期选举聚会上，AI 和数据中心成为反复出现的讨论话题。这表明 AI 基础设施的社会影响正进入主流政治议程。",
+        "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "AI 代理首次自主完成活体小鼠脑部基因治疗注射",
+        "summary": "一家生物技术初创公司让 AI 代理选择基因疗法并成功完成注射，展示了 AI 在实验室研究中的自主操作能力。这为未来自动化科研提供了惊人范例。",
+        "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+        "source": "Wired"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Meta 的 Muse 可能颠覆多种业务，但目前尚未发生",
+        "summary": "过去几周，多家公司试图向投资者保证，Muse 等 AI 代理带来的更多是机会而非威胁。这反映了企业对 AI 代理商业化影响的普遍观望心态。",
+        "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+        "source": "Wired"
+      },
+      {
+        "title": "达特茅斯教务长曾警告 AI 作弊，自己却因 AI 使用丢职",
+        "summary": "这位教务长曾公开警告 AI 作弊问题，但自己因使用 AI 而失去职位。事件凸显了 AI 使用中的双重标准和透明度困境。",
+        "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "新型信息窃取恶意软件利用 AI 自动收集受害者数据",
+        "summary": "名为“Volta-Autodoxer”的恶意软件利用 AI 工具收集登录凭证、信用卡号、Discord 会话等大量数据。这标志着网络攻击正进入 AI 驱动的自动化阶段。",
+        "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
