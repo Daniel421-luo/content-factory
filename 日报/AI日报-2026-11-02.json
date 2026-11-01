@@ -1,0 +1,61 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-02",
+  "headline": "币安恢复提现并称已覆盖95%被盗资产，FBI指朝鲜为63亿美元窃案幕后黑手",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Pixel 11 Pro Fold 上手：坚固的折叠屏，但竞争日益激烈",
+        "summary": "谷歌新款折叠屏手机做工扎实，但在折叠屏赛道上面临越来越多对手，能否脱颖而出仍是未知数。",
+        "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "HomePod Mini 2 初体验：三个亮点和一个遗憾",
+        "summary": "苹果新款入门智能音箱售价149美元，升级了芯片和灯效，但整体提升有限，评测者认为涨价50美元后性价比存疑。",
+        "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "币安恢复提现，称已覆盖95%被盗资产",
+        "summary": "在遭遇63亿美元创纪录窃案后，币安宣布已恢复提现，并直接垫付资金覆盖了95%的损失，剩余部分也将由公司承担。",
+        "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FBI指朝鲜为币安63亿美元窃案幕后黑手",
+        "summary": "FBI将此次史上最大加密劫案归咎于朝鲜关联黑客组织“TraderTraitor”，并观察到其正将代币转换为以太坊准备进一步洗钱。",
+        "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+        "source": "The Verge"
+      },
+      {
+        "title": "美国银行警告客户：不要与AI代理分享密码",
+        "summary": "美国银行成为最新一家限制第三方AI代理访问的金融机构，提醒客户不要将密码交给AI代理，以防账户安全风险。",
+        "url": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/",
+        "source": "ZDNet"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "聊天机器人误导徒步者，后果可能致命",
+        "summary": "越来越多徒步者用AI规划路线，但聊天机器人给出的错误信息可能导致他们在野外陷入危险，专家警告不要放弃独立思考。",
+        "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangers-consequences/",
+        "source": "Wired"
+      },
+      {
+        "title": "加州Prop 45可能为数据中心留下监管漏洞",
+        "summary": "这项公投号称加速“必要”基础设施建设，但环保人士警告，数据中心开发商可能借此绕过环境评估和公众审查。",
+        "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+        "source": "The Verge"
+      },
+      {
+        "title": "民主党人能从纽约州数据中心禁令中学到什么",
+        "summary": "随着多名反数据中心候选人有望在周二的选举中获胜，纽约州的暂停令揭示了真正对数字基础设施采取行动时的紧张关系。",
+        "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
