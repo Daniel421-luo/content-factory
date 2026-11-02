@@ -1,0 +1,80 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-03",
+  "headline": "Marvell 以 1150 亿美元收购 Lumentum，成为科技史上最大并购之一；OpenAI 推出数据中心电网保护计划，Anthropic 收紧 Claude 游戏克隆规则。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "OpenAI 将合并 ChatGPT 的聊天与工作标签页",
+        "summary": "效仿 Anthropic 的类似举措，OpenAI 计划将 ChatGPT 的聊天和工作标签页合并，先在部分用户中测试，随后全面推出。",
+        "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Athenahealth 患者可通过 Claude 查询医疗记录",
+        "summary": "Athenahealth 与 Anthropic 合作，允许患者通过 Claude 询问自己的医疗记录。这可能让这家美国大型 AI 公司获得大量个人医疗数据。",
+        "url": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Anthropic 更新 Claude Code 系统提示，禁止克隆现有游戏",
+        "summary": "Anthropic 更新了 Claude Code 的系统提示，阻止该 AI 工具被用于复刻现有电子游戏。不过，用户仍可用 Claude 进行其他编程任务。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Marvell 以 1150 亿美元收购 Lumentum，创科技史最大交易之一",
+        "summary": "Marvell 计划收购 Lumentum，交易规模达 1150 亿美元，成为科技行业史上最大并购之一。两家公司拥有共同战略投资者英伟达。",
+        "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "42AI 结束隐身模式，获 6250 万美元融资，推出可预测人类行为的世界模型",
+        "summary": "42AI 结束隐身模式，获得 6250 万美元融资，并推出一个世界模型，声称能在全新情境中预测人类行为。",
+        "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 推出“电网保护者”计划，为数据中心附近区域提供电力保障",
+        "summary": "OpenAI 宣布将在佐治亚州 Effingham 县的数据中心试点“电网保护者”计划，承诺在极端天气或紧急情况下释放最多 1000 兆瓦电力，足以供应约 70 万台空调。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+        "source": "The Verge"
+      },
+      {
+        "title": "纽约时报等媒体起诉 Brave 浏览器，指控其 AI 抓取和绕过付费墙",
+        "summary": "纽约时报及多家媒体对 Brave 浏览器提起诉讼，指控其非法抓取内容用于训练 AI，并允许用户绕过付费墙。",
+        "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "50 个 AI 代理尝试在《我的世界》中建立文明，结果并不理想",
+        "summary": "Y Combinator 的一项实验让 50 个 AI 代理在《我的世界》中协作建立繁荣文明，结果发现即使机器人也无法摆脱官僚主义。",
+        "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
+        "source": "ZDNet"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "代理式网络已经到来",
+        "summary": "MIT 科技评论探讨了 Tim Berners-Lee 提出的语义网愿景如何演变为今天的代理式网络，即由自主软件代理导航的互联网。",
+        "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "别再数 token 了，开始数交付成果",
+        "summary": "MIT 科技评论指出，AI 代理完成一项编码任务可能消耗比基础聊天提示多 10 到 50 倍的 token，因此衡量 AI 价值应关注实际交付成果而非 token 消耗量。",
+        "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "提升代理式分析中洞察的质量",
+        "summary": "MIT 科技评论分析指出，代理式 AI 虽能自动化整个工作流，但洞察质量仍是关键问题，需要解决数据质量和模型可靠性等挑战。",
+        "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+        "source": "MIT Tech Review"
+      }
+    ]
+  }
+}
