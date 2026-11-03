@@ -1,0 +1,67 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-04",
+  "headline": "Anthropic 算力经济性恶化，Google 对拒绝 AI 的学校关闭搜索，苹果 App Store 新规限制 AI 伴侣应用。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google 对拒绝 AI 的学校完全关闭搜索",
+        "summary": "Google 向纽约时报证实，学校若选择禁用其 AI 工具，将无法再使用 Google 搜索，因为 AI 功能已深度整合进搜索引擎。此举迫使学校在 AI 与搜索之间二选一。",
+        "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+        "source": "The Verge"
+      },
+      {
+        "title": "苹果 App Store 新规：约会应用和 AI 伴侣需 18+ 评级",
+        "summary": "苹果更新 App Store 规则，要求提供性或浪漫内容的约会应用和 AI 伴侣应用必须获得 18+ 年龄评级，进一步收紧对 AI 社交产品的监管。",
+        "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 算力经济性持续恶化",
+        "summary": "TechCrunch 报道，在 Anthropic 的算力利润率本应改善之际，实际情况却在变差，凸显 AI 巨头在算力成本上的结构性压力。",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Evertrue Capital 推出 1700 万美元首期基金，押注欧洲 AI 与金融科技",
+        "summary": "Yvonne Bajela 领导的 Evertrue Capital 宣布 1700 万美元首期基金，专注投资欧洲早期 AI 和金融科技初创公司。",
+        "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "“逆向博弈论”如何约束 AI 代理",
+        "summary": "MIT 科技评论介绍一种新方法：通过设计激励机制让 AI 模型主动遵守规则，从而在模型能力增强时保持对齐，为 AI 安全提供新思路。",
+        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "谁在配合特朗普的“超级智能”忠诚度测试",
+        "summary": "MIT 科技评论梳理了特朗普行政令要求政府机构重新命名 AI 相关项目后，哪些机构和个人正在跟进这一被外界视为“忠诚度测试”的举措。",
+        "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "为什么你不该用 AI 来投票",
+        "summary": "Wired 指出，ChatGPT、Claude 等 AI 聊天机器人存在幻觉和党派偏见，在选举日依赖它们获取投票信息可能带来误导，建议选民使用官方渠道。",
+        "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+        "source": "Wired"
+      },
+      {
+        "title": "纽约市长马姆达尼谈 AI 与数据中心：“我们的风险，他们的回报”",
+        "summary": "在中期选举前，纽约市长佐兰·马姆达尼接受 Wired 采访，讨论数据中心、学校 AI 教育以及民主党未来，批评科技巨头将风险转嫁给社区。",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+        "source": "Wired"
+      },
+      {
+        "title": "苹果全面拥抱 AI：自研与外部合作并行",
+        "summary": "The Verge 分析苹果最新财报指出，苹果在利用 AI 热潮的同时，避免了像竞争对手那样在基础设施上大举烧钱，实现了创纪录的财年营收和每股收益。",
+        "url": "https://www.theverge.com/ai-artificial-",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
