@@ -1,0 +1,85 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-05",
+  "headline": "美国中期选举结果出炉，选民否决数据中心扩张，AI 基础设施政策面临变数",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "苹果 Siri 回顾功能上线，隐私与实用性的平衡",
+        "summary": "苹果的 AI 驱动 Siri 回顾功能在测试中表现实用，但引发隐私担忧。该功能可自动总结通知和消息，用户需主动选择开启。",
+        "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Netflix 推出 AI 推荐工具 Discover，对抗流媒体选择困难",
+        "summary": "Netflix 新增 Discover 功能，利用 AI 为用户提供个性化推荐，旨在减少用户在浏览内容时的决策疲劳。",
+        "url": "https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Safari 浏览器测试版新增深度 Siri 集成与定制功能",
+        "summary": "苹果在 Safari 开发者测试版中引入更深入的 Siri AI 集成和更多定制选项，提升浏览体验。",
+        "url": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "红杉资本重组：收缩全球扩张，新募资约 100 亿美元",
+        "summary": "红杉资本宣布结束 20 年的全球扩张，关闭多个办公室和项目，回归湾区中心模式，同时宣布约 100 亿美元的新基金。",
+        "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Titan OS 获 4600 万美元融资，拓展智能电视操作系统国际市场",
+        "summary": "智能电视操作系统开发商 Titan OS 完成 4600 万美元融资，累计融资达 1.1 亿美元，计划加速国际扩张。",
+        "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Canva 裁员超 1200 人，增长放缓下艰难转型",
+        "summary": "设计平台 Canva 宣布裁员 22%，涉及超过 1200 名员工，公司称正经历“最艰难的一年”，增长显著放缓。",
+        "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SUSE 裁员 10%，明确归因于 AI 与自动化",
+        "summary": "企业软件公司 SUSE 宣布裁减约 10% 的员工，并将裁员直接归因于 AI 和自动化技术的应用。",
+        "url": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Uber 财报披露：上季度仅 4 次行程由 AI 代理完成",
+        "summary": "Uber 在第三季度财报电话会上透露，由第三方 AI 代理完成的行程仅 4 次，AI 代理对出行业务的影响微乎其微。",
+        "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "中期选举结果：选民对数据中心说“不”",
+        "summary": "从参议院选战到地方分区投票，数据中心项目及其支持者在 2026 年中期选举中遭遇全面挫败，AI 基础设施扩张面临更严格的审批环境。",
+        "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+        "source": "The Verge"
+      },
+      {
+        "title": "英国政府承认 AI 经济预测大幅缩水，来源被指过度依赖谷歌",
+        "summary": "英国官员此前称 AI 将为经济增加 4000 亿英镑，现承认该数字不到三分之一，且主要源自谷歌，研究人员归因于采用速度缓慢。",
+        "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+        "source": "Wired"
+      },
+      {
+        "title": "用数据血缘保障代理式企业安全",
+        "summary": "随着 AI 代理在企业中跨系统调用数据，数据血缘成为确保代理行为可追溯、防止敏感信息泄露的关键机制。",
+        "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "乌克兰无人机袭击迫使俄罗斯将数据中心转入地下",
+        "summary": "乌克兰无人机对数字基础设施的打击，促使俄罗斯匆忙规划地下数据中心，以隐藏和保护关键设施。",
+        "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
