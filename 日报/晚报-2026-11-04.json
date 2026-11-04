@@ -1,0 +1,222 @@
+{
+  "title": "🌙 晚报 | 2026-11-04",
+  "headline": "民主党中期选举大胜参议院翻盘，科技股承压纳指期货跌2%，AMD与超微电脑财报亮眼难敌政治不确定性",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "民主党赢参议院，纳指期货跌2%",
+        "summary": "中期选举民主党赢得参议院控制权，众议院归属仍待定。交易员押注民主党将放缓数据中心建设，纳指期货下跌2%，比特币走低。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "标普500逼近技术悬崖，7500点成关键防线",
+        "summary": "摩根大通策略师警告，标普500若跌破7500点将引发抛售压力和波动率急剧上升，可能演变为全面回调。",
+        "url": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "得州州长选情意外胶着，AI数据中心交易承压",
+        "summary": "得州州长Abbott面临意外强劲挑战，选举结果可能对AI数据中心政策产生重大影响，进一步压制本已疲弱的AI交易。",
+        "url": "https://www.cnbc.com/2026/11/03/texas-election-could-pressure-ai-data-center-trade.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "中期选举结果出炉：民主党赢参议院，众议院悬而未决",
+        "summary": "民主党在艾奥瓦、堪萨斯等长期共和党州取得突破赢得参议院多数，众议院控制权仍待计票。选民对高物价的不满成为主导因素。",
+        "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
+        "source": "NPR"
+      },
+      {
+        "title": "AI对债市影响力日增，已可与战争和大选比肩",
+        "summary": "超大规模云厂商耗尽现金后转向发债融资，其债券交易正成为推动经济的重要力量，AI对债市的影响力已可与地缘冲突和选举相提并论。",
+        "url": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "北京收紧IPO节奏，AI担忧冲击股市后监管出手",
+        "summary": "中国市场监管机构告知银行，现有IPO流程将继续推进，但暂时不再受理新上市申请，背景是AI相关担忧冲击股市。",
+        "url": "https://www.wsj.com/finance/stocks/beijing-reins-in-ipo-rush-after-ai-concerns-hit-stock-market-d6abe32b?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "AMD财报提振AI交易信心，股价上涨",
+        "summary": "AMD股价上涨，公司展示了AI带来的“真实”收入，并给出乐观指引，缓解了市场对AI交易可持续性的担忧。",
+        "url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "超微电脑财报显示AI服务器需求旺盛，股价跳涨",
+        "summary": "超微电脑股价上涨，财报显示AI服务器需求强劲，CFO表示公司正在建立“高质量客户基础”推动收入增长。",
+        "url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Shopify财报不及预期，股价下滑",
+        "summary": "Shopify股价下跌，公司营收未达预期，在当前容错率极低的科技股市场环境中遭遇惩罚。",
+        "url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "苹果财报后跌近2%，毛利率指引与服务收入增速引发失望",
+        "summary": "苹果股价周二下跌近2%，投资者对毛利率展望和服务收入增速放缓感到失望。",
+        "url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Meta债务成本上升，Apollo转亏",
+        "summary": "Meta债务成本上升，Apollo录得亏损，投资者同时关注中期选举选情。",
+        "url": "https://www.wsj.com/finance/stocks/apple-shares-slip-meta-debt-costs-rise-a8eb0510?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "比特币矿企转型AI数据中心，遭遇与加密市场同样的剧烈波动",
+        "summary": "将比特币矿机替换为AI服务器的公司发现，运营AI数据中心并不比加密挖矿更容易，同样面临剧烈波动。",
+        "url": "https://www.wsj.com/finance/currencies/bitcoin-miners-pivoted-to-aionly-to-find-its-just-as-turbulent-as-crypto-17485887?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "新泽西州长警告港口不得接收俄罗斯柴油",
+        "summary": "新泽西州长Sherrill表示，接收俄罗斯柴油的港口和码头运营商可能面临刑事处罚。",
+        "url": "https://www.cbsnews.com/news/new-jerseys-governor-warns-ports-against-accepting-russian-diesel/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "英国与欧盟就取消食品出口脱欧繁文缛节达成草案协议",
+        "summary": "在英国-欧盟峰会前达成的食品协议是迄今“脱欧重置”中最重要的一部分。",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "特朗普司法部向阿拉斯加参议院刑事调查中的民主党人发出目标信函",
+        "summary": "法律辩护基金律师称这些威胁是对民主的威胁。",
+        "url": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "币安黑客事件后客户撤资74.2亿美元",
+        "summary": "币安表示净流出仅占其总持仓的3%，黑客通过虚假招聘面试实施攻击。",
+        "url": "https://www.cbsnews.com/news/binance-customers-withdraw-billions-crypto-hack/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "AI深度伪造对消费者和选民构成风险",
+        "summary": "网络安全专家警告，当无法辨别真伪时，人们会质疑一切，深度伪造技术对消费者欺诈和政治选举构成双重威胁。",
+        "url": "https://www.cbsnews.com/news/deepfakes-artificial-intelligence-consumer-risks-fraud/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Poundland供应商警告：若零售商倒闭将损失数百万",
+        "summary": "Poundland的一家供应商表示若公司倒闭将损失数百万，其他供应商称自己也将难以为继。",
+        "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "众议院控制权计票结果",
+        "summary": "参议院已定，众议院归属仍待计票，最终结果将决定国会分裂程度及对AI、能源、医疗政策的走向。",
+        "url": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "更多企业财报与就业数据",
+        "summary": "本周就业数据与更多企业财报密集发布，市场将在选举结果之外寻找基本面信号。",
+        "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "民主党赢参议院，交易员押注数据中心建设放缓",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX, SMCI",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "AMD财报显示AI收入真实且指引乐观",
+      "direction": "看多",
+      "asset_impact": "AMD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "超微电脑AI服务器需求旺盛",
+      "direction": "看多",
+      "asset_impact": "SMCI",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "标普500逼近7500点技术悬崖",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "苹果毛利率指引疲弱，服务收入增速放缓",
+      "direction": "看空",
+      "asset_impact": "AAPL",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "北京暂停受理新IPO申请",
+      "direction": "看空",
+      "asset_impact": "FXI, ASHR, KWEB",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "币安黑客后净流出74.2亿美元",
+      "direction": "看空",
+      "asset_impact": "COIN, BTC-USD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "AI债券发行成为债市重要力量",
+      "direction": "中性",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "得州州长选情胶着威胁AI数据中心政策",
+      "direction": "看空",
+      "asset_impact": "NVDA, SMCI, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "新泽西州警告港口不得接收俄罗斯柴油",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
