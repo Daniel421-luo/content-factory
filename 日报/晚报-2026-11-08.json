@@ -1,0 +1,216 @@
+{
+  "title": "🌙 晚报 | 2026-11-08",
+  "headline": "中期选举后AI监管与数据中心政治反弹持续发酵，科技股在剧烈震荡后小幅反弹，以色列组阁出现变数、美伊紧张未解，市场聚焦下周经济数据与财报。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "科技股小幅反弹，纳指脱离回调区间",
+        "summary": "在周四因数据中心建设放缓担忧引发抛售后，标普500与纳指周五早盘小幅走高，市场情绪仍谨慎。",
+        "url": "https://www.cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "高盛建议暂时回避科技股，转向优质防御标的",
+        "summary": "高盛认为在市场不确定性持续之际，存在大量优质买入机会，但建议投资者暂时不要重仓科技板块。",
+        "url": "https://www.cnbc.com/2026/11/07/forget-tech-and-hide-out-in-these-stocks-instead-goldman-sachs-says.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美债看多逻辑仍强，AI恐慌下债券收益率具吸引力",
+        "summary": "随着AI担忧拖累股市，美债提供的收益率被认为具有吸引力，买债逻辑依然成立。",
+        "url": "https://www.wsj.com/finance/investing/the-argument-for-buying-treasury-bonds-is-still-strong-be338920?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "AI股从数万亿美元市值蒸发中回升",
+        "summary": "投资者此前因担忧民主党选举胜利将导致AI发展放缓而抛售科技股，周五AI相关股票出现反弹。",
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "中期选举为何引发AI股票抛售",
+        "summary": "对AI监管收紧的担忧似乎是引发投资者恐慌的导火索，但对行业的疑虑已积累多时。",
+        "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "伯克希尔哈撒韦三季度回购翻倍，但利润下滑",
+        "summary": "伯克希尔哈撒韦周六表示，三季度加速了股票回购，但经营利润和整体利润均受到冲击。",
+        "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "挪威石油基金就SVB倒闭与毕马威达成2.245亿美元和解",
+        "summary": "挪威银行投资管理与瑞典国家养老金基金作为共同首席原告，原则上达成2.245亿美元和解协议。",
+        "url": "https://www.wsj.com/finance/banking/norway-oil-fund-reaches-224-5-million-settlement-with-kpmg-over-silicon-valley-bank-collapse-e0cc9045?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "特斯拉将停产Cybertruck，转向自动驾驶出租车",
+        "summary": "马斯克表示特斯拉明年将停止Cybertruck生产，为Cybercab自动驾驶出租车生产让路。",
+        "url": "https://www.cbsnews.com/news/tesla-ending-cybertruck-production-next-year/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Anthropic IPO遭遇AI反弹情绪",
+        "summary": "中期选举显示选民对数据中心强烈反对，Anthropic有望成为首家上市的纯AI公司，但面临公众对行业日益警惕的环境。",
+        "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Credo Technology：近期下跌使持有评级上调为买入",
+        "summary": "Seeking Alpha分析师将Credo Technology的评级从持有上调至买入，认为近期股价下跌提供了买入机会。",
+        "url": "https://seekingalpha.com/article/4964805-credo-technology-recent-drop-turns-my-hold-into-a-buy-rating-upgrade?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "AI股反弹带动芯片板块情绪修复",
+        "summary": "在经历数万亿美元市值蒸发后，AI相关股票周五回升，芯片股情绪有所修复，但市场对抛售是否结束仍存疑。",
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "以色列总统授权反对派候选人组建政府，内塔尼亚胡未获授权",
+        "summary": "以色列总统赫尔佐格授权反对派候选人甘茨·艾森科特组建政府，而非现任总理内塔尼亚胡，主要政党已推荐艾森科特。",
+        "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+        "source": "NPR"
+      },
+      {
+        "title": "尽管民主党大胜，美伊战争升级风险仍高",
+        "summary": "美国与伊朗在中东紧张局势下仍处于碰撞轨道，战争升级风险依然很高。",
+        "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "波兰克拉科夫枪击案致6死，枪手具极端民族主义观点",
+        "summary": "一名枪手驾车冲入克拉科夫主广场随机射击，造成6人死亡、15人受伤，警方在交火中击伤枪手。",
+        "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+        "source": "NPR"
+      },
+      {
+        "title": "巴拉圭被罢免总统接受检察官讯问",
+        "summary": "巴拉圭总统培尼亚在国有银行倒闭后被弹劾罢免并软禁，周六接受检察官讯问。",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "数据中心政治反弹或抑制关键投资引擎",
+        "summary": "经济学家警告，针对数据中心的日益强烈的政治反弹可能扼杀美国投资的关键来源，2026年选举出口民调显示多数选民反对在社区建设数据中心。",
+        "url": "https://www.cbsnews.com/news/data-centers-ai-investment-stocks-economy/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "AI投资者经历惊魂一周，系统性交易放大损失",
+        "summary": "民主党胜利加剧了已积累数周的焦虑情绪，系统性交易放大了损失，AI交易面临严峻考验。",
+        "url": "https://www.wsj.com/finance/stocks/midterms-markets-week-ai-trade-97b3fc5d?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "欧洲至少20架航班遭遇虚假炸弹威胁",
+        "summary": "至少20架欧洲航班在数小时内遭遇炸弹威胁，专家称短时间内异常密集的恶作剧暗示“非常蓄意的行为”。",
+        "url": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "下周市场展望：11月9-13日关键事件",
+        "summary": "投资者将关注下周公布的经济数据与财报，以判断科技股波动是否持续。",
+        "url": "https://www.cnbc.com/2026/11/07/forget-tech-and-hide-out-in-these-stocks-instead-goldman-sachs-says.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "中期选举后AI监管收紧担忧持续，数据中心政治反弹升温",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "AI股在数万亿美元市值蒸发后出现反弹，但抛售是否结束存疑",
+      "direction": "中性",
+      "asset_impact": "NVDA, MSFT, GOOGL",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "高盛建议暂时回避科技股，转向优质防御标的",
+      "direction": "看空",
+      "asset_impact": "XLK, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI恐慌下美债收益率具吸引力，买债逻辑仍强",
+      "direction": "看多",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美伊紧张局势升级风险仍高，油价获支撑",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "以色列总统授权反对派组建政府，中东政策不确定性上升",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特斯拉停产Cybertruck转向自动驾驶出租车",
+      "direction": "中性",
+      "asset_impact": "TSLA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伯克希尔哈撒韦三季度回购翻倍但利润下滑",
+      "direction": "中性",
+      "asset_impact": "BRK.B",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Anthropic IPO面临AI公众反弹情绪",
+      "direction": "看空",
+      "asset_impact": "AI相关IPO标的",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "数据中心政治反弹可能抑制美国投资关键引擎",
+      "direction": "看空",
+      "asset_impact": "EQIX, DLR",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
