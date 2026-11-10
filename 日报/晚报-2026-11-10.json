@@ -1,0 +1,240 @@
+{
+  "title": "🌙 晚报 | 2026-11-10",
+  "headline": "英伟达CEO黄仁勋涉中国间谍调查拖累股价，但美股在中期选举后大幅反弹，道指单日涨超1100点；中国10月出口同比增35.2%，贸易顺差突破1万亿美元。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "标普500期货上涨，市场等待10月CPI数据",
+        "summary": "美股期货小幅走高，交易员等待周二上午公布的10月消费者物价指数（CPI）报告，该数据可能影响美联储后续政策路径。",
+        "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "软银集团股价大涨13%，亚洲科技股跟随华尔街反弹",
+        "summary": "油价大幅下跌提振市场情绪，隔夜半导体板块重新获得买盘，带动亚洲科技股上涨，软银集团股价飙升13%。",
+        "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "台积电10月销售额大幅增长，全球芯片热潮持续",
+        "summary": "台积电公布10月月度销售数据，显示全球芯片需求持续旺盛，销售额同比大幅增长。",
+        "url": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "道指单日涨超1100点，投资者无视选举与英伟达调查逢低买入",
+        "summary": "美股周一大幅反弹，道指涨超1100点，纳指走高。投资者摆脱了中期选举不确定性和英伟达间谍调查的影响，重新买入科技股，认为AI交易的悲观论调“夸大其词”。",
+        "url": "https://www.wsj.com/finance/stocks/investors-brush-off-election-selloff-and-even-nvidias-spy-scandal-to-buy-stocks-8f6d406a?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "道指四日内第三次千点波动，波动性尚未结束",
+        "summary": "道指在四个交易日内出现第三次1000点以上的波动。策略师指出，一次选举和一条英伟达负面头条就让华盛顿从顺风变成潜在逆风，市场波动可能持续。",
+        "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "中国10月出口同比增35.2%，贸易顺差突破1万亿美元",
+        "summary": "中国10月商品出口同比增长35.2%，超过路透调查预期的33.5%，但较9月的36.3%有所放缓。月度进口增速创五年最快，2026年贸易顺差突破1万亿美元。",
+        "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国汽油价格有望跌破每加仑4美元",
+        "summary": "专家表示，美国汽油价格近期持续下跌，有望跌破每加仑4美元，部分原因是市场预期中期选举将增加美国与伊朗达成和平协议的压力。",
+        "url": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Rocket Lab股价下跌，“决定性”季度业绩不及预期",
+        "summary": "火箭发射公司Rocket Lab公布季度亏损超过分析师预期，股价随之下跌。",
+        "url": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Anthropic准备推进IPO，尽管市场情绪紧张",
+        "summary": "Claude开发商Anthropic计划在AI投资者紧张情绪和英伟达调查的背景下推进首次公开募股。",
+        "url": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "波音交易亏损问题愈发清晰",
+        "summary": "波音公司的交易亏损问题正变得更加明显，具体细节未在摘要中披露。",
+        "url": "https://www.wsj.com/finance/stocks/boeings-deal-losses-are-coming-into-sharper-view-256c7642?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达股价因CEO调查下滑，市值蒸发数百亿美元",
+        "summary": "英伟达董事会就CEO黄仁勋与疑似中国间谍的婚外情展开调查，股价周一下跌超过4%，市值蒸发约2000亿美元。公司表示没有理由认为公司机密或国家安全受到损害。",
+        "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "华尔街如何看待黄仁勋丑闻：可能成为公司更长期的问题",
+        "summary": "分析师认为，董事会调查的后续影响可能成为英伟达“更长期的问题”，投资者正在质疑黄仁勋的CEO职位是否面临风险。",
+        "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "AMD和博通是英伟达间谍丑闻的真正赢家吗？",
+        "summary": "AMD和博通股价周一大涨，但分析师指出，这些公司也可能因销售行为面临更严格的审查。",
+        "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "做空者称Megaspeed并非唯一帮助中国获取芯片的公司",
+        "summary": "Culper Research创始人Christian Lamarco表示，早在数月前就发现英伟达中国丑闻的迹象，并声称Megaspeed并非唯一帮助中国获取芯片的公司。",
+        "url": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普对俄乌和平谈判表示乐观，三方会谈在阿布扎比启动",
+        "summary": "特朗普在阿布扎比三方谈判开始前表示，有“强烈意愿”结束俄乌战争。谈判定于今日晚些时候开始。",
+        "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "法国指控伊朗发动网络“破坏”，攻击700个零售站点制冷系统",
+        "summary": "法国称伊朗军事黑客上个月接管了约700个零售站点的制冷控制器，在夜间调高温度，导致价值数百万美元的食物变质。",
+        "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+        "source": "NPR"
+      },
+      {
+        "title": "马西对国防部长赫格塞斯提出弹劾条款",
+        "summary": "共和党众议员托马斯·马西对国防部长皮特·赫格塞斯提出弹劾条款，指控其犯有“重罪和轻罪”。众议院可能本周进行投票。",
+        "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "最高法院允许西得克萨斯边境墙建设继续",
+        "summary": "最高法院裁定，在相关诉讼推进期间，西得克萨斯州的边境墙建设可以继续进行。特朗普政府此前在10月提交了紧急救济请求。",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "英伟达CEO继任问题不明，公司未来面临风险",
+        "summary": "黄仁勋与英伟达几乎画上等号，但公司没有明确的继任者。此次调查可能引发对CEO职位稳定性的担忧，进而影响公司战略连续性。",
+        "url": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "新一代亚洲交易者深陷市场崩盘",
+        "summary": "从高中俱乐部到社交媒体网红，亚洲新一代股票交易者正面临残酷的现实检验，市场波动可能加剧散户恐慌性抛售。",
+        "url": "https://www.wsj.com/finance/stocks/a-new-generation-of-traders-is-trapped-in-asias-market-meltdown-636d5da4?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "加州亿万富翁税提案被否决，但财富税争论未止",
+        "summary": "加州选民否决了对亿万富翁一次性征收5%财富税的提案，该提案曾分裂民主党。但围绕财富税的全国性辩论可能持续。",
+        "url": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国10月CPI数据周二公布",
+        "summary": "市场密切关注周二上午发布的10月消费者物价指数，该数据可能影响美联储利率预期和股市方向。",
+        "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "众议院可能就赫格塞斯弹劾条款投票",
+        "summary": "众议院预计本周对国防部长赫格塞斯的弹劾条款进行投票，政治不确定性可能影响国防板块情绪。",
+        "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达CEO黄仁勋因涉中国间谍调查，股价下跌超4%，市值蒸发约2000亿美元",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美股大盘反弹，道指涨超1100点，投资者逢低买入科技股",
+      "direction": "看多",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "中国10月出口同比增长35.2%，贸易顺差突破1万亿美元",
+      "direction": "看多",
+      "asset_impact": "FXI, KWEB",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "台积电10月销售额大幅增长，全球芯片需求持续旺盛",
+      "direction": "看多",
+      "asset_impact": "TSM, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "AMD和博通可能因英伟达调查而获得市场份额，但面临更严格审查",
+      "direction": "中性",
+      "asset_impact": "AMD, AVGO",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国汽油价格有望跌破每加仑4美元，油价下跌提振消费",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普对俄乌和平谈判表示乐观，地缘风险溢价可能下降",
+      "direction": "看多",
+      "asset_impact": "SPY, EEM",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "法国指控伊朗发动网络破坏，中东网络冲突升级",
+      "direction": "看空",
+      "asset_impact": "GLD, USO",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "Anthropic推进IPO，AI板块融资活动活跃",
+      "direction": "中性",
+      "asset_impact": "AI, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国10月CPI数据即将公布，可能影响利率预期",
+      "direction": "中性",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
