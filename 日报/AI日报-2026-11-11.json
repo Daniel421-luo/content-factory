@@ -1,0 +1,104 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-11",
+  "headline": "Google 发布 Gemini 4 Carbon 并推出智能体集群功能，DeepMind 同时公布 Gemini Robotics 2.5 与安全基准，Anthropic 确认 IPO 估值目标 1.4 万亿美元。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google 发布 Gemini 4 Carbon，新增智能体集群功能",
+        "summary": "Google 向公众开放了号称最强模型的 Gemini 4 Carbon，并推出智能体集群功能，直接对标 Anthropic 和 OpenAI 的旗舰系统。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+        "source": "The Verge"
+      },
+      {
+        "title": "Google 推出两款专用 AI 芯片，扩展 TPU 产品线",
+        "summary": "新 TPU 分别面向机密模型训练和更大内存容量场景，显示 Google 正把自研芯片推向更多 AI 工作负载。",
+        "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta 的 AI 助手 Muse 登陆 Apple Watch 和 Wear OS",
+        "summary": "用户现在可以通过语音通话、短信或听写在 Apple Watch 上与 Meta 的 AI 助手 Muse 交互，智能体进一步向可穿戴设备渗透。",
+        "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reddit 推出 AI 驱动的商品评测功能",
+        "summary": "Reddit 利用社区真实讨论生成约 1 万种商品的优缺点总结，正式进军购物决策场景，挑战传统评测媒体。",
+        "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
+        "source": "The Verge"
+      },
+      {
+        "title": "Ring 回归室内无人机摄像头，新增 AI 巡逻功能",
+        "summary": "售价 250 美元的 Drone Cam 可在家中飞行监控，同时面向企业推出基于 Astro 机器人技术的 Rover Cam，安防硬件进一步 AI 化。",
+        "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+        "source": "Wired"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 确认 IPO 目标估值 1.4 万亿美元",
+        "summary": "Anthropic 周二确认其 IPO 估值目标高达 1.4 万亿美元，若成行将成为 AI 行业规模最大的上市事件之一。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030714/anthropic-ipo-1-4-trillion-valuation",
+        "source": "The Verge"
+      },
+      {
+        "title": "eBay 疑似封堵第三方 AI 智能体",
+        "summary": "有用户反映 Meta Muse 等 AI 智能体已无法浏览 eBay 商品，平台与智能体之间的访问权博弈升温。",
+        "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+        "source": "The Verge"
+      },
+      {
+        "title": "乌克兰光纤无人机遭 AI 数据中心抢购挤压",
+        "summary": "乌克兰在光纤供应上同时与俄罗斯和数据中心竞争，AI 基础设施需求正间接影响战场装备供应链。",
+        "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "N-able 因零日漏洞泄露下线远程访问服务",
+        "summary": "研究人员公开数十个零日漏洞后，N-able 以“严重安全事件”为由下线服务，并敦促自托管客户关闭服务器。",
+        "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "DeepMind 发布 Gemini Robotics 2.5 及开放安全基准 ASIMOV-jailbreak",
+        "summary": "新模型在部分任务上成功率提升至两倍，同时 DeepMind 开源了针对机器人越狱攻击的安全评测基准。",
+        "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Google DeepMind 用 AlphaProof Code 验证 Signal 加密可靠性",
+        "summary": "DeepMind 计划开源 AlphaProof Code，其形式化验证结果证明 Signal 和 WhatsApp 的加密协议确实有效，为关键系统安全验证提供新工具。",
+        "url": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "研究揭示 AI 供应链安全风险",
+        "summary": "Black Kite 的新研究剖析了 AI 供应链中的安全薄弱环节，指出企业面临的风险正在扩大。",
+        "url": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/",
+        "source": "ZDNet"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "英伟达的黄仁勋难题：丑闻缠身且无明确接班人",
+        "summary": "黄仁勋因涉中国间谍绯闻面临董事会调查，投资者同时担忧英伟达缺乏清晰的继任计划，公司治理风险浮出水面。",
+        "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "黄仁勋与涉华间谍绯闻时间线梳理",
+        "summary": "TechCrunch 梳理了黄仁勋绯闻事件的时间线，指出此事可能在中美 AI 基础设施竞赛中对美国国家安全产生影响。",
+        "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Kora：为本地 AI 玩家打造的 Linux 桌面系统",
+        "summary": "由 Cyanogen 联合创始人打造的新桌面操作系统 Kora 面向运行本地 AI 模型的高级用户，试图成为 Windows 和 macOS 之外的替代方案。",
+        "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
