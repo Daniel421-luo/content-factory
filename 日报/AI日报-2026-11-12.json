@@ -1,0 +1,116 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-12",
+  "headline": "OpenAI 季度营收首次突破 100 亿美元，同时收购旅行初创公司 Odessia；Google DeepMind 发布 AlphaGenome 2 并开源 AlphaProof Code。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Google 推出 Tabletop AI 实验，可生成定制协作应用",
+        "summary": "Google 的新实验工具 Tabletop 能根据需求生成个性化的协作中心，帮助家庭和朋友协调事务，界面类似 Asana 但内置 AI 生成能力。",
+        "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+        "source": "The Verge"
+      },
+      {
+        "title": "Adobe 展示 AI 实验：在照片中行走、与角色对话",
+        "summary": "Adobe Max 大会公布多项实验性 AI 功能，包括将图像转为可探索的 3D 场景、通过对话设计 AI 角色，以及将文字转为视频等。",
+        "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+        "source": "The Verge"
+      },
+      {
+        "title": "Claude 将能加入团队会议，像实习生一样协作",
+        "summary": "Anthropic 为 Claude 增加会议协作功能，可接受日历邀请并参与讨论，同时推出两项新功能，但存在一定限制。",
+        "url": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Pixel 用户获得 Android Auto 重大更新，Gemini Intelligence 上车",
+        "summary": "更多手机开始支持 Gemini Intelligence，但 Pixel 用户可通过 Android Auto 以新方式访问，体验对标 Siri AI。",
+        "url": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Databricks 新 AI 代理 Genie 向 CEO 直言不讳",
+        "summary": "Databricks 更新 Genie 代理，CEO Ali Ghodsi 用它来获取员工不愿直说的真实反馈，以管理 1.2 万人的公司。",
+        "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "OpenAI 季度营收首次突破 100 亿美元",
+        "summary": "OpenAI 第三季度营收达到 100 亿美元，较第二季度的 67 亿美元增长近 50%，显示其商业化速度加快。",
+        "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI 收购 Sonder 创始人创办的旅行初创公司 Odessia",
+        "summary": "OpenAI 收购旅行初创公司 Odessia，后者由 Sonder 创始人 Francis Davidson 创立，但 OpenAI 尚未透露具体旅行计划。",
+        "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Siri 联合创始人投资 Helix 的声纹识别技术",
+        "summary": "Helix 的声纹识别技术可在 iPhone 13 上运行，获得 Siri 联合创始人的投资，有望提升设备端语音安全。",
+        "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "欧盟新数字公平法案约束 Duolingo、Strava 和 Ticketmaster",
+        "summary": "欧盟 Digital Fairness Act 针对平台“暗黑模式”，要求允许关闭连胜功能，并强制网红披露付费推广。",
+        "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+        "source": "Wired"
+      },
+      {
+        "title": "苹果 Creator Studio 推出付费 AI 用量包",
+        "summary": "苹果在 Creator Studio 中引入 50 美元的 AI 用量包，成为又一家对 AI 功能收费的公司。",
+        "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
+        "source": "ZDNet"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Google DeepMind 发布 AlphaGenome 2，深入细胞层面解析疾病根源",
+        "summary": "新 AI 模型能更精细地预测 DNA 变化对不同细胞的影响，为疾病成因和治疗提供线索。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+        "source": "The Verge"
+      },
+      {
+        "title": "Radical Numerics 开发离线 AI 模型对抗 AI 生物武器",
+        "summary": "该初创公司称其模型无需联网即可识别自然和 AI 工程病原体，旨在防御生物安全威胁。",
+        "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+        "source": "Wired"
+      },
+      {
+        "title": "Plurai 借鉴自动驾驶方法提升 AI 代理可靠性",
+        "summary": "Plurai 将端到端自动驾驶模型的训练思路用于 AI 代理，帮助其在不可预测环境中更稳定地工作。",
+        "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+        "source": "TechCrunch"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "黄仁勋的不当行为是否比想象中更普遍？",
+        "summary": "投资情报顾问称，业内许多高管知道类似行为存在却默许，引发对科技圈文化的质疑。",
+        "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "英伟达危机让公司治理专家“搬好板凳看戏”",
+        "summary": "治理专家表示从未见过英伟达当前局面，事件可能对公司治理实践产生深远影响。",
+        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "中国的英伟达蜜罐并不意外，黄仁勋还是中招了",
+        "summary": "文章分析中国利用性间谍手段是成熟情报战术，而全球最具影响力的 AI 高管为何仍落入陷阱。",
+        "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+        "source": "Wired"
+      },
+      {
+        "title": "当 AI 成为神谕，数学会怎样？",
+        "summary": "数学家 Steven Strogatz 在新书《Big Math》中探讨 AI 作为“神谕”对数学研究范式的影响。",
+        "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+        "source": "Ars Technica"
+      }
+    ]
+  }
+}
