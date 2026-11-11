@@ -1,0 +1,236 @@
+{
+  "title": "🌙 晚报 | 2026-11-11",
+  "headline": "美国10月CPI超预期重燃加息担忧，英伟达CEO丑闻持续发酵拖累芯片股，阿里巴巴宣布分拆平头哥上市。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货小幅反弹，市场试图从英伟达拖累中恢复",
+        "summary": "道指盘中回落逾150点，标普500与纳指分别下跌0.4%和0.7%，盘前期货小幅走高。",
+        "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国10月CPI超预期，加息担忧重燃",
+        "summary": "10月CPI环比上涨0.4%，受住房、食品和能源价格推动，高于经济学家预期，市场对美联储12月加息的押注升温。",
+        "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "亚洲债券收益率上升，市场预期美联储加息",
+        "summary": "美国通胀数据超预期叠加美联储官员鹰派讲话，提高了下月加息的可能性，亚洲债券收益率随之走高。",
+        "url": "https://www.wsj.com/finance/asian-bond-yields-rise-on-growing-expectations-for-fed-rate-hike-a2491a28?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "美国通胀超预期，华尔街重燃加息恐惧",
+        "summary": "10月CPI环比涨0.4%，高于预期，一位美联储理事的鹰派讲话进一步吸引投资者注意力，此前市场正被AI交易的波动分散。",
+        "url": "https://www.wsj.com/finance/investing/hot-inflation-revives-wall-streets-rate-hike-fears-1ce54f85?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "美国汽油价格跌破每加仑4美元",
+        "summary": "为7月以来首次，石油专家预测价格将继续下行，感恩节前有望降至每加仑3.75美元。",
+        "url": "https://www.cbsnews.com/news/gas-prices-below-4-gallon-november/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "24%有信用记录的美国人债务逾期",
+        "summary": "数据显示，越来越多美国家庭因医疗账单、学生贷款等支出陷入债务困境。",
+        "url": "https://www.cbsnews.com/news/americans-behind-on-debts-analysis/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "SEC执法罚款降至18年低点",
+        "summary": "该华尔街监管机构去年获得约10亿美元罚款，为2008年金融危机以来最低水平。",
+        "url": "https://www.wsj.com/finance/regulation/sec-enforcement-penalties-fall-to-18-year-low-2aa5d9d3?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "CoreWeave股价上涨，新融资安排缓解债务担忧",
+        "summary": "第三季度营收超预期，加之计划中的90亿美元预付款，令投资者对该公司业务重拾信心。",
+        "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Children's Place申请破产，债务达8.81亿美元",
+        "summary": "该连锁品牌面临出生率下降、消费者谨慎和激烈竞争，债务规模达8.81亿美元。",
+        "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Poundland有望获得最后时刻救助协议",
+        "summary": "这家折扣连锁店已濒临破产管理，据悉将获得更多时间寻找买家。",
+        "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "Anthropic启动澳大利亚零售IPO认购",
+        "summary": "这家Claude聊天机器人开发商周三开放澳大利亚零售IPO认购，发行价区间为每股70至78美元，低于此前预期。",
+        "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达聘请美国大型律所调查CEO涉嫌中国间谍绯闻",
+        "summary": "在黄仁勋与一名疑似中国间谍的女性发生婚外情曝光后，英伟达聘请律所展开调查。",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "黄仁勋返岗试图展现“一切如常”",
+        "summary": "在披露婚外情后，黄仁勋重返办公室，员工情绪被描述为“悲伤”。",
+        "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "阿里巴巴宣布分拆平头哥上市",
+        "summary": "阿里巴巴称已于9月11日就平头哥在香港交易所上市秘密提交申请，平头哥是英伟达芯片的竞争对手。",
+        "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AMD股价回落，投资者权衡英伟达动荡是否带来持久收益",
+        "summary": "资金在股票之间转移是一回事，但客户改变供应商关系则是另一回事。",
+        "url": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "抄底芯片股？先等SOX指数触及关键“底线”",
+        "summary": "在芯片板块指数到达界定当前水平上下方技术争夺区域的关键“底线”之前，投资者不应过度关注其剧烈波动。",
+        "url": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "贝森特因伊朗威胁生命而转移至军事基地",
+        "summary": "司法部周二晚表示，三名伊朗国民因恐怖主义相关指控被起诉。",
+        "url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美国陆军士兵",
+        "summary": "此外，华尔街再次担忧利率问题，Anthropic创始人即将身价数十亿美元。",
+        "url": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "白宫誓言推进关税，尽管中期选举因物价上涨遭反弹",
+        "summary": "商界高管在华盛顿峰会上警告成本上升和供应链转移，民调显示对特朗普关税的反对日益增长。",
+        "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "英伟达CEO丑闻持续发酵，公司命运与创始人深度绑定",
+        "summary": "其他CEO曾因未披露的关系被解职，英伟达的调查凸显这家芯片制造商的前景与联合创始人紧密相连。",
+        "url": "https://www.cbsnews.com/news/jensen-huang-affair-nvidia-ceo-dilemma/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "AI数据中心成本对低收入和农村家庭造成不成比例负担",
+        "summary": "一项新研究发现，低收入和农村家庭在AI数据中心及其能源使用相关的财务负担中承受了不成比例的份额。",
+        "url": "https://www.cbsnews.com/news/rising-energy-costs-ai-data-centers-lower-income-rural-households-study/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "美联储加息预期升温，12月政策路径不确定性增加",
+        "summary": "10月CPI环比涨0.4%高于预期，提高了美联储12月加息的可能性，市场需重新定价利率路径。",
+        "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "Anthropic澳大利亚零售IPO认购持续",
+        "summary": "发行价区间每股70至78美元，市场关注AI公司上市定价与需求情况。",
+        "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达CEO丑闻调查进展",
+        "summary": "公司聘请律所调查黄仁勋与疑似中国间谍的关系，后续调查结果可能影响股价。",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "阿里巴巴平头哥分拆上市后续",
+        "summary": "阿里巴巴已秘密提交香港上市申请，市场关注分拆时间表和估值细节。",
+        "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美国10月CPI超预期，加息担忧重燃",
+      "direction": "看空",
+      "asset_impact": "TLT, US10Y, SPY",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英伟达CEO丑闻持续，公司聘请律所调查",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "阿里巴巴分拆平头哥上市，加剧AI芯片竞争",
+      "direction": "中性",
+      "asset_impact": "BABA, NVDA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "CoreWeave营收超预期且获90亿美元预付款",
+      "direction": "看多",
+      "asset_impact": "CRWV",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国汽油价格跌破4美元/加仑",
+      "direction": "看空",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "白宫坚持推进关税，中期选举后政治阻力上升",
+      "direction": "看空",
+      "asset_impact": "FXI, KWEB",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Anthropic IPO定价低于预期，AI融资情绪受考验",
+      "direction": "中性",
+      "asset_impact": "AI相关ETF",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "贝森特因伊朗威胁转移至军事基地，地缘风险升温",
+      "direction": "看多",
+      "asset_impact": "GLD, USO",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
