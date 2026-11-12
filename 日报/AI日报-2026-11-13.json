@@ -1,0 +1,86 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-13",
+  "headline": "英伟达 CEO 黄仁勋因丑闻辞职，公司启动调查并任命临时 CEO；谷歌与三星的 Gemini 智能眼镜正式开卖。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "谷歌与三星的 Android XR 智能眼镜正式上市，起价 395 美元",
+        "summary": "谷歌、三星联合 Warby Parker 和 Gentle Monster 推出首批 Gemini 智能眼镜，起售价 395 美元，主打隐私保护以区别于 Meta 的产品。",
+        "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "谷歌钱包支持数字家庭钥匙，可刷手机开智能锁",
+        "summary": "Google Wallet 新增数字家庭钥匙功能，Android 用户可通过碰触或靠近智能锁来开门，目前处于公开预览阶段，未来几周全面推送。",
+        "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
+        "source": "The Verge"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "英伟达 CEO 黄仁勋辞职，公司启动调查并任命临时 CEO",
+        "summary": "黄仁勋因与直接下属及疑似中国间谍的婚外情调查辞去英伟达 CEO 职务，公司任命长期 CFO Colette Kress 为临时 CEO，FBI 已介入调查。",
+        "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+        "source": "Wired"
+      },
+      {
+        "title": "黄仁勋同意下周赴国会作证",
+        "summary": "在多名资深议员威胁发出传票后，黄仁勋同意于周三就相关丑闻在国会作证。",
+        "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "美联航禁止 AI 代理预订机票，称存在网络安全风险",
+        "summary": "美联航宣布不允许客户使用 AI 代理预订航班和管理预订，理由是网络安全风险。",
+        "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "软银因预购天然气涡轮机损失超 30 亿美元，或抑制 AI 数据中心天然气野心",
+        "summary": "软银为 AI 数据中心预购天然气涡轮机导致超过 30 亿美元损失，这一挫折可能影响电力市场对 AI 驱动天然气需求的预期。",
+        "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Synchron 因性能问题暂停脑机接口临床试验",
+        "summary": "脑机接口公司 Synchron 因最新设备性能不佳暂停临床试验，计划升级植入体硬件并开发新设备。",
+        "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
+        "source": "Wired"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "研究：AI 聊天机器人推荐虚假零售网站，购物者面临风险",
+        "summary": "IP 保护公司 Podqi 的研究发现，ChatGPT、Gemini 和 Perplexity 在购物查询中可能将用户引向仿冒和风险网站。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+        "source": "The Verge"
+      },
+      {
+        "title": "GDC 调查：40% 游戏开发者已在工作中使用生成式 AI",
+        "summary": "GDC 年度行业调查显示，40% 的受访开发者表示在工作中使用生成式 AI，较 2025 年的 36% 有所上升。",
+        "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+        "source": "The Verge"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Hugging Face CEO 誓言在黄仁勋退出后继续为开源 AI 而战",
+        "summary": "Hugging Face CEO 承诺继续推动开源 AI 发展，此前黄仁勋退出英伟达引发外界对英伟达 129 亿美元收购案及开源 AI 前景的疑问。",
+        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "黄仁勋离职可能损害 AI 行业的五种方式",
+        "summary": "TechCrunch 分析指出，黄仁勋的下台不仅是个人丑闻，他此前利用影响力推动 AI 行业特定方向，其离职可能对行业造成多重伤害。",
+        "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "特朗普提议苹果董事长蒂姆·库克接任英伟达 CEO",
+        "summary": "特朗普在 Truth Social 上发文称，只有蒂姆·库克能接替黄仁勋执掌英伟达。",
+        "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
