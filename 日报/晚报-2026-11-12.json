@@ -1,0 +1,192 @@
+{
+  "title": "🌙 晚报 | 2026-11-12",
+  "headline": "英伟达董事会拟罢免CEO黄仁勋，盘后股价重挫并拖累纳指期货；CoreWeave财报提振AI交易，市场情绪在AI龙头治理危机与板块韧性之间拉锯。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "英伟达盘后跌8%，纳指期货承压",
+        "summary": "有报道称英伟达董事会正筹备罢免CEO黄仁勋，公司股价盘后下跌8%，拖累纳斯达克100指数期货走低，并波及多家芯片股。",
+        "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "英伟达董事会会议持续至深夜，CEO去留未定",
+        "summary": "英伟达董事会就CEO黄仁勋的去留召开会议，讨论持续至晚间，尚未公布最终决定。此前黄仁勋承认与一名被美国情报机构认为是中国间谍的女性有婚外情。",
+        "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "马斯克称“荣幸”聘用黄仁勋",
+        "summary": "在英伟达董事会准备罢免黄仁勋的报道传出后，马斯克在X上表示若有机会聘用黄仁勋将是一种“荣幸”。",
+        "url": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "投资者重返AI股，CoreWeave财报提振板块",
+        "summary": "在历史性抛售不到一周后，投资者大举回流AI股票。AI数据中心运营商CoreWeave公布强劲业绩，带动科技股次日早盘大涨。",
+        "url": "https://www.wsj.com/finance/stocks/investors-run-back-to-ai-stocks-less-than-a-week-after-a-historic-selloff-854483e8?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "美国汽油均价跌破每加仑4美元",
+        "summary": "本周美国汽油平均价格数月来首次跌破每加仑4美元，市场关注这是否意味着油价压力进一步缓解。",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
+        "source": "NPR"
+      },
+      {
+        "title": "超富人群另类投资配置占比升至60%",
+        "summary": "据BNY Wealth，另类投资目前占单一家族办公室投资组合的60%，首次超过传统资产。",
+        "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "CoreWeave强劲业绩缓解债务担忧，带动AI交易",
+        "summary": "CoreWeave公布强劲业绩并承诺在债务方面保持一定纪律，其改善的AI经济性提振了芯片板块的广泛反弹。",
+        "url": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "CoreWeave找到资本约束的变通方案",
+        "summary": "CoreWeave暂时找到了绕开资本约束的办法，但其雄心勃勃的计划仍需资本市场配合。",
+        "url": "https://www.wsj.com/business/energy-oil/coreweave-finds-a-workaround-to-capital-constraintsfor-now-1f548211?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "特斯拉延长Cybertruck生产以清理积压订单",
+        "summary": "马斯克表示，特斯拉将延长Cybertruck的生产时间以清理积压订单，此前他曾称将在2027年中期逐步停止得州工厂的生产。",
+        "url": "https://www.cbsnews.com/news/tesla-extend-cybertruck-production-backlog/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Anthropic IPO定价区间70-78美元，估值约1.3万亿美元",
+        "summary": "Claude聊天机器人开发商Anthropic将以每股70至78美元的价格发行股票，低于此前预期，尽管有警告称AI存在“灾难性”风险。",
+        "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达聘请美国大型律所调查CEO涉嫌中国间谍婚外情",
+        "summary": "英伟达已聘请一家美国大型律师事务所，调查CEO黄仁勋与一名被怀疑为中国间谍的女性之间的婚外情。",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "英伟达新加坡销售额“消失”加深Megaspeed谜团",
+        "summary": "去年，随着对Megaspeed的审查升温，英伟达停止报告新加坡收入，这加深了围绕这家合作伙伴的谜团。",
+        "url": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "Megaspeed亚洲业务版图曝光",
+        "summary": "Megaspeed处于美国调查的中心，涉及向中国输送数十亿美元受限英伟达芯片，以及其高管与黄仁勋的婚外情指控。",
+        "url": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "做空机构此前已警告黄仁勋与疑似间谍的关系",
+        "summary": "一家小型投资机构今年5月发布关于英伟达的报告，预见了如今令CEO黄仁勋陷入丑闻的问题。",
+        "url": "https://www.cbsnews.com/news/nvidia-short-seller-culper-jensen-huang/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "民主党人Scott Colom赢得密西西比州参议员选举",
+        "summary": "Scott Colom击败现任共和党参议员Cindy Hyde-Smith，成为自1982年以来该州首位当选参议员的民主党人，也是重建以来密西西比州首位黑人参议员。",
+        "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "国会呼吁黄仁勋辞职并收紧对华芯片出口",
+        "summary": "黄仁勋曾反对严格限制AI芯片对华出口，这激怒了国会对华鹰派。随着丑闻发酵，辞职呼声和收紧出口管制的动议升温。",
+        "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "英伟达治理危机或成AI板块系统性风险",
+        "summary": "英伟达作为全球最大AI芯片商，其股票在许多退休组合中占重要比重。董事会若罢免CEO，可能引发更广泛的市场波动。",
+        "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "United禁止AI代理代客订票",
+        "summary": "United Airlines禁止使用AI代理为旅客预订航班，称此举存在安全风险并可能违反联邦规定。",
+        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "英伟达董事会最终决定",
+        "summary": "英伟达董事会关于CEO黄仁勋去留的会议持续至深夜，最终决定可能在未来24小时内公布，将主导科技股走向。",
+        "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达董事会拟罢免CEO黄仁勋，盘后股价跌8%",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "CoreWeave强劲业绩缓解AI板块债务担忧",
+      "direction": "看多",
+      "asset_impact": "MU, AVGO, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "国会推动收紧对华AI芯片出口管制",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Anthropic IPO定价低于预期，估值约1.3万亿美元",
+      "direction": "中性",
+      "asset_impact": "MSFT, GOOGL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国汽油均价跌破每加仑4美元",
+      "direction": "看空",
+      "asset_impact": "XLE, USO",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特斯拉延长Cybertruck生产以清理积压订单",
+      "direction": "中性",
+      "asset_impact": "TSLA",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "超富人群另类投资配置占比升至60%",
+      "direction": "中性",
+      "asset_impact": "GLD, TLT",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
