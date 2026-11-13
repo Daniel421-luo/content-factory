@@ -1,0 +1,180 @@
+{
+  "title": "🌙 晚报 | 2026-11-13",
+  "headline": "英伟达CEO黄仁勋因丑闻辞职，公司市值蒸发近5000亿美元，AI交易面临重估；美国债市因加息预期升温遭遇2022年以来最大抛售。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货反弹，市场试图消化英伟达冲击",
+        "summary": "在英伟达CEO辞职导致周四主要股指下挫后，美股期货周五盘前上涨，投资者评估黄仁勋离职对AI板块的深远影响。",
+        "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "债市风暴：收益率创2022年以来最大飙升",
+        "summary": "因市场对美联储进一步加息的预期升温，美国国债收益率出现2022年以来最大单日涨幅，债市波动性显著上升。",
+        "url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "策略师警告：若美联储加息超预期，股市将面临 rude awakening",
+        "summary": "有策略师指出，美联储是中期内的真正风险，若加息幅度超过市场预期，股市可能遭遇剧烈调整。",
+        "url": "https://www.cnbc.com/2026/11/12/stocks-could-be-in-for-a-rude-awakening-if-the-fed-hikes-rates-more-than-expected.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国经济第三季度增长0.7%，创两年多来最快",
+        "summary": "英国官方数据显示，截至9月的三个月GDP增长0.7%，但分析师对增长可持续性存疑。",
+        "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "微软发生大规模宕机，Outlook和365服务受影响",
+        "summary": "微软周四发生广泛服务中断，影响Outlook、Teams和Microsoft 365用户，具体原因尚未披露。",
+        "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "英伟达市值蒸发近5000亿美元，CEO辞职引发抛售",
+        "summary": "英伟达宣布黄仁勋立即辞职后，股价大幅下跌，市值损失近5000亿美元，投资者重新评估公司在没有创始人的情况下的价值。",
+        "url": "https://www.cbsnews.com/news/nvidia-stock-nvda-ceo-jensen-huang/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "英伟达临时CEO由CFO Colette Kress担任，继任者搜寻中",
+        "summary": "英伟达任命首席财务官Colette Kress为临时CEO，同时董事会正在寻找永久继任者，潜在候选人包括多位科技高管。",
+        "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "分析师：英伟达股东长期或不会怀念黄仁勋",
+        "summary": "有观点认为，随着英伟达进入新阶段，更稳健的管理层可能更有利于股东价值，但短期不确定性仍高。",
+        "url": "https://www.wsj.com/finance/stocks/nvidia-shareholders-wont-miss-jensen-huang-for-long-13429e31?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "黄仁勋辞职为AMD、博通等竞争对手创造机会",
+        "summary": "英伟达领导层动荡之际，AMD和博通等竞争对手股价上涨，市场预期部分客户可能转向替代供应商。",
+        "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "与黄仁勋有关的女性持有华为供应商股份",
+        "summary": "据报道与黄仁勋有关系的Alice Huang同时持有为华为提供算力的公司股份，华为是英伟达的关键竞争对手。",
+        "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达新加坡销售额“消失”加深Megaspeed谜团",
+        "summary": "在Megaspeed受到审查之际，英伟达停止报告新加坡收入，引发对其亚洲业务透明度的质疑。",
+        "url": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "黄仁勋被传唤至国会就涉华间谍绯闻作证",
+        "summary": "美国国会传唤前英伟达CEO黄仁勋，要求其就与疑似中国间谍的婚外情关系作证，事件升级为国家安全议题。",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "特朗普称黄仁勋事件“可怕且令人悲伤”",
+        "summary": "美国总统特朗普对英伟达CEO辞职事件发表评论，称这是“可怕的事情”且“令人悲伤”，显示事件已上升至政治层面。",
+        "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "AI开发商面临诉讼：被指无法控制自身技术",
+        "summary": "包括Anthropic、Meta和OpenAI在内的AI公司被非营利组织起诉，指控其明知技术存在灾难性风险仍继续开发。",
+        "url": "https://www.cbsnews.com/news/advocacy-groups-sue-ai-companies/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Poundland获得额外10天寻找买家",
+        "summary": "英国折扣零售商Poundland在救援谈判中获得额外10天期限，此前截止日期原定于午夜到期。",
+        "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "英伟达继任者搜寻进展及国会作证安排",
+        "summary": "市场关注英伟达董事会是否会在周末宣布永久CEO人选，以及黄仁勋国会作证的具体时间。",
+        "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "美国债市波动持续，关注美联储官员讲话",
+        "summary": "在收益率大幅飙升后，市场将密切关注美联储官员的言论，以寻找加息路径的线索。",
+        "url": "https://seekingalpha.com/article/4967611-have-bond-yields-reached-point-of-no-return?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达CEO黄仁勋辞职引发治理危机，市值蒸发近5000亿美元",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "英伟达竞争对手AMD和博通因客户可能转向而受益",
+      "direction": "看多",
+      "asset_impact": "AMD, AVGO",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国国债收益率创2022年以来最大飙升，加息预期升温",
+      "direction": "看空",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "美联储加息预期升温，股市面临调整风险",
+      "direction": "看空",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英国经济增速超预期，英镑或获支撑",
+      "direction": "看多",
+      "asset_impact": "EURUSD, GBPUSD",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI公司面临诉讼，监管风险上升",
+      "direction": "看空",
+      "asset_impact": "META, MSFT",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "微软大规模宕机可能引发对云服务可靠性的担忧",
+      "direction": "中性",
+      "asset_impact": "MSFT",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
