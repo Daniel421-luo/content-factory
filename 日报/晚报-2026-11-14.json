@@ -1,0 +1,258 @@
+{
+  "title": "🌙 晚报 | 2026-11-14",
+  "headline": "英伟达CEO辞职风波持续发酵，国会传唤与出口管制风险升温；FAA罕见全国停飞后恢复，微软全球宕机余波未平；市场聚焦下周英伟达财报与Anthropic IPO两大AI试金石。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "纳指周五收跌但录得8月以来最佳周涨幅",
+        "summary": "纳指周五因英伟达抛售而下跌，但全周仍录得8月以来最佳周度表现；最新通胀数据略低于预期，英伟达股价从近期压力中反弹。",
+        "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达创14年最长连跌，本周市值蒸发5730亿美元",
+        "summary": "英伟达本周市值蒸发5730亿美元，为连续第六周下跌，创14年来最长连跌纪录，市场关注下周财报能否止血。",
+        "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "下周AI交易迎双重考验：英伟达财报与Anthropic IPO",
+        "summary": "WSJ指出，AI交易下周面临重大测试——芯片巨头英伟达财报与Anthropic IPO，科技股周五已提前走弱。",
+        "url": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "通胀顽固，分析师预计美联储或需加快加息步伐",
+        "summary": "随着通胀深入美国经济，华尔街分析师认为美联储可能不得不加快加息节奏，利率路径面临上修压力。",
+        "url": "https://www.cbsnews.com/news/interest-rates-federal-reserve-inflation/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "全球石油供应突然放量，但原油过剩未必压低柴油价格",
+        "summary": "自2月伊朗战争以来，全球石油供应预计将首次超过需求，但更多原油并不自动意味着柴油价格下降。",
+        "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "AI交易“劫持”美债市场长达一个月",
+        "summary": "WSJ分析指出，AI交易热潮在过去一个月深刻影响美国国债市场走势，成为债市波动的重要驱动因素。",
+        "url": "https://www.wsj.com/finance/stocks/how-the-ai-trade-hijacked-the-treasury-market-for-a-month-3fa26a9f?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "美国政治风向变化或影响大宗商品",
+        "summary": "Seeking Alpha分析美国政治格局变化对大宗商品市场的潜在影响，政策不确定性成为商品定价变量。",
+        "url": "https://seekingalpha.com/article/4968128-how-shifting-us-political-winds-could-affect-commodities?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Anthropic CEO向戴蒙表态：IPO将“少承诺、多兑现”",
+        "summary": "AI巨头Anthropic预计下周四开始交易，目标估值约1.33万亿美元或更高；其CEO向摩根大通CEO戴蒙表示希望IPO“少承诺、多兑现”。",
+        "url": "https://www.wsj.com/finance/anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-1ba2dd71?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "CVS分拆药店业务：难平华盛顿批评，但或利好股东",
+        "summary": "WSJ分析认为，CVS分拆药店业务不会平息监管批评，但可能为股东留下更有价值的公司。",
+        "url": "https://www.wsj.com/health/healthcare/cvs-breakup-wont-satisfy-washington-it-could-still-work-for-wall-street-1b5004e3?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "Family Dollar因价格欺诈与FTC和解，支付6300万美元",
+        "summary": "FTC与多州指控Family Dollar未兑现货架标价与广告价格，该折扣零售商同意支付6300万美元和解金。",
+        "url": "https://www.cbsnews.com/news/family-dollar-stores-price-transparency-settlement/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Cravath员工涉嫌利用并购内幕信息交易被起诉",
+        "summary": "检方称该律所员工利用包括派拉蒙收购华纳兄弟在内的客户交易机密信息获利7万美元，已被起诉。",
+        "url": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达动荡重塑AI交易格局：赢家、输家与观察要点",
+        "summary": "CNBC分析指出，部分芯片制造商可能从英伟达风波中受益，而其他AI公司则面临压力，AI交易格局正在重新洗牌。",
+        "url": "https://www.cnbc.com/2026/11/13/nvidia-ceo-exit-amd-broadcom-and-ai-trade-fallout-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "中国警告美国勿新增芯片出口管制",
+        "summary": "在英伟达及其前CEO黄仁勋丑闻发酵之际，中国警告美国不要对半导体实施新的出口管制。",
+        "url": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "新加坡曾扣留Alice Huang护照8个月，美方协助调查有限",
+        "summary": "消息人士称，新加坡扣留Alice Huang护照8个月并请求美方协助调查其公司涉嫌英伟达芯片销售，但获得的美方帮助有限。",
+        "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-alice-huang-singapore-investigation-china-chips/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "价值基金“便宜货”里暗藏大量AI股",
+        "summary": "WSJ指出，价值基金并不总能提供投资者预期的廉价、传统股票敞口，其持仓中暗藏大量AI相关股票。",
+        "url": "https://www.wsj.com/finance/investing/the-stock-markets-bargain-bin-is-secretly-stuffed-with-ai-stocks-8fa3edbe?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美官员：特朗普不计划在访华期间提及英伟达间谍问题",
+        "summary": "美国官员表示，特朗普不打算在访华期间提出英伟达与间谍相关的问题；黄仁勋本周因多起婚外情报道（包括与疑似中国间谍Alice Huang的关系）辞职。",
+        "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "黄仁勋被传唤至国会作证，共和党希望在民主党接掌前完成",
+        "summary": "共和党主导的国会希望在民主党明年1月接掌前让黄仁勋到华盛顿作证，华盛顿方面的后续影响才刚刚开始。",
+        "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "卢特尼克同意12月10日就芯片销售问题作证",
+        "summary": "商务部长卢特尼克同意于12月10日出席参议院银行委员会作证；财长贝森特称多个政府机构“数月来一直支持将Megaspeed列入实体清单”。",
+        "url": "https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "英国首相伯纳姆称可与欧盟达成“双赢”协议",
+        "summary": "英国首相伯纳姆表示可与欧盟达成“双赢”协议，称该协议可能“更像2016年人们投票支持的脱欧”。",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "FAA罕见全国停飞逾四小时，航班取消将延续至周末",
+        "summary": "FAA周五下午发布全国范围停飞令，影响数千架次离港航班；国土安全部长称“零证据”显示存在网络攻击，但燃油成本飙升下航班减少可能妨碍改签。",
+        "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "微软为全球大宕机道歉，服务广泛恢复中",
+        "summary": "微软就周四至周五影响Outlook、Teams及365服务的全球宕机道歉，专家称事件“严峻提醒”世界对少数大型科技供应商的高度依赖。",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "新奥尔良：油轮撞上密西西比河游轮，129名乘客在船",
+        "summary": "周五一艘油轮在新奥尔良撞上一艘载有129名乘客的河上游轮，导致游轮部分沉没，救援正在进行。",
+        "url": "https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达股价下滑或波及普通美国人401(k)退休账户",
+        "summary": "数百万美国人通过退休计划间接持有英伟达股票，其股价下滑可能影响401(k)账户，但影响未必如想象中糟糕。",
+        "url": "https://www.cbsnews.com/news/nvidia-stock-slide-401k-index-funds/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "下周焦点：英伟达财报与Anthropic IPO",
+        "summary": "AI交易下周面临两大关键测试——英伟达财报与Anthropic IPO（预计下周四开始交易），将决定AI板块短期方向。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "SpaceX星舰关键试飞：首次尝试同时回收助推器与飞船",
+        "summary": "SpaceX在得州Starbase发射星舰进行关键试飞，首次尝试在发射场同时捕获Super Heavy助推器与上级飞船。",
+        "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "卢特尼克12月10日参议院作证，芯片出口管制成焦点",
+        "summary": "商务部长卢特尼克将于12月10日出席参议院银行委员会作证，Megaspeed实体清单与对华芯片出口管制预计成为质询重点。",
+        "url": "https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony/",
+        "source": "CBS MoneyWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达CEO辞职风波持续，国会传唤与出口管制风险升温，股价创14年最长连跌",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "下周英伟达财报与Anthropic IPO构成AI交易双重考验",
+      "direction": "中性",
+      "asset_impact": "NVDA, SOXX, MSFT, GOOGL",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "中国警告美国勿新增芯片出口管制，贸易摩擦风险上升",
+      "direction": "看空",
+      "asset_impact": "SOXX, FXI, ASHR",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "英伟达风波或使AMD、博通等竞争对手受益",
+      "direction": "看多",
+      "asset_impact": "AMD, AVGO",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "通胀顽固，分析师预计美联储或需加快加息，利率路径上修",
+      "direction": "看空",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "全球石油供应预计首次超过需求，但柴油价格未必下降",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "微软全球大宕机引发对大型科技供应商依赖的担忧",
+      "direction": "中性",
+      "asset_impact": "MSFT",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "FAA全国停飞后恢复，航班取消延续至周末，航空出行受扰",
+      "direction": "看空",
+      "asset_impact": "JETS, DAL, UAL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Anthropic IPO目标估值约1.33万亿美元，AI一级市场热度延续",
+      "direction": "看多",
+      "asset_impact": "MSFT, GOOGL, NVDA",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "AI交易热潮过去一个月深刻影响美债市场走势",
+      "direction": "中性",
+      "asset_impact": "TLT, US10Y",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
