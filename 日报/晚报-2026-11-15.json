@@ -1,0 +1,214 @@
+{
+  "title": "🌙 晚报 | 2026-11-15",
+  "headline": "英伟达CEO辞职风波持续发酵，投资者施压董事会考虑黄仁勋回归；SpaceX星舰首次成功回收上级火箭；FAA全国停飞归因于承包商系统升级故障。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "英伟达投资者施压董事会，要求考虑黄仁勋回归",
+        "summary": "两名合计持有约21.3亿美元英伟达股票的投资者致信董事会，呼吁在黄仁勋辞职后启动审慎的领导层搜寻，并考虑其潜在回归。",
+        "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "FAA全国停飞归因于承包商L3Harris系统升级故障",
+        "summary": "交通部长达菲表示，FAA全国停飞源于对L3Harris管理的旧通信系统进行升级后出现故障，航班取消和延误延续至周末。",
+        "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伯克希尔创历史新高，四季度涨幅达19%",
+        "summary": "伯克希尔哈撒韦股价连续四个交易日创收盘新高，第四季度累计上涨19%，本周表现强劲。",
+        "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "科技股下跌，下周AI交易面临英伟达财报与Anthropic IPO双重考验",
+        "summary": "科技股周五收跌，英伟达股价继续下滑，市场关注下周英伟达财报和Anthropic IPO对AI交易方向的指引。",
+        "url": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "通胀顽固，分析师预计美联储或需加快加息步伐",
+        "summary": "随着通胀压力深入美国经济，华尔街分析师认为美联储可能不得不加快加息节奏。",
+        "url": "https://www.cbsnews.com/news/interest-rates-federal-reserve-inflation/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "加拿大股市或成美国中期选举赢家",
+        "summary": "自美国中期选举以来，加拿大股市上涨超过1%，同期标普500指数下跌0.5%。",
+        "url": "https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Anthropic CEO向戴蒙表示IPO将“少承诺、多兑现”",
+        "summary": "Anthropic预计本周四开始交易，目标估值约1.33万亿美元或更高，CEO向摩根大通CEO戴蒙表示希望IPO“少承诺、多兑现”。",
+        "url": "https://www.wsj.com/finance/anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-1ba2dd71?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "意大利因Meta未经特定同意访问用户照片处以8.8亿欧元罚款",
+        "summary": "意大利数据保护机构表示，Meta在未获得用户“特定”同意的情况下访问其照片，对其处以8.8亿欧元罚款。",
+        "url": "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "CVS分拆药店业务：难平华盛顿批评，但或利好股东",
+        "summary": "CVS分拆药店业务不会平息批评者的声音，但可能为股东留下更有价值的公司。",
+        "url": "https://www.wsj.com/health/healthcare/cvs-breakup-wont-satisfy-washington-it-could-still-work-for-wall-street-1b5004e3?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "卢特尼克面临英伟达间谍丑闻质询，其子所在公司与芯片制造商关系深厚",
+        "summary": "黄仁勋辞去英伟达CEO职务后，商务部长卢特尼克及其家族与英伟达的财务关系受到重新审视。",
+        "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "贝森特指责卢特尼克在芯片销售问题上处理不当",
+        "summary": "贝森特向CNBC表示，多个政府机构“数月来一直支持将Megaspeed列入实体清单”，卢特尼克已同意12月10日赴参议院银行委员会作证。",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "黄仁勋丑闻给新加坡芯片枢纽地位带来困扰",
+        "summary": "该丑闻使新加坡作为芯片枢纽的成功以及被指涉嫌非法贸易的地点受到关注。",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "英特尔：华尔街可能低估其复苏及英伟达机遇（上调评级）",
+        "summary": "Seeking Alpha文章上调英特尔评级，认为华尔街可能低估其复苏前景及与英伟达相关的机遇。",
+        "url": "https://seekingalpha.com/article/4968345-intel-wall-street-may-be-underestimating-its-comeback-nvidia-opportunity?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美国失去麻疹消除状态",
+        "summary": "据直接了解泛美卫生组织讨论的研究人员称，美国已失去麻疹消除状态。",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+        "source": "NPR"
+      },
+      {
+        "title": "联邦法官暂时阻止特朗普推进华盛顿公共高尔夫球场改造",
+        "summary": "联邦法官周六下令将华盛顿历史悠久的公共高尔夫球场的任何工作推迟两周。",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "微软全球宕机后服务完全恢复",
+        "summary": "微软表示，在解决Outlook、Teams和Copilot的底层问题后，服务已完全恢复。",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "Cravath员工涉嫌利用并购内幕信息交易被起诉",
+        "summary": "检方称该员工通过包括派拉蒙收购华纳兄弟在内的客户事务获利7万美元。",
+        "url": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "Family Dollar因价格欺诈与FTC和解，支付6300万美元",
+        "summary": "FTC和多个州指控该折扣零售商未遵守货架、价签和广告中显示的价格。",
+        "url": "https://www.cbsnews.com/news/family-dollar-stores-price-transparency-settlement/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "英伟达财报与Anthropic IPO下周登场",
+        "summary": "下周AI交易面临双重考验：英伟达财报和Anthropic IPO（预计周四开始交易）。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "GTA VI将于11月19日发售",
+        "summary": "《侠盗猎车手VI》将于11月19日发售，其影响可能波及创作者、流媒体、音乐、工作休假、外卖和旅游业。",
+        "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达投资者施压董事会考虑黄仁勋回归，领导层不确定性持续",
+      "direction": "中性",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Anthropic IPO目标估值约1.33万亿美元，CEO承诺少承诺多兑现",
+      "direction": "看多",
+      "asset_impact": "AI相关ETF, MSFT, GOOGL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "FAA全国停飞归因于承包商系统升级故障，航班延误延续",
+      "direction": "看空",
+      "asset_impact": "L3H, 航空股ETF (JETS)",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "意大利对Meta处以8.8亿欧元罚款，监管压力加剧",
+      "direction": "看空",
+      "asset_impact": "META",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "通胀顽固，分析师预计美联储或需加快加息",
+      "direction": "看空",
+      "asset_impact": "TLT, US10Y, SPY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "伯克希尔创历史新高，四季度涨幅达19%",
+      "direction": "看多",
+      "asset_impact": "BRK.B",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "英特尔获上调评级，华尔街或低估其复苏及英伟达机遇",
+      "direction": "看多",
+      "asset_impact": "INTC",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "加拿大股市或成美国中期选举赢家，加股跑赢美股",
+      "direction": "看多",
+      "asset_impact": "EWC, FXC",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "SpaceX星舰首次成功回收上级火箭，商业航天里程碑",
+      "direction": "看多",
+      "asset_impact": "太空ETF (ARKX), TSLA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
