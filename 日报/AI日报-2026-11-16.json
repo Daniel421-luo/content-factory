@@ -1,0 +1,55 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-16",
+  "headline": "马斯克等科技高管联署请愿要求英伟达重新聘用黄仁勋，签名已超11.5万；亚洲多国政府就黄仁勋离职确认芯片供应承诺。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "特斯拉开放 Cybercab 个人预订：月费299美元，有地理限制",
+        "summary": "特斯拉开始接受 Cybercab 个人用途预订，但设置地理围栏限制，月费299美元。连马斯克本人也称月费“太高”。",
+        "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "谷歌钱包新增数字房屋钥匙功能，Android 手机可当门禁卡",
+        "summary": "谷歌将数字钥匙从各智能锁 App 整合进 Google Wallet，Android 手机可直接解锁兼容门锁，简化智能家居体验。",
+        "url": "https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "马斯克等科技高管联署请愿，要求英伟达重新聘用黄仁勋",
+        "summary": "请愿书已获超11.5万人签名，科技领袖们公开呼吁英伟达董事会让黄仁勋回归，反映业界对其领导力的认可与对芯片供应稳定的担忧。",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "亚洲多国政府回应黄仁勋离职：确认芯片供应承诺，关注本地项目影响",
+        "summary": "一些亚洲政府迅速确认英伟达的芯片供应承诺，另一些则在评估黄仁勋离职对当地 AI 项目和正在进行的调查的影响。",
+        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "英伟达安全团队何在？安全主管八月已悄然离职",
+        "summary": "报道称英伟达安全主管在八月离职，前情报官员指出黄仁勋因关系问题辞职暴露了日常对话级别的泄密风险，引发对公司安全治理的质疑。",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "AI 墓地：那些失败或未达预期的 AI 项目与初创公司清单",
+        "summary": "TechCrunch 整理了一份持续更新的清单，收录从苹果反复跳票的 Siri AI 到 OpenAI 混乱的“超级应用”发布等失败或未达预期的 AI 项目，为行业提供反思素材。",
+        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI DJ 毁了听歌氛围：Spotify 和 YouTube Music 的合成主持人尴尬又烦人",
+        "summary": "Wired 评论指出，Spotify 和 YouTube Music 推出的 AI DJ 用尴尬的闲聊和虚假的歌曲冷知识破坏音乐体验，合成主持人的尝试目前效果不佳。",
+        "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+        "source": "Wired"
+      }
+    ]
+  }
+}
