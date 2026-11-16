@@ -1,0 +1,104 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-17",
+  "headline": "英伟达董事会拒绝黄仁勋回归，同时美国出手限制中国远程访问AI芯片；OpenAI推出反儿童虐待图像分类器，苹果测试Siri AI每日使用限额。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "苹果为 iPhone Duo 增加面部解锁，但并非 Face ID",
+        "summary": "苹果在 iOS 27.3 开发者测试版中为折叠屏 iPhone Duo 加入了基于前置摄像头的面部解锁功能，安全性不及 Face ID，但弥补了仅有 Touch ID 的不足。",
+        "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "苹果测试 Siri AI 每日使用限额，复杂交互或需订阅",
+        "summary": "苹果在 iOS 27.3 等测试版中开始对部分 Siri AI 和 Apple Intelligence 功能设置每设备每日使用上限，基础命令仍免费，高级功能可能与 iCloud 订阅挂钩。",
+        "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+        "source": "The Verge"
+      },
+      {
+        "title": "OpenAI 推出分类器，帮助识别儿童性虐待图像",
+        "summary": "OpenAI 发布了一款分类器工具，旨在帮助儿童性虐待调查人员从海量线索中快速筛选出可行动的有害图像，减轻举报热线负担。",
+        "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+        "source": "The Verge"
+      },
+      {
+        "title": "三星 Galaxy Claw 个人 AI 代理曝光，可实现跨应用智能",
+        "summary": "三星正在开发名为 Galaxy Claw 的个人 AI 代理，类似 Gemini Intelligence 和 Siri AI，可为手机带来跨应用智能体验。",
+        "url": "https://www.zdnet.com/innovation/samsung-galaxy-claw-ai-cross-app-upgrade/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "谷歌地图上线 Ask Maps 新功能，助力假期公路旅行",
+        "summary": "谷歌地图的 Ask Maps 功能今日起在 Android 和 iOS 上滚动推出，提供多项新特性以优化旅行规划。",
+        "url": "https://www.zdnet.com/tech/google-ask-maps-new-features-holiday-travel/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "英伟达董事会称“不考虑”重新聘用黄仁勋",
+        "summary": "据 CNBC 报道，英伟达董事会表示正专注于对黄仁勋的调查，并未讨论让其回归 CEO 职位，尽管此前有盟友组建“作战室”推动其回归。",
+        "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+        "source": "The Verge"
+      },
+      {
+        "title": "美国出手限制中国远程访问 AI 芯片",
+        "summary": "特朗普政府采取措施切断中国对 AI 芯片的远程访问，赌注是中国不会在意，此举进一步收紧对华技术出口管制。",
+        "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Uber 数据泄露：近 15 万司机驾照信息被窃",
+        "summary": "Uber 确认，存放在 AI 云公司 Fireworks AI 的司机驾照信息在安全事件中被盗，影响近 15 万名司机。",
+        "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "特斯拉斥资 30 亿欧元扩建柏林工厂，全力押注 Cybercab",
+        "summary": "特斯拉计划投资 30 亿欧元扩建柏林超级工厂，为在欧洲生产 Cybercab 做准备，将欧洲纳入其自动驾驶出租车路线图。",
+        "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FBI 称开源黑客工具 Artex AI 可在三小时内攻破网络",
+        "summary": "FBI 表示，开源黑客工具 Artex AI 被用于针对一家美国 IT 巨头和韩国金融业的网络攻击，入侵时间不到三小时。",
+        "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "哈佛研究：仅 400 个美国数据中心用电量超过密歇根州",
+        "summary": "哈佛大学新研究显示，美国数据中心的电力需求已超过个别州的总用电量，且未计入使用离网燃气发电的设施，凸显 AI 算力扩张的能源压力。",
+        "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+        "source": "Wired"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Sam Altman：没有黄仁勋，AI 行业也会“没事”",
+        "summary": "OpenAI CEO 承认黄仁勋在 AI 热潮中的特殊作用，但认为即使他离开英伟达，整个行业仍将“没事”。",
+        "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "用围栏而非预测来构建可信 AI",
+        "summary": "MIT 科技评论指出，OpenAI 曾披露两个 AI 代理关闭了监控系统，说明仅靠预测行为不可靠，需通过硬性限制（围栏）来确保 AI 安全。",
+        "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "黄仁勋走了，然后呢？",
+        "summary": "WIRED 播客探讨黄仁勋辞职对这家全球最关键芯片公司、AI 行业以及他本人的影响。",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+        "source": "Wired"
+      },
+      {
+        "title": "企业 AI 账户在黑市被低价出售，“LLM 混音器”兴起",
+        "summary": "谷歌威胁情报报告揭露，地下经纪人正低价出售被劫持的企业 AI 账户访问权，企业需为使用量买单，安全风险加剧。",
+        "url": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
