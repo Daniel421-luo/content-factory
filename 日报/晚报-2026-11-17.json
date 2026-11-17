@@ -1,0 +1,234 @@
+{
+  "title": "🌙 晚报 | 2026-11-17",
+  "headline": "英伟达财报前科技股承压纳指跌2.5%，美国收紧AI芯片远程访问管制；伊朗在第三艘美航母抵中东之际于霍尔木兹海峡升级威胁。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货涨跌互现，英伟达拖累科技股",
+        "summary": "英伟达股价回落4.1%，交易员在周二盘后发布第三财季财报前抛售该芯片股，纳指周一下跌2.5%。",
+        "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美元AI驱动突破或成股市“破坏球”",
+        "summary": "美元近期升至一年半来最强水平，市场担忧其进一步走强可能对股市构成压力。",
+        "url": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "柴油价格跌破每加仑6美元",
+        "summary": "全美柴油均价降至5.99美元/加仑，低于9月创下的6.53美元纪录高位，据AAA数据。",
+        "url": "https://www.cbsnews.com/news/diesel-prices-fall-below-6-gallon/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "纳指跌2.5%，AI股重启跌势",
+        "summary": "纳斯达克指数周一下跌2.5%，AI相关股票延续跌势，比特币承压；美国同时出手限制海外远程访问先进AI芯片。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "美联储主席沃什聚焦AI对就业与利率的影响",
+        "summary": "美联储主席凯文·沃什认为AI正处于转折点，正面临就业和利率方面的棘手问题。",
+        "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "若AI泡沫破裂，历史显示消费必需品股或受益",
+        "summary": "BTIG指出，随着科技股走弱，消费必需品板块可能还有上涨空间，类比互联网泡沫见顶后该板块的表现。",
+        "url": "https://www.cnbc.com/2026/11/16/if-the-ai-bubble-is-popping-history-shows-these-stocks-could-boom.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伯克希尔加码美国楼市，增持Lennar",
+        "summary": "伯克希尔上季度将住宅建筑商Lennar的持股近乎翻倍，同时减持Capital One和Nucor。",
+        "url": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "英伟达董事会反对恢复黄仁勋CEO职务",
+        "summary": "尽管网上请愿已收集超过18万个签名，英伟达董事会并未考虑重新聘用黄仁勋担任CEO。",
+        "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "英伟达驳斥“让黄仁勋回归”运动，特朗普表态支持",
+        "summary": "英伟达对要求让黄仁勋复职的呼声不予理会，而特朗普公开支持这一努力。",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "德鲁肯米勒三季度清仓AMD与SanDisk",
+        "summary": "德鲁肯米勒家族办公室在第三季度减持AMD和SanDisk股票，同时买入SpaceX和Palantir。",
+        "url": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "加州起诉OpenAI，指其Hugging Face攻击事件中误导公众",
+        "summary": "加州总检察长邦塔称，Hugging Face攻击事件“完全可以预见”，源于OpenAI安全实践不佳。",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美国商务部出手限制AI芯片远程访问",
+        "summary": "美国宣布临时规则，限制外国通过他国数据中心远程访问先进芯片，堵住中国企业远程获取AI芯片的漏洞。",
+        "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "美机构披露Megaspeed调查始于2024年",
+        "summary": "美国商务部和司法部联合声明称，对Megaspeed的调查始于2024年，并反驳“不实信息”。",
+        "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普账户在黄仁勋获白宫接触期间交易英伟达最高9750万美元",
+        "summary": "特朗普的账户在听取黄仁勋与疑似中国间谍关系简报五天后，卖出最高100万美元英伟达股票。",
+        "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗在第三艘美航母抵中东之际升级威胁，霍尔木兹海峡油轮遇袭",
+        "summary": "随着第三艘美国航母抵达海湾，伊朗加大对美军的威胁，加剧军事紧张局势重燃的担忧。",
+        "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "联合国谈判寻求限制“杀手机器人”",
+        "summary": "各国在日内瓦开会谈判关于无需人类干预即可选择并击杀目标的武器规则，但美国、俄罗斯和以色列抵制具有法律约束力的管控。",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "美国多家大型银行出现服务中断",
+        "summary": "摩根大通、美国银行等多家大型银行客户报告无法访问账户，摩根大通称可能是软件缺陷，但并非“系统性”或“网络相关”。",
+        "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "美联航系统故障导致周一航班延误",
+        "summary": "美联航发生系统故障导致航班延误，数日前FAA全国停飞已扰乱航空旅行。",
+        "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Optimum在重组谈判中跳过债券利息支付",
+        "summary": "这家宽带公司进入30天宽限期，与债权人进行谈判。",
+        "url": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "英伟达第三财季财报（周二盘后）",
+        "summary": "英伟达将于周二美股盘后发布第三财季业绩，为本周AI交易的关键考验。",
+        "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Anthropic IPO",
+        "summary": "Anthropic的IPO登场，风险投资机构、大型科技公司和主权财富基金有望从中获得巨额收益。",
+        "url": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "英国Milburn报告发布",
+        "summary": "Alan Milburn的评估报告将呼吁对教育、工作和福利体系进行彻底改革，以帮助44万年轻人就业。",
+        "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达财报前遭抛售，股价回落4.1%",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国收紧AI芯片远程访问管制",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD, SOXX",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "伊朗在霍尔木兹海峡升级威胁，油轮遇袭",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美元升至一年半最强，或压制股市",
+      "direction": "看空",
+      "asset_impact": "DXY, SPY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "AI股回调，消费必需品板块或受青睐",
+      "direction": "看多",
+      "asset_impact": "XLP",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "伯克希尔增持Lennar，加码美国楼市",
+      "direction": "看多",
+      "asset_impact": "LEN, ITB",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "德鲁肯米勒清仓AMD与SanDisk",
+      "direction": "看空",
+      "asset_impact": "AMD, SNDK",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "加州起诉OpenAI，AI监管风险升温",
+      "direction": "看空",
+      "asset_impact": "MSFT, NVDA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "多家美国大型银行服务中断",
+      "direction": "中性",
+      "asset_impact": "JPM, BAC, WFC",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "柴油价格跌破6美元/加仑",
+      "direction": "中性",
+      "asset_impact": "USO, XLE",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
