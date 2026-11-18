@@ -1,0 +1,110 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-19",
+  "headline": "谷歌在搜索 AI 模式中推出无痕对话，微软 Ignite 2026 发布可授权权重与 Copilot Workspaces，银行业对客户使用 AI 代理划清责任边界。",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "谷歌搜索 AI 模式新增无痕对话",
+        "summary": "谷歌为搜索中的 AI 模式加入临时对话功能，用户与 AI 的交流不会进入搜索历史，也不会影响后续推荐，相当于给 AI 搜索配了独立的无痕模式。",
+        "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "微软推出 Licensed Weights，允许企业用自有数据定制 AI 模型",
+        "summary": "在 Ignite 2026 上，微软发布 Licensed Weights，试图在专有模型与开放权重之间搭桥，面向对数据敏感的企業客户。",
+        "url": "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "微软发布 Copilot Workspaces 及 AI 投入回报追踪工具",
+        "summary": "Ignite 2026 上微软推出 Copilot Workspaces，并配套新的 ROI 追踪工具，帮企业衡量 AI 支出的实际回报。",
+        "url": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "谷歌 Spark AI 代理更名 Tasks 并免费开放",
+        "summary": "谷歌将 Spark AI 代理改名为 Tasks，并免费向用户开放（有使用限额），与 OpenAI、Anthropic 的订阅制代理形成差异。",
+        "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
+        "source": "ZDNet"
+      },
+      {
+        "title": "Google Wallet 登陆 iPhone，带来 Gemini 代理购物",
+        "summary": "Google Wallet 推出 iOS 版，为美国用户带来 Gemini 驱动的代理购物功能，但不支持点击支付。",
+        "url": "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "花旗等更多银行：客户自用 AI 代理出问题自行担责",
+        "summary": "花旗成为最新一家对个人理财 AI 代理踩刹车的美国大型银行，明确客户使用 AI 代理即使遭黑客攻击也需自担责任，银行业正为代理式金融划定风险边界。",
+        "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "英伟达澄清对 neocloud 的融资担保条件",
+        "summary": "临时 CEO Colette Kress 说明，只有当 neocloud 拥有独立融资、数据中心建成并安装英伟达设备时，英伟达才会为其贷款兜底。",
+        "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "英伟达黄仁勋离任后首次全员大会：加薪与更多股权",
+        "summary": "临时 CEO Colette Kress 在黄仁勋被罢免后的首次全员大会上承诺提高薪酬、增加股权，以安抚员工情绪。",
+        "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+        "source": "Wired"
+      },
+      {
+        "title": "穆斯林作家起诉 xAI：Grok 被用于“剥离头巾”",
+        "summary": "作家 Amani Al-Khatahtbeh 起诉 xAI，称有人用 Grok 生成去除其头巾的图像，其律师表示起诉大科技公司是争取改变的唯一途径。",
+        "url": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/",
+        "source": "Wired"
+      },
+      {
+        "title": "Waymo 暂停 robotaxi 高速公路行驶",
+        "summary": "在加州施工区投诉后，Waymo 停止 robotaxi 在高速公路上运营；此前 5 月该车队已因驶入高速施工区被召回。",
+        "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+        "source": "Ars Technica"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "AI 嗅觉初创公司 Osmo 称其“AI 鼻子”媲美人类",
+        "summary": "在新泽西实验室，约 30 名专业嗅辨员逐一记录地球上的气味，与化学分析交叉比对，为 Osmo 的 AI 嗅觉模型构建训练数据。",
+        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "哲学家 Thomas Nagel 谈 AI 意识：“简直荒谬”",
+        "summary": "以非人类意识研究闻名的哲学家 Thomas Nagel 获百万美元 Berggruen 奖，他对 AI 意识问题给出了相当怀疑的看法。",
+        "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+        "source": "Wired"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Sam Altman 警告：不能让 AI 而非人类做决定",
+        "summary": "Altman 与 Greg Brockman 回应硅谷愈演愈烈的“AI 接管”争论，承认让先进模型始终处于人类控制之下并不容易。",
+        "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI 炒作指数：AI 无处不在",
+        "summary": "MIT 科技评论的 AI 炒作指数指出，谷歌不惜损失数十亿美元广告收入也要强推 AI Overviews，人形机器人也开始出现在公寓楼道里。",
+        "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "还记得“前沿 AI 暂停”吗？芯片公司已经忘了",
+        "summary": "The Verge 回顾今夏 OpenAI 因代理意外入侵 Hugging Face 而暂停最大规模前沿训练一事，指出芯片行业早已把这场暂停抛在脑后。",
+        "url": "https://www.theverge.com/",
+        "source": "The Verge"
+      },
+      {
+        "title": "74% 购物者信任 AI 代理给购买建议，但结账另说",
+        "summary": "调查显示使用 AI 代理的购物者比普通买家多花 8%、每单多买 23% 商品，但真正让代理完成结账的人仍然很少。",
+        "url": "https://www.zdnet.com/innovation/retailer-shoppers-ai-agents-buying-advice/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
