@@ -1,0 +1,264 @@
+{
+  "title": "🌙 晚报 | 2026-11-18",
+  "headline": "英伟达财报超预期并给出强劲指引，缓解CEO交接担忧；但伊朗对海湾美军设施发动新一轮打击、习近平与特朗普普京APEC峰会登场，地缘与政策风险同步升温。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "英伟达财报后盘前走高，指引强劲缓解交接担忧",
+        "summary": "英伟达发布黄仁勋离职后首份财报，营收增长并给出约1300亿美元的季度营收指引，盘后及盘前股价走高。市场将其视为AI芯片需求依旧旺盛的信号。",
+        "url": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "美股期货上涨，英伟达领涨科技股",
+        "summary": "英伟达财报超预期带动股指期货走高，市场情绪从本周早些时候的AI股抛售中有所修复。",
+        "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "零售销售放缓拖累市场情绪",
+        "summary": "最新零售销售数据弱于预期，叠加SEC对英伟达展开调查、迪士尼削减成本等消息，构成盘前需消化的负面因素。",
+        "url": "https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "零售销售放缓，消费动能受关注",
+        "summary": "零售销售增速放缓成为拖累市场的主要宏观因素，投资者关注消费韧性对后续利率路径的影响。",
+        "url": "https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "Anthropic上调IPO发行价，需求强劲",
+        "summary": "Anthropic因需求强劲计划上调IPO价格，股票预计周四在纳斯达克开始交易，被视为AI交易的重要试金石。",
+        "url": "https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "企业信用卡初创Ramp以700亿美元估值融资",
+        "summary": "Ramp正在进行一年内第三轮融资，估值达700亿美元，显示金融科技一级市场热度不减。",
+        "url": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "大型投资者在公寓贷款上“烧”贷款人",
+        "summary": "Brookfield等资金雄厚的房东更愿意在困境物业上割肉，商业地产信贷风险受到关注。",
+        "url": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "英伟达Q3营收超预期，给出约1300亿美元季度指引",
+        "summary": "英伟达公布黄仁勋离职后首份财报，营收增长且季度营收指引约1300亿美元，显示芯片需求依旧高企，缓解了市场对CEO交接的担忧。",
+        "url": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "英伟达董事会拒绝恢复黄仁勋CEO职务",
+        "summary": "尽管黄仁勋表示若董事会邀请愿“荣幸”回归，且有19万人签名请愿，英伟达董事会明确表示无意恢复其职务。",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+        "source": "NPR"
+      },
+      {
+        "title": "CoreWeave股价上涨，英伟达强调融资“有纪律”",
+        "summary": "英伟达临时CEO Kress称新型云厂商“日益重要”，但公司将对提供融资的客户“非常严格地审视”，CoreWeave股价仍走高。",
+        "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "好市多受益于“末日担忧”囤货",
+        "summary": "Mizuho分析师称，在微软宕机和全国航班停飞后，好市多的应急储备类商品销售出现加速。",
+        "url": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达称客户“继续与我们同在”",
+        "summary": "英伟达临时CEO Kress对CNBC表示客户继续留在英伟达生态，公司首次在黄仁勋离职后召开财报电话会。",
+        "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "投资者追问英伟达：“一切都变了”",
+        "summary": "WSJ指出，英伟达必须证明其不可或缺性来自芯片而非黄仁勋本人；自黄仁勋卸任以来股价已下跌10%。",
+        "url": "https://www.wsj.com/finance/stocks/investors-press-for-answers-from-nvidia-where-everything-has-changed-9fa681ce?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "欧洲布局下一代光子芯片",
+        "summary": "欧洲希望在新一代以光处理数据的芯片领域取得领先地位，寻求在半导体竞赛中占据一席之地。",
+        "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "Java曝出安全漏洞",
+        "summary": "发现PHP漏洞的同一家AI初创公司利用AI在世界第三大编程语言Java中发现关键软件缺陷。",
+        "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗称打击科威特美军无人机与导弹基地",
+        "summary": "伊朗表示其军队打击了科威特Ali Al Salem空军基地的美军无人机和导弹设施，对海湾国家的袭击进一步扩大。",
+        "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "伊朗对巴林发动第三轮打击，美军报复",
+        "summary": "伊朗周二向巴林美军雷达设施发射无人机，美国则对重要航运路线沿线的伊朗目标进行回击。",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+        "source": "NPR"
+      },
+      {
+        "title": "习近平在APEC呼吁消除贸易投资壁垒",
+        "summary": "习近平在深圳APEC峰会开幕时呼吁降低贸易和投资壁垒，承诺扩大中国市场与制造业准入，为与特朗普、普京的会晤定调。",
+        "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "普京称欧盟正失去工业竞争力",
+        "summary": "普京在会晤特朗普与习近平前发表讲话，强调俄罗斯在美国制裁下的经济韧性，并向APEC成员推介合作机会。",
+        "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "泽连斯基称星盾限速仍在“被占领土”实施",
+        "summary": "乌克兰驻美代办表示星盾在乌克兰已被限速七天，泽连斯基称限速仍针对被占领土。",
+        "url": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+        "source": "CNBC"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "大规模技术宕机波及银行、航空、NSA与苹果",
+        "summary": "一周内美国发生八次重大宕机，涉及苹果、谷歌、摩根大通、FAA及国家安全局，凸显AI时代互联技术的系统性风险，官方称无网络攻击证据。",
+        "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英伟达间谍丑闻或加剧美国对华芯片限制压力",
+        "summary": "BBC指出，在特朗普与习近平会晤之际，英伟达间谍丑闻令中国担忧美国进一步收紧先进芯片销售限制。",
+        "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "美联储理事库克拒绝白宫听证",
+        "summary": "库克的律师称其“没有法律义务”出席白宫关于抵押贷款欺诈指控的听证会，美联储独立性争议持续。",
+        "url": "https://www.cbsnews.com/news/lisa-cook-federal-reserve-white-house-hearing/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Waymo撤出全美高速公路无人驾驶出租车",
+        "summary": "在加州因一系列交通事故禁止其无人驾驶车辆上高速后，Waymo将所有无人驾驶出租车从全美高速公路撤出。",
+        "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "Anthropic纳斯达克IPO周四登场",
+        "summary": "Anthropic股票预计周四在纳斯达克开始交易，为史上最大IPO之一，被视为AI热潮的关键测试。",
+        "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "特朗普与习近平、普京APEC峰会会晤",
+        "summary": "APEC峰会期间特朗普将与习近平、普京会晤，贸易、乌克兰与芯片管制料成焦点。",
+        "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "阿拉斯加参议院选举民主党翻盘",
+        "summary": "民主党人Mary Peltola击败共和党现任参议员Sullivan，使民主党在明年1月拥有56席的稳固多数，关注后续政策影响。",
+        "url": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "英伟达财报超预期并给出约1300亿美元季度指引，缓解CEO交接担忧",
+      "direction": "看多",
+      "asset_impact": "NVDA, SOXX, SMH",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "英伟达董事会拒绝恢复黄仁勋职务，领导层不确定性延续",
+      "direction": "中性",
+      "asset_impact": "NVDA",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "伊朗对科威特、巴林美军设施发动新一轮打击，海湾冲突升级",
+      "direction": "看空",
+      "asset_impact": "USO, XLE, GLD",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "习近平APEC呼吁消除贸易投资壁垒，中美峰会前释放缓和信号",
+      "direction": "看多",
+      "asset_impact": "FXI, KWEB, ASHR",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "Anthropic上调IPO发行价，AI一级市场需求强劲",
+      "direction": "看多",
+      "asset_impact": "NVDA, MSFT, GOOGL",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "零售销售放缓，消费动能减弱",
+      "direction": "看空",
+      "asset_impact": "XLY, AMZN, WMT",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "一周内八次重大技术宕机波及银行、航空与政府机构，系统性风险受关注",
+      "direction": "看空",
+      "asset_impact": "MSFT, AAPL, JPM",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "英伟达间谍丑闻或加剧美国对华先进芯片出口限制压力",
+      "direction": "看空",
+      "asset_impact": "NVDA, AMD, SOXX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "欧洲推进光子芯片布局，长期半导体竞争格局生变",
+      "direction": "中性",
+      "asset_impact": "SOXX, TSM",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "好市多应急储备商品销售加速",
+      "direction": "看多",
+      "asset_impact": "COST",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    }
+  ]
+}
