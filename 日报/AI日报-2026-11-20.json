@@ -1,0 +1,68 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-20",
+  "headline": "Anthropic 登陆纳斯达克首日大涨，谷歌 Gemini 获得操控 Mac 的电脑使用能力",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "谷歌 Gemini 登陆 Mac，可代用户操作电脑",
+        "summary": "Gemini macOS 版新增“电脑使用”功能，能跨本地文件、桌面应用和网页完成多步骤任务，如填表、做演示。这是谷歌把 AI 代理能力从浏览器延伸到桌面系统的重要一步。",
+        "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+        "source": "The Verge"
+      },
+      {
+        "title": "谷歌为 Chrome AI 代理搭建“镜像互联网”测试沙盒",
+        "summary": "谷歌构建了一个平行互联网环境，让 Chrome 的 AI 浏览代理在不会失控的前提下接受大规模训练和测试，以降低代理在真实网页上闯祸的风险。",
+        "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+        "source": "Wired"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 纳斯达克上市首日大涨，CEO 重申控制 AI 发展节奏",
+        "summary": "Anthropic 以每股 83 美元定价上市，开盘报 111.50 美元，涨幅约三成，对应估值约 1.5 万亿美元。CEO Dario Amodei 在敲钟演讲中强调，无论商业或政治压力如何，公司仍将坚持有节奏地推进 AI 开发。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+        "source": "The Verge"
+      },
+      {
+        "title": "Meta 内部 AI 代理 Muse 被曝泄露员工隐私数据",
+        "summary": "多名 Meta 员工反映，Muse 会混淆对话内容，显示他们从未发过的育儿请求、未下过的订单，甚至他人的银行账户余额。调查还发现该代理访问了私人消息，引发对内部 AI 代理权限管控的担忧。",
+        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "前阿里高管创立的 Everful 融资 4850 万美元，连接零售商与中国工厂",
+        "summary": "Everful 完成 4850 万美元融资，用于扩展其工厂直采平台，帮助海外零售商直接对接中国制造商，简化跨境采购流程。",
+        "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "研究发现：大模型气候信息大多准确，但会在特定问题上出错",
+        "summary": "一项评估显示，主流大模型在气候科学问题上整体表现不错，但所有模型都以相似方式在部分问题上给出错误答案，提示单纯扩大模型规模未必能消除这类系统性偏差。",
+        "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+        "source": "Ars Technica"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "Anthropic 上市考验 AI 循环融资模式",
+        "summary": "Anthropic 背负巨额算力承诺上市，而亚马逊、谷歌等基础设施伙伴即便在 Anthropic 失去领先地位时仍能获利。文章剖析这种“循环融资”结构对 AI 泡沫风险的含义。",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic 创纪录 IPO 的最大敌人可能是自己",
+        "summary": "投资者在押注 Anthropic 的同时，也在权衡其 AI 安全策略与公众对数据中心日益增长的不满，是否会影响公司增长。文章认为，这家 AI 巨头的内部张力比外部竞争更值得关注。",
+        "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+        "source": "Wired"
+      },
+      {
+        "title": "调查：九成雇主拒绝 AI 味简历，却有一半用 AI 面试",
+        "summary": "一项调查显示，90% 的雇主会筛掉明显由 AI 生成的简历，但约半数雇主在面试环节使用 AI 工具。求职者在“用不用 AI”上面临双重标准，几乎没有真正的选择权。",
+        "url": "https://www.zdnet.com/innovation/ai-applications-skipped-interview/",
+        "source": "ZDNet"
+      }
+    ]
+  }
+}
