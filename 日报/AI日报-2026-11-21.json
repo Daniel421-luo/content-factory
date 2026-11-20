@@ -1,0 +1,74 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-21",
+  "headline": "Anthropic 数学家借助 Claude 宣称证明黎曼猜想，若获验证将成 AI 数学里程碑",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "苹果或正开发可操控 Mac 的 AI 代理",
+        "summary": "苹果似乎正在构建能自主操作 Mac 的 AI 代理，直接对标 Meta Muse、Claude 等产品。若成真，macOS 的交互方式可能被彻底改写。",
+        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "谷歌宣布明年关停智能音箱上的 Google Assistant",
+        "summary": "谷歌将把 Nest 应用并入 Google Home，并在明年让 Assistant 从智能家居设备上退役。这是 Gemini 全面接管谷歌助手生态的关键一步。",
+        "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+        "source": "The Verge"
+      },
+      {
+        "title": "Signal 因 AI 代理担忧再度限制截图",
+        "summary": "Signal 再次收紧截图权限，理由是担心 AI 代理自动抓取聊天内容。去年它曾因微软 Recall 做过类似限制，这次矛头指向更主动的 AI 代理。",
+        "url": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/",
+        "source": "ZDNet"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Bending Spoons 以 36.8 亿美元收购 Mailchimp",
+        "summary": "Intuit 2021 年收购 Mailchimp 时花了约 120 亿美元，如今 Bending Spoons 以不到三分之一的价格接盘。这笔交易折射出 SaaS 资产估值的大幅回调。",
+        "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "加州总检察长就黄仁勋与中国关系传唤英伟达",
+        "summary": "加州 AG 怀疑英伟达及前 CEO 黄仁勋在与中国的关系上误导投资者，已发出传票。这是英伟达管理层变动后监管压力的又一次升级。",
+        "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "警方和科技巨头使用的转录公司泄露客户数据",
+        "summary": "一家为警方、检察官和科技公司提供转录服务的公司，因云服务器未设密码导致警讯录音和执法记录仪画面外泄。AI 转录工具的数据安全问题再敲警钟。",
+        "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Anthropic 数学家称用 Claude 证明黎曼猜想",
+        "summary": "Anthropic 数学家 Levent Alpöge 宣称借助 Claude 证明了黎曼猜想，这是悬置数十年的千禧年大奖难题。若经同行验证，将是 AI 辅助数学证明的空前突破。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+        "source": "The Verge"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "别让黄仁勋回来",
+        "summary": "Wired 评论文章直言，科技圈呼吁英伟达重新请回黄仁勋是糟糕的主意。文章认为围绕创始人的个人崇拜会掩盖治理问题，不利于公司长期健康。",
+        "url": "https://www.wired.com/story/dont-bring-jensen-back/",
+        "source": "Wired"
+      },
+      {
+        "title": "黄仁勋离任背后：被指建立在恐惧之上的管理风格",
+        "summary": "TechCrunch 梳理黄仁勋离任内幕，多名员工描述其管理风格令人恐惧，与马斯克此前称英伟达员工“爱戴”他的说法形成反差。这为英伟达的治理争议添了新注脚。",
+        "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "芯片能扛住太空环境，融资能吗？",
+        "summary": "TechCrunch 探讨太空数据中心的融资难题：贷款方不愿让 SpaceX 把抵押芯片送上轨道。这揭示了太空算力热潮背后被忽视的金融约束。",
+        "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
