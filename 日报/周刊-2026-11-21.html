@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>视界 · 周刊 11/16 - 11/21</title>
+<style>
+    :root {
+        --page-bg: #fafaf7;
+        --card-bg: #ffffff;
+        --text: #1e293b;
+        --text-muted: #64748b;
+        --text-subtle: #94a3b8;
+        --border: #e2e8f0;
+        --shadow: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
+        --shadow-hover: 0 4px 12px rgba(0,0,0,0.06);
+        --radius: 12px;
+        --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+        --font-mono: "SF Mono", "Fira Code", "JetBrains Mono", monospace;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+        font-family: var(--font-sans);
+        background: var(--page-bg);
+        color: var(--text);
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    .page {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 40px 24px 80px;
+    }
+
+    /* ── Header ── */
+    .masthead {
+        text-align: center;
+        padding: 48px 0 40px;
+        border-bottom: 1px solid var(--border);
+        margin-bottom: 40px;
+    }
+
+    .masthead .brand {
+        font-size: 13px;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--text-subtle);
+        margin-bottom: 12px;
+    }
+
+    .masthead h1 {
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        color: var(--text);
+        margin-bottom: 8px;
+    }
+
+    .masthead .headline {
+        font-size: 17px;
+        color: var(--text-muted);
+        font-weight: 400;
+        max-width: 480px;
+        margin: 0 auto 16px;
+        line-height: 1.5;
+    }
+
+    .masthead .meta {
+        font-size: 13px;
+        color: var(--text-subtle);
+    }
+
+    .masthead .date-badge {
+        display: inline-block;
+        background: #f1f5f9;
+        border-radius: 20px;
+        padding: 4px 14px;
+        font-size: 12px;
+        font-weight: 500;
+        color: var(--text-muted);
+    }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+        display: flex;
+        justify-content: center;
+        gap: 32px;
+        margin-bottom: 48px;
+        flex-wrap: wrap;
+    }
+
+    .stat {
+        text-align: center;
+    }
+
+    .stat-value {
+        font-size: 28px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.02em;
+    }
+
+    .stat-label {
+        font-size: 12px;
+        color: var(--text-muted);
+        margin-top: 2px;
+    }
+
+    /* ── Sections ── */
+    .section-block {
+        margin-bottom: 48px;
+    }
+
+    .section-header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 20px;
+        padding-bottom: 12px;
+        border-bottom: 2px solid var(--border, #e2e8f0);
+    }
+
+    .section-icon {
+        font-size: 22px;
+    }
+
+    .section-header h2 {
+        font-size: 19px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.01em;
+        flex: 1;
+    }
+
+    .section-count {
+        font-size: 12px;
+        color: var(--text-subtle);
+        font-weight: 500;
+        background: #f1f5f9;
+        border-radius: 10px;
+        padding: 2px 10px;
+    }
+
+    /* ── Cards ── */
+    .cards {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .card {
+        background: var(--card-bg);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        display: grid;
+        grid-template-columns: 44px 1fr 200px;
+        gap: 0;
+        overflow: hidden;
+        transition: box-shadow 0.2s;
+    }
+
+    .card:hover {
+        box-shadow: var(--shadow-hover);
+    }
+
+    .card-number {
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 18px 0 0 0;
+        font-family: var(--font-mono);
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--text-subtle);
+    }
+
+    .card-body {
+        padding: 18px 16px;
+    }
+
+    .card-body h3 {
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 1.4;
+        margin-bottom: 6px;
+        color: var(--text);
+    }
+
+    .card-body h3 a {
+        color: inherit;
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s;
+    }
+
+    .card-body h3 a:hover {
+        border-bottom-color: var(--text);
+    }
+
+    .card-why {
+        font-size: 13px;
+        color: var(--text-muted);
+        margin-bottom: 4px;
+        line-height: 1.5;
+    }
+
+    .card-summary {
+        font-size: 13px;
+        color: var(--text-muted);
+        line-height: 1.6;
+        margin-bottom: 6px;
+    }
+
+    .card-action {
+        font-size: 12px;
+        color: var(--text);
+        background: var(--bg, #f8fafc);
+        border-radius: 6px;
+        padding: 6px 10px;
+        line-height: 1.4;
+    }
+
+    .card-meta {
+        margin-top: 8px;
+    }
+
+    .card-source {
+        font-size: 11px;
+        color: var(--text-subtle);
+    }
+
+    .card-take {
+        padding: 18px 16px;
+        border-left: 1px solid var(--border);
+        background: #fafbfc;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    .take-label {
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--text-subtle);
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        margin-bottom: 8px;
+    }
+
+    .take-placeholder {
+        font-size: 12px;
+        color: #cbd5e1;
+        font-style: italic;
+        line-height: 1.5;
+    }
+
+    /* ── Footer ── */
+    .footer {
+        text-align: center;
+        padding-top: 40px;
+        border-top: 1px solid var(--border);
+        margin-top: 20px;
+        color: var(--text-subtle);
+        font-size: 12px;
+    }
+
+    .footer a {
+        color: var(--text-muted);
+        text-decoration: none;
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 640px) {
+        .page {
+            padding: 20px 16px 60px;
+        }
+        .masthead {
+            padding: 28px 0 24px;
+            margin-bottom: 24px;
+        }
+        .masthead h1 {
+            font-size: 24px;
+        }
+        .card {
+            grid-template-columns: 36px 1fr;
+        }
+        .card-take {
+            display: none;
+        }
+        .stats-bar {
+            gap: 20px;
+            margin-bottom: 32px;
+        }
+        .stat-value {
+            font-size: 22px;
+        }
+    }
+
+    /* ── Print ── */
+    @media print {
+        body { background: white; }
+        .page { max-width: 100%; padding: 20px; }
+        .card { box-shadow: none; break-inside: avoid; border: 1px solid #e5e7eb; }
+        .card-take { background: white; }
+    }
+</style>
+</head>
+<body>
+<div class="page">
+
+    <header class="masthead">
+        <div class="brand">视界 · Weekly View</div>
+        <h1>11/16 - 11/21</h1>
+        <p class="headline">AI 代理正从浏览器爬进桌面和银行账户，谁先划清权限与责任边界，谁就能把代理变成生意而不是事故。</p>
+        <span class="date-badge">2026-11-21 16:05 · 自动生成</span>
+    </header>
+
+    <div class="stats-bar">
+        <div class="stat">
+            <div class="stat-value">6</div>
+            <div class="stat-label">本周日报</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">12</div>
+            <div class="stat-label">精选条目</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">4</div>
+            <div class="stat-label">关注领域</div>
+        </div>
+    </div>
+
+    
+            <section class="section-block" style="--accent: #2563eb; --bg: #eff6ff; --border: #bfdbfe">
+                <div class="section-header">
+                    <span class="section-icon">🤖</span>
+                    <h2>AI × 商业变现</h2>
+                    <span class="section-count">6 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq" target="_blank" rel="noopener">Anthropic 上市首日涨三成，1.5 万亿美元估值把「循环融资」摆上台面</a></h3>
+                        <div class="card-why">💡 这是本周 AI 商业最大的定价信号：资本市场愿意为前沿模型公司付溢价，但结构依赖云厂商兜底，直接影响你判断 AI 应用层公司的估值锚和融资叙事。</div>
+                        <p class="card-summary">Anthropic 以 83 美元定价、开盘 111.5 美元，估值约 1.5 万亿美元；TechCrunch 指出其背负巨额算力承诺，亚马逊、谷歌等基础设施伙伴在 Anthropic 失势时仍能获利，形成「循环融资」结构。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>复盘自己业务里的「谁兜底算力/谁拿客户」条款，把收入与成本结构画成一张循环图，找出最脆弱的依赖点。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-20</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/" target="_blank" rel="noopener">微软 Licensed Weights：企业可用自有数据定制模型，专有与开源的中间路线</a></h3>
+                        <div class="card-why">💡 对做定制化 AI 交付的创始人，这是新的产品形态参考——客户要的不是 API，而是「我的数据训出来的、但厂商仍可控」的模型。</div>
+                        <p class="card-summary">Ignite 2026 上微软发布 Licensed Weights，在专有模型与开放权重之间搭桥，面向数据敏感型企业客户。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>评估能否把「客户数据微调 + 授权权重」包装成一条标准化交付线，替代纯项目制定制。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-19</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/" target="_blank" rel="noopener">微软 Copilot Workspaces 配 ROI 追踪工具：企业 AI 支出开始被要求算账</a></h3>
+                        <div class="card-why">💡 企业客户对 AI 的采购逻辑正从「试点预算」转向「回报证明」，你的销售话术和产品埋点都要能回答 ROI。</div>
+                        <p class="card-summary">微软推出 Copilot Workspaces 并配套新的 ROI 追踪工具，帮企业衡量 AI 支出的实际回报。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>在自家产品里加一个「节省工时/替代人力」的可视化面板，作为续费和增购的谈判材料。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-19</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">04</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/" target="_blank" rel="noopener">谷歌 Spark 代理更名 Tasks 并免费开放，代理式 AI 进入免费获客阶段</a></h3>
+                        <div class="card-why">💡 免费个人代理会拉高用户对「AI 帮我做事」的预期，付费代理产品必须找到免费版做不到的垂直场景。</div>
+                        <p class="card-summary">谷歌将 Spark AI 代理改名为 Tasks 并免费开放（有使用限额），与 OpenAI、Anthropic 的订阅制代理形成差异。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>列出你的代理产品中「免费通用代理做不了」的三件事，把它变成首页卖点。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-19</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">05</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/" target="_blank" rel="noopener">Daydream 推出 AI 购物代理：记住风格、虚拟试衣、直接下单</a></h3>
+                        <div class="card-why">💡 这是「代理即渠道」的样板——当 AI 替用户完成购买，品牌获客逻辑和你的电商/零售客户预算都会重排。</div>
+                        <p class="card-summary">Daydream 的新 AI 代理能记住用户风格、虚拟试衣、规划穿搭、追踪促销并完成购物，定位为个人造型师。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>若服务零售客户，立刻评估「被 AI 代理选中」需要哪些结构化商品数据（尺码、风格标签、库存实时性）。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-18</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">06</div>
+                    <div class="card-body">
+                        <h3>调查：九成雇主拒绝 AI 味简历，却有一半用 AI 面试</h3>
+                        <div class="card-why">💡 招聘两端都在用 AI 却互相不信任，说明「AI 生成内容」的检测与去痕是真实付费需求，也提醒你对外文案别一眼 AI 味。</div>
+                        <p class="card-summary">调查显示约九成雇主会拒绝明显 AI 生成的简历，但同时约一半雇主在面试环节使用 AI 工具。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>检查公司对外材料与简历筛选流程，统一「AI 辅助但不留痕」的内容规范。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-20</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #7c3aed; --bg: #f5f3ff; --border: #ddd6fe">
+                <div class="section-header">
+                    <span class="section-icon">🏠</span>
+                    <h2>全屋定制 × AI</h2>
+                    <span class="section-count">4 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks/" target="_blank" rel="noopener">谷歌钱包新增数字房屋钥匙，Android 手机直接开兼容门锁</a></h3>
+                        <div class="card-why">💡 门锁入口被整合进系统钱包，意味着全屋定制的「入户场景」将来要和手机生态对接，智能门/柜锁的选型标准会变。</div>
+                        <p class="card-summary">谷歌把数字钥匙从各智能锁 App 整合进 Google Wallet，Android 手机可直接解锁兼容门锁，简化智能家居体验。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>梳理现有智能锁/柜锁供应商是否支持 Google Wallet 或 Apple 家庭钥匙标准，列入下一轮选型清单。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-16</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use" target="_blank" rel="noopener">谷歌 Gemini 登陆 Mac 可代操作电脑，桌面代理开始能跑设计/报价流程</a></h3>
+                        <div class="card-why">💡 能跨本地文件、桌面应用和网页完成多步骤任务的代理，正是全屋定制里「量尺数据→CAD→报价单」这类重复流程的潜在自动化工具。</div>
+                        <p class="card-summary">Gemini macOS 版新增「电脑使用」功能，可跨本地文件、桌面应用和网页完成填表、做演示等多步骤任务。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>挑一个最耗人力的跨软件流程（如报价单生成），用桌面代理做一次可行性验证。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-20</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/" target="_blank" rel="noopener">谷歌为 Chrome AI 代理建「镜像互联网」沙盒测试，代理落地要先控风险</a></h3>
+                        <div class="card-why">💡 代理在真实网页上闯祸是定制行业客户最担心的事（报价、订单被误操作），沙盒思路可直接借鉴到内部代理上线流程。</div>
+                        <p class="card-summary">谷歌构建平行互联网环境，让 Chrome 的 AI 浏览代理在不失控的前提下接受大规模训练和测试。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>为任何面向客户的门店/导购代理建立「影子环境」试运行机制，再放真实订单。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-20</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">04</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/" target="_blank" rel="noopener">Meta 内部代理 Muse 混淆对话、泄露员工隐私，代理权限管控成硬约束</a></h3>
+                        <div class="card-why">💡 内部代理接触客户户型、报价、合同数据，权限一旦失控就是商业泄密，这条是给所有上代理的定制企业的反面教材。</div>
+                        <p class="card-summary">Meta 员工反映内部 AI 代理 Muse 会混淆对话内容，显示他人未发过的请求甚至银行账户余额，调查发现其访问了私人消息。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>给内部代理做一次最小权限审计：它能读的每个数据源都要有业务理由。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-20</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #dc2626; --bg: #fef2f2; --border: #fecaca">
+                <div class="section-header">
+                    <span class="section-icon">📈</span>
+                    <h2>交易与宏观</h2>
+                    <span class="section-count">4 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/" target="_blank" rel="noopener">美国出手限制中国远程访问 AI 芯片，出口管制再收紧</a></h3>
+                        <div class="card-why">💡 芯片获取路径被进一步切断，会传导到算力成本与国产替代节奏，影响你持仓的 AI 算力链和云服务成本预期。</div>
+                        <p class="card-summary">特朗普政府采取措施切断中国对 AI 芯片的远程访问，进一步收紧对华技术出口管制。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>检查持仓与供应链中依赖跨境算力/云服务的敞口，评估远程访问受限情景下的替代成本。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-17</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back" target="_blank" rel="noopener">英伟达董事会拒绝黄仁勋回归，加州 AG 又发传票，治理风险持续发酵</a></h3>
+                        <div class="card-why">💡 英伟达是 AI 交易的核心贝塔，管理层动荡叠加监管传票会放大波动，期权卖方要重新评估隐含波动率定价。</div>
+                        <p class="card-summary">英伟达董事会称正专注调查、未讨论黄仁勋回归；随后加州总检察长就黄仁勋与中国关系是否误导投资者传唤英伟达。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>对英伟达相关仓位做一次事件驱动压力测试，重点看财报日与调查节点附近的 IV 偏斜。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-17 / AI日报-2026-11-21</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/" target="_blank" rel="noopener">Bending Spoons 以 36.8 亿美元收购 Mailchimp，SaaS 估值较 2021 年砍到不足三分之一</a></h3>
+                        <div class="card-why">💡 SaaS 资产大幅回调是宏观利率与增长预期变化的直接读数，对判断软件类资产估值和并购退出窗口有参考价值。</div>
+                        <p class="card-summary">Intuit 2021 年约 120 亿美元收购 Mailchimp，如今 Bending Spoons 以 36.8 亿美元接盘。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>用这笔交易做锚，重估你关注的 SaaS 标的的合理倍数区间。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-21</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">04</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/" target="_blank" rel="noopener">花旗等更多银行：客户自用 AI 代理出问题自行担责</a></h3>
+                        <div class="card-why">💡 代理式金融的责任边界正在被银行单方面划定，这会影响你对金融科技与代理类产品的监管风险定价。</div>
+                        <p class="card-summary">花旗成为最新一家对个人理财 AI 代理踩刹车的美国大型银行，明确客户使用 AI 代理即使遭黑客攻击也需自担责任。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>若持有代理/金融科技相关标的，把「责任条款风险」加入监管情景清单。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-19</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <section class="section-block" style="--accent: #059669; --bg: #ecfdf5; --border: #a7f3d0">
+                <div class="section-header">
+                    <span class="section-icon">🔧</span>
+                    <h2>工具与方法</h2>
+                    <span class="section-count">3 条精选</span>
+                </div>
+                <div class="cards">
+                    
+                <div class="card">
+                    <div class="card-number">01</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/" target="_blank" rel="noopener">Proton 推出桌面版 Lumo：跨文件、连应用的隐私型 ChatGPT 替代品</a></h3>
+                        <div class="card-why">💡 对处理客户合同与户型数据的创始人，本地桌面代理 + 细粒度访问控制是比纯云端更可控的效率工具形态。</div>
+                        <p class="card-summary">Proton 发布 Windows、Mac、Linux 版 Lumo Desktop，可跨文件和连接应用自动化任务，并提供细粒度访问控制。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>在隔离环境试用 Lumo Desktop，重点测它对本地文件权限的控制粒度是否满足客户数据要求。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-18</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">02</div>
+                    <div class="card-body">
+                        <h3><a href="https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/" target="_blank" rel="noopener">谷歌搜索 AI 模式上线无痕对话，敏感查询不再进历史与推荐</a></h3>
+                        <div class="card-why">💡 做竞品调研、期权策略讨论这类敏感搜索，无痕 AI 对话能避免污染推荐和留下记录，是低成本的操作习惯升级。</div>
+                        <p class="card-summary">谷歌为搜索中的 AI 模式加入临时对话功能，交流不会进入搜索历史，也不影响后续推荐。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>把涉及持仓、竞品、人事的 AI 查询固定走无痕模式，形成团队默认习惯。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-19</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-number">03</div>
+                    <div class="card-body">
+                        <h3><a href="https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/" target="_blank" rel="noopener">Signal 因 AI 代理担忧再限截图，代理抓取正在改变隐私工具默认设置</a></h3>
+                        <div class="card-why">💡 当 AI 代理能自动抓屏读消息，团队沟通工具的合规边界要重设，尤其是涉及报价与合同的群聊。</div>
+                        <p class="card-summary">Signal 再次收紧截图权限，理由是担心 AI 代理自动抓取聊天内容，此前曾因微软 Recall 做过类似限制。</p>
+                        <div class="card-action">🎯 <strong>行动：</strong>审查团队敏感沟通渠道，明确哪些内容不允许进入可被代理读取的群组。</div>
+                        <div class="card-meta">
+                            <span class="card-source">AI日报-2026-11-21</span>
+                        </div>
+                    </div>
+                    <div class="card-take">
+                        <div class="take-label">💭 我的看法</div>
+                        <div class="take-placeholder">在此写下你的判断...</div>
+                    </div>
+                </div>
+                </div>
+            </section>
+
+    <footer class="footer">
+        <p>由 AI Content Factory 自动策展 · 每周六上午生成</p>
+        <p style="margin-top:4px">在 Obsidian 中打开同名 .md 文件可编辑「我的看法」</p>
+    </footer>
+
+</div>
+</body>
+</html>
