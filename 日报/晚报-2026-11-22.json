@@ -1,0 +1,194 @@
+{
+  "title": "🌙 晚报 | 2026-11-22",
+  "headline": "AI交易退潮叠加Anthropic上市后回落，美股进入修正区间，纳指年内转跌；特朗普拟限制美企海外建数据中心，地缘与政策风险升温。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "科技股抛售拖累美股进入修正区间，纳指年内转跌",
+        "summary": "标普500与道指被推入修正区间，纳指抹去年内涨幅；Anthropic上市次日股价回落，一度仅高于发行价5美分。",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "Anthropic IPO动荡加剧AI板块4万亿美元市值蒸发",
+        "summary": "史上最大IPO未能阻止抛售，AI相关股票累计市值蒸发约4万亿美元，市场对AI盈利前景的疑虑加深。",
+        "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "美股续跌，标普500创2020年2月以来最长连跌",
+        "summary": "标普500连续第七个交易日下跌，为2020年2月以来最长连跌；纳指单日跌超1200点，为年内第二差单日表现。",
+        "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "花旗英国子公司风险加权资产少计350亿美元",
+        "summary": "花旗集团承认其英国子公司风险加权资产记录错误，少计350亿美元，对CEO弗雷泽加强内控的努力构成挫折。",
+        "url": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "巴菲特感恩节捐赠增至55亿美元，较去年翻逾三倍",
+        "summary": "巴菲特将今年感恩节对四家家族基金会的捐赠提高至55亿美元，较去年增长超过三倍。",
+        "url": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "特朗普承诺与民主党合作限制信用卡利率",
+        "summary": "特朗普表示将与即将上任的民主党国会合作，推动对信用卡利率设置上限。",
+        "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Anthropic上市次日大幅回落，市场质疑定价",
+        "summary": "Anthropic股价在第二个交易日一度跌至仅比IPO发行价高5美分，关于其上市表现的争论升温。",
+        "url": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "AI交易退潮下，被冷落股票逆势走强",
+        "summary": "随着AI交易失去动力，Clorox、Boston Beer和Campbell's等此前不受华尔街青睐的股票成为赢家。",
+        "url": "https://www.cnbc.com/2026/11/21/from-trash-to-treasure-these-hated-stocks-are-winning-as-ai-flounders.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Arista Networks遭 downgrade，AI回调或重创股价",
+        "summary": "Seeking Alpha将Arista Networks评级下调，认为AI板块回调可能对其股价造成严重冲击。",
+        "url": "https://seekingalpha.com/article/4970893-arista-networks-the-ai-pullback-may-hammer-this-stock-hard-downgrade?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "英伟达创2008年以来最长周线连跌，AI芯片股承压",
+        "summary": "英伟达股价连续下跌，录得2008年金融危机以来最长周线连跌，成为科技股抛售的核心拖累。",
+        "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+        "source": "CNBC"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "特朗普威胁禁止美企在海外建设AI数据中心",
+        "summary": "特朗普表示可能禁止美国公司在海外建设AI数据中心，但未提供政策细节，其团队部分成员也是首次听闻。",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "英国与欧盟达成贸易协议，涵盖食品出口与碳排放交易",
+        "summary": "英国与欧盟周五达成贸易协议，涉及英国食品出口、碳排放交易体系对接及青年交流计划；英方表示将探索更紧密关系。",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "特朗普要求联邦承包商回应国会前须咨询白宫",
+        "summary": "特朗普指示联邦承包商在回应国会质询前咨询白宫，并扣留其政府认为享有特权的通信内容。",
+        "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "预测市场监管之争在中选后升温",
+        "summary": "州政府、国会与CFTC在中选后就预测市场监管权限展开升级的争斗，涉及Kalshi等平台。",
+        "url": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "FBI数据库再遭黑客入侵，特朗普称或有积极一面",
+        "summary": "FBI系统近期第二次遭入侵，特朗普表示事件可能存在“积极转折”，但未说明具体影响。",
+        "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "科技宕机频发催生“末日经济”，民众囤积现金与物资",
+        "summary": "近期科技宕机引发对AI网络攻击和电网安全的担忧，推动美国消费者增加应急储备支出。",
+        "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+        "source": "CNBC"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "下周市场展望：或接近底部但波动持续",
+        "summary": "市场人士认为下周可能接近短期底部，但AI交易退潮与政策不确定性料使波动延续。",
+        "url": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "美国东西海岸风暴威胁感恩节出行",
+        "summary": "旧金山市长呼吁非必要不旅行，东海岸风暴可能造成感恩节前交通延误。",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+        "source": "NPR"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "AI交易退潮，科技股进入修正区间，纳指年内转跌",
+      "direction": "看空",
+      "asset_impact": "QQQ, NVDA, SOXX",
+      "confidence": 5,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "英伟达创2008年以来最长周线连跌，半导体板块承压",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX, AMD",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "Anthropic上市后股价大幅回落，AI IPO定价遭质疑",
+      "direction": "看空",
+      "asset_impact": "MSFT, GOOGL, AMZN",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "特朗普威胁禁止美企海外建AI数据中心，政策不确定性上升",
+      "direction": "看空",
+      "asset_impact": "NVDA, MSFT, AMZN",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "花旗英国子公司风险加权资产少计350亿美元，内控担忧升温",
+      "direction": "看空",
+      "asset_impact": "C, XLF",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "AI交易退潮下防御性消费股受青睐",
+      "direction": "看多",
+      "asset_impact": "CLX, SAM, CPB",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "英欧达成贸易协议，英国食品出口与碳市场受益",
+      "direction": "看多",
+      "asset_impact": "EWU, FXB",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "特朗普推动信用卡利率上限，银行消费金融业务面临压力",
+      "direction": "看空",
+      "asset_impact": "JPM, BAC, COF",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    }
+  ]
+}
