@@ -1,0 +1,216 @@
+{
+  "title": "🌙 晚报 | 2026-11-23",
+  "headline": "美股期货在科技股抛售后大幅反弹，但AI泡沫担忧、Anthropic债务评级与胡塞袭击沙特炼油厂构成多重扰动。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货盘前大幅反弹，缩短交易周开局强劲",
+        "summary": "标普500期货盘前上涨约2%，在经历科技股连续抛售后出现反弹，市场迎来感恩节缩短交易周。",
+        "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "亚洲监管机构出手托市，应对AI抛售冲击",
+        "summary": "韩国、中国和台湾的市场监管机构推出新措施支持股市，因AI相关下跌拖累亚洲市场。",
+        "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "WSJ：AI泡沫是否已经破裂？",
+        "summary": "WSJ分析称，近几周重创股市的AI抛售与当年互联网泡沫破裂高度相似，引发市场对AI交易可持续性的质疑。",
+        "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "401(k)百万富翁人数因股市波动下降",
+        "summary": "富达表示，股市波动导致401(k)账户余额下降，百万富翁账户数量减少，同时可负担性担忧持续。",
+        "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "旧金山AI繁荣持续，但崩盘担忧升温",
+        "summary": "BBC报道称，身处AI产业中心的旧金山从业者开始担心行业过热，对潜在回调的忧虑上升。",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "Anthropic承诺9000亿美元支出，华尔街预计其债务将沦为垃圾级",
+        "summary": "WSJ报道称，经历动荡IPO后，Anthropic的信用评级将影响其资本计划及AI行业未来，市场对其债务持垃圾级预期。",
+        "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "DraftKings空头兴趣上升，预测市场交易量持续走高",
+        "summary": "S3数据显示，自NFL赛季开始以来DraftKings空头兴趣上升17%，因预测市场交易量持续攀升。",
+        "url": "https://www.cnbc.com/2026/11/22/draftkings-short-interest-prediction-markets.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Eric Trump支持的机器人初创公司现金紧张，员工失去医保福利",
+        "summary": "Foundation公司正寻求紧急过桥贷款并与风投洽谈，等待韩国Base Group的1.5亿美元投资，员工已失去医保福利。",
+        "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "美国调查Megaspeed及Alice Huang，英伟达芯片案出现新人物",
+        "summary": "美国正调查Megaspeed和Alice Huang，此前有报道称其一名前关联人物“深度参与”该公司活动，案件与英伟达芯片相关。",
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "黄仁勋夫妇持有约8.7亿股英伟达股票",
+        "summary": "WSJ拆解黄仁勋及妻子Lori的财富，二人通过信托及其他实体控制约8.7亿股英伟达股票。",
+        "url": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "胡塞武装声称袭击沙特炼油厂，特朗普警告明年可能新打击",
+        "summary": "也门胡塞武装声称对沙特Rabigh炼油厂发动袭击，特朗普警告明年可能采取新打击，结束战争的外交努力前景渺茫。",
+        "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "COP31气候谈判在化石燃料问题上破裂",
+        "summary": "约200个国家在土耳其安塔利亚参加COP31，因化石燃料问题未能达成协议，气候谈判在最后时刻破裂。",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+        "source": "NPR"
+      },
+      {
+        "title": "以色列军队撤出黎巴嫩南部村庄，村民返回废墟",
+        "summary": "在黎巴嫩南部一个试点项目中，以色列军队撤离、黎巴嫩军队进驻，但返回的村民发现房屋已成废墟。",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "国家情报总监警告科技宕机后美国人将遇“颠簸”",
+        "summary": "国家情报总监Jay Clayton在感恩节出行前警告，近期航空、微软365及部分银行交易中断后，美国人可能面临更多“颠簸”。",
+        "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国能源账单飙升，Centrica CEO表示“极度担忧”",
+        "summary": "Centrica首席执行官Chris O'Shea表示，新年能源价格跳涨后，无力或不愿支付账单的人数将增加。",
+        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "Poundland面临数日内找到买家否则破产",
+        "summary": "BBC报道称，Poundland只有几天时间寻找买家，否则将面临进入破产管理程序。",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国财长贝森特谈经济与政策",
+        "summary": "CBS公布对财政部长斯科特·贝森特11月22日“Face the Nation”采访的文字记录，涉及经济与政策议题。",
+        "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "特朗普承诺与民主党合作限制信用卡利率",
+        "summary": "特朗普表示将与即将上任的民主党国会合作，限制信用卡利率，相关立法动向值得关注。",
+        "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "网络星期一消费预计创纪录",
+        "summary": "CBS报道称，尽管日常开支高企，美国消费者预计在今年假日购物季大举支出，网络星期一消费有望创纪录。",
+        "url": "https://www.cbsnews.com/video/consumers-expected-set-cyber-monday-spending-record-year/",
+        "source": "CBS MoneyWatch"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "美股期货盘前大幅反弹，科技股抛售后出现修复性上涨",
+      "direction": "看多",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "亚洲监管机构推出托市措施，应对AI抛售冲击",
+      "direction": "看多",
+      "asset_impact": "FXI, KWEB, EWY",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "WSJ警示AI抛售与互联网泡沫破裂高度相似，AI泡沫担忧升温",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX, QQQ",
+      "confidence": 4,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "Anthropic承诺9000亿美元支出，但华尔街预计其债务为垃圾级",
+      "direction": "看空",
+      "asset_impact": "AI相关债券, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "美国调查Megaspeed及Alice Huang，英伟达芯片案出现新人物",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "胡塞武装袭击沙特炼油厂，特朗普警告明年可能新打击",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "COP31气候谈判破裂，化石燃料分歧未解",
+      "direction": "中性",
+      "asset_impact": "XLE, USO",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "国家情报总监警告科技宕机后更多“颠簸”，基础设施风险受关注",
+      "direction": "看空",
+      "asset_impact": "MSFT, 航空股",
+      "confidence": 2,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "英国能源账单飙升，Centrica CEO表示极度担忧",
+      "direction": "看空",
+      "asset_impact": "英国公用事业股",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "DraftKings空头兴趣上升，预测市场交易量持续走高",
+      "direction": "看空",
+      "asset_impact": "DKNG",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    }
+  ]
+}
