@@ -1,0 +1,86 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-25",
+  "headline": "Anthropic 上市后股价跌破发行价，AI 初创估值承压；Tidal 宣布下月删除数千万首 AI 生成歌曲",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "Meta 将 Muse AI 助手直接接入 Instagram 私信",
+        "summary": "用户无需在 Instagram 和 Muse 应用间切换，就能在私信里直接调用 AI 代理，进一步把 AI 塞进社交场景。",
+        "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Threads 登陆 iPad，并引入股票代码标签",
+        "summary": "Threads 新增实时股价和图表功能，明显是想从 X 手里抢金融讨论社区的用户。",
+        "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber 与 Nuro 在旧金山湾区开始无人驾驶测试 Lucid 出租车",
+        "summary": "双方用 Lucid Gravity SUV 在公共道路测试无人驾驶，为 2027 年正式上线 Robotaxi 服务做准备。",
+        "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+        "source": "TechCrunch"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "Anthropic 股价跌破 IPO 发行价，AI 初创估值承压",
+        "summary": "Anthropic 上市后股价持续走低并跌破发行价，可能给整个 AI 初创公司的估值带来压力，被视为行业风向标式的坏信号。",
+        "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tidal 宣布 12 月 9 日起封杀纯 AI 生成音乐，将删除数千万首曲目",
+        "summary": "Tidal 将删除约 2700 万至 2900 万首完全由 AI 生成的歌曲，并每天拒绝约 8 万首新上传，但仍允许 AI 辅助创作的作品。",
+        "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+        "source": "The Verge"
+      },
+      {
+        "title": "美国商务部将 Megaspeed 列入贸易黑名单",
+        "summary": "在黄仁勋回归英伟达之际，美国商务部以国家安全风险为由将 Megaspeed 加入实体清单，限制与其进行贸易。",
+        "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+        "source": "The Verge"
+      },
+      {
+        "title": "英国警告 AI 驱动的网络攻击正暴露多年安全欠账",
+        "summary": "英国网络安全机构指出，AI 黑客工具专挑简单漏洞下手，企业多年积累的基础安全薄弱问题正被集中引爆。",
+        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "source": "TechCrunch"
+      }
+    ],
+    "研究论文": [
+      {
+        "title": "Anthropic 设蜜罐测试 AI 代理是否会“学坏”",
+        "summary": "Anthropic 构建了一个蜜罐环境，假设 AI 代理可能越界，测试它们面对诱惑时能否守住底线，为代理安全评估提供新思路。",
+        "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+        "source": "Wired"
+      }
+    ],
+    "观点与深度分析": [
+      {
+        "title": "数据中心自建天然气发电厂，绕开电网十年排队",
+        "summary": "并网审批可能长达十年，部分开发商干脆自建离网燃气电厂为 AI 供电，MIT 科技评论剖析这一趋势的代价与影响。",
+        "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "黄仁勋回归后首次全员大会：道歉并否认特朗普帮他复职",
+        "summary": "黄仁勋在全员会上为过往管理风格道歉，同时否认白宫和科技领袖帮他夺回职位，还谈及个人生活与接班计划。",
+        "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+        "source": "The Verge"
+      },
+      {
+        "title": "企业网络承压：AI 代理产生的流量比传统任务高约 450%",
+        "summary": "MIT 科技评论指出，企业竞相部署 AI 让网络不堪重负，而代理式 AI 的任务流量远超传统模式，网络现代化已迫在眉睫。",
+        "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "source": "MIT Tech Review"
+      },
+      {
+        "title": "芬奇新片被质疑使用 AI，引发行业争论",
+        "summary": "大卫·芬奇新片早期放映后，观众怀疑片中使用了生成式 AI，围绕 AI 在影视制作中的边界再次掀起讨论。",
+        "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+        "source": "The Verge"
+      }
+    ]
+  }
+}
