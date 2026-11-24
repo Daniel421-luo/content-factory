@@ -1,0 +1,214 @@
+{
+  "title": "🌙 晚报 | 2026-11-24",
+  "headline": "黄仁勋回归英伟达CEO引爆AI交易，纳指单日大涨6.5%、英伟达市值增近1万亿美元；但伊朗称霍尔木兹海峡三艘油轮触雷、美国扩大制裁，地缘风险升温。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货续涨，市场检验英伟达反弹能否延续",
+        "summary": "周一标普500与纳指创2025年4月以来最佳单日表现后，股指期货周二继续走高，投资者关注英伟达涨势的持续性。",
+        "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "纳指单日大涨6.5%，完全收复上周五失地",
+        "summary": "纳斯达克综合指数周一收涨6.5%，抹去上周五（2026年第二差单日）的全部跌幅，科技股全面反弹。",
+        "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "英伟达市值单日增加近1万亿美元",
+        "summary": "黄仁勋回归消息推动英伟达股价飙升，市值增加近1万亿美元，并带动整体科技股走高。",
+        "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "特朗普政府促成黄仁勋复职，称不构成国家安全风险",
+        "summary": "特朗普表示其政府向英伟达董事会保证，黄仁勋复职不会构成国家安全威胁；此举引发外界对政府干预公司治理的争议。",
+        "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "法国面临衰退风险，央行行长仍预期增长",
+        "summary": "法国央行行长Moulin对CNBC表示仍预期经济增长，指出国防、航空航天和电力部门具韧性，但PMI数据显示法国衰退风险上升。",
+        "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "日本增长愈发不均衡，企业信心走弱、价格压力仍高",
+        "summary": "日本经济增长呈现不均衡态势，企业信心减弱而价格压力持续处于高位。",
+        "url": "https://seekingalpha.com/article/4971345-japan-growth-becomes-increasingly-uneven-business-confidence-weakens-price-pressures-remain-elevated?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Signal、美联航与银行限制AI代理以管控客户风险",
+        "summary": "加密通讯应用Signal加入美联航和摩根大通行列，对AI代理实施限制，反映企业对AI代理客户风险的警惕上升。",
+        "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+        "source": "CNBC"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "迪士尼加码流媒体，成本问题悬而未决",
+        "summary": "迪士尼押注更多内容、体育赛事及可能的免费层级，以将流媒体打造为增长引擎，但未披露相关成本。",
+        "url": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "Curtiss-Wright获上调评级，航空航天与海军业务稳健",
+        "summary": "分析机构基于Curtiss-Wright稳健的航空航天和海军业务表现及更低估值，将其评级上调至买入。",
+        "url": "https://seekingalpha.com/article/4971327-curtiss-wright-buy-on-solid-aerospace-and-naval-performance-plus-a-cheaper-valuation-rating-upgrade?source=feed_all_articles",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "分析师：黄仁勋“大到不能倒”，英伟达治理受关注",
+        "summary": "黄仁勋回归凸显英伟达对创始人的深度依赖，分析师指出公司董事会监督与治理结构面临审视。",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Arm CEO Rene Haas续约至2033年，此前传为英伟达CEO潜在人选",
+        "summary": "Arm宣布CEO Rene Haas合同延长至2033年，此前市场猜测英伟达可能挖角其接替黄仁勋。",
+        "url": "https://www.cnbc.com/2026/11/24/rene-haas-to-remain-ceo-of-chipmaker-arm-through-2033-amid-nvidia-top-job-chatter.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "WSJ评论：黄仁勋回归，但AI的问题并未消失",
+        "summary": "WSJ观点文章认为黄仁勋回归在多个层面是坏事，并未消除AI生态系统及英伟达自身面临的严峻挑战。",
+        "url": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "科技界部分女性对黄仁勋回归表达担忧",
+        "summary": "倡导科技行业多元化的女性表示，黄仁勋回归英伟达CEO传递出硅谷“唯金钱论”的信号。",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+        "source": "NPR"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "伊朗称霍尔木兹海峡三艘油轮触雷起火，美国扩大制裁",
+        "summary": "伊朗表示三艘油轮在霍尔木兹海峡触雷起火，尽管有美国护航；美国财政部同时扩大对伊制裁以切断其金融命脉。",
+        "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "泽连斯基称乌克兰袭击俄军舰，海无人机在利比亚港口击沉俄舰",
+        "summary": "泽连斯基表示乌克兰对停泊在利比亚港口的俄罗斯军舰发动突袭，海无人机击沉该舰。",
+        "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+        "source": "NPR"
+      },
+      {
+        "title": "民主党以50年来最大优势赢得众议院，COP31无果而终",
+        "summary": "民主党已翻转47个众议院席位、可能达49席；COP31气候谈判延长两天后仍无协议收场，为史上最长一届。",
+        "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "Anthropic承诺9000亿美元支出，华尔街预计其债务将沦为垃圾级",
+        "summary": "经历动荡IPO后，Anthropic的信用评级将影响其资本计划及AI行业未来，华尔街预计其债务将沦为垃圾级。",
+        "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "信用市场对黄仁勋回归并不乐观",
+        "summary": "WSJ指出，尽管股市因黄仁勋回归大涨，但信用市场对英伟达CEO复职及Anthropic即将面临的债市挑战并不那么乐观。",
+        "url": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "特朗普持有至少1200万美元英伟达股票",
+        "summary": "据ABC News查阅的年度财务披露报告，特朗普在2025年底持有至少1200万美元英伟达股票。",
+        "url": "https://abcnews.com/US/trump-owned-12-million-nvidia-stock-end-year/story?id=138393684",
+        "source": "ABC News"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国东西海岸风暴威胁感恩节出行与梅西游行",
+        "summary": "袭击纽约的风暴可能使梅西感恩节游行气球自1971年以来首次停飞，东西海岸风暴同时威胁感恩节周出行。",
+        "url": "https://abcnews.com/video/138392581/",
+        "source": "ABC News"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "黄仁勋回归英伟达CEO，纳指单日大涨6.5%，英伟达市值增近1万亿美元",
+      "direction": "看多",
+      "asset_impact": "NVDA, QQQ, SOXX",
+      "confidence": 5,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "英伟达董事会治理与创始人依赖问题受审视，WSJ称AI深层问题未解",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "伊朗称霍尔木兹海峡三艘油轮触雷起火，美国扩大对伊制裁",
+      "direction": "看多",
+      "asset_impact": "USO, XLE",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "Anthropic承诺9000亿美元支出，华尔街预计其债务将沦为垃圾级",
+      "direction": "看空",
+      "asset_impact": "TLT, QQQ",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "Arm CEO续约至2033年，消除英伟达挖角不确定性",
+      "direction": "中性",
+      "asset_impact": "ARM, NVDA",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "法国PMI显示衰退风险上升，但央行行长仍预期增长",
+      "direction": "看空",
+      "asset_impact": "EWQ, EURUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "日本增长不均衡、企业信心走弱但价格压力高企",
+      "direction": "中性",
+      "asset_impact": "EWJ, USDJPY",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "民主党以50年来最大优势赢得众议院，政策不确定性上升",
+      "direction": "中性",
+      "asset_impact": "SPY, FXI",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "乌克兰海无人机在利比亚港口击沉俄罗斯军舰，地缘冲突升级",
+      "direction": "看多",
+      "asset_impact": "GLD, USO",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    }
+  ]
+}
