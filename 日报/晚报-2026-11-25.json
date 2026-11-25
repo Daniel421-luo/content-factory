@@ -1,0 +1,240 @@
+{
+  "title": "🌙 晚报 | 2026-11-25",
+  "headline": "英伟达反弹熄火、Anthropic跌破发行价，AI交易全面承压；美国拟对全球贸易伙伴加征新关税，地缘风险同步升温。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "美股期货走低，市场等待关键通胀数据",
+        "summary": "标普500与纳指前一日收跌后，股指期货继续下滑，投资者在关键通胀报告公布前保持谨慎，并评估科技股抛售的持续性。",
+        "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "亚洲科技股遭抛售，软银大跌15%",
+        "summary": "华尔街AI抛售波及亚洲，日本半导体股领跌，软银集团单日下跌15%，SK海力士、三星等芯片股同步走弱。",
+        "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI债务担忧升温，英伟达反弹掩盖大型科技公司融资压力",
+        "summary": "贷款机构对企业债愈发挑剔，大型科技公司为AI建设融资的难度上升，市场担忧AI资本开支的债务链条承压。",
+        "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+        "source": "CNBC"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "纳指重启跌势，英伟达与Anthropic双双下挫",
+        "summary": "标普500与纳指前一日收跌，英伟达反弹行情停滞，Anthropic股价大跌并跌破IPO发行价，拖累科技板块情绪。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "Anthropic跌破83美元发行价，史上最大IPO交易迅速瓦解",
+        "summary": "Claude开发商Anthropic上市不到一周即跌破83美元的IPO发行价，连续三个交易日下滑，成为AI交易降温的标志性事件。",
+        "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "美国拟对全球贸易伙伴公布新一轮关税计划",
+        "summary": "新关税将覆盖包括中国和欧盟在内的多个美国主要贸易伙伴，具体方案即将公布，可能加剧全球贸易紧张。",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "英国能源账单1月起上涨26%",
+        "summary": "英国监管机构Ofgem上调能源价格上限，数百万家庭能源账单将从1月起上涨26%，加剧生活成本压力。",
+        "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "戴尔AI需求推动销售额翻倍以上，股价上涨",
+        "summary": "戴尔表示AI热潮推动其销售额增长超过一倍，订单储备经过客户质量与资本、土地、电力获取能力的严格审查，股价应声走高。",
+        "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "HPE创最强增长并上调指引，股价却下跌",
+        "summary": "慧与（HPE）在AI需求强劲背景下上调财务预测，并录得史上最强增长，但股价仍走低，显示市场预期已高。",
+        "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "美光CEO安保预算暴增2000%，总薪酬达3970万美元",
+        "summary": "最新文件显示，美光CEO Sanjay Mehrotra的安保支出升至764,748美元，为其3970万美元总薪酬包的一部分。",
+        "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "Shein支付1亿美元和解FTC欺骗消费者指控",
+        "summary": "美国联邦贸易委员会指控这家新加坡快时尚公司就其产品和政策误导数百万美国消费者，Shein同意支付1亿美元和解。",
+        "url": "https://www.cbsnews.com/news/shein-100-million-ftc-deceptive-practices-settlement/",
+        "source": "CBS MoneyWatch"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "黄仁勋向员工表示英伟达无需继任计划",
+        "summary": "在重返CEO职位后，黄仁勋对员工称公司不需要继任安排，试图稳定内部军心，但外界对治理结构的质疑未消。",
+        "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国司法部长回避英伟达调查提问，股价下跌7%",
+        "summary": "围绕特朗普介入黄仁勋复职一事，立法者要求给出答案，美国司法部长回避相关提问，英伟达股价下跌7%。",
+        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "英伟达董事会曾称黄仁勋不会回归，散户投资者被反转灼伤",
+        "summary": "英伟达董事会直到上周仍表示黄仁勋不会重返CEO职位，部分据此卖出股票的散户投资者在董事会立场反转后蒙受损失。",
+        "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "英伟达反弹行情停滞",
+        "summary": "英伟达的纾困式反弹未能延续，叠加Anthropic跌破发行价，AI板块情绪再度转弱。",
+        "url": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "胡塞武装袭击沙特主权基金PIF大楼，11人受伤",
+        "summary": "这是伊朗支持的胡塞武装六天内第二次袭击该大楼，此前一次未造成伤亡，地区紧张局势进一步升级。",
+        "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国调查多达50艘商用船只遭伊朗关联黑客攻击",
+        "summary": "据NPR采访的官员称，这些攻击可能是伊朗在与美国交战期间针对全球关键基础设施发动网络攻击的最新案例。",
+        "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+        "source": "NPR"
+      },
+      {
+        "title": "委内瑞拉披露高达2370亿美元债务负担",
+        "summary": "这一高于预期的数字凸显美国支持的临时政府所面临的挑战，债务重组前景复杂。",
+        "url": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "AI先驱Bengio警告社会尚未准备好迎接AI风险",
+        "summary": "作为AI“教父”之一，Yoshua Bengio表示社会正“冲向巨大危险”，对生成式AI带来的冲击准备不足。",
+        "url": "https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "Arthur Hayes：AI交易将在2027年下半年遇阻，人才或回流加密",
+        "summary": "Maelstrom CIO Arthur Hayes预计AI交易将在2027年下半年面临逆风，届时初创人才可能回流加密行业。",
+        "url": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "关税、燃料与化肥成本挤压美国最大苹果产区",
+        "summary": "华盛顿州价值90亿美元的苹果产业种植超过全美70%的鲜苹果，农民正承受高成本、关税和强势美元带来的压力。",
+        "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+        "source": "NPR"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国关键通胀报告即将公布",
+        "summary": "市场等待关键通胀数据，该数据可能影响利率预期并决定科技股抛售是否延续。",
+        "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国新关税计划细节待公布",
+        "summary": "美国准备公布针对中国、欧盟等主要贸易伙伴的新关税方案，具体范围和生效时间值得关注。",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "AI交易全面降温，Anthropic跌破发行价、英伟达反弹熄火",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX, SMH",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "亚洲半导体股遭抛售，软银单日大跌15%",
+      "direction": "看空",
+      "asset_impact": "SOXX, TSM, MU",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "美国拟对全球贸易伙伴加征新关税，涵盖中国与欧盟",
+      "direction": "看空",
+      "asset_impact": "FXI, KWEB, EWG",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "AI建设债务融资难度上升，大型科技公司发债环境趋紧",
+      "direction": "看空",
+      "asset_impact": "TLT, LQD, MSFT, GOOGL",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "戴尔AI需求推动销售额翻倍以上，订单储备强劲",
+      "direction": "看多",
+      "asset_impact": "DELL",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "HPE创最强增长并上调指引，但股价下跌显示预期已高",
+      "direction": "中性",
+      "asset_impact": "HPE",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "财报"
+    },
+    {
+      "signal": "胡塞武装六天内二度袭击沙特PIF大楼，中东紧张升级",
+      "direction": "看多",
+      "asset_impact": "USO, XLE, GLD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "地缘"
+    },
+    {
+      "signal": "美国司法部长回避英伟达调查提问，治理与政治风险持续",
+      "direction": "看空",
+      "asset_impact": "NVDA",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "英国能源账单1月起上涨26%，通胀压力回升",
+      "direction": "看空",
+      "asset_impact": "EWU, GBPUSD",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "委内瑞拉披露2370亿美元债务，主权债务重组复杂化",
+      "direction": "看空",
+      "asset_impact": "EMB, VENZ",
+      "confidence": 2,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    }
+  ]
+}
