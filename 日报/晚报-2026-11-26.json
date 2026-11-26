@@ -1,0 +1,230 @@
+{
+  "title": "🌙 晚报 | 2026-11-26",
+  "headline": "标普警告英伟达治理风险或降级，美国对14个贸易伙伴祭出新关税，AI交易剧烈震荡后科技股企稳，市场在通胀数据前保持谨慎。",
+  "sections": {
+    "盘前信号": [
+      {
+        "title": "标普警告英伟达信用评级或因治理风险遭下调",
+        "summary": "标普全球评级表示，英伟达的信用评级可能被下调一档，理由是该公司管理层与治理风险上升。这是继CEO去职与复职风波后，评级机构对英伟达公司治理发出的最新警示。",
+        "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美国拟对14个贸易伙伴加征新关税，含中国与欧盟",
+        "summary": "美国提议对包括中国和欧盟在内的14个贸易伙伴加征新关税，以反制被认定为不公平或对美国商业构成负担的外国贸易做法。其中拟对中国商品额外加征20%关税，对孟加拉国、柬埔寨、泰国拟征18%，对越南拟征20%。",
+        "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "韩国Kospi领涨亚洲市场，科技股反弹",
+        "summary": "韩国Kospi指数领涨亚洲股市，科技板块反弹带动市场情绪，投资者似乎已消化白宫周三公布的新一轮关税措施。",
+        "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "美股经历剧烈震荡后收低，纳指盘中一度跌4.5%",
+        "summary": "纳斯达克综合指数周三盘中一度下跌4.5%，随后收复大部分跌幅，但三大股指最终仍收低。科技股抛售潮有所缓解，英伟达与美光仍承压。",
+        "url": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "市场与宏观经济": [
+      {
+        "title": "美股盘中剧烈震荡，AI交易令华尔街难以找到立足点",
+        "summary": "纳斯达克综合指数周三盘中一度暴跌4.5%，随后大幅收窄跌幅。市场人士指出，围绕AI交易的新一轮混乱使投资者难以形成稳定预期，周一的反弹掩盖了尚未解决的深层问题。",
+        "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "特朗普将股市波动归咎于中期选举结果",
+        "summary": "美国总统特朗普将近期股市的剧烈波动归因于中期选举结果，民主党将于明年1月掌控国会。此番表态将市场动荡与政治格局变化直接挂钩。",
+        "url": "https://www.cbsnews.com/video/trump-blames-volatile-stock-market-midterm-election-results/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "经济强劲与股市震荡背离，投资者为何仍恐慌",
+        "summary": "美国经济增长数据强劲，但股市却剧烈波动，经济学家指出经济信号出现分化，市场对AI交易、通胀与政策前景的担忧压过了宏观基本面的利好。",
+        "url": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "甲骨文、CoreWeave等科技股在抛售后反弹",
+        "summary": "甲骨文、CoreWeave等科技股周三从早盘跌势中反弹，此前市场出现的大规模抛售在收盘前有所缓解。",
+        "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      }
+    ],
+    "财报与重点个股": [
+      {
+        "title": "英伟达回吐周一涨幅，抄底散户浮盈几乎抹平",
+        "summary": "英伟达股价回吐了周一反弹的大部分涨幅。据Vanda Research数据，基于散户上周抄底英伟达的买入价位，其账面收益目前已几乎全部消失。",
+        "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "万斯称已获保证黄仁勋未受司法部调查",
+        "summary": "美国副总统万斯表示，他得到保证称英伟达CEO黄仁勋并未受到司法部调查。特朗普政府是否曾就潜在国家安全风险调查黄仁勋一直是外界质疑的焦点。",
+        "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Poundland破产管理，约1.1万个岗位面临风险",
+        "summary": "英国折扣连锁店Poundland在所有者未能找到买家后进入破产管理程序，约1.1万个工作岗位面临风险。",
+        "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "Norse Atlantic警告财务状况危急，暂停航班",
+        "summary": "Norse Atlantic警告其财务状况“危急”并暂停航班，公司正寻求短期融资并探索潜在收购可能。",
+        "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+        "source": "CNBC"
+      }
+    ],
+    "半导体观察": [
+      {
+        "title": "CBS调查：至少两家加州英伟达客户有中资背景",
+        "summary": "CBS News调查发现，除Megaspeed外，至少还有两家总部位于加州的英伟达客户存在中国所有权，可能使美国对手获得英伟达最先进技术的潜在渠道。",
+        "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
+        "source": "CBS MoneyWatch"
+      },
+      {
+        "title": "WSJ：英伟达销售主管与涉芯片走私公司高管的关系",
+        "summary": "WSJ报道称，英伟达销售主管与Super Micro一名高管多年交往后结婚，而后者所在公司已被指与芯片走私存在关联。",
+        "url": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "AI电力热潮遭遇现实检验，电力股大幅回调后现机会",
+        "summary": "WSJ指出，AI电力热潮遭遇现实检验后电力股出现大幅回调，但这一修正为投资者创造了寻找便宜标的的机会。",
+        "url": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      }
+    ],
+    "地缘政治": [
+      {
+        "title": "美国对14个贸易伙伴公布新关税，中国欧盟在列",
+        "summary": "美国宣布对包括中国和欧盟在内的14个主要贸易伙伴加征新关税，拟对中国商品额外加征20%，对孟加拉国、柬埔寨、泰国拟征18%，对越南拟征20%，具体取决于各自贸易协议。",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "特朗普关税新政或使印度相对亚洲竞争对手获优势",
+        "summary": "美国拟对孟加拉国、柬埔寨、泰国征收18%关税，对中国和越南征收20%关税，这可能使印度相对其他亚洲出口国获得竞争优势。",
+        "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "英国与欧盟新条约含10年终止条款",
+        "summary": "BBC获悉，英国与欧盟的新条约包含10年终止条款，条约文本及实施该协议大部分内容的立法将于当日下午公布。",
+        "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      },
+      {
+        "title": "法官裁定FCC为迎合特朗普侵犯ABC言论自由",
+        "summary": "联邦法官阻止特朗普政府对所有ABC地方广播牌照进行审查，裁定FCC为取悦特朗普而侵犯了ABC的言论自由权。这些电台覆盖美国六个最大市场。",
+        "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+        "source": "NPR"
+      }
+    ],
+    "风险雷达": [
+      {
+        "title": "对冲基金Situational Awareness第三季度亏损65%",
+        "summary": "今年夏天因巨亏而濒临倒闭的对冲基金Situational Awareness向投资者表示，其第三季度亏损65%，并称已努力从错误中吸取教训。",
+        "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "分析师：本轮股市抛售在见底前可能进一步恶化",
+        "summary": "MarketWatch分析师指出，周一的反弹掩盖了必须解决才能形成持久底部的深层问题，本轮抛售在好转之前可能进一步恶化。",
+        "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+        "source": "MarketWatch"
+      },
+      {
+        "title": "英国能源账单1月起上涨26%",
+        "summary": "受天然气价格飙升影响，英国典型家庭年度能源账单将从1,723英镑升至2,166英镑，涨幅26%。",
+        "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    ],
+    "明日关注": [
+      {
+        "title": "美国关键通胀报告即将公布",
+        "summary": "市场正等待美国关键通胀数据公布，该数据可能影响利率预期与年末市场走向。",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+        "source": "WSJ Markets"
+      },
+      {
+        "title": "黑色星期五临近，K-beauty品牌霸榜亚马逊",
+        "summary": "黑色星期五前夕，韩国美妆品牌在全球亚马逊护肤品畅销榜居前，带动韩国美妆股上涨。",
+        "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  "signal_matrix": [
+    {
+      "signal": "标普警告英伟达治理风险或致评级下调",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "美国对14个贸易伙伴加征新关税，含中国与欧盟",
+      "direction": "看空",
+      "asset_impact": "FXI, KWEB, EWG",
+      "confidence": 4,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    },
+    {
+      "signal": "英伟达回吐周一涨幅，散户抄底浮盈几乎抹平",
+      "direction": "看空",
+      "asset_impact": "NVDA, SOXX",
+      "confidence": 4,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "甲骨文、CoreWeave等科技股在抛售后反弹",
+      "direction": "看多",
+      "asset_impact": "ORCL, CRWV",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "AI电力热潮遭遇现实检验，电力股大幅回调后现机会",
+      "direction": "中性",
+      "asset_impact": "XLU, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "韩国Kospi领涨亚洲科技股反弹",
+      "direction": "看多",
+      "asset_impact": "EWY, SOXX",
+      "confidence": 3,
+      "timeframe": "今日",
+      "catalyst_type": "技术面"
+    },
+    {
+      "signal": "英国能源账单1月起上涨26%",
+      "direction": "看空",
+      "asset_impact": "EWU, XLE",
+      "confidence": 3,
+      "timeframe": "持续",
+      "catalyst_type": "宏观"
+    },
+    {
+      "signal": "特朗普将股市波动归咎于中期选举结果，政策不确定性上升",
+      "direction": "中性",
+      "asset_impact": "SPY, QQQ",
+      "confidence": 3,
+      "timeframe": "本周",
+      "catalyst_type": "政策"
+    }
+  ]
+}
