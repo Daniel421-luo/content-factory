@@ -1,0 +1,61 @@
+{
+  "title": "🤖 AI 日报 | 2026-11-27",
+  "headline": "标普考虑下调英伟达信用评级，OpenAI 合并 Chat 与 Work 并调整用量限制",
+  "sections": {
+    "产品发布与更新": [
+      {
+        "title": "OpenAI 合并 ChatGPT 与 Work，重度用户可能更早触及用量上限",
+        "summary": "OpenAI 将 Chat 和 Work 体验合并，并引入统一的用量计量表。这意味着重度用户可能比以往更早遇到使用限制，官方提醒需留意额度消耗。",
+        "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Kagi 推出 Gmail 竞品，主打隐私与 AI 功能",
+        "summary": "以隐私著称的搜索引擎 Kagi 进军邮箱市场，推出结合隐私承诺和 AI 功能的 Gmail 替代品，试图在谷歌主导的邮件领域撕开一道口子。",
+        "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Gemini 接入 Android Auto，导航与灵感碰撞更智能",
+        "summary": "Android Auto 正式集成 Gemini AI，用户可以在驾驶过程中获得更智能的导航建议，甚至与 AI 实时讨论想法，提升车内交互体验。",
+        "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+        "source": "Wired"
+      }
+    ],
+    "行业动态与融资": [
+      {
+        "title": "标普考虑因治理与“关键人”风险下调英伟达信用评级",
+        "summary": "标普全球评级表示可能将英伟达信用评级下调至 AA-，理由是对公司治理和过度依赖 CEO 黄仁勋的“关键人”风险的担忧。这反映出市场对英伟达长期稳定性的审视。",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic CEO 阿莫代伊驳斥“向 AI 交出人类控制权”指控",
+        "summary": "面对竞争对手的指责，Anthropic CEO 达里奥·阿莫代伊称相关说法“荒谬”。他强调公司致力于负责任地发展 AI，即便行业正越来越多地自动化研究和模型开发。",
+        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "谷歌要求 Android 开发者公开地址，引发隐私担忧",
+        "summary": "为符合欧盟《数字服务法》，谷歌宣布明年起许多独立 Android 开发者需公开电话号码和地址。开发者担心此举会侵犯隐私，但谷歌称这是合规必要。",
+        "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+        "source": "The Verge"
+      }
+    ],
+    "研究论文": [],
+    "观点与深度分析": [
+      {
+        "title": "GTA VI 的成功证明效率并非美德",
+        "summary": "在 Anthropic 上市的同一天，精雕细琢的《GTA VI》成为史上最成功的娱乐产品之一。文章认为，这款游戏的成功提醒人们，人类创造力和匠心无法被 AI 的效率完全替代。",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "黄仁勋违反英伟达行为准则，员工可能不会忘记",
+        "summary": "文章探讨了英伟达 CEO 黄仁勋近期行为对公司文化的影响。行为准则通常反映企业文化，而黄仁勋的举动可能给员工传递复杂信号，带来潜在后果。",
+        "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "source": "TechCrunch"
+      }
+    ]
+  }
+}
